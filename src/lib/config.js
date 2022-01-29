@@ -12,16 +12,22 @@ export const navItems = [
 	{
 		title: 'Hírek',
 		route: '/blog/category/hirek'
-	}, {
+	},
+	{
 		title: 'Ifjusági események',
 		route: '/blog/category/ifjusag'
-	}, {
+	},
+	{
 		title: 'Felkészítések, képzések',
 		route: '/blog/category/kepzesek'
 	},
 	{
 		title: 'Támogatóink',
 		route: '/tamogatoink'
+	},
+	{
+		title: 'Magunrkól',
+		route: '/magunkrol'
 	},
 	{
 		title: 'Számviteli beszámolók',

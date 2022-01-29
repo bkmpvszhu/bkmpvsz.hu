@@ -23,3 +23,9 @@
     <slot />
   </a>
 </li>
+
+<style>
+  a {
+    color: white;
+  }
+</style>
