@@ -1,0 +1,51 @@
+// Breakpoints
+$xsMin: 600px;
+$xsMax: 767px;
+$smMin: 768px;
+$smMax: 1023px;
+$mdMin: 1024px;
+$mdMax: 1279px;
+$lgMin: 1280px;
+$lgMax: 1439px;
+$xlMin: 1440px;
+$xlMax: 1679px;
+$xxlMin: 1680px;
+$xxlMax: 1959px;
+$xxxlMin: 1960px;
+
+:root {
+  // Colors
+  --accent: #274900;          //Aláhúzás a Blog categories-nél
+  --background: #f7f5f8;      //
+  --lightAccent: #880015;     //posted in háttér
+  --lighterAccent: #a3b18a;   //
+  --dark: #f87a14;            //Aláhúzás az alatt, hogy BácsKiskun Megyei Polgári Védelmi Szöv.
+  --darker: #000000;          //
+  --slate: #212121;           //Betű szín
+  --footer: #344e41;
+
+
+  --white: #fff;
+  --black: #152030;
+
+  --ink: var(--slate);
+  --paper: var(--background);
+  
+
+  // Fonts
+  --accentFont: 'Source Serif Pro', Georgia, Times, serif; 
+  --primaryFont: 'Source Sans Pro', sans-serif;
+  --codeFont: 'Fira Code', monospace;
+
+  // Base styles
+  font-size: 1rem;
+  line-height: 1.6;
+
+  @media (min-width: $smMin) {
+    font-size: 1.125rem;
+  }
+
+  @media (min-width: $lgMin) {
+    font-size: 1.25rem;
+  }
+}
