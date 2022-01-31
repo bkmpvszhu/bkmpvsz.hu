@@ -61,7 +61,7 @@
   <div class="meta">
     <b>Published:</b> {date}
     <br>
-    <b>Updated:</b> {updated}
+<!--    <b>Updated:</b> {updated}-->
   </div>
   
   <svelte:component this={PostContent} />

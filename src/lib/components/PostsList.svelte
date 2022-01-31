@@ -2,7 +2,6 @@
   export let posts = []
 </script>
 
-
 <ul class="posts-list">
   {#each posts as post}
     <li>
@@ -21,7 +20,9 @@
         </a>
       </article>
 
-      <p>{post.excerpt}</p>
+      {#if post.excerpt}
+        <p>{post.excerpt}</p>
+      {/if}
     </li>
   {/each}
 </ul>
