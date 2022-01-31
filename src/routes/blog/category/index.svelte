@@ -6,7 +6,7 @@
     let uniqueCategories = {}
 
     posts.forEach(post => {
-      post.categories.forEach(category => {
+      post.categories?.forEach(category => {
         if (uniqueCategories.hasOwnProperty(category)) {
           uniqueCategories[category].count += 1
         } else {
@@ -24,8 +24,8 @@
 
 		return {
 			props: { 
-        uniqueCategories: sortedUniqueCategories
-      }
+              uniqueCategories: sortedUniqueCategories
+            }
 		}
 	}
 </script>
