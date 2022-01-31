@@ -1,13 +1,15 @@
 ---
-title: "A full Markdown test"
+title: "Cím"
 date: "2021-12-01"
-updated: "2021-12-01"
-excerpt: Szia
 categories:
-  - "hirek"
-  - "kepzesek"
-  - "ifjusag"
+# Szedd ki a hashtaget a sor elejerol hogy aktivald a kategoriat
+#  - "hirek"
+#  - "kepzesek"
+#  - "ifjusag"
+coverImage: "https://www.katasztrofavedelem.hu/application/uploads/images/header/767934.jpg"
+excerpt: Összefoglaló
 ---
+
 **Note that despite this file having an md extension, it can support all Svelte language features (like scripting). Do not import untrusted or user-created markdown files.**
 
 *This markdown sample was taken from [here](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee).*
@@ -65,9 +67,9 @@ for i in range(10):
 
 Now, a nested list:
 1. First, get these ingredients:
-    * carrots
-    * celery
-    * lentils
+   * carrots
+   * celery
+   * lentils
 2. Boil some water.
 3. Dump everything in the pot and follow
    this algorithm:
