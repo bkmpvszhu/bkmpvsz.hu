@@ -18,9 +18,7 @@ jobs:
 
       - name: Init new repo in build folder and commit generated files
         run: |
-          pwd
-          cd build
-          pwd
+          mv build docs
           git init
           git add -A
           git config --local user.email "action@github.com"
