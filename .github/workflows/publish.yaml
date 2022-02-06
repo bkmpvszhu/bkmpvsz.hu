@@ -20,7 +20,7 @@ jobs:
         run: |
           mv build docs
           echo www.valoshirek.hu >> ./docs/CNAME
-          touch .nojekyll
+          touch ./docs/.nojekyll
           git init
           git add -A
           git config --local user.email "action@github.com"
