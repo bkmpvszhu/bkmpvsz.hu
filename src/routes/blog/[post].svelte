@@ -68,7 +68,7 @@
 
   {#if categories}
     <aside class="post-footer">
-      <h2>Posted in: </h2>
+      <h2>Megjelent: </h2>
       <ul>
         {#each categories as category}
           <li>

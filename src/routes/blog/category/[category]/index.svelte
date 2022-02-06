@@ -41,7 +41,7 @@
   <PostsList {posts} />
   <Pagination currentPage="1" totalPosts={total} path="/blog/category/{category}/page" />
 {:else}
-  <p><strong>Ope!</strong> Sorry, couldn't find any posts in the category "{category}".</p>
+  <p><strong>Hoppá!</strong> Sajnos ebben a kategóriában még nincs egy poszt sem "{category}".</p>
 
-  <p><a href="/blog">Back to blog</a></p>
+  <p><a href="/blog">Vissza</a></p>
 {/if}

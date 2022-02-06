@@ -26,7 +26,7 @@ export const navItems = [
 		route: '/tamogatoink'
 	},
 	{
-		title: 'Magunrkól',
+		title: 'Magunkról',
 		route: '/magunkrol'
 	},
 	{
