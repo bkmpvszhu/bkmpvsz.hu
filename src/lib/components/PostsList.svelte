@@ -1,6 +1,5 @@
 <script>
 	export let posts = []
-	console.log(posts[0])
 </script>
 
 <ul class="posts-list">

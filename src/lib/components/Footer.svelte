@@ -15,19 +15,19 @@
 			</li>
 			<li>
 				<Icon icon="eva:phone-call-outline" />
-				<span> +36/20-952-2306 </span>
+				<span>+36/20-952-2306</span>
 			</li>
 			<li>
 				<Icon icon="cil:fax" />
-				<span> +36/76-952-2306 </span>
+				<span>+36/76-952-2306</span>
 			</li>
 			<li>
 				<Icon icon="carbon:email" />
-				<span> kozeplok@vipmail.com </span>
+				<span>kozeplok@vipmail.hu</span>
 			</li>
 			<li>
 				<Icon icon="akar-icons:person" />
-				<span> Mészáros Zoltán elnök </span>
+				<span>Mészáros Zoltán elnök</span>
 			</li>
 		</ul>
 	</nav>

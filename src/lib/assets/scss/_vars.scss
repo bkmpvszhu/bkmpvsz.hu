@@ -15,16 +15,16 @@ $xxxlMin: 1960px;
 
 :root {
   // Colors
-  --accent: #274900;          //Aláhúzás a Blog categories-nél
+  --accent: rgb(66,110,76);          //Aláhúzás a Blog categories-nél
   --background: #f7f5f8;      //
-  --lightAccent: #880015;     //posted in háttér
+  --lightAccent: rgb(187, 16, 31);     //posted in háttér
   --lighterAccent: #a3b18a;   //
-  --dark: #f87a14;            //Aláhúzás az alatt, hogy BácsKiskun Megyei Polgári Védelmi Szöv.
+  --dark: #f7f5f8;            //Aláhúzás az alatt, hogy BácsKiskun Megyei Polgári Védelmi Szöv.
   --darker_navLinks: #f11491; // nav links
   --darker: #000000;
   --page-title: #f7f5f8;
   --slate: #212121;           //Betű szín
-  --footer: #344e41;
+  --footer: rgb(66,110,76);
 
 
   --white: #fff;

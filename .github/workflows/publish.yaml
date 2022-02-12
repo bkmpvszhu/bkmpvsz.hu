@@ -19,7 +19,7 @@ jobs:
       - name: Init new repo in build folder and commit generated files
         run: |
           mv build docs
-          echo www.valoshirek.hu >> ./docs/CNAME
+          echo www.bkmpvsz.hu >> ./docs/CNAME
           touch ./docs/.nojekyll
           git init
           git add -A

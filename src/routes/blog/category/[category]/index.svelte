@@ -39,7 +39,7 @@
 
 
 <svelte:head>
-	<title>BKPVSZ: {mapCategoryToTitle(category)}</title>
+	<title>BKMPVSZ: {mapCategoryToTitle(category)}</title>
 </svelte:head>
 
 <h1>{mapCategoryToTitle(category)}</h1>
