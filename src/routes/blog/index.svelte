@@ -3,8 +3,8 @@
 		const postRes = await fetch(`/api/posts.json`)
 		const { posts } = await postRes.json()
 
-    const totalRes = await fetch(`/api/posts/count.json`)
-    const { total } = await totalRes.json()
+		const totalRes = await fetch(`/api/posts/count.json`)
+		const { total } = await totalRes.json()
 
 		return {
 			props: { posts, total }
@@ -14,11 +14,12 @@
 
 
 <script>
-  import PostsList from '$lib/components/PostsList.svelte'
-  import Pagination from '$lib/components/Pagination.svelte'
+	import PostsList from '$lib/components/PostsList.svelte'
+	import Pagination from '$lib/components/Pagination.svelte'
 	import { siteDescription } from '$lib/config'
+
 	export let posts
-  export let total
+	export let total
 </script>
 
 
@@ -30,6 +31,6 @@
 
 <h1>Blog</h1>
 
-<PostsList {posts} />
+<PostsList {posts}/>
 
-<Pagination currentPage={1} totalPosts={total} />
+<Pagination currentPage={1} totalPosts={total}/>

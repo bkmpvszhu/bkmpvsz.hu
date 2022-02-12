@@ -1,47 +1,54 @@
 <!-- This dynamic page renders any page at /blog/category/* -->
 <!-- TODO: add pagination to this route -->
 <script context="module">
-  import fetchPosts from '$lib/assets/js/fetchPosts'
+	import fetchPosts from '$lib/assets/js/fetchPosts'
 
 	export const load = async ({ params, fetch }) => {
-	const category = params.category
-	const options = { category }
-	const { posts } = await fetchPosts(options)
-	const res = await fetch(`/api/posts/category/${category}/count.json`)
-	const { total } = await res.json()
+		const category = params.category
+		const options = { category }
+		const { posts } = await fetchPosts(options)
+		const res = await fetch(`/api/posts/category/${category}/count.json`)
+		const { total } = await res.json()
 
 		return {
-			props: { 
-		posts,
-		category,
-		total
-	  }
+			props: {
+				posts,
+				category,
+				total
+			}
 		}
 	}
 </script>
 
 <script>
-    import PostsList from '$lib/components/PostsList.svelte'
-  import Pagination from '$lib/components/Pagination.svelte'
+	import PostsList from '$lib/components/PostsList.svelte'
+	import Pagination from '$lib/components/Pagination.svelte'
 
 	export let posts
-    export let category
-  export let total
+	export let category
+	export let total
+
+	function mapCategoryToTitle(category) {
+		switch (category) {
+			case 'hirek': return 'Hírek'
+			case 'ifjusag': return 'Ifjusági események'
+			case 'kepzesek': return 'Felkészítések, képzések'
+		}
+	}
 </script>
 
 
 <svelte:head>
-	<title>Category: {category}</title>
+	<title>BKPVSZ: {mapCategoryToTitle(category)}</title>
 </svelte:head>
 
-
-<h1>Blog category: {category}</h1>
+<h1>{mapCategoryToTitle(category)}</h1>
 
 {#if posts.length}
-  <PostsList {posts} />
-  <Pagination currentPage="1" totalPosts={total} path="/blog/category/{category}/page" />
+	<PostsList {posts}/>
+	<Pagination currentPage="1" totalPosts={total} path="/blog/category/{category}/page"/>
 {:else}
-  <p><strong>Hoppá!</strong> Sajnos ebben a kategóriában még nincs egy poszt sem "{category}".</p>
+	<p><strong>Hoppá!</strong> Sajnos ebben a kategóriában még nincs egy poszt sem.</p>
 
-  <p><a href="/blog">Vissza</a></p>
+	<p><a href="/">Vissza a főoldalra</a></p>
 {/if}

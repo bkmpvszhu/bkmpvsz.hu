@@ -12,7 +12,7 @@
 
 <header>
   <a on:click|preventDefault={focusMain} class="skip-to-content-link" href="#main">
-    Skip to main content
+    Ugrás a tartalomra
   </a>
   
   <a href="/" class="site-title">

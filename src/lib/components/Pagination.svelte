@@ -21,9 +21,9 @@
             <a href="{path}/{page}" aria-current="{isCurrentPage(page)}">
               <span class="sr-only">
                 {#if isCurrentPage(page)}
-                  Current page: 
+                  Jelenlegi oldal:
                 {:else}
-                  Go to page 
+                  Ugrás az oldalra
                 {/if}
               </span>
               {page}

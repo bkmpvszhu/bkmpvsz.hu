@@ -16,7 +16,7 @@
   class="menu-button"
   tabindex={($isMenuOpen || !closeOnly) ? '0' : '-1'}
 >
-  <span class="sr-only">Toggle hamburger menu</span>
+  <span class="sr-only">Menü megjelenítése</span>
   {#if closeOnly}
     <XSVG />
   {:else}
