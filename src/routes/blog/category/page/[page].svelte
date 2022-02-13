@@ -12,11 +12,11 @@
       if (page <= 1) {
         return {
           status: 301,
-          redirect: '/blog'
+          redirect: '/'
         }
       }
       
-      let offset = (page * postsPerPage) - postsPerPage
+      let offset = 0//(page * postsPerPage) - postsPerPage
     
       const totalPostsRes = await fetch('/api/posts/count.json')
       const { total } = await totalPostsRes.json()
@@ -69,9 +69,7 @@
 
   <Pagination currentPage={page} {totalPosts} />
 {:else}
-  <h1>Oops!</h1>
+	<p><strong>Hoppá!</strong> Sajnos ebben a kategóriában még nincs egy poszt sem.</p>
 
-  <p>Sorry, no posts to show here.</p>
-
-  <a href="/blog">Back to blog</a>
+	<p><a href="/">Vissza a főoldalra</a></p>
 {/if}

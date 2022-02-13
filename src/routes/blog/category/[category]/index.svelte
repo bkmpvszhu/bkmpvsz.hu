@@ -46,7 +46,7 @@
 
 {#if posts.length}
 	<PostsList {posts}/>
-	<Pagination currentPage="1" totalPosts={total} path="/blog/category/{category}/page"/>
+<!--	<Pagination currentPage="1" totalPosts={total} path="/blog/category/{category}/page"/>-->
 {:else}
 	<p><strong>Hoppá!</strong> Sajnos ebben a kategóriában még nincs egy poszt sem.</p>
 
