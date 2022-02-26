@@ -9,7 +9,7 @@
 		{ name: 'Print 2000', 				imageSrc: 'http://www.print2000.hu/css/print_2000_nyomda_kecskemet_logo.svg', link: 'http://www.print2000.hu' },
 		{ name: 'Pintérné és Társa Bt.'},
 		{ name: 'Halas-Agromark Kft.'},
-		{ name: 'Csátalja önkormányzata' },
+		{ name: 'Csátalja önkormányzata', link: 'http://csatalja.hu/' },
 		{ name: 'Csengőd önkormányzata' },
 		{ name: 'Csikéria önkormányzata' },
 		{ name: 'Dunapataj önkormányzata' },
