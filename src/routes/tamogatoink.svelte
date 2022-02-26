@@ -13,7 +13,7 @@
 		{ name: 'Csengőd önkormányzata', link: 'http://csengod.hu/'},
 		{ name: 'Csikéria önkormányzata', link: 'http://csikeria.hu/'},
 		{ name: 'Dunapataj önkormányzata', link: 'http://dunapataj.hu/'},
-		{ name: 'Kecel önkormányzata'link:, 'http://kecel.hu/'},
+		{ name: 'Kecel önkormányzata', link: 'http://kecel.hu/'},
 		{ name: 'Kaskantyú önkormányzata', link: 'http://kaskantyu.hu/'},
 		{ name: 'Kéleshalom önkormányzata', link: 'http://keleshalom.hu/'},
 		{ name: 'Kiskőrös önkormányzata', link: 'http://kiskoros.hu/'},
