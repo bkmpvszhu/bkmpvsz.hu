@@ -10,6 +10,10 @@ export const postsPerPage = 15
 // Edit this to alter the main nav menu. (Also used by the footer and mobile nav.)
 export const navItems = [
 	{
+		title: 'Magunkról',
+		route: '/magunkrol'
+	},
+	{
 		title: 'Hírek',
 		route: '/blog/category/hirek'
 	},
@@ -24,10 +28,6 @@ export const navItems = [
 	{
 		title: 'Támogatóink',
 		route: '/tamogatoink'
-	},
-	{
-		title: 'Magunkról',
-		route: '/magunkrol'
 	},
 	{
 		title: 'Számviteli beszámolók',
