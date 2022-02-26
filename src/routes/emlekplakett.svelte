@@ -58,6 +58,16 @@
 	<li>Kardosné Magony Mária</li>
 </ul>
 
+<h3>2020</h3>
+<ul>
+	<li>Kiss Zoltán</li>
+</ul>
+
+<h3>2021</h3>
+<ul>
+	<li>Gödön Sándor</li>
+</ul>
+
 <style>
 	.intro {
 		display: flex;
