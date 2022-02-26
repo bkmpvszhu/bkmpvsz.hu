@@ -29,7 +29,7 @@
 		{ name: 'Soltvadkert önkormányzata' },
 		{ name: 'Sükösd önkormányzata' },
 		{ name: 'Szabadszállás önkormányzata' },
-		{ name: 'Szankönkormányzata' },
+		{ name: 'Szank önkormányzata' },
 		{ name: 'Tabdi önkormányzata' },
 		{ name: 'Tass önkormányzata' },
 		{ name: 'Tázlár önkormányzata' },
