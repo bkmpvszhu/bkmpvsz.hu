@@ -10,7 +10,7 @@
 		{ name: 'Pintérné és Társa Bt.'},
 		{ name: 'Halas-Agromark Kft.'},
 		{ name: 'Csátalja önkormányzata', link: 'http://csatalja.hu/' },
-		{ name: 'Csengőd önkormányzata' },
+		{ name: 'Csengőd önkormányzata' },link: 'http://csengod.hu/' },
 		{ name: 'Csikéria önkormányzata' },
 		{ name: 'Dunapataj önkormányzata' },
 		{ name: 'Kecel önkormányzata' },
