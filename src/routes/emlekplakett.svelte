@@ -13,16 +13,38 @@
 
 <h2>Díjazottaink</h2>
 
-<h3>2013</h3>
+<h3>2021</h3>
 <ul>
-	<li>Hajzer László</li>
-	<li>Szatmári Imre</li>
+	<li>Gödön Sándor</li>
 </ul>
 
-<h3>2014</h3>
+<h3>2020</h3>
 <ul>
-	<li>Farkasné Fazekas Mária</li>
-	<li>Vágó József</li>
+	<li>Kiss Zoltán</li>
+</ul>
+
+<h3>2019</h3>
+<ul>
+	<li>Balatonné Sáfrány Erika</li>
+	<li>Kardosné Magony Mária</li>
+</ul>
+
+<h3>2018</h3>
+<ul>
+	<li>Seresné Farkas Júlia</li>
+	<li>Tóth Árpád</li>
+</ul>
+
+<h3>2017</h3>
+<ul>
+	<li>P. Szabó Károly (posztumusz)</li>
+	<li>Gémes József</li>
+</ul>
+
+<h3>2016</h3>
+<ul>
+	<li>Geiger János nyá. mk. pv. ezredes, főtanácsos</li>
+	<li>Dezső Mihály</li>
 </ul>
 
 <h3>2015</h3>
@@ -34,38 +56,16 @@
 	<li>Szekeres Vendelné</li>
 </ul>
 
-<h3>2016</h3>
+<h3>2014</h3>
 <ul>
-	<li>Geiger János nyá. mk. pv. ezredes, főtanácsos</li>
-	<li>Dezső Mihály</li>
+	<li>Farkasné Fazekas Mária</li>
+	<li>Vágó József</li>
 </ul>
 
-<h3>2017</h3>
+<h3>2013</h3>
 <ul>
-	<li>P. Szabó Károly (posztumusz)</li>
-	<li>Gémes József</li>
-</ul>
-
-<h3>2018</h3>
-<ul>
-	<li>Seresné Farkas Júlia</li>
-	<li>Tóth Árpád</li>
-</ul>
-
-<h3>2019</h3>
-<ul>
-	<li>Balatonné Sáfrány Erika</li>
-	<li>Kardosné Magony Mária</li>
-</ul>
-
-<h3>2020</h3>
-<ul>
-	<li>Kiss Zoltán</li>
-</ul>
-
-<h3>2021</h3>
-<ul>
-	<li>Gödön Sándor</li>
+	<li>Hajzer László</li>
+	<li>Szatmári Imre</li>
 </ul>
 
 <style>
