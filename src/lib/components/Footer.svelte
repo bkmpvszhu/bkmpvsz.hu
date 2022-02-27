@@ -32,7 +32,12 @@
 		</ul>
 	</nav>
 
-	<p>&copy;{new Date().getFullYear()} {siteAuthor}</p>
+	<ul>
+		<li>Bankszámlaszám: 11732002-20414601</li>
+		<li>Adószám: 18367186-1-03</li>
+		<li>&copy;{new Date().getFullYear()} {siteAuthor}</li>
+	</ul>
+
 </footer>
 
 <style>
