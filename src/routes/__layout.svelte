@@ -21,10 +21,9 @@
   import Footer from '$lib/components/Footer.svelte'
   import { currentPage, isMenuOpen } from '$lib/assets/js/store'
   import { navItems } from '$lib/config'
-	import { prefetch } from '$app/navigation'
+  import { prefetch } from '$app/navigation'
   import { onMount } from 'svelte'
   import { fade } from 'svelte/transition'
-import Callout from '$lib/components/Callout.svelte';
 
   const transitionIn = { delay: 150, duration: 150 }
   const transitionOut = { duration: 100 }
@@ -46,9 +45,18 @@ import Callout from '$lib/components/Callout.svelte';
    **/
   onMount(() => {
     navItems.forEach(item => prefetch(item.route))
+
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
   })
 </script>
-
 
 <!-- 
   The below markup is used on every page in the site. The <slot> is where the page's
@@ -68,3 +76,7 @@ import Callout from '$lib/components/Callout.svelte';
   {/key}
   <Footer />
 </div>
+
+<svelte:head>
+ <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</svelte:head>

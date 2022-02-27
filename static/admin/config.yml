@@ -1,0 +1,25 @@
+# localhost:3000/admin/index.html
+
+backend:
+  name: github
+  repo: bkmpvszhu/bkmpvsz.hu
+  branch: master
+
+media_folder: /static/iamges
+public_folder: /images
+
+locale: 'hu'
+
+collections:
+  - name: blog
+    label: "Bejegyzés" # Used in the UI
+    folder: "src/lib/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Cím", name: "title", widget: "string"}
+      - {label: "Megjelent", name: "date", widget: "datetime"}
+      - {label: "Borító", name: "coverImage", widget: "image"}
+      - {label: "Kategóriák", name: "categories", widget: "list", default: ["hirek"]}
+      - {label: "Összefoglaló", name: "excerpt", widget: "string"}
+      - {label: "Cikk", name: "body", widget: "markdown"}
