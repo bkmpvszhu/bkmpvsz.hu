@@ -1,10 +1,10 @@
 ---
 title: Segítség a bajban
-date: 2022-02-28T20:28:08.701Z
+date: 2022-02-28T20:34:48.943Z
 coverImage: /images/hirek-2021-07-10-2.jpg
 categories:
   - hirek
-excerpt: "Június 9-én este az ormánsági Sellyét és a környező települések
+excerpt: "Július 9-én este az ormánsági Sellyét és a környező települések
   épületeit pusztító jégesővel kísért vihar tarolta le. Több száz ingatlan
   mellett a mezőgazdaság is komoly károkat szenvedett. Országos akció indult a
   bajba jutottak megsegítésért. "
