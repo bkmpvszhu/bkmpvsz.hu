@@ -1,6 +1,6 @@
 ---
 title: Segítség a bajban
-date: 2022-02-28T19:57:54.760Z
+date: 2022-02-28T20:09:41.868Z
 coverImage: /images/hirek-2021-07-10-2.jpg
 categories:
   - hirek
