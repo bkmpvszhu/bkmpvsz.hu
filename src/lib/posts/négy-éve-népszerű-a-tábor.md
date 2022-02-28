@@ -13,6 +13,8 @@ Idén 50 gyermek jelentkezett a Petőfi-szigeti kempingben megtartott táborba. 
 Az egy hetes foglalkozás létrejöttében az önkormányzat is szerepet vállalt. Nyirati Klára polgármester hétfőn reggel a tábornyitón személyesen is köszöntötte a gyerekeket és szüleiket. Kiemelte: azzal az elképzeléssel támogatták a tábort, hogy a gyerekek itt szakadjanak el a digitális világtól, ne használják a mobiltelefonjukat, és éljék meg teljesen az élményeket.
 Az interaktív foglalkozások a hét végéig folytatódnak, a gazdag programoknak köszönhetően pedig a fiatalok újabb élményekkel és tapasztalatokkal térhetnek haza a sátortáborból.
 
+
+
 ![](/images/hirek-2021-07-07-2.jpg)
 
 ![](/images/hirek-2021-07-07-1.jpg)
