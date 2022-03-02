@@ -26,6 +26,11 @@
 	export let meta
 
 	const { title, excerpt, date, updated, coverImage, coverWidth, coverHeight, categories } = meta
+
+	function normalizeDate(date) {
+		const d = new Date(date);
+		return d.toLocaleDateString('hu');
+	}
 </script>
 
 
@@ -59,7 +64,7 @@
 	<h1>{ title }</h1>
 
 	<div class="meta">
-		<b>Megjelent:</b> {date}
+		<b>Megjelent:</b> {normalizeDate(date)}
 	</div>
 
 	<svelte:component this={PostContent}/>

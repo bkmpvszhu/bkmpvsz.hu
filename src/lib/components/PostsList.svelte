@@ -1,5 +1,10 @@
 <script>
 	export let posts = []
+
+	function normalizeDate(date) {
+		const d = new Date(date);
+		return d.toLocaleDateString('hu');
+	}
 </script>
 
 <ul class="posts-list">
@@ -17,8 +22,7 @@
 					<h2>
 						{post.title}
 					</h2>
-					<span class="subtitle">{post.date}</span>
-					<span class="subtitle">{(new Date(post.date)).toLocaleDateString('hu')}</span>
+					<span class="subtitle">{normalizeDate(post.date)}</span>
 				</a>
 			</article>
 
