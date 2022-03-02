@@ -18,6 +18,7 @@
 						{post.title}
 					</h2>
 					<span class="subtitle">{post.date}</span>
+					<span class="subtitle">{(new Date(post.date)).toLocaleDateString('hu')}</span>
 				</a>
 			</article>
 
