@@ -1,0 +1,584 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-7606374c.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_preload-helper-ec9aa979.js",
+      "_singletons-4fc5a6de.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      "src/routes/__error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/szamviteli-beszamolok.svelte",
+      "src/routes/emlekplakett.svelte",
+      "src/routes/tamogatoink.svelte",
+      "src/routes/magunkrol.svelte",
+      "src/routes/contact.svelte",
+      "src/routes/about.md",
+      "src/routes/blog/index.svelte",
+      "src/routes/blog/category/index.svelte",
+      "src/routes/blog/category/page/[page].svelte",
+      "src/routes/blog/category/[category]/index.svelte",
+      "src/routes/blog/category/[category]/page/index.svelte",
+      "src/routes/blog/category/[category]/page/[page].svelte",
+      "src/routes/blog/page/index.svelte",
+      "src/routes/blog/page/[page].svelte",
+      "src/routes/blog/[post].svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-e86176ef.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_config-2b240d00.js",
+      "_singletons-4fc5a6de.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-67ac58f0.css"
+    ]
+  },
+  "src/routes/__error.svelte": {
+    "file": "pages/__error.svelte-fe98fe84.js",
+    "src": "src/routes/__error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-3e51e8ee.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_Magunkrol-54997ce9.js"
+    ]
+  },
+  "src/routes/szamviteli-beszamolok.svelte": {
+    "file": "pages/szamviteli-beszamolok.svelte-50c4e2ea.js",
+    "src": "src/routes/szamviteli-beszamolok.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ],
+    "css": [
+      "assets/pages/szamviteli-beszamolok.svelte-60b660be.css"
+    ]
+  },
+  "src/routes/emlekplakett.svelte": {
+    "file": "pages/emlekplakett.svelte-cf54dfc2.js",
+    "src": "src/routes/emlekplakett.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ],
+    "css": [
+      "assets/pages/emlekplakett.svelte-f9c0886c.css"
+    ]
+  },
+  "src/routes/tamogatoink.svelte": {
+    "file": "pages/tamogatoink.svelte-65010469.js",
+    "src": "src/routes/tamogatoink.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ],
+    "css": [
+      "assets/pages/tamogatoink.svelte-60aacaaf.css"
+    ]
+  },
+  "src/routes/magunkrol.svelte": {
+    "file": "pages/magunkrol.svelte-730dc7a8.js",
+    "src": "src/routes/magunkrol.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_Magunkrol-54997ce9.js"
+    ]
+  },
+  "src/routes/contact.svelte": {
+    "file": "pages/contact.svelte-201fea13.js",
+    "src": "src/routes/contact.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/about.md": {
+    "file": "pages/about.md-321a43d9.js",
+    "src": "src/routes/about.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/blog/index.svelte": {
+    "file": "pages/blog/index.svelte-df555070.js",
+    "src": "src/routes/blog/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_PostsList-cfb8bb76.js",
+      "_Pagination-f42d3f58.js",
+      "_config-2b240d00.js"
+    ]
+  },
+  "src/routes/blog/category/index.svelte": {
+    "file": "pages/blog/category/index.svelte-1404a3a3.js",
+    "src": "src/routes/blog/category/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/blog/category/page/[page].svelte": {
+    "file": "pages/blog/category/page/_page_.svelte-ad49d59b.js",
+    "src": "src/routes/blog/category/page/[page].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_fetchPosts-bc744444.js",
+      "_config-2b240d00.js",
+      "_PostsList-cfb8bb76.js",
+      "_Pagination-f42d3f58.js",
+      "_preload-helper-ec9aa979.js"
+    ]
+  },
+  "src/routes/blog/category/[category]/index.svelte": {
+    "file": "pages/blog/category/_category_/index.svelte-60993687.js",
+    "src": "src/routes/blog/category/[category]/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_fetchPosts-bc744444.js",
+      "_PostsList-cfb8bb76.js",
+      "_preload-helper-ec9aa979.js",
+      "_config-2b240d00.js"
+    ]
+  },
+  "src/routes/blog/category/[category]/page/index.svelte": {
+    "file": "pages/blog/category/_category_/page/index.svelte-0cf23ee0.js",
+    "src": "src/routes/blog/category/[category]/page/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/blog/category/[category]/page/[page].svelte": {
+    "file": "pages/blog/category/_category_/page/_page_.svelte-53c8bca3.js",
+    "src": "src/routes/blog/category/[category]/page/[page].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_fetchPosts-bc744444.js",
+      "_config-2b240d00.js",
+      "_PostsList-cfb8bb76.js",
+      "_Pagination-f42d3f58.js",
+      "_preload-helper-ec9aa979.js"
+    ]
+  },
+  "src/routes/blog/page/index.svelte": {
+    "file": "pages/blog/page/index.svelte-5bd19b91.js",
+    "src": "src/routes/blog/page/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/blog/page/[page].svelte": {
+    "file": "pages/blog/page/_page_.svelte-b37e32cd.js",
+    "src": "src/routes/blog/page/[page].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_fetchPosts-bc744444.js",
+      "_config-2b240d00.js",
+      "_PostsList-cfb8bb76.js",
+      "_Pagination-f42d3f58.js",
+      "_preload-helper-ec9aa979.js"
+    ]
+  },
+  "src/routes/blog/[post].svelte": {
+    "file": "pages/blog/_post_.svelte-1d08e82c.js",
+    "src": "src/routes/blog/[post].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_preload-helper-ec9aa979.js",
+      "_vendor-48b2defe.js"
+    ],
+    "dynamicImports": [
+      "src/lib/posts/hirek-2021-01-15.md",
+      "src/lib/posts/hirek-2021-05-01.md",
+      "src/lib/posts/hirek-2021-06-01.md",
+      "src/lib/posts/hirek-2021-06-20.md",
+      "src/lib/posts/hirek-2021-06-29.md",
+      "src/lib/posts/hirek-2021-06-30.md",
+      "src/lib/posts/hirek-2021-07-10.md",
+      "src/lib/posts/hirek-2021-09-24.md",
+      "src/lib/posts/hirek-2021-11-01.md",
+      "src/lib/posts/hirek-2021-11-15.md",
+      "src/lib/posts/hirek-2022-02-10.md",
+      "src/lib/posts/kepzesek-2017-11-24.md",
+      "src/lib/posts/kepzesek-2017-11-24_2.md",
+      "src/lib/posts/kepzesek-2017-11-25.md",
+      "src/lib/posts/kepzesek-2017-12-08.md",
+      "src/lib/posts/kepzesek-2018-03-09.md",
+      "src/lib/posts/kepzesek-2018-05-13.md",
+      "src/lib/posts/kepzesek-2018-05-26.md",
+      "src/lib/posts/kepzesek-2018-05-31.md",
+      "src/lib/posts/kepzesek-2018-11-11.md",
+      "src/lib/posts/kepzesek-2018-11-26.md",
+      "src/lib/posts/kepzesek-2018-12-13.md",
+      "src/lib/posts/kepzesek-2019-02-05.md",
+      "src/lib/posts/kepzesek-2019-05-10.md",
+      "src/lib/posts/kepzesek-2019-06-01.md",
+      "src/lib/posts/kepzesek-2019-06-22.md",
+      "src/lib/posts/kepzesek-2019-11-18.md",
+      "src/lib/posts/négy-éve-népszerű-a-tábor.md",
+      "src/lib/posts/segítség-a-bajban.md",
+      "src/lib/posts/template.md"
+    ],
+    "css": [
+      "assets/pages/blog/_post_.svelte-528b6a6d.css"
+    ]
+  },
+  "_vendor-48b2defe.js": {
+    "file": "chunks/vendor-48b2defe.js"
+  },
+  "_singletons-4fc5a6de.js": {
+    "file": "chunks/singletons-4fc5a6de.js"
+  },
+  "_preload-helper-ec9aa979.js": {
+    "file": "chunks/preload-helper-ec9aa979.js"
+  },
+  "_config-2b240d00.js": {
+    "file": "chunks/config-2b240d00.js"
+  },
+  "_Magunkrol-54997ce9.js": {
+    "file": "chunks/Magunkrol-54997ce9.js",
+    "imports": [
+      "_vendor-48b2defe.js"
+    ],
+    "css": [
+      "assets/Magunkrol-6dc2b9b0.css"
+    ]
+  },
+  "_PostsList-cfb8bb76.js": {
+    "file": "chunks/PostsList-cfb8bb76.js",
+    "imports": [
+      "_vendor-48b2defe.js"
+    ],
+    "css": [
+      "assets/PostsList-4b8b30c8.css"
+    ]
+  },
+  "_Pagination-f42d3f58.js": {
+    "file": "chunks/Pagination-f42d3f58.js",
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_config-2b240d00.js"
+    ]
+  },
+  "_fetchPosts-bc744444.js": {
+    "file": "chunks/fetchPosts-bc744444.js",
+    "imports": [
+      "_preload-helper-ec9aa979.js",
+      "_config-2b240d00.js"
+    ],
+    "dynamicImports": [
+      "src/lib/posts/hirek-2021-01-15.md",
+      "src/lib/posts/hirek-2021-05-01.md",
+      "src/lib/posts/hirek-2021-06-01.md",
+      "src/lib/posts/hirek-2021-06-20.md",
+      "src/lib/posts/hirek-2021-06-29.md",
+      "src/lib/posts/hirek-2021-06-30.md",
+      "src/lib/posts/hirek-2021-07-10.md",
+      "src/lib/posts/hirek-2021-09-24.md",
+      "src/lib/posts/hirek-2021-11-01.md",
+      "src/lib/posts/hirek-2021-11-15.md",
+      "src/lib/posts/hirek-2022-02-10.md",
+      "src/lib/posts/kepzesek-2017-11-24.md",
+      "src/lib/posts/kepzesek-2017-11-24_2.md",
+      "src/lib/posts/kepzesek-2017-11-25.md",
+      "src/lib/posts/kepzesek-2017-12-08.md",
+      "src/lib/posts/kepzesek-2018-03-09.md",
+      "src/lib/posts/kepzesek-2018-05-13.md",
+      "src/lib/posts/kepzesek-2018-05-26.md",
+      "src/lib/posts/kepzesek-2018-05-31.md",
+      "src/lib/posts/kepzesek-2018-11-11.md",
+      "src/lib/posts/kepzesek-2018-11-26.md",
+      "src/lib/posts/kepzesek-2018-12-13.md",
+      "src/lib/posts/kepzesek-2019-02-05.md",
+      "src/lib/posts/kepzesek-2019-05-10.md",
+      "src/lib/posts/kepzesek-2019-06-01.md",
+      "src/lib/posts/kepzesek-2019-06-22.md",
+      "src/lib/posts/kepzesek-2019-11-18.md",
+      "src/lib/posts/négy-éve-népszerű-a-tábor.md",
+      "src/lib/posts/segítség-a-bajban.md",
+      "src/lib/posts/template.md"
+    ]
+  },
+  "src/lib/posts/hirek-2021-01-15.md": {
+    "file": "chunks/hirek-2021-01-15-76f13281.js",
+    "src": "src/lib/posts/hirek-2021-01-15.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-05-01.md": {
+    "file": "chunks/hirek-2021-05-01-46e0f385.js",
+    "src": "src/lib/posts/hirek-2021-05-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-06-01.md": {
+    "file": "chunks/hirek-2021-06-01-ae5fb2f7.js",
+    "src": "src/lib/posts/hirek-2021-06-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-06-20.md": {
+    "file": "chunks/hirek-2021-06-20-2515aa1d.js",
+    "src": "src/lib/posts/hirek-2021-06-20.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-06-29.md": {
+    "file": "chunks/hirek-2021-06-29-c7ccb708.js",
+    "src": "src/lib/posts/hirek-2021-06-29.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-06-30.md": {
+    "file": "chunks/hirek-2021-06-30-24d7c8af.js",
+    "src": "src/lib/posts/hirek-2021-06-30.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-07-10.md": {
+    "file": "chunks/hirek-2021-07-10-e38406ed.js",
+    "src": "src/lib/posts/hirek-2021-07-10.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-09-24.md": {
+    "file": "chunks/hirek-2021-09-24-f70da9e1.js",
+    "src": "src/lib/posts/hirek-2021-09-24.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-11-01.md": {
+    "file": "chunks/hirek-2021-11-01-a8f1f66b.js",
+    "src": "src/lib/posts/hirek-2021-11-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-11-15.md": {
+    "file": "chunks/hirek-2021-11-15-1bcae985.js",
+    "src": "src/lib/posts/hirek-2021-11-15.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2022-02-10.md": {
+    "file": "chunks/hirek-2022-02-10-9341027f.js",
+    "src": "src/lib/posts/hirek-2022-02-10.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2017-11-24.md": {
+    "file": "chunks/kepzesek-2017-11-24-05a1e331.js",
+    "src": "src/lib/posts/kepzesek-2017-11-24.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2017-11-24_2.md": {
+    "file": "chunks/kepzesek-2017-11-24_2-da0c52f1.js",
+    "src": "src/lib/posts/kepzesek-2017-11-24_2.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2017-11-25.md": {
+    "file": "chunks/kepzesek-2017-11-25-80d145fe.js",
+    "src": "src/lib/posts/kepzesek-2017-11-25.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2017-12-08.md": {
+    "file": "chunks/kepzesek-2017-12-08-9451b6bd.js",
+    "src": "src/lib/posts/kepzesek-2017-12-08.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2018-03-09.md": {
+    "file": "chunks/kepzesek-2018-03-09-d3e8f906.js",
+    "src": "src/lib/posts/kepzesek-2018-03-09.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2018-05-13.md": {
+    "file": "chunks/kepzesek-2018-05-13-a3269ec3.js",
+    "src": "src/lib/posts/kepzesek-2018-05-13.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2018-05-26.md": {
+    "file": "chunks/kepzesek-2018-05-26-71c82771.js",
+    "src": "src/lib/posts/kepzesek-2018-05-26.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2018-05-31.md": {
+    "file": "chunks/kepzesek-2018-05-31-04ed741f.js",
+    "src": "src/lib/posts/kepzesek-2018-05-31.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2018-11-11.md": {
+    "file": "chunks/kepzesek-2018-11-11-65ed632a.js",
+    "src": "src/lib/posts/kepzesek-2018-11-11.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2018-11-26.md": {
+    "file": "chunks/kepzesek-2018-11-26-8c37fe8b.js",
+    "src": "src/lib/posts/kepzesek-2018-11-26.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2018-12-13.md": {
+    "file": "chunks/kepzesek-2018-12-13-e48512f0.js",
+    "src": "src/lib/posts/kepzesek-2018-12-13.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2019-02-05.md": {
+    "file": "chunks/kepzesek-2019-02-05-a729186f.js",
+    "src": "src/lib/posts/kepzesek-2019-02-05.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2019-05-10.md": {
+    "file": "chunks/kepzesek-2019-05-10-e70b488c.js",
+    "src": "src/lib/posts/kepzesek-2019-05-10.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2019-06-01.md": {
+    "file": "chunks/kepzesek-2019-06-01-626e4163.js",
+    "src": "src/lib/posts/kepzesek-2019-06-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2019-06-22.md": {
+    "file": "chunks/kepzesek-2019-06-22-25ae55a4.js",
+    "src": "src/lib/posts/kepzesek-2019-06-22.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2019-11-18.md": {
+    "file": "chunks/kepzesek-2019-11-18-6c22cf46.js",
+    "src": "src/lib/posts/kepzesek-2019-11-18.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/négy-éve-népszerű-a-tábor.md": {
+    "file": "chunks/négy-éve-népszerű-a-tábor-90776125.js",
+    "src": "src/lib/posts/négy-éve-népszerű-a-tábor.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/segítség-a-bajban.md": {
+    "file": "chunks/segítség-a-bajban-363a50af.js",
+    "src": "src/lib/posts/segítség-a-bajban.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/template.md": {
+    "file": "chunks/template-f5b230b4.js",
+    "src": "src/lib/posts/template.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  }
+}

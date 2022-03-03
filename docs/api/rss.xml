@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Bács-Kiskun Megyei Polgári Védelmi Szövetség</title>
+<description>A Bács-Kiskun Megyei Polgári Védelmi Szövetség weboldala</description>
+<link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
+<atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2022-02-10</guid>
+<title>Polgári védelem napja</title>
+<link>https://example.com/blog/hirek-2022-02-10</link>
+<description>Meghívó</description>
+<pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/template</guid>
+<title>Cím</title>
+<link>https://example.com/blog/template</link>
+<description>Összefoglaló</description>
+<pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2021-11-15</guid>
+<title>Közös előkészületek</title>
+<link>https://example.com/blog/hirek-2021-11-15</link>
+<description>Készülünk az oltási akcióhétre.</description>
+<pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2021-11-01</guid>
+<title>Önkéntes mentőcsoport gyakorlat Kiskőrösön</title>
+<link>https://example.com/blog/hirek-2021-11-01</link>
+<description>Gyakorolták kidőlt fák eltávolítását, vízszivattyúzást, valamint egy sérült személy szakszerű ellátását kellett elvégezniük.</description>
+<pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2021-09-24</guid>
+<title>Tisza-Part Mentőcsoport Nemzeti Minősítő Gyakorlata</title>
+<link>https://example.com/blog/hirek-2021-09-24</link>
+<description>Tiszakécskén 2021. szeptember 23-án került sor a 2013-ban megalakult Tiszakécske Járási önkéntes Tisza-Part Mentőcsoport Nemzeti Minősítő Gyakorlatára</description>
+<pubDate>Fri, 24 Sep 2021 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/segítség-a-bajban</guid>
+<title>Segítség a bajban</title>
+<link>https://example.com/blog/segítség-a-bajban</link>
+<description>Július 9-én este az ormánsági Sellyét és a környező települések épületeit pusztító jégesővel kísért vihar tarolta le. Több száz ingatlan mellett a mezőgazdaság is komoly károkat szenvedett. Országos akció indult a bajba jutottak megsegítésért. </description>
+<pubDate>Sun, 11 Jul 2021 19:48:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/négy-éve-népszerű-a-tábor</guid>
+<title>Négy éve népszerű a tábor</title>
+<link>https://example.com/blog/négy-éve-népszerű-a-tábor</link>
+<description>Tábor a rendvédelmi szervek mindennapjaiba nyerhetnek bepillantást a fiatalok a Katasztrófavédelmi tábor ideje alatt. A bajai rendvédelmi szervek már négy éve szervezik meg öt napos programot, amelynek egyik célja az önállóságra való nevelés.</description>
+<pubDate>Wed, 07 Jul 2021 20:07:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2021-06-30</guid>
+<title>In Memoriam Rausch Sándor</title>
+<link>https://example.com/blog/hirek-2021-06-30</link>
+<description></description>
+<pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2021-06-29</guid>
+<title>Gyászhír</title>
+<link>https://example.com/blog/hirek-2021-06-29</link>
+<description>undefined</description>
+<pubDate>Tue, 29 Jun 2021 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2021-06-20</guid>
+<title>Ismétlés a tudás anyja</title>
+<link>https://example.com/blog/hirek-2021-06-20</link>
+<description>Felső-Bácskai Önkéntes Mentőcsoport végrehajtotta éves ismétlő gyakorlatát</description>
+<pubDate>Sun, 20 Jun 2021 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2021-06-01</guid>
+<title>Móra mentőcsoport szintentartó gyakorlata</title>
+<link>https://example.com/blog/hirek-2021-06-01</link>
+<description>2013-ban megalakult Kiskunfélegyháza járás önkéntes mentőcsoportja, a Móra Mentőcsoport, amely 2014-ben szerezte meg a minősítését „könnyű városi kutató és mentő” tevékenységre. A 2018-as újra minősítés megszerzése után most június 4-én szintentartó gyakorlatukat tartották, melyhez a „Hírös Rescue Team” is csatlakozott.</description>
+<pubDate>Fri, 04 Jun 2021 22:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2021-05-01</guid>
+<title>Tüzes Kunok szintentartó gyakorlata</title>
+<link>https://example.com/blog/hirek-2021-05-01</link>
+<description>A kiskunhalasi, kiskunmajsai és tompai önkéntesekből álló szervezet hét évvel ezelőtt alakult meg és több alkalommal, éles helyzetben is bizonyították rátermettségüket.</description>
+<pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2021-01-15</guid>
+<title>Gyűjtés a horvátországi földrengés áldozatainak</title>
+<link>https://example.com/blog/hirek-2021-01-15</link>
+<description></description>
+<pubDate>Fri, 15 Jan 2021 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2021-07-10</guid>
+<title>undefined</title>
+<link>https://example.com/blog/hirek-2021-07-10</link>
+<description>undefined</description>
+<pubDate>Invalid Date</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2019-11-18</guid>
+<title>Noé Mentőcsoport nemzeti újraminősítő gyakorlata</title>
+<link>https://example.com/blog/kepzesek-2019-11-18</link>
+<description>undefined</description>
+<pubDate>Mon, 18 Nov 2019 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2019-06-22</guid>
+<title>Földrengető gyakorlat</title>
+<link>https://example.com/blog/kepzesek-2019-06-22</link>
+<description>„Képzeletbeli földrengés sújtotta Kecskemét városát!”</description>
+<pubDate>Sat, 22 Jun 2019 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2019-06-01</guid>
+<title>Újraminősítő gyakorlatok</title>
+<link>https://example.com/blog/kepzesek-2019-06-01</link>
+<description>Sugovica, Wesselényi és Kígyós Járási Mentőcsoportok újraminősítő gyakorlata</description>
+<pubDate>Sat, 01 Jun 2019 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2019-05-10</guid>
+<title>Gyakorlatozott a települési Önkéntes Mentőcsoport</title>
+<link>https://example.com/blog/kepzesek-2019-05-10</link>
+<description>undefined</description>
+<pubDate>Fri, 10 May 2019 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2019-02-05</guid>
+<title>Drog prevenció Kiskunmajsán</title>
+<link>https://example.com/blog/kepzesek-2019-02-05</link>
+<description>undefined</description>
+<pubDate>Tue, 05 Feb 2019 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2018-12-13</guid>
+<title>Drog prevenció</title>
+<link>https://example.com/blog/kepzesek-2018-12-13</link>
+<description>undefined</description>
+<pubDate>Thu, 13 Dec 2018 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2018-11-26</guid>
+<title>Képzéssorozat a Kiskunságban</title>
+<link>https://example.com/blog/kepzesek-2018-11-26</link>
+<description>undefined</description>
+<pubDate>Mon, 26 Nov 2018 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2018-11-11</guid>
+<title>Gyakorlat Foktőn</title>
+<link>https://example.com/blog/kepzesek-2018-11-11</link>
+<description>Jól szervezett, látványos nukleárisbaleset-elhárítási gyakorlat Foktőn</description>
+<pubDate>Sun, 11 Nov 2018 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2018-05-31</guid>
+<title>Kiskunmajsai Járási Mentőcsoport gyakorlata</title>
+<link>https://example.com/blog/kepzesek-2018-05-31</link>
+<description>undefined</description>
+<pubDate>Thu, 31 May 2018 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2018-05-26</guid>
+<title>Gyakorlatozott a Felső-Bácskai Önkéntes Mentőcsoport</title>
+<link>https://example.com/blog/kepzesek-2018-05-26</link>
+<description>undefined</description>
+<pubDate>Sat, 26 May 2018 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2018-05-13</guid>
+<title>Kiskunhalas Járási Mentőcsoport gyakorlata</title>
+<link>https://example.com/blog/kepzesek-2018-05-13</link>
+<description>undefined</description>
+<pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2018-03-09</guid>
+<title>Katasztrófavédelmi gyakorlat Kecelen</title>
+<link>https://example.com/blog/kepzesek-2018-03-09</link>
+<description>undefined</description>
+<pubDate>Fri, 09 Mar 2018 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2017-12-08</guid>
+<title>Katasztrófavédelmi gyakorlat Kecelen</title>
+<link>https://example.com/blog/kepzesek-2017-12-08</link>
+<description>undefined</description>
+<pubDate>Fri, 08 Dec 2017 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2017-11-24</guid>
+<title>A drogokról másképpen</title>
+<link>https://example.com/blog/kepzesek-2017-11-24</link>
+<description>undefined</description>
+<pubDate>Sat, 25 Nov 2017 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2017-11-24_2</guid>
+<title>Tudatos Biztonság</title>
+<link>https://example.com/blog/kepzesek-2017-11-24_2</link>
+<description>undefined</description>
+<pubDate>Sat, 25 Nov 2017 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2017-11-25</guid>
+<title>Szinten tartó gyakorlat</title>
+<link>https://example.com/blog/kepzesek-2017-11-25</link>
+<description>November 25-én Soltvadkerten zajlott a Kiskőrös Járási Mentőcsoportok éves szinten tartó gyakorlata.</description>
+<pubDate>Sat, 25 Nov 2017 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

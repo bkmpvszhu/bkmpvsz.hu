@@ -1,0 +1,1 @@
+import{S as s,i as t,s as a}from"../../../../../chunks/vendor-48b2defe.js";const r=async()=>({status:301,redirect:"/blog/category"});class l extends s{constructor(e){super();t(this,e,null,null,a,{})}}export{l as default,r as load};
