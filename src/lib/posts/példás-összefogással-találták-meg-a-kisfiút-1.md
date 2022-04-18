@@ -1,6 +1,6 @@
 ---
 title: Példás összefogással találták meg a kisfiút
-date: 2022-04-18T06:49:18.459Z
+date: 2022-03-14T07:49:18.459Z
 coverImage: /images/0310-7.jpg
 categories:
   - hirek
