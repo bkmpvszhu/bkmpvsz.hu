@@ -6,17 +6,17 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/példás-összefogással-találták-meg-a-kisfiút-1</guid>
+<title>Példás összefogással találták meg a kisfiút</title>
+<link>https://example.com/blog/példás-összefogással-találták-meg-a-kisfiút-1</link>
+<description>Hivatásosok és önkéntesek, valamint civilek keresték azt a kisfiút, akit Tázlár külterületén, egy erdős területen veszítettek szem elől. A több mint hetven fő példás és gyors  összefogása meghozta az eredményét, még a sötétedés előtt megtalálták a gyermeket, aki örömmel bújt oda szüleihez. A kutatásban részt vett több Járási Mentőcsoport is.</description>
+<pubDate>Mon, 18 Apr 2022 06:49:18 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/hirek-2022-02-10</guid>
 <title>Polgári védelem napja</title>
 <link>https://example.com/blog/hirek-2022-02-10</link>
 <description>Meghívó</description>
 <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/template</guid>
-<title>Cím</title>
-<link>https://example.com/blog/template</link>
-<description>Összefoglaló</description>
-<pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
 </item><item>
 <guid isPermaLink="true">https://example.com/blog/hirek-2021-11-15</guid>
 <title>Közös előkészületek</title>

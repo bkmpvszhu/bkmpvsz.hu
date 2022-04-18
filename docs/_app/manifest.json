@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-7606374c.js",
+    "file": "start-f663834a.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-ad49d59b.js",
+    "file": "pages/blog/category/page/_page_.svelte-a831546c.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-bc744444.js",
+      "_fetchPosts-0e4d9975.js",
       "_config-2b240d00.js",
       "_PostsList-cfb8bb76.js",
       "_Pagination-f42d3f58.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-60993687.js",
+    "file": "pages/blog/category/_category_/index.svelte-5a772bc1.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-bc744444.js",
+      "_fetchPosts-0e4d9975.js",
       "_PostsList-cfb8bb76.js",
       "_preload-helper-ec9aa979.js",
       "_config-2b240d00.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-53c8bca3.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-a12c6a8c.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-bc744444.js",
+      "_fetchPosts-0e4d9975.js",
       "_config-2b240d00.js",
       "_PostsList-cfb8bb76.js",
       "_Pagination-f42d3f58.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-b37e32cd.js",
+    "file": "pages/blog/page/_page_.svelte-1e29cbc1.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-bc744444.js",
+      "_fetchPosts-0e4d9975.js",
       "_config-2b240d00.js",
       "_PostsList-cfb8bb76.js",
       "_Pagination-f42d3f58.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-1d08e82c.js",
+    "file": "pages/blog/_post_.svelte-bc8cafbc.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -258,8 +258,8 @@
       "src/lib/posts/kepzesek-2019-06-22.md",
       "src/lib/posts/kepzesek-2019-11-18.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
-      "src/lib/posts/segítség-a-bajban.md",
-      "src/lib/posts/template.md"
+      "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
+      "src/lib/posts/segítség-a-bajban.md"
     ],
     "css": [
       "assets/pages/blog/_post_.svelte-528b6a6d.css"
@@ -302,8 +302,8 @@
       "_config-2b240d00.js"
     ]
   },
-  "_fetchPosts-bc744444.js": {
-    "file": "chunks/fetchPosts-bc744444.js",
+  "_fetchPosts-0e4d9975.js": {
+    "file": "chunks/fetchPosts-0e4d9975.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-2b240d00.js"
@@ -337,8 +337,8 @@
       "src/lib/posts/kepzesek-2019-06-22.md",
       "src/lib/posts/kepzesek-2019-11-18.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
-      "src/lib/posts/segítség-a-bajban.md",
-      "src/lib/posts/template.md"
+      "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
+      "src/lib/posts/segítség-a-bajban.md"
     ]
   },
   "src/lib/posts/hirek-2021-01-15.md": {
@@ -565,17 +565,17 @@
       "_vendor-48b2defe.js"
     ]
   },
-  "src/lib/posts/segítség-a-bajban.md": {
-    "file": "chunks/segítség-a-bajban-363a50af.js",
-    "src": "src/lib/posts/segítség-a-bajban.md",
+  "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md": {
+    "file": "chunks/példás-összefogással-találták-meg-a-kisfiút-1-cf403f6f.js",
+    "src": "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
     ]
   },
-  "src/lib/posts/template.md": {
-    "file": "chunks/template-f5b230b4.js",
-    "src": "src/lib/posts/template.md",
+  "src/lib/posts/segítség-a-bajban.md": {
+    "file": "chunks/segítség-a-bajban-363a50af.js",
+    "src": "src/lib/posts/segítség-a-bajban.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
