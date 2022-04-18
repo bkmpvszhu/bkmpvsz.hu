@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-303d33fc.js",
+    "file": "start-e86d35cf.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-cbcfb65f.js",
+    "file": "pages/blog/category/page/_page_.svelte-c74b9373.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-1b3df832.js",
+      "_fetchPosts-b168f518.js",
       "_config-2b240d00.js",
       "_PostsList-cfb8bb76.js",
       "_Pagination-f42d3f58.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-02a723cc.js",
+    "file": "pages/blog/category/_category_/index.svelte-0302dc30.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-1b3df832.js",
+      "_fetchPosts-b168f518.js",
       "_PostsList-cfb8bb76.js",
       "_preload-helper-ec9aa979.js",
       "_config-2b240d00.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-b8666fd0.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-a1845bc8.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-1b3df832.js",
+      "_fetchPosts-b168f518.js",
       "_config-2b240d00.js",
       "_PostsList-cfb8bb76.js",
       "_Pagination-f42d3f58.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-568ffbe6.js",
+    "file": "pages/blog/page/_page_.svelte-43ab769d.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-1b3df832.js",
+      "_fetchPosts-b168f518.js",
       "_config-2b240d00.js",
       "_PostsList-cfb8bb76.js",
       "_Pagination-f42d3f58.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-e6f17425.js",
+    "file": "pages/blog/_post_.svelte-99ac6ee7.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -241,6 +241,7 @@
       "src/lib/posts/hirek-2021-11-01.md",
       "src/lib/posts/hirek-2021-11-15.md",
       "src/lib/posts/hirek-2022-02-10.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban.md",
       "src/lib/posts/kepzesek-2017-11-24.md",
       "src/lib/posts/kepzesek-2017-11-24_2.md",
@@ -303,8 +304,8 @@
       "_config-2b240d00.js"
     ]
   },
-  "_fetchPosts-1b3df832.js": {
-    "file": "chunks/fetchPosts-1b3df832.js",
+  "_fetchPosts-b168f518.js": {
+    "file": "chunks/fetchPosts-b168f518.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-2b240d00.js"
@@ -321,6 +322,7 @@
       "src/lib/posts/hirek-2021-11-01.md",
       "src/lib/posts/hirek-2021-11-15.md",
       "src/lib/posts/hirek-2022-02-10.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban.md",
       "src/lib/posts/kepzesek-2017-11-24.md",
       "src/lib/posts/kepzesek-2017-11-24_2.md",
@@ -426,6 +428,14 @@
   "src/lib/posts/hirek-2022-02-10.md": {
     "file": "chunks/hirek-2022-02-10-9341027f.js",
     "src": "src/lib/posts/hirek-2022-02-10.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md": {
+    "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1-d5d1948b.js",
+    "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
