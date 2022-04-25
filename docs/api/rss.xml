@@ -6,12 +6,6 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
-<guid isPermaLink="true">https://example.com/blog/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban</guid>
-<title>Katasztrófavédelmi ifjúsági verseny a kalocsai járásban</title>
-<link>https://example.com/blog/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban</link>
-<description>A Kalocsai Tűzoltóság fennállásának 150. évfordulója alkalmából rendezett eseménysorozat részeként április 7-én 16 általános iskolai és 5 középiskolai csapat mérte össze tudását és ügyességét a Járási Ifjúsági Katasztrófavédelmi Versenyen. A Covid - járvány miatt két év elteltével megrendezett versenyt a Bajai Katasztrófavédelmi Kirendeltség és a Bács-Kiskun Megyei Polgárvédelmi Szövetség szervezte. </description>
-<pubDate>Mon, 18 Apr 2022 07:21:56 GMT</pubDate>
-</item><item>
 <guid isPermaLink="true">https://example.com/blog/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1</guid>
 <title>Katasztrófavédelmi ifjúsági verseny a kalocsai járásban</title>
 <link>https://example.com/blog/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1</link>
