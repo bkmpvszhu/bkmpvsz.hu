@@ -4,6 +4,7 @@ date: 2022-04-09T07:38:39.737Z
 coverImage: /images/0407-3.jpg
 categories:
   - hirek
+  - ifjusag
 excerpt: "A Kalocsai Tűzoltóság fennállásának 150. évfordulója alkalmából
   rendezett eseménysorozat részeként április 7-én 16 általános iskolai és 5
   középiskolai csapat mérte össze tudását és ügyességét a Járási Ifjúsági
