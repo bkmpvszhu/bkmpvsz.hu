@@ -26,6 +26,10 @@ export const navItems = [
 		route: '/blog/category/kepzesek'
 	},
 	{
+		title: 'Drogprevenció',
+		route: '/blog/category/prevencio'
+	},
+	{
 		title: 'Támogatóink',
 		route: '/tamogatoink'
 	},

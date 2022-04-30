@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-a214b48c.js",
+    "file": "start-abce1e8c.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -30,13 +30,13 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-e86176ef.js",
+    "file": "pages/__layout.svelte-e0fb460e.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_config-2b240d00.js",
+      "_config-adbe04da.js",
       "_singletons-4fc5a6de.js"
     ],
     "css": [
@@ -127,15 +127,15 @@
     ]
   },
   "src/routes/blog/index.svelte": {
-    "file": "pages/blog/index.svelte-df555070.js",
+    "file": "pages/blog/index.svelte-cba9b0f8.js",
     "src": "src/routes/blog/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
       "_PostsList-cfb8bb76.js",
-      "_Pagination-f42d3f58.js",
-      "_config-2b240d00.js"
+      "_Pagination-2a040394.js",
+      "_config-adbe04da.js"
     ]
   },
   "src/routes/blog/category/index.svelte": {
@@ -148,30 +148,30 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-ccf45135.js",
+    "file": "pages/blog/category/page/_page_.svelte-01984a58.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-28f0071a.js",
-      "_config-2b240d00.js",
+      "_fetchPosts-710726c1.js",
+      "_config-adbe04da.js",
       "_PostsList-cfb8bb76.js",
-      "_Pagination-f42d3f58.js",
+      "_Pagination-2a040394.js",
       "_preload-helper-ec9aa979.js"
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-f713ec6d.js",
+    "file": "pages/blog/category/_category_/index.svelte-cc51a8b6.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-28f0071a.js",
+      "_fetchPosts-710726c1.js",
       "_PostsList-cfb8bb76.js",
       "_preload-helper-ec9aa979.js",
-      "_config-2b240d00.js"
+      "_config-adbe04da.js"
     ]
   },
   "src/routes/blog/category/[category]/page/index.svelte": {
@@ -184,16 +184,16 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-d1e62d97.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-a7ce68db.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-28f0071a.js",
-      "_config-2b240d00.js",
+      "_fetchPosts-710726c1.js",
+      "_config-adbe04da.js",
       "_PostsList-cfb8bb76.js",
-      "_Pagination-f42d3f58.js",
+      "_Pagination-2a040394.js",
       "_preload-helper-ec9aa979.js"
     ]
   },
@@ -207,16 +207,16 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-7c4038b1.js",
+    "file": "pages/blog/page/_page_.svelte-a461b5b2.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-28f0071a.js",
-      "_config-2b240d00.js",
+      "_fetchPosts-710726c1.js",
+      "_config-adbe04da.js",
       "_PostsList-cfb8bb76.js",
-      "_Pagination-f42d3f58.js",
+      "_Pagination-2a040394.js",
       "_preload-helper-ec9aa979.js"
     ]
   },
@@ -275,8 +275,8 @@
   "_preload-helper-ec9aa979.js": {
     "file": "chunks/preload-helper-ec9aa979.js"
   },
-  "_config-2b240d00.js": {
-    "file": "chunks/config-2b240d00.js"
+  "_config-adbe04da.js": {
+    "file": "chunks/config-adbe04da.js"
   },
   "_Magunkrol-54997ce9.js": {
     "file": "chunks/Magunkrol-54997ce9.js",
@@ -296,18 +296,18 @@
       "assets/PostsList-4b8b30c8.css"
     ]
   },
-  "_Pagination-f42d3f58.js": {
-    "file": "chunks/Pagination-f42d3f58.js",
+  "_Pagination-2a040394.js": {
+    "file": "chunks/Pagination-2a040394.js",
     "imports": [
       "_vendor-48b2defe.js",
-      "_config-2b240d00.js"
+      "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-28f0071a.js": {
-    "file": "chunks/fetchPosts-28f0071a.js",
+  "_fetchPosts-710726c1.js": {
+    "file": "chunks/fetchPosts-710726c1.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
-      "_config-2b240d00.js"
+      "_config-adbe04da.js"
     ],
     "dynamicImports": [
       "src/lib/posts/hirek-2021-01-15.md",
