@@ -1,5 +1,9 @@
 <script>
-	export let posts = []
+
+	export let posts = [];
+
+	const pinned = posts.filter(p => p.pinned)
+	const regularPosts = posts.filter(p => !p.pinned)
 
 	function normalizeDate(date) {
 		const d = new Date(date);
@@ -8,7 +12,17 @@
 </script>
 
 <ul class="posts-list">
-	{#each posts as post}
+	{#each pinned as post}
+		<li class="card">
+			<article class="pinned">
+				<!-- TODO Not ideal -->
+				{@html post.excerpt}
+			</article>
+		</li>
+	{/each}
+
+	{#each regularPosts as post}
+		<!-- TODO This could be a component-->
 		<li class="card">
 			<article>
 				<a href="/blog/{post.slug}">
@@ -57,5 +71,9 @@
 
 	a {
 		text-decoration: none;
+	}
+
+	.pinned {
+		text-align: justify;
 	}
 </style>

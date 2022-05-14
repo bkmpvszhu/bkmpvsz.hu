@@ -68,9 +68,7 @@
 
   <Pagination currentPage={page} {totalPosts} />
 {:else}
-  <h1>Oops!</h1>
+	<p><strong>Hoppá!</strong> Sajnos ebben a kategóriában még nincs egy poszt sem.</p>
 
-  <p>Sorry, no posts to show here.</p>
-
-  <a href="/blog">Back to blog</a>
+	<p><a href="/">Vissza a főoldalra</a></p>
 {/if}
