@@ -22,17 +22,23 @@
 
 <script>
 	import PostsList from '$lib/components/PostsList.svelte'
-	import Pagination from '$lib/components/Pagination.svelte'
 
 	export let posts
 	export let category
-	export let total
 
+	//TODO: unmaintainable...
 	function mapCategoryToTitle(category) {
 		switch (category) {
-			case 'hirek': return 'Hírek'
-			case 'ifjusag': return 'Ifjusági események'
-			case 'kepzesek': return 'Felkészítések, képzések'
+			case 'hirek':
+				return 'Hírek'
+			case 'ifjusag':
+				return 'Ifjusági események'
+			case 'kepzesek':
+				return 'Felkészítések, képzések'
+			case 'prevencio':
+				return 'Drogprevenció'
+			default:
+				return '';
 		}
 	}
 </script>

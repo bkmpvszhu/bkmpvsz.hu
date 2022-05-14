@@ -55,6 +55,7 @@
 	$: lowerBound = (page * postsPerPage) - (postsPerPage - 1) || 1
 	$: upperBound = Math.min(page * postsPerPage, totalPosts)
 
+	//TODO: unmaintainable...
 	function mapCategoryToTitle(category) {
 		switch (category) {
 			case 'hirek':
@@ -63,6 +64,10 @@
 				return 'Ifjusági események'
 			case 'kepzesek':
 				return 'Felkészítések, képzések'
+			case 'prevencio':
+				return 'Drogprevenció'
+			default:
+				return '';
 		}
 	}
 </script>
