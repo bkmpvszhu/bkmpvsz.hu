@@ -6,6 +6,12 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/kecskeméti-szc-kandó-kálmán-technikum</guid>
+<title>Kecskeméti SZC Kandó Kálmán Technikum</title>
+<link>https://example.com/blog/kecskeméti-szc-kandó-kálmán-technikum</link>
+<description>Kecskeméti SZC Kandó Kálmán Technikum</description>
+<pubDate>Mon, 11 Apr 2022 18:52:02 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1</guid>
 <title>Katasztrófavédelmi ifjúsági verseny a kalocsai járásban</title>
 <link>https://example.com/blog/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1</link>
