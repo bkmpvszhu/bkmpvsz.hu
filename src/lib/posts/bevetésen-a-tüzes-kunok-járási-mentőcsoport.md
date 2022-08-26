@@ -1,6 +1,6 @@
 ---
 title: Bevetésen a Tüzes Kunok járási mentőcsoport
-date: 2022-08-26T14:03:20.042Z
+date: 2022-07-20T14:03:20.042Z
 coverImage: /images/erdőtűzindex-kép.jpg
 categories:
   - hirek
