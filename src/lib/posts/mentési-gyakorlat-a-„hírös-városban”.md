@@ -10,6 +10,26 @@ excerpt: A „Hírös Városban”, Kecskeméten a volt szovjet laktanyában 202
   Katasztrófavédelmi Igazgatóság szervezésében, a Bács-Kiskun Megyei Polgári
   Védelmi Szövetség és a Magyar Polgári Védelmi Szövetség támogatásával.
 ---
+![](/images/20220611-2.jpg)
+
+![](/images/20220611-3.jpg)
+
+![](/images/20220611-4.jpg)
+
+![](/images/20220611-5.jpg)
+
+![](/images/20220611-6.jpg)
+
+![](/images/20220611-7.jpg)
+
+![](/images/20220611-9.jpg)
+
+![](/images/20220611-10.jpg)
+
+![](/images/20220611-8.jpg)
+
+![](/images/20220611-11.jpg)
+
 A gyakorlat célja volt a Mentőcsoport felkészítése a földrengés és a rendkívüli időjárási helyzetek kezelésére, a mentésben való részvételre, a hivatásos katasztrófavédelmi szervek támogatására, az alapvető vízkárok elhárítására, a HR Team pedig a kereső kutyás tevékenységet végzett romosodott területen. A gyakorlat módszere együttműködési terepgyakorlat és törzsvezetés volt, melynek teljes időtartamát 24 órára tervezték. A foglalkozások helyszínéül a Kecskeméten a volt szovjet laktanya mostanra eléggé romosodott, katasztrófa által sújtott területnek kinéző épületei és a homokbánya területe lettek célszerűen kiválasztva.
 
 A végrehajtott szakmai feladatok a vezetési pont, logisztikai részleg felállítása, elsősegély nyújtó hely telepítése, ideiglenes befogadó hely sátrainak telepítése, felderítés, eltűnt személyek kutatása, romok alóli mentés, romos épületből sérült mentés kötéltechnikával, tűzoltás, műszaki mentés, sérült ellátás, elsősegély nyújtás - triázsolás, megrongálódott útszakasz leküzdése, épület kiürítése, épület megtámasztása, folyamatos figyelő szolgálat ellátása, őrzés-védelem megszervezése voltak.
