@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-546779d9.js",
+    "file": "start-ccbb6241.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-edece26f.js",
+    "file": "pages/blog/category/page/_page_.svelte-c3a97d3a.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-49350d10.js",
+      "_fetchPosts-13391edb.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-945265e2.js",
+    "file": "pages/blog/category/_category_/index.svelte-bfd56e4e.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-49350d10.js",
+      "_fetchPosts-13391edb.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-7b42abcc.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-dbb4f5ed.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-49350d10.js",
+      "_fetchPosts-13391edb.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-896d9b78.js",
+    "file": "pages/blog/page/_page_.svelte-e5351867.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-49350d10.js",
+      "_fetchPosts-13391edb.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-bb4c8825.js",
+    "file": "pages/blog/_post_.svelte-74e30cdb.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -265,6 +265,7 @@
       "src/lib/posts/kepzesek-2019-06-01.md",
       "src/lib/posts/kepzesek-2019-06-22.md",
       "src/lib/posts/kepzesek-2019-11-18.md",
+      "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
       "src/lib/posts/prevencio-pinned.md",
       "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
@@ -311,8 +312,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-49350d10.js": {
-    "file": "chunks/fetchPosts-49350d10.js",
+  "_fetchPosts-13391edb.js": {
+    "file": "chunks/fetchPosts-13391edb.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -353,6 +354,7 @@
       "src/lib/posts/kepzesek-2019-06-01.md",
       "src/lib/posts/kepzesek-2019-06-22.md",
       "src/lib/posts/kepzesek-2019-11-18.md",
+      "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
       "src/lib/posts/prevencio-pinned.md",
       "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
@@ -634,6 +636,14 @@
   "src/lib/posts/kepzesek-2019-11-18.md": {
     "file": "chunks/kepzesek-2019-11-18-6c22cf46.js",
     "src": "src/lib/posts/kepzesek-2019-11-18.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md": {
+    "file": "chunks/mentési-gyakorlat-a-„hírös-városban”-e1831d11.js",
+    "src": "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
