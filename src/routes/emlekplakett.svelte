@@ -13,6 +13,11 @@
 
 <h2>Díjazottaink</h2>
 
+<h3>2022</h3>
+<ul>
+	<li>Rausch Sándor (posztumusz)</li>
+</ul>
+
 <h3>2021</h3>
 <ul>
 	<li>Gödön Sándor</li>
