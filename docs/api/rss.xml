@@ -6,6 +6,12 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/bevetésen-a-tüzes-kunok-járási-mentőcsoport</guid>
+<title>Bevetésen a Tüzes Kunok járási mentőcsoport</title>
+<link>https://example.com/blog/bevetésen-a-tüzes-kunok-járási-mentőcsoport</link>
+<description>Két jelentős erdőtűz megfékezésében vettek részt a Kiskunhalasi Tüzes Kunok Járási Mentőcsoport önkéntesei.</description>
+<pubDate>Fri, 26 Aug 2022 14:03:20 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/kecskeméti-szc-szent-györgyi-albert-technikum</guid>
 <title>Kecskeméti SZC Szent-Györgyi Albert Technikum	</title>
 <link>https://example.com/blog/kecskeméti-szc-szent-györgyi-albert-technikum</link>
@@ -78,6 +84,18 @@
 <description>Tiszakécskén 2021. szeptember 23-án került sor a 2013-ban megalakult Tiszakécske Járási önkéntes Tisza-Part Mentőcsoport Nemzeti Minősítő Gyakorlatára</description>
 <pubDate>Fri, 24 Sep 2021 00:00:00 GMT</pubDate>
 </item><item>
+<guid isPermaLink="true">https://example.com/blog/segítség-a-bajban</guid>
+<title>Segítség a bajban</title>
+<link>https://example.com/blog/segítség-a-bajban</link>
+<description>Július 9-én este az ormánsági Sellyét és a környező települések épületeit pusztító jégesővel kísért vihar tarolta le. Több száz ingatlan mellett a mezőgazdaság is komoly károkat szenvedett. Országos akció indult a bajba jutottak megsegítésért. </description>
+<pubDate>Sun, 11 Jul 2021 19:48:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/négy-éve-népszerű-a-tábor</guid>
+<title>Négy éve népszerű a tábor</title>
+<link>https://example.com/blog/négy-éve-népszerű-a-tábor</link>
+<description>Tábor a rendvédelmi szervek mindennapjaiba nyerhetnek bepillantást a fiatalok a Katasztrófavédelmi tábor ideje alatt. A bajai rendvédelmi szervek már négy éve szervezik meg öt napos programot, amelynek egyik célja az önállóságra való nevelés.</description>
+<pubDate>Wed, 07 Jul 2021 20:07:00 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/hirek-2021-06-30</guid>
 <title>In Memoriam Rausch Sándor</title>
 <link>https://example.com/blog/hirek-2021-06-30</link>
@@ -119,18 +137,6 @@
 <link>https://example.com/blog/hirek-2021-07-10</link>
 <description>undefined</description>
 <pubDate>Invalid Date</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/segítség-a-bajban</guid>
-<title>Segítség a bajban</title>
-<link>https://example.com/blog/segítség-a-bajban</link>
-<description>Július 9-én este az ormánsági Sellyét és a környező települések épületeit pusztító jégesővel kísért vihar tarolta le. Több száz ingatlan mellett a mezőgazdaság is komoly károkat szenvedett. Országos akció indult a bajba jutottak megsegítésért. </description>
-<pubDate>Sun, 11 Jul 2021 19:48:00 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/négy-éve-népszerű-a-tábor</guid>
-<title>Négy éve népszerű a tábor</title>
-<link>https://example.com/blog/négy-éve-népszerű-a-tábor</link>
-<description>Tábor a rendvédelmi szervek mindennapjaiba nyerhetnek bepillantást a fiatalok a Katasztrófavédelmi tábor ideje alatt. A bajai rendvédelmi szervek már négy éve szervezik meg öt napos programot, amelynek egyik célja az önállóságra való nevelés.</description>
-<pubDate>Wed, 07 Jul 2021 20:07:00 GMT</pubDate>
 </item><item>
 <guid isPermaLink="true">https://example.com/blog/kepzesek-2019-11-18</guid>
 <title>Noé Mentőcsoport nemzeti újraminősítő gyakorlata</title>
