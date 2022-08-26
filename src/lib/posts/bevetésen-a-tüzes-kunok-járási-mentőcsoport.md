@@ -7,6 +7,20 @@ categories:
 excerpt: Két jelentős erdőtűz megfékezésében vettek részt a Kiskunhalasi Tüzes
   Kunok Járási Mentőcsoport önkéntesei.
 ---
+![](/images/erdőtűz1.jpg)
+
+![](/images/erdőtűz2.jpg)
+
+![](/images/erdőtűz3.jpg)
+
+![](/images/erdőtűz4.jpg)
+
+![](/images/erdőtűz5.jpg)
+
+![](/images/erdőtűz6.jpg)
+
+![](/images/erdőtűz7.jpg)
+
 Bács-Kiskun megye – erdőtűz szempontjából - az ország legveszélyeztetettebb területe közé tartozik. Ennek oka több dologra vezethető vissza. Egyrészt a gyenge vízmegtartó képességű homokos talaj, a jelentős boróka és feketefenyő állomány és az elsivatagosodás, amely az idei kirívó szárazsággal együtt táptalaja a nagykiterjedésű erdőtüzeknek.
 
 Júliusban kettő jelentős erdőtűz is tombolt a megyében. Előbb 13-án Izsák és Soltszentimre között, egy nehezen járható vidéken, ahol egy több mint háromszáz hektáros területből nyolcvan-száz hektáron égett az aljnövényzet, illetve a fák koronája.  Az érintett területen több épületet ki kellett üríteni, ám ezeket sikerült megmenteni.
