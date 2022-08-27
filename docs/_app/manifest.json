@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-a0c69e8f.js",
+    "file": "start-e9b67fd3.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-8a9a0775.js",
+    "file": "pages/blog/category/page/_page_.svelte-dc431470.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f73fd119.js",
+      "_fetchPosts-1effc0df.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-60f1bd29.js",
+    "file": "pages/blog/category/_category_/index.svelte-a5813f8e.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f73fd119.js",
+      "_fetchPosts-1effc0df.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-25e0db0e.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-a7459cb1.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f73fd119.js",
+      "_fetchPosts-1effc0df.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-28b80934.js",
+    "file": "pages/blog/page/_page_.svelte-1a510e8d.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f73fd119.js",
+      "_fetchPosts-1effc0df.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-ff93ef75.js",
+    "file": "pages/blog/_post_.svelte-8837a4ce.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -230,6 +230,7 @@
       "_vendor-48b2defe.js"
     ],
     "dynamicImports": [
+      "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/hirek-2021-01-15.md",
       "src/lib/posts/hirek-2021-05-01.md",
@@ -314,13 +315,14 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-f73fd119.js": {
-    "file": "chunks/fetchPosts-f73fd119.js",
+  "_fetchPosts-1effc0df.js": {
+    "file": "chunks/fetchPosts-1effc0df.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
     ],
     "dynamicImports": [
+      "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/hirek-2021-01-15.md",
       "src/lib/posts/hirek-2021-05-01.md",
@@ -363,6 +365,14 @@
       "src/lib/posts/segítség-a-bajban.md",
       "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md"
+    ]
+  },
+  "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md": {
+    "file": "chunks/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye-d76dff8f.js",
+    "src": "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
     ]
   },
   "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md": {
