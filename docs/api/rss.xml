@@ -6,12 +6,6 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
-<guid isPermaLink="true">https://example.com/blog/kecskeméti-piarista-gimnázium</guid>
-<title>Kecskeméti Piarista Gimnázium</title>
-<link>https://example.com/blog/kecskeméti-piarista-gimnázium</link>
-<description> </description>
-<pubDate>Sat, 27 Aug 2022 18:18:19 GMT</pubDate>
-</item><item>
 <guid isPermaLink="true">https://example.com/blog/bevetésen-a-tüzes-kunok-járási-mentőcsoport</guid>
 <title>Bevetésen a Tüzes Kunok járási mentőcsoport</title>
 <link>https://example.com/blog/bevetésen-a-tüzes-kunok-járási-mentőcsoport</link>
@@ -150,23 +144,17 @@
 <description></description>
 <pubDate>Fri, 15 Jan 2021 00:00:00 GMT</pubDate>
 </item><item>
-<guid isPermaLink="true">https://example.com/blog/kecskeméti-református-gimnázium</guid>
-<title>Kecskeméti Református Gimnázium</title>
-<link>https://example.com/blog/kecskeméti-református-gimnázium</link>
-<description> </description>
-<pubDate>Tue, 17 Sep 2019 18:15:44 GMT</pubDate>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2019-11-18</guid>
+<title>Noé Mentőcsoport nemzeti újraminősítő gyakorlata</title>
+<link>https://example.com/blog/kepzesek-2019-11-18</link>
+<description>undefined</description>
+<pubDate>Mon, 18 Nov 2019 00:00:00 GMT</pubDate>
 </item><item>
 <guid isPermaLink="true">https://example.com/blog/kepzesek-2019-06-22</guid>
 <title>Földrengető gyakorlat</title>
 <link>https://example.com/blog/kepzesek-2019-06-22</link>
 <description>„Képzeletbeli földrengés sújtotta Kecskemét városát!”</description>
 <pubDate>Sat, 22 Jun 2019 00:00:00 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/kepzesek-2019-05-10</guid>
-<title>Gyakorlatozott a települési Önkéntes Mentőcsoport</title>
-<link>https://example.com/blog/kepzesek-2019-05-10</link>
-<description>undefined</description>
-<pubDate>Fri, 10 May 2019 00:00:00 GMT</pubDate>
 </item><item>
 <guid isPermaLink="true">https://example.com/blog/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye</guid>
 <title>Bajai Szentistváni Általános Iskola Csávolyi tagintézménye </title>
@@ -180,17 +168,29 @@
 <description>undefined</description>
 <pubDate>Invalid Date</pubDate>
 </item><item>
-<guid isPermaLink="true">https://example.com/blog/kepzesek-2019-11-18</guid>
-<title>Noé Mentőcsoport nemzeti újraminősítő gyakorlata</title>
-<link>https://example.com/blog/kepzesek-2019-11-18</link>
-<description>undefined</description>
-<pubDate>Mon, 18 Nov 2019 00:00:00 GMT</pubDate>
+<guid isPermaLink="true">https://example.com/blog/kecskeméti-piarista-gimnázium</guid>
+<title>Kecskeméti Piarista Gimnázium</title>
+<link>https://example.com/blog/kecskeméti-piarista-gimnázium</link>
+<description> </description>
+<pubDate>Fri, 27 Sep 2019 18:18:19 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kecskeméti-református-gimnázium</guid>
+<title>Kecskeméti Református Gimnázium</title>
+<link>https://example.com/blog/kecskeméti-református-gimnázium</link>
+<description> </description>
+<pubDate>Tue, 17 Sep 2019 18:15:44 GMT</pubDate>
 </item><item>
 <guid isPermaLink="true">https://example.com/blog/kepzesek-2019-06-01</guid>
 <title>Újraminősítő gyakorlatok</title>
 <link>https://example.com/blog/kepzesek-2019-06-01</link>
 <description>Sugovica, Wesselényi és Kígyós Járási Mentőcsoportok újraminősítő gyakorlata</description>
 <pubDate>Sat, 01 Jun 2019 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/kepzesek-2019-05-10</guid>
+<title>Gyakorlatozott a települési Önkéntes Mentőcsoport</title>
+<link>https://example.com/blog/kepzesek-2019-05-10</link>
+<description>undefined</description>
+<pubDate>Fri, 10 May 2019 00:00:00 GMT</pubDate>
 </item><item>
 <guid isPermaLink="true">https://example.com/blog/kepzesek-2019-02-05</guid>
 <title>Drog prevenció Kiskunmajsán</title>
