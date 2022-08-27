@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-0ba18312.js",
+    "file": "start-8f0a6f6b.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-3c6a763a.js",
+    "file": "pages/blog/category/page/_page_.svelte-3c70cb85.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-514b9638.js",
+      "_fetchPosts-1046185e.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-ee08fb76.js",
+    "file": "pages/blog/category/_category_/index.svelte-8e62dc98.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-514b9638.js",
+      "_fetchPosts-1046185e.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-67af05f8.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-f39af652.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-514b9638.js",
+      "_fetchPosts-1046185e.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-84c1e789.js",
+    "file": "pages/blog/page/_page_.svelte-53035c17.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-514b9638.js",
+      "_fetchPosts-1046185e.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-80f39b3a.js",
+    "file": "pages/blog/_post_.svelte-b85cfe0a.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -246,6 +246,7 @@
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium.md",
       "src/lib/posts/kecskeméti-református-gimnázium.md",
+      "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md",
       "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
       "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum.md",
@@ -317,8 +318,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-514b9638.js": {
-    "file": "chunks/fetchPosts-514b9638.js",
+  "_fetchPosts-1046185e.js": {
+    "file": "chunks/fetchPosts-1046185e.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -340,6 +341,7 @@
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium.md",
       "src/lib/posts/kecskeméti-református-gimnázium.md",
+      "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md",
       "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
       "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum.md",
@@ -494,6 +496,14 @@
   "src/lib/posts/kecskeméti-református-gimnázium.md": {
     "file": "chunks/kecskeméti-református-gimnázium-0a5591ec.js",
     "src": "src/lib/posts/kecskeméti-református-gimnázium.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md": {
+    "file": "chunks/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája-c9480e23.js",
+    "src": "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
