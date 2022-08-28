@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-421e5d6e.js",
+    "file": "start-d3d536be.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-ab72b33d.js",
+    "file": "pages/blog/category/page/_page_.svelte-939af632.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f8a9b87b.js",
+      "_fetchPosts-4c9b3e13.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-475b3ef9.js",
+    "file": "pages/blog/category/_category_/index.svelte-0c6001b9.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f8a9b87b.js",
+      "_fetchPosts-4c9b3e13.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-c15b8943.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-c437325f.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f8a9b87b.js",
+      "_fetchPosts-4c9b3e13.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-cd305c14.js",
+    "file": "pages/blog/page/_page_.svelte-f5fb0dd1.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f8a9b87b.js",
+      "_fetchPosts-4c9b3e13.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-52daeac7.js",
+    "file": "pages/blog/_post_.svelte-5b5bd501.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -244,7 +244,6 @@
       "src/lib/posts/hirek-2021-11-15.md",
       "src/lib/posts/hirek-2022-02-10.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
-      "src/lib/posts/kecskeméti-református-gimnázium.md",
       "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md",
       "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
@@ -318,8 +317,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-f8a9b87b.js": {
-    "file": "chunks/fetchPosts-f8a9b87b.js",
+  "_fetchPosts-4c9b3e13.js": {
+    "file": "chunks/fetchPosts-4c9b3e13.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -339,7 +338,6 @@
       "src/lib/posts/hirek-2021-11-15.md",
       "src/lib/posts/hirek-2022-02-10.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
-      "src/lib/posts/kecskeméti-református-gimnázium.md",
       "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md",
       "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
@@ -480,14 +478,6 @@
   "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md": {
     "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1-2cfb3b06.js",
     "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-48b2defe.js"
-    ]
-  },
-  "src/lib/posts/kecskeméti-református-gimnázium.md": {
-    "file": "chunks/kecskeméti-református-gimnázium-0a5591ec.js",
-    "src": "src/lib/posts/kecskeméti-református-gimnázium.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
