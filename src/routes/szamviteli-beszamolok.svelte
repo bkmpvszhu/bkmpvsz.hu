@@ -2,6 +2,8 @@
 
 <h1>Számviteli beszámolók és közhasznúsági mellékletek</h1>
 
+<p><a href="/pdfs/2021.pdf" rel=external>2021. évi számviteli beszámoló és közhasznúsági mellékletei</a></p>
+
 <p><a href="https://bacs.katasztrofavedelem.hu/application/uploads/documents/2021-08/76133.pdf">2020. évi számviteli beszámoló és közhasznúsági mellékletei</a></p>
 
 <p><a href="https://bacs.katasztrofavedelem.hu/application/uploads/documents/2021-08/76132.pdff">2019. évi számviteli beszámoló és közhasznúsági mellékletei</a></p>
