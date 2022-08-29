@@ -8,7 +8,6 @@ excerpt: 2017. október 27-én Csengődön került sor Csengőd, Tabdi, Kaskanty
   Soltszentimre települési polgári védelmi szervezetei közös gyakorlatára,
   melyhez csatlakozott Csengőd települési önkéntes mentőcsoportja.
 ---
-<!--
 
 A helyi művelődési házban a Magyar Honvédség szakemberei az Önkéntes Területvédelmi Tartalékos rendszerről szóló ismertetőt tartottak, majd ezt követően a gyakorlattal összefüggően elméleti felkészítés történt, és a térségre jellemző veszélyeztető hatások (belvíz és rendkívüli időjárás) elleni fellépést gyakorolták.
 
