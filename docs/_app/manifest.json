@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-cbde1ecb.js",
+    "file": "start-789b7586.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-12bb6d7d.js",
+    "file": "pages/blog/category/page/_page_.svelte-88bed3d1.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e91b7f04.js",
+      "_fetchPosts-15e16583.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-37e54a43.js",
+    "file": "pages/blog/category/_category_/index.svelte-906aaf18.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e91b7f04.js",
+      "_fetchPosts-15e16583.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-92ebca08.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-69659ec7.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e91b7f04.js",
+      "_fetchPosts-15e16583.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-9d5e9902.js",
+    "file": "pages/blog/page/_page_.svelte-93ab1082.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e91b7f04.js",
+      "_fetchPosts-15e16583.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-9f513745.js",
+    "file": "pages/blog/_post_.svelte-449aaf7c.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -272,6 +272,7 @@
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
+      "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
       "src/lib/posts/prevencio-pinned.md",
       "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
@@ -321,8 +322,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-e91b7f04.js": {
-    "file": "chunks/fetchPosts-e91b7f04.js",
+  "_fetchPosts-15e16583.js": {
+    "file": "chunks/fetchPosts-15e16583.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -370,6 +371,7 @@
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
+      "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
       "src/lib/posts/prevencio-pinned.md",
       "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
@@ -710,6 +712,14 @@
   "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md": {
     "file": "chunks/mentési-gyakorlat-a-„hírös-városban”-94f2a94b.js",
     "src": "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md": {
+    "file": "chunks/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04-ac55921c.js",
+    "src": "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
