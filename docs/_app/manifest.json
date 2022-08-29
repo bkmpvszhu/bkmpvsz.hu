@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-05406710.js",
+    "file": "start-662eed24.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-c084db71.js",
+    "file": "pages/blog/category/page/_page_.svelte-286b4188.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-37683f61.js",
+      "_fetchPosts-561f4b1b.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-964bc5ad.js",
+    "file": "pages/blog/category/_category_/index.svelte-516da8d4.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-37683f61.js",
+      "_fetchPosts-561f4b1b.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-61c135c0.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-a9b95a33.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-37683f61.js",
+      "_fetchPosts-561f4b1b.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-f3f5eab3.js",
+    "file": "pages/blog/page/_page_.svelte-986b5994.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-37683f61.js",
+      "_fetchPosts-561f4b1b.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-befaddcd.js",
+    "file": "pages/blog/_post_.svelte-9052c49c.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -274,6 +274,7 @@
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
+      "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
       "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
@@ -325,8 +326,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-37683f61.js": {
-    "file": "chunks/fetchPosts-37683f61.js",
+  "_fetchPosts-561f4b1b.js": {
+    "file": "chunks/fetchPosts-561f4b1b.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -376,6 +377,7 @@
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
+      "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
       "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
@@ -734,6 +736,14 @@
   "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md": {
     "file": "chunks/megtartotta-éves-közgyűlését-a-bkm-pvsz-f4c6ac25.js",
     "src": "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md": {
+    "file": "chunks/mentesítő-eszközök-adományozása-2020-05-21-a0796ce8.js",
+    "src": "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
