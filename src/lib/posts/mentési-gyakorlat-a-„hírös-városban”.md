@@ -1,6 +1,6 @@
 ---
-title: Mentési gyakorlat a „Hírös Városban”
-date: 2022-06-13T14:23:12.730Z
+title: Mentési gyakorlat a „Hírös Városban” (2022. 06. 11.)
+date: 2022-06-14T17:28:27.654Z
 coverImage: /images/20220611-1.jpg
 categories:
   - hirek
