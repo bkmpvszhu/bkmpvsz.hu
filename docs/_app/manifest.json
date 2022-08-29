@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-1d990037.js",
+    "file": "start-a136e23e.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-69ceba72.js",
+    "file": "pages/blog/category/page/_page_.svelte-c86bfebf.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-738c0c31.js",
+      "_fetchPosts-3ba3ca1c.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-20850456.js",
+    "file": "pages/blog/category/_category_/index.svelte-3e317761.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-738c0c31.js",
+      "_fetchPosts-3ba3ca1c.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-0f65347c.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-6e4d8e98.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-738c0c31.js",
+      "_fetchPosts-3ba3ca1c.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-9e0f03e8.js",
+    "file": "pages/blog/page/_page_.svelte-d50e18b4.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-738c0c31.js",
+      "_fetchPosts-3ba3ca1c.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-0c9cb8e9.js",
+    "file": "pages/blog/_post_.svelte-30caad8e.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -270,6 +270,7 @@
       "src/lib/posts/kepzesek-2019-06-22.md",
       "src/lib/posts/kepzesek-2019-11-18.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
+      "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
@@ -323,8 +324,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-738c0c31.js": {
-    "file": "chunks/fetchPosts-738c0c31.js",
+  "_fetchPosts-3ba3ca1c.js": {
+    "file": "chunks/fetchPosts-3ba3ca1c.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -370,6 +371,7 @@
       "src/lib/posts/kepzesek-2019-06-22.md",
       "src/lib/posts/kepzesek-2019-11-18.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
+      "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
@@ -698,6 +700,14 @@
   "src/lib/posts/kiskunmajsa-2016-04-27.md": {
     "file": "chunks/kiskunmajsa-2016-04-27-a5411de6.js",
     "src": "src/lib/posts/kiskunmajsa-2016-04-27.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md": {
+    "file": "chunks/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23-2f534b97.js",
+    "src": "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
