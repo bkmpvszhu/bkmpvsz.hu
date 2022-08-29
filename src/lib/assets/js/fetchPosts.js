@@ -1,7 +1,7 @@
 import { postsPerPage } from '$lib/config'
 
 const fetchPosts = async ({ offset = 0, limit = postsPerPage, category = '' } = {}) => {
-  const posts = await Promise.all(
+  let posts = await Promise.all(
     Object.entries(import.meta.glob('../../posts/*.md')).map(async ([path, resolver]) => {
       const { metadata } = await resolver()
       const slug = path.split('/').pop().slice(0, -3)
@@ -9,8 +9,9 @@ const fetchPosts = async ({ offset = 0, limit = postsPerPage, category = '' } = 
     })
   )
 
+  posts = posts.filter(p => !isNaN(new Date(p.date).getTime()))
   let sortedPosts = posts.sort((a, b) => new Date(b.date) - new Date(a.date))
-  
+
   if (category) {
     sortedPosts = sortedPosts.filter(post => post.categories?.includes(category))
   }
