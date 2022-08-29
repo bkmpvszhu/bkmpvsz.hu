@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-e376cc9c.js",
+    "file": "start-3b3b2e53.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-60945edd.js",
+    "file": "pages/blog/category/page/_page_.svelte-9753d392.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-7b514c93.js",
+      "_fetchPosts-b5f67fd1.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-6efc9a37.js",
+    "file": "pages/blog/category/_category_/index.svelte-05887027.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-7b514c93.js",
+      "_fetchPosts-b5f67fd1.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-068dccdf.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-60986edf.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-7b514c93.js",
+      "_fetchPosts-b5f67fd1.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-bbb96f56.js",
+    "file": "pages/blog/page/_page_.svelte-e9f58ac7.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-7b514c93.js",
+      "_fetchPosts-b5f67fd1.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-937ec636.js",
+    "file": "pages/blog/_post_.svelte-00f6cf84.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -270,6 +270,7 @@
       "src/lib/posts/kepzesek-2019-11-18.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
       "src/lib/posts/prevencio-pinned.md",
@@ -319,8 +320,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-7b514c93.js": {
-    "file": "chunks/fetchPosts-7b514c93.js",
+  "_fetchPosts-b5f67fd1.js": {
+    "file": "chunks/fetchPosts-b5f67fd1.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -366,6 +367,7 @@
       "src/lib/posts/kepzesek-2019-11-18.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
       "src/lib/posts/prevencio-pinned.md",
@@ -690,6 +692,14 @@
   "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md": {
     "file": "chunks/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-73ff628b.js",
     "src": "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md": {
+    "file": "chunks/megtartotta-éves-közgyűlését-a-bkm-pvsz-f4c6ac25.js",
+    "src": "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
