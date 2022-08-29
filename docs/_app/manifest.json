@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-25239d42.js",
+    "file": "start-147ea004.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-3cd8d3e0.js",
+    "file": "pages/blog/category/page/_page_.svelte-9f2bb0b6.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d33d9495.js",
+      "_fetchPosts-5dbf8e79.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-972f00cf.js",
+    "file": "pages/blog/category/_category_/index.svelte-a8d29f6d.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d33d9495.js",
+      "_fetchPosts-5dbf8e79.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-95b8f91b.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-f1a379a5.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d33d9495.js",
+      "_fetchPosts-5dbf8e79.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-119f99c1.js",
+    "file": "pages/blog/page/_page_.svelte-4fa4623f.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d33d9495.js",
+      "_fetchPosts-5dbf8e79.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-bd2a2fdb.js",
+    "file": "pages/blog/_post_.svelte-99ac71df.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -266,7 +266,6 @@
       "src/lib/posts/kepzesek-2019-06-01.md",
       "src/lib/posts/kepzesek-2019-06-22.md",
       "src/lib/posts/kepzesek-2019-11-18.md",
-      "src/lib/posts/kiskunhalasi-szakképzési-centrum-dékáni-árpád-szakgimnáziuma-és-szakközépiskolája-2017-12-08.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
@@ -317,8 +316,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-d33d9495.js": {
-    "file": "chunks/fetchPosts-d33d9495.js",
+  "_fetchPosts-5dbf8e79.js": {
+    "file": "chunks/fetchPosts-5dbf8e79.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -360,7 +359,6 @@
       "src/lib/posts/kepzesek-2019-06-01.md",
       "src/lib/posts/kepzesek-2019-06-22.md",
       "src/lib/posts/kepzesek-2019-11-18.md",
-      "src/lib/posts/kiskunhalasi-szakképzési-centrum-dékáni-árpád-szakgimnáziuma-és-szakközépiskolája-2017-12-08.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
@@ -654,14 +652,6 @@
   "src/lib/posts/kepzesek-2019-11-18.md": {
     "file": "chunks/kepzesek-2019-11-18-afe38543.js",
     "src": "src/lib/posts/kepzesek-2019-11-18.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-48b2defe.js"
-    ]
-  },
-  "src/lib/posts/kiskunhalasi-szakképzési-centrum-dékáni-árpád-szakgimnáziuma-és-szakközépiskolája-2017-12-08.md": {
-    "file": "chunks/kiskunhalasi-szakképzési-centrum-dékáni-árpád-szakgimnáziuma-és-szakközépiskolája-2017-12-08-5226e93d.js",
-    "src": "src/lib/posts/kiskunhalasi-szakképzési-centrum-dékáni-árpád-szakgimnáziuma-és-szakközépiskolája-2017-12-08.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
