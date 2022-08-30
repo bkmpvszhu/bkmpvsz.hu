@@ -4,6 +4,7 @@ date: 2018-03-09T17:45:29.444Z
 coverImage: /images/20180309-2.jpg
 categories:
   - kepzesek
+  - hirek
 excerpt: " "
 ---
 A Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság Kiskunhalasi Katasztrófavédelmi Kirendeltségének szakmai vezetésével 2018. március 9-én Kecelen került sor a települési önkéntes mentőcsoport gyakorlatára.
