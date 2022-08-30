@@ -4,6 +4,7 @@ date: 2022-06-14T17:28:27.654Z
 coverImage: /images/20220611-1.jpg
 categories:
   - hirek
+  - kepzesek
 excerpt: A „Hírös Városban”, Kecskeméten a volt szovjet laktanyában 2022. június
   11-én került sor a Híres Vakond Mentőcsoport 2022 évi ismétlő gyakorlatára és
   a Hírös Rescue Team nemzeti minősítő gyakorlatára a Bács-Kiskun Megyei
