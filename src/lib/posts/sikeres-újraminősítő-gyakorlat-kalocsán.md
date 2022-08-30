@@ -3,7 +3,8 @@ title: Sikeres újraminősítő gyakorlat Kalocsán (2022. 05. 28.)
 date: 2022-05-30T14:39:41.039Z
 coverImage: /images/20220528-1.jpg
 categories:
-  - hirek kepzesek
+  - hirek
+  - kepzesek
 excerpt: 2022. május 27-28-án került sor Kalocsán a kalocsai járási Wesselényi
   Önkéntes Mentőcsoport újraminősítési gyakorlatára Kalocsa-Meszes Dunaparton.
 ---
