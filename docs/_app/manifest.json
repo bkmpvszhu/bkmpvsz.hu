@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-36fb509f.js",
+    "file": "start-bfb6c323.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-ac415bf5.js",
+    "file": "pages/blog/category/page/_page_.svelte-56fdd63b.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-1532d698.js",
+      "_fetchPosts-ed1af10a.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-6b01f844.js",
+    "file": "pages/blog/category/_category_/index.svelte-addbf098.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-1532d698.js",
+      "_fetchPosts-ed1af10a.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-dece7448.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-160ba4ed.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-1532d698.js",
+      "_fetchPosts-ed1af10a.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-fe91fec3.js",
+    "file": "pages/blog/page/_page_.svelte-5a69bcc5.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-1532d698.js",
+      "_fetchPosts-ed1af10a.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-99021b3b.js",
+    "file": "pages/blog/_post_.svelte-d705aa5d.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -234,7 +234,6 @@
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
       "src/lib/posts/hirek-2021-01-15.md",
-      "src/lib/posts/hirek-2021-06-01.md",
       "src/lib/posts/hirek-2021-06-29.md",
       "src/lib/posts/hirek-2021-06-30.md",
       "src/lib/posts/hirek-2021-07-10.md",
@@ -324,8 +323,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-1532d698.js": {
-    "file": "chunks/fetchPosts-1532d698.js",
+  "_fetchPosts-ed1af10a.js": {
+    "file": "chunks/fetchPosts-ed1af10a.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -335,7 +334,6 @@
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
       "src/lib/posts/hirek-2021-01-15.md",
-      "src/lib/posts/hirek-2021-06-01.md",
       "src/lib/posts/hirek-2021-06-29.md",
       "src/lib/posts/hirek-2021-06-30.md",
       "src/lib/posts/hirek-2021-07-10.md",
@@ -412,14 +410,6 @@
   "src/lib/posts/hirek-2021-01-15.md": {
     "file": "chunks/hirek-2021-01-15-76f13281.js",
     "src": "src/lib/posts/hirek-2021-01-15.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-48b2defe.js"
-    ]
-  },
-  "src/lib/posts/hirek-2021-06-01.md": {
-    "file": "chunks/hirek-2021-06-01-ae5fb2f7.js",
-    "src": "src/lib/posts/hirek-2021-06-01.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
