@@ -144,12 +144,6 @@
 <description>Sikeres gyakorlaton vett részt 2021. június 19-én a Jánoshalmi járásban működő Felső-Bácskai Önkéntes Mentőcsoport. Az esemény Bács-Kiskun Megyei Polgári Védelmi Szövetség és Kiskunhalasi Katasztrófavédelmi Kirendeltséggel közösen került megszervezésre. A helyszín a Jánoshalma Kunfehértó közötti Erdőszéltől mintegy délre 3 km távolságra fekvő erdős területen került kijelölésre.</description>
 <pubDate>Mon, 21 Jun 2021 20:12:47 GMT</pubDate>
 </item><item>
-<guid isPermaLink="true">https://example.com/blog/hirek-2021-06-20</guid>
-<title>Ismétlés a tudás anyja</title>
-<link>https://example.com/blog/hirek-2021-06-20</link>
-<description>Felső-Bácskai Önkéntes Mentőcsoport végrehajtotta éves ismétlő gyakorlatát</description>
-<pubDate>Sun, 20 Jun 2021 00:00:00 GMT</pubDate>
-</item><item>
 <guid isPermaLink="true">https://example.com/blog/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04</guid>
 <title>Móra mentőcsoport szintentartó gyakorlata (2021. 06. 04.)</title>
 <link>https://example.com/blog/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04</link>
@@ -192,6 +186,12 @@
 <description>Közös képzés a bizonságért</description>
 <pubDate>Wed, 19 Feb 2020 21:44:27 GMT</pubDate>
 </item><item>
+<guid isPermaLink="true">https://example.com/blog/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája</guid>
+<title>KSZC Széchenyi István Idegenforgalmi, Vendéglátóipari Szakgimnáziuma és Szakközépiskolája</title>
+<link>https://example.com/blog/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája</link>
+<description> </description>
+<pubDate>Tue, 10 Dec 2019 19:30:29 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye</guid>
 <title>Bajai Szentistváni Általános Iskola Csávolyi tagintézménye (2018. 12. 13.)</title>
 <link>https://example.com/blog/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye</link>
@@ -203,12 +203,6 @@
 <link>https://example.com/blog/hirek-2021-07-10</link>
 <description>undefined</description>
 <pubDate>Invalid Date</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája</guid>
-<title>KSZC Széchenyi István Idegenforgalmi, Vendéglátóipari Szakgimnáziuma és Szakközépiskolája</title>
-<link>https://example.com/blog/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája</link>
-<description> </description>
-<pubDate>Tue, 10 Dec 2019 19:30:29 GMT</pubDate>
 </item><item>
 <guid isPermaLink="true">https://example.com/blog/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája</guid>
 <title>Kecskeméti Szakképzési Centrum Szent-Györgyi Albert Szakgimnáziuma és Szakközépiskolája</title>
