@@ -5,7 +5,7 @@ export const siteLink = 'https://github.com/josh-collinsworth/sveltekit-blog-sta
 export const siteAuthor = 'Bács-Kiskun Megyei Polgári Védelmi Szövetség'
 
 // Controls how many posts are shown per page on the main blog index pages
-export const postsPerPage = 15
+export const postsPerPage = 9999
 
 // Edit this to alter the main nav menu. (Also used by the footer and mobile nav.)
 export const navItems = [
