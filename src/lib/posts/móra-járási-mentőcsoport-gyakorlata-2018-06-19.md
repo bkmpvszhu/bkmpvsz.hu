@@ -4,7 +4,7 @@ date: 2018-06-19T18:15:19.163Z
 coverImage: /images/20180619-2.jpg
 categories:
   - kepzesek
-excerpt: " "
+excerpt: "Kattints a képekért! "
 ---
 ![](/images/20180619-1.jpg)
 
