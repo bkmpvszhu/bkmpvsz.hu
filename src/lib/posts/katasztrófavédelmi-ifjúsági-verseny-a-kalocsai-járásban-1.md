@@ -1,5 +1,5 @@
 ---
-title: Katasztrófavédelmi ifjúsági verseny a kalocsai járásban
+title: Katasztrófavédelmi ifjúsági verseny a kalocsai járásban (2022. 04. 07.)
 date: 2022-04-09T07:38:39.737Z
 coverImage: /images/0407-3.jpg
 categories:
