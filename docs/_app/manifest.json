@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-7064bae6.js",
+    "file": "start-478fc94d.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-71bcee37.js",
+    "file": "pages/blog/category/page/_page_.svelte-14dc926a.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5517b521.js",
+      "_fetchPosts-727a5a18.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-c0718979.js",
+    "file": "pages/blog/category/_category_/index.svelte-1bda9a26.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5517b521.js",
+      "_fetchPosts-727a5a18.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-06c66c35.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-733c36a7.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5517b521.js",
+      "_fetchPosts-727a5a18.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-118126c7.js",
+    "file": "pages/blog/page/_page_.svelte-4606ac3f.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5517b521.js",
+      "_fetchPosts-727a5a18.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-9bdd5308.js",
+    "file": "pages/blog/_post_.svelte-dc45d22c.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -327,8 +327,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-5517b521.js": {
-    "file": "chunks/fetchPosts-5517b521.js",
+  "_fetchPosts-727a5a18.js": {
+    "file": "chunks/fetchPosts-727a5a18.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -408,7 +408,7 @@
     ]
   },
   "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md": {
-    "file": "chunks/bács-megyei-gyerekek-szlovéniában-2019-07-25-28-2878a2bf.js",
+    "file": "chunks/bács-megyei-gyerekek-szlovéniában-2019-07-25-28-73f54ce2.js",
     "src": "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md",
     "isDynamicEntry": true,
     "imports": [
