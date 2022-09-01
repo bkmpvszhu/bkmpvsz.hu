@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-e6f28b2a.js",
+    "file": "start-55fe5783.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-25f38b98.js",
+    "file": "pages/blog/category/page/_page_.svelte-7a5d6c18.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-681cbe90.js",
+      "_fetchPosts-5945b6ce.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-407de271.js",
+    "file": "pages/blog/category/_category_/index.svelte-f41d7164.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-681cbe90.js",
+      "_fetchPosts-5945b6ce.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-f44d66de.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-8d882636.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-681cbe90.js",
+      "_fetchPosts-5945b6ce.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-92bb5cf2.js",
+    "file": "pages/blog/page/_page_.svelte-8629e0bd.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-681cbe90.js",
+      "_fetchPosts-5945b6ce.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-2ab51829.js",
+    "file": "pages/blog/_post_.svelte-f52541da.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -269,7 +269,6 @@
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
-      "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
@@ -325,8 +324,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-681cbe90.js": {
-    "file": "chunks/fetchPosts-681cbe90.js",
+  "_fetchPosts-5945b6ce.js": {
+    "file": "chunks/fetchPosts-5945b6ce.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -371,7 +370,6 @@
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
-      "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
@@ -694,14 +692,6 @@
   "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md": {
     "file": "chunks/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30-031a0c62.js",
     "src": "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-48b2defe.js"
-    ]
-  },
-  "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md": {
-    "file": "chunks/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-73ff628b.js",
-    "src": "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
