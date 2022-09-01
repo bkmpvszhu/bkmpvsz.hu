@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-1510e51d.js",
+    "file": "start-50bb4ae9.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-d11c70fa.js",
+    "file": "pages/blog/category/page/_page_.svelte-362a8a17.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d640dba1.js",
+      "_fetchPosts-b20160b4.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-5ed39522.js",
+    "file": "pages/blog/category/_category_/index.svelte-ccd4673b.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d640dba1.js",
+      "_fetchPosts-b20160b4.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-a1f338c2.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-f9ffef32.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d640dba1.js",
+      "_fetchPosts-b20160b4.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-8fb63abe.js",
+    "file": "pages/blog/page/_page_.svelte-c6418549.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d640dba1.js",
+      "_fetchPosts-b20160b4.js",
       "_config-adbe04da.js",
       "_PostsList-b285387f.js",
       "_Pagination-2a040394.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-9d8682a6.js",
+    "file": "pages/blog/_post_.svelte-7a4cb8eb.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -324,8 +324,8 @@
       "_config-adbe04da.js"
     ]
   },
-  "_fetchPosts-d640dba1.js": {
-    "file": "chunks/fetchPosts-d640dba1.js",
+  "_fetchPosts-b20160b4.js": {
+    "file": "chunks/fetchPosts-b20160b4.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-adbe04da.js"
@@ -538,7 +538,7 @@
     ]
   },
   "src/lib/posts/kecskeméti-szc-kada-elek-technikum.md": {
-    "file": "chunks/kecskeméti-szc-kada-elek-technikum-8fa061a6.js",
+    "file": "chunks/kecskeméti-szc-kada-elek-technikum-dc80b237.js",
     "src": "src/lib/posts/kecskeméti-szc-kada-elek-technikum.md",
     "isDynamicEntry": true,
     "imports": [
