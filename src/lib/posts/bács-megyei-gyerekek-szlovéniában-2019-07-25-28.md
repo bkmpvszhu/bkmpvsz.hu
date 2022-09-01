@@ -1,6 +1,6 @@
 ---
 title: Bács megyei gyerekek Szlovéniában (2019. 07. 25-28.)
-date: 2022-09-01T19:15:19.870Z
+date: 2019-07-30T19:15:19.870Z
 coverImage: /images/szlovénia1.jpg
 categories:
   - ifjusag
