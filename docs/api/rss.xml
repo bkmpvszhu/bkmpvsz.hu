@@ -6,11 +6,35 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/példaértékű-összefogás-2020-12-05</guid>
+<title>Példaértékű összefogás (2020. 12. 05.)</title>
+<link>https://example.com/blog/példaértékű-összefogás-2020-12-05</link>
+<description>Széleskörű összefogásban vettek részt a Tüzes Kunok Mentőcsoport tagjai. </description>
+<pubDate>Fri, 02 Sep 2022 15:52:04 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/bevetésen-a-tüzes-kunok-járási-mentőcsoport</guid>
 <title>Bevetésen a Tüzes Kunok járási mentőcsoport</title>
 <link>https://example.com/blog/bevetésen-a-tüzes-kunok-járási-mentőcsoport</link>
 <description>Két jelentős erdőtűz megfékezésében vettek részt a Kiskunhalasi Tüzes Kunok Járási Mentőcsoport önkéntesei.</description>
 <pubDate>Wed, 20 Jul 2022 14:03:20 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/mentési-gyakorlat-a-„hírös-városban”</guid>
+<title>Mentési gyakorlat a „Hírös Városban” (2022. 06. 11.)</title>
+<link>https://example.com/blog/mentési-gyakorlat-a-„hírös-városban”</link>
+<description>A „Hírös Városban”, Kecskeméten a volt szovjet laktanyában 2022. június 11-én került sor a Híres Vakond Mentőcsoport 2022 évi ismétlő gyakorlatára és a Hírös Rescue Team nemzeti minősítő gyakorlatára a Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság szervezésében, a Bács-Kiskun Megyei Polgári Védelmi Szövetség és a Magyar Polgári Védelmi Szövetség támogatásával.</description>
+<pubDate>Tue, 14 Jun 2022 17:28:27 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/sikeres-újraminősítő-gyakorlat-kalocsán</guid>
+<title>Sikeres újraminősítő gyakorlat Kalocsán (2022. 05. 28.)</title>
+<link>https://example.com/blog/sikeres-újraminősítő-gyakorlat-kalocsán</link>
+<description>2022. május 27-28-án került sor Kalocsán a kalocsai járási Wesselényi Önkéntes Mentőcsoport újraminősítési gyakorlatára Kalocsa-Meszes Dunaparton.</description>
+<pubDate>Mon, 30 May 2022 14:39:41 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/megtartotta-éves-közgyűlését-a-bkm-pvsz</guid>
+<title>Megtartotta éves Közgyűlését a BKM PVSZ (2022. 05. 20.)</title>
+<link>https://example.com/blog/megtartotta-éves-közgyűlését-a-bkm-pvsz</link>
+<description>A Bács-Kiskun Megyei Polgári Védelmi Szövetség az Alapszabályában foglaltaknak megfelelően megtartotta a Közgyűlését, melyen a megjelentek elfogadták a 2021-es évben végzett tevékenységről szóló beszámolót, valamint a 2022. évi Munka- és Pénzügyi Tervet. </description>
+<pubDate>Fri, 20 May 2022 19:01:45 GMT</pubDate>
 </item><item>
 <guid isPermaLink="true">https://example.com/blog/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28</guid>
 <title>Katasztrófavédelmi ifjúsági verseny a Petőfi szigeten (2022. 04. 28.)</title>
@@ -60,6 +84,12 @@
 <description>A Kalocsai Tűzoltóság fennállásának 150. évfordulója alkalmából rendezett eseménysorozat részeként április 7-én 16 általános iskolai és 5 középiskolai csapat mérte össze tudását és ügyességét a Járási Ifjúsági Katasztrófavédelmi Versenyen. A Covid - járvány miatt két év elteltével megrendezett versenyt a Bajai Katasztrófavédelmi Kirendeltség és a Bács-Kiskun Megyei Polgárvédelmi Szövetség szervezte. </description>
 <pubDate>Sat, 09 Apr 2022 07:38:39 GMT</pubDate>
 </item><item>
+<guid isPermaLink="true">https://example.com/blog/példás-összefogással-találták-meg-a-kisfiút-1</guid>
+<title>Példás összefogással találták meg a kisfiút (2022. 03. 10.)</title>
+<link>https://example.com/blog/példás-összefogással-találták-meg-a-kisfiút-1</link>
+<description>Hivatásosok és önkéntesek, valamint civilek keresték azt a kisfiút, akit Tázlár külterületén, egy erdős területen veszítettek szem elől. A több mint hetven fő példás és gyors  összefogása meghozta az eredményét, még a sötétedés előtt megtalálták a gyermeket, aki örömmel bújt oda szüleihez. A kutatásban részt vett több Járási Mentőcsoport is.</description>
+<pubDate>Sun, 13 Mar 2022 18:22:15 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/hirek-2022-02-10</guid>
 <title>Polgári védelem napja</title>
 <link>https://example.com/blog/hirek-2022-02-10</link>
@@ -96,11 +126,29 @@
 <description> </description>
 <pubDate>Thu, 21 Oct 2021 15:17:49 GMT</pubDate>
 </item><item>
+<guid isPermaLink="true">https://example.com/blog/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23</guid>
+<title>Kiskunmajsa Járási Mentőcsoport szintentartó gyakorlata (2021. 09. 23.)</title>
+<link>https://example.com/blog/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23</link>
+<description>https://www.facebook.com/watch/?v=453994595917949</description>
+<pubDate>Sun, 26 Sep 2021 20:30:53 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/hirek-2021-09-24</guid>
 <title>Tisza-Part Mentőcsoport Nemzeti Minősítő Gyakorlata (2021. 09. 23.)</title>
 <link>https://example.com/blog/hirek-2021-09-24</link>
 <description>Tiszakécskén 2021. szeptember 23-án került sor a 2013-ban megalakult Tiszakécske Járási önkéntes Tisza-Part Mentőcsoport Nemzeti Minősítő Gyakorlatára</description>
 <pubDate>Fri, 24 Sep 2021 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/segítség-a-bajban</guid>
+<title>Segítség a bajban</title>
+<link>https://example.com/blog/segítség-a-bajban</link>
+<description>Július 9-én este az ormánsági Sellyét és a környező települések épületeit pusztító jégesővel kísért vihar tarolta le. Több száz ingatlan mellett a mezőgazdaság is komoly károkat szenvedett. Országos akció indult a bajba jutottak megsegítésért. </description>
+<pubDate>Sun, 11 Jul 2021 19:48:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/négy-éve-népszerű-a-tábor</guid>
+<title>Négy éve népszerű a tábor (2021. 07. 05-09.)</title>
+<link>https://example.com/blog/négy-éve-népszerű-a-tábor</link>
+<description>Tábor a rendvédelmi szervek mindennapjaiba nyerhetnek bepillantást a fiatalok a Katasztrófavédelmi tábor ideje alatt. A bajai rendvédelmi szervek már négy éve szervezik meg öt napos programot, amelynek egyik célja az önállóságra való nevelés.</description>
+<pubDate>Wed, 07 Jul 2021 20:07:00 GMT</pubDate>
 </item><item>
 <guid isPermaLink="true">https://example.com/blog/hirek-2021-06-30</guid>
 <title>In Memoriam Rausch Sándor</title>
@@ -120,90 +168,6 @@
 <description>Sikeres gyakorlaton vett részt 2021. június 19-én a Jánoshalmi járásban működő Felső-Bácskai Önkéntes Mentőcsoport. Az esemény Bács-Kiskun Megyei Polgári Védelmi Szövetség és Kiskunhalasi Katasztrófavédelmi Kirendeltséggel közösen került megszervezésre. A helyszín a Jánoshalma Kunfehértó közötti Erdőszéltől mintegy délre 3 km távolságra fekvő erdős területen került kijelölésre.</description>
 <pubDate>Mon, 21 Jun 2021 20:12:47 GMT</pubDate>
 </item><item>
-<guid isPermaLink="true">https://example.com/blog/hirek-2021-01-15</guid>
-<title>Gyűjtés a horvátországi földrengés áldozatainak</title>
-<link>https://example.com/blog/hirek-2021-01-15</link>
-<description></description>
-<pubDate>Fri, 15 Jan 2021 00:00:00 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/covid-eleni-fellépés</guid>
-<title>Covid eleni fellépés (2020. 11. 17.)</title>
-<link>https://example.com/blog/covid-eleni-fellépés</link>
-<description> </description>
-<pubDate>Tue, 17 Nov 2020 16:26:48 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/bács-megyei-gyerekek-szlovéniában-2019-07-25-28</guid>
-<title>Bács megyei gyerekek Szlovéniában (2019. 07. 25-28.)</title>
-<link>https://example.com/blog/bács-megyei-gyerekek-szlovéniában-2019-07-25-28</link>
-<description>Több mint egy évtizedes múltra tekint vissza az a nemzetközi diáktábor, melynek idei helyszíne a szlovéniai Zagorje ob Savi volt.</description>
-<pubDate>Tue, 30 Jul 2019 19:15:19 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26</guid>
-<title>Gyakorlatozott a Felső-Bácskai Önkéntes Mentőcsoport (2018. 05. 26.)</title>
-<link>https://example.com/blog/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26</link>
-<description>Szinten tartó gyakorlatot tartott Mélykúton 2018. május 26-án a Jánoshalmi járásban működő 20 fős Felső-Bácskai Önkéntes Mentőcsoport (FBÖMCS). Fő cél a vihar okozta károk felszámolásban való közreműködés ismereteinek elmélyítése volt.</description>
-<pubDate>Sun, 26 May 2019 13:17:52 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye</guid>
-<title>Bajai Szentistváni Általános Iskola Csávolyi tagintézménye (2018. 12. 13.)</title>
-<link>https://example.com/blog/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye</link>
-<description>  </description>
-<pubDate>Thu, 13 Dec 2018 19:09:41 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/hirek-2021-07-10</guid>
-<title>undefined</title>
-<link>https://example.com/blog/hirek-2021-07-10</link>
-<description>undefined</description>
-<pubDate>Invalid Date</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/példaértékű-összefogás-2020-12-05</guid>
-<title>Példaértékű összefogás (2020. 12. 05.)</title>
-<link>https://example.com/blog/példaértékű-összefogás-2020-12-05</link>
-<description>Széleskörű összefogásban vettek részt a Tüzes Kunok Mentőcsoport tagjai. </description>
-<pubDate>Fri, 02 Sep 2022 15:52:04 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/mentési-gyakorlat-a-„hírös-városban”</guid>
-<title>Mentési gyakorlat a „Hírös Városban” (2022. 06. 11.)</title>
-<link>https://example.com/blog/mentési-gyakorlat-a-„hírös-városban”</link>
-<description>A „Hírös Városban”, Kecskeméten a volt szovjet laktanyában 2022. június 11-én került sor a Híres Vakond Mentőcsoport 2022 évi ismétlő gyakorlatára és a Hírös Rescue Team nemzeti minősítő gyakorlatára a Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság szervezésében, a Bács-Kiskun Megyei Polgári Védelmi Szövetség és a Magyar Polgári Védelmi Szövetség támogatásával.</description>
-<pubDate>Tue, 14 Jun 2022 17:28:27 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/sikeres-újraminősítő-gyakorlat-kalocsán</guid>
-<title>Sikeres újraminősítő gyakorlat Kalocsán (2022. 05. 28.)</title>
-<link>https://example.com/blog/sikeres-újraminősítő-gyakorlat-kalocsán</link>
-<description>2022. május 27-28-án került sor Kalocsán a kalocsai járási Wesselényi Önkéntes Mentőcsoport újraminősítési gyakorlatára Kalocsa-Meszes Dunaparton.</description>
-<pubDate>Mon, 30 May 2022 14:39:41 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/megtartotta-éves-közgyűlését-a-bkm-pvsz</guid>
-<title>Megtartotta éves Közgyűlését a BKM PVSZ (2022. 05. 20.)</title>
-<link>https://example.com/blog/megtartotta-éves-közgyűlését-a-bkm-pvsz</link>
-<description>A Bács-Kiskun Megyei Polgári Védelmi Szövetség az Alapszabályában foglaltaknak megfelelően megtartotta a Közgyűlését, melyen a megjelentek elfogadták a 2021-es évben végzett tevékenységről szóló beszámolót, valamint a 2022. évi Munka- és Pénzügyi Tervet. </description>
-<pubDate>Fri, 20 May 2022 19:01:45 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/példás-összefogással-találták-meg-a-kisfiút-1</guid>
-<title>Példás összefogással találták meg a kisfiút (2022. 03. 10.)</title>
-<link>https://example.com/blog/példás-összefogással-találták-meg-a-kisfiút-1</link>
-<description>Hivatásosok és önkéntesek, valamint civilek keresték azt a kisfiút, akit Tázlár külterületén, egy erdős területen veszítettek szem elől. A több mint hetven fő példás és gyors  összefogása meghozta az eredményét, még a sötétedés előtt megtalálták a gyermeket, aki örömmel bújt oda szüleihez. A kutatásban részt vett több Járási Mentőcsoport is.</description>
-<pubDate>Sun, 13 Mar 2022 18:22:15 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23</guid>
-<title>Kiskunmajsa Járási Mentőcsoport szintentartó gyakorlata (2021. 09. 23.)</title>
-<link>https://example.com/blog/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23</link>
-<description>https://www.facebook.com/watch/?v=453994595917949</description>
-<pubDate>Sun, 26 Sep 2021 20:30:53 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/segítség-a-bajban</guid>
-<title>Segítség a bajban</title>
-<link>https://example.com/blog/segítség-a-bajban</link>
-<description>Július 9-én este az ormánsági Sellyét és a környező települések épületeit pusztító jégesővel kísért vihar tarolta le. Több száz ingatlan mellett a mezőgazdaság is komoly károkat szenvedett. Országos akció indult a bajba jutottak megsegítésért. </description>
-<pubDate>Sun, 11 Jul 2021 19:48:00 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://example.com/blog/négy-éve-népszerű-a-tábor</guid>
-<title>Négy éve népszerű a tábor (2021. 07. 05-09.)</title>
-<link>https://example.com/blog/négy-éve-népszerű-a-tábor</link>
-<description>Tábor a rendvédelmi szervek mindennapjaiba nyerhetnek bepillantást a fiatalok a Katasztrófavédelmi tábor ideje alatt. A bajai rendvédelmi szervek már négy éve szervezik meg öt napos programot, amelynek egyik célja az önállóságra való nevelés.</description>
-<pubDate>Wed, 07 Jul 2021 20:07:00 GMT</pubDate>
-</item><item>
 <guid isPermaLink="true">https://example.com/blog/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04</guid>
 <title>Móra mentőcsoport szintentartó gyakorlata (2021. 06. 04.)</title>
 <link>https://example.com/blog/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04</link>
@@ -215,6 +179,18 @@
 <link>https://example.com/blog/tüzes-kunok-szintentartó-gyakorlata-2021-05-08</link>
 <description>A kiskunhalasi, kiskunmajsai és tompai önkéntesekből álló szervezet hét évvel ezelőtt alakult meg és több alkalommal éles helyzetben is bizonyították rátermettségüket.</description>
 <pubDate>Tue, 11 May 2021 19:40:53 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/hirek-2021-01-15</guid>
+<title>Gyűjtés a horvátországi földrengés áldozatainak</title>
+<link>https://example.com/blog/hirek-2021-01-15</link>
+<description></description>
+<pubDate>Fri, 15 Jan 2021 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/covid-eleni-fellépés</guid>
+<title>Covid eleni fellépés (2020. 11. 17.)</title>
+<link>https://example.com/blog/covid-eleni-fellépés</link>
+<description> </description>
+<pubDate>Tue, 17 Nov 2020 16:26:48 GMT</pubDate>
 </item><item>
 <guid isPermaLink="true">https://example.com/blog/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30</guid>
 <title>Kiskunmajsai Járási Mentőcsoport gyakorlata (2020. 10. 30.)</title>
@@ -258,6 +234,12 @@
 <description> </description>
 <pubDate>Mon, 18 Nov 2019 00:00:00 GMT</pubDate>
 </item><item>
+<guid isPermaLink="true">https://example.com/blog/bács-megyei-gyerekek-szlovéniában-2019-07-25-28</guid>
+<title>Bács megyei gyerekek Szlovéniában (2019. 07. 25-28.)</title>
+<link>https://example.com/blog/bács-megyei-gyerekek-szlovéniában-2019-07-25-28</link>
+<description>Több mint egy évtizedes múltra tekint vissza az a nemzetközi diáktábor, melynek idei helyszíne a szlovéniai Zagorje ob Savi volt.</description>
+<pubDate>Tue, 30 Jul 2019 19:15:19 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/kepzesek-2019-06-22</guid>
 <title>Földrengető gyakorlat (2019. 06. 22)</title>
 <link>https://example.com/blog/kepzesek-2019-06-22</link>
@@ -270,6 +252,12 @@
 <description>Sugovica, Wesselényi és Kígyós Járási Mentőcsoportok újraminősítő gyakorlata</description>
 <pubDate>Sat, 01 Jun 2019 00:00:00 GMT</pubDate>
 </item><item>
+<guid isPermaLink="true">https://example.com/blog/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26</guid>
+<title>Gyakorlatozott a Felső-Bácskai Önkéntes Mentőcsoport (2018. 05. 26.)</title>
+<link>https://example.com/blog/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26</link>
+<description>Szinten tartó gyakorlatot tartott Mélykúton 2018. május 26-án a Jánoshalmi járásban működő 20 fős Felső-Bácskai Önkéntes Mentőcsoport (FBÖMCS). Fő cél a vihar okozta károk felszámolásban való közreműködés ismereteinek elmélyítése volt.</description>
+<pubDate>Sun, 26 May 2019 13:17:52 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/kepzesek-2019-05-10</guid>
 <title>Gyakorlatozott a települési Önkéntes Mentőcsoport (2019. 05. 10.)</title>
 <link>https://example.com/blog/kepzesek-2019-05-10</link>
@@ -281,6 +269,12 @@
 <link>https://example.com/blog/kepzesek-2019-02-05</link>
 <description> </description>
 <pubDate>Tue, 05 Feb 2019 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://example.com/blog/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye</guid>
+<title>Bajai Szentistváni Általános Iskola Csávolyi tagintézménye (2018. 12. 13.)</title>
+<link>https://example.com/blog/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye</link>
+<description>  </description>
+<pubDate>Thu, 13 Dec 2018 19:09:41 GMT</pubDate>
 </item><item>
 <guid isPermaLink="true">https://example.com/blog/szentisváni-általános-iskola-baja</guid>
 <title>Szentisváni Általános Iskola - Baja (2018. 12. 13.)</title>
