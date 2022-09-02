@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-2f3705cb.js",
+    "file": "start-1a48c2fa.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-425c34f4.js",
+    "file": "pages/blog/category/page/_page_.svelte-77f18177.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c2891f92.js",
+      "_fetchPosts-fba41cc6.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-9542b35c.js",
+    "file": "pages/blog/category/_category_/index.svelte-c5086457.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c2891f92.js",
+      "_fetchPosts-fba41cc6.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-67a27d67.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-a0bdf0a3.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c2891f92.js",
+      "_fetchPosts-fba41cc6.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-cd558810.js",
+    "file": "pages/blog/page/_page_.svelte-2312d16d.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c2891f92.js",
+      "_fetchPosts-fba41cc6.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-9400e3cd.js",
+    "file": "pages/blog/_post_.svelte-10a802e3.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -273,6 +273,7 @@
       "src/lib/posts/kepzesek-2019-11-18.md",
       "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
+      "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
       "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
@@ -332,8 +333,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-c2891f92.js": {
-    "file": "chunks/fetchPosts-c2891f92.js",
+  "_fetchPosts-fba41cc6.js": {
+    "file": "chunks/fetchPosts-fba41cc6.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -382,6 +383,7 @@
       "src/lib/posts/kepzesek-2019-11-18.md",
       "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
+      "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
       "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
@@ -740,6 +742,14 @@
   "src/lib/posts/kiskunmajsa-2016-04-27.md": {
     "file": "chunks/kiskunmajsa-2016-04-27-a5411de6.js",
     "src": "src/lib/posts/kiskunmajsa-2016-04-27.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md": {
+    "file": "chunks/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31-8745071d.js",
+    "src": "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
