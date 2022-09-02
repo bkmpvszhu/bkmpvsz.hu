@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-416629d2.js",
+    "file": "start-b4e3029a.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-a394672b.js",
+    "file": "pages/blog/category/page/_page_.svelte-6f7b1d04.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-87b37a69.js",
+      "_fetchPosts-4983fce8.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-a271e3d0.js",
+    "file": "pages/blog/category/_category_/index.svelte-2372acc1.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-87b37a69.js",
+      "_fetchPosts-4983fce8.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-346c77d3.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-57c4b2e7.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-87b37a69.js",
+      "_fetchPosts-4983fce8.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-169897d9.js",
+    "file": "pages/blog/page/_page_.svelte-f907af42.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-87b37a69.js",
+      "_fetchPosts-4983fce8.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-132d097b.js",
+    "file": "pages/blog/_post_.svelte-16aeed55.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -244,6 +244,7 @@
       "src/lib/posts/hirek-2021-11-01.md",
       "src/lib/posts/hirek-2021-11-15.md",
       "src/lib/posts/hirek-2022-02-10.md",
+      "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
@@ -345,8 +346,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-87b37a69.js": {
-    "file": "chunks/fetchPosts-87b37a69.js",
+  "_fetchPosts-4983fce8.js": {
+    "file": "chunks/fetchPosts-4983fce8.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -366,6 +367,7 @@
       "src/lib/posts/hirek-2021-11-01.md",
       "src/lib/posts/hirek-2021-11-15.md",
       "src/lib/posts/hirek-2022-02-10.md",
+      "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
@@ -534,6 +536,14 @@
   "src/lib/posts/hirek-2022-02-10.md": {
     "file": "chunks/hirek-2022-02-10-9341027f.js",
     "src": "src/lib/posts/hirek-2022-02-10.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md": {
+    "file": "chunks/iii-béla-gimnázium-baja-2018-12-13-e772a853.js",
+    "src": "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
