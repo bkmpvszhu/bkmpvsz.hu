@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-b4e3029a.js",
+    "file": "start-494c1aad.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-6f7b1d04.js",
+    "file": "pages/blog/category/page/_page_.svelte-e405a3c8.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4983fce8.js",
+      "_fetchPosts-6a6bc3ba.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-2372acc1.js",
+    "file": "pages/blog/category/_category_/index.svelte-ae5eb332.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4983fce8.js",
+      "_fetchPosts-6a6bc3ba.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-57c4b2e7.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-5a5df61e.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4983fce8.js",
+      "_fetchPosts-6a6bc3ba.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-f907af42.js",
+    "file": "pages/blog/page/_page_.svelte-b8d19cde.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4983fce8.js",
+      "_fetchPosts-6a6bc3ba.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-16aeed55.js",
+    "file": "pages/blog/_post_.svelte-a9015523.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -302,6 +302,7 @@
       "src/lib/posts/segítség-a-bajban.md",
       "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md",
       "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
+      "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md"
     ],
@@ -346,8 +347,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-4983fce8.js": {
-    "file": "chunks/fetchPosts-4983fce8.js",
+  "_fetchPosts-6a6bc3ba.js": {
+    "file": "chunks/fetchPosts-6a6bc3ba.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -425,6 +426,7 @@
       "src/lib/posts/segítség-a-bajban.md",
       "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md",
       "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
+      "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md"
     ]
@@ -542,7 +544,7 @@
     ]
   },
   "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md": {
-    "file": "chunks/iii-béla-gimnázium-baja-2018-12-13-e772a853.js",
+    "file": "chunks/iii-béla-gimnázium-baja-2018-12-13-bdf1fbf1.js",
     "src": "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
     "isDynamicEntry": true,
     "imports": [
@@ -1000,6 +1002,14 @@
   "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md": {
     "file": "chunks/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14-8ade7589.js",
     "src": "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md": {
+    "file": "chunks/szentistváni-általános-iskola-baja-2017-05-22-a8e5ca69.js",
+    "src": "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
