@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-366457c6.js",
+    "file": "start-5f4f4996.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-114e3737.js",
+    "file": "pages/blog/category/page/_page_.svelte-fb12e21b.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-20b16cbd.js",
+      "_fetchPosts-922ae5db.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-f9b5ef69.js",
+    "file": "pages/blog/category/_category_/index.svelte-e81fb28e.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-20b16cbd.js",
+      "_fetchPosts-922ae5db.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-6056ab40.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-64bbccc1.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-20b16cbd.js",
+      "_fetchPosts-922ae5db.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-7a319ef0.js",
+    "file": "pages/blog/page/_page_.svelte-9c9143a5.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-20b16cbd.js",
+      "_fetchPosts-922ae5db.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-b85c8080.js",
+    "file": "pages/blog/_post_.svelte-ee4fd4f1.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -273,6 +273,7 @@
       "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
+      "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
@@ -329,8 +330,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-20b16cbd.js": {
-    "file": "chunks/fetchPosts-20b16cbd.js",
+  "_fetchPosts-922ae5db.js": {
+    "file": "chunks/fetchPosts-922ae5db.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -379,6 +380,7 @@
       "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
+      "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
@@ -734,6 +736,14 @@
   "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md": {
     "file": "chunks/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23-2f534b97.js",
     "src": "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md": {
+    "file": "chunks/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31-a7dafedd.js",
+    "src": "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
