@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-cacb7751.js",
+    "file": "start-9da6d17f.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-df9c37be.js",
+    "file": "pages/blog/category/page/_page_.svelte-e807ebc5.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3bb8d4ce.js",
+      "_fetchPosts-7236cdbf.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-e13c0979.js",
+    "file": "pages/blog/category/_category_/index.svelte-8b3c11bf.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3bb8d4ce.js",
+      "_fetchPosts-7236cdbf.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-c1ad0dd4.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-aa611c5b.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3bb8d4ce.js",
+      "_fetchPosts-7236cdbf.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-ee0669d2.js",
+    "file": "pages/blog/page/_page_.svelte-38204904.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3bb8d4ce.js",
+      "_fetchPosts-7236cdbf.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-bf0ff274.js",
+    "file": "pages/blog/_post_.svelte-0a163072.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -286,6 +286,7 @@
       "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
       "src/lib/posts/segítség-a-bajban.md",
       "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md",
+      "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md"
     ],
@@ -330,8 +331,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-3bb8d4ce.js": {
-    "file": "chunks/fetchPosts-3bb8d4ce.js",
+  "_fetchPosts-7236cdbf.js": {
+    "file": "chunks/fetchPosts-7236cdbf.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -393,6 +394,7 @@
       "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
       "src/lib/posts/segítség-a-bajban.md",
       "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md",
+      "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md"
     ]
@@ -840,6 +842,14 @@
   "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md": {
     "file": "chunks/sikeres-újraminősítő-gyakorlat-kalocsán-41029033.js",
     "src": "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md": {
+    "file": "chunks/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14-81a84cca.js",
+    "src": "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
