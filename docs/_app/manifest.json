@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-8a9e1d37.js",
+    "file": "start-2388f39b.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-e975f879.js",
+    "file": "pages/blog/category/page/_page_.svelte-d7e52b45.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2e80f709.js",
+      "_fetchPosts-44e3c574.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-84f3f105.js",
+    "file": "pages/blog/category/_category_/index.svelte-df651cf2.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2e80f709.js",
+      "_fetchPosts-44e3c574.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-8455c27e.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-cd90b64a.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2e80f709.js",
+      "_fetchPosts-44e3c574.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-51943c59.js",
+    "file": "pages/blog/page/_page_.svelte-21524fcd.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2e80f709.js",
+      "_fetchPosts-44e3c574.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-2af0aad6.js",
+    "file": "pages/blog/_post_.svelte-3c5d1a36.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -342,8 +342,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-2e80f709.js": {
-    "file": "chunks/fetchPosts-2e80f709.js",
+  "_fetchPosts-44e3c574.js": {
+    "file": "chunks/fetchPosts-44e3c574.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -654,7 +654,7 @@
     ]
   },
   "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2020-09-17.md": {
-    "file": "chunks/kecskeméti-szc-széchenyi-istván-technikum-2020-09-17-4ba71379.js",
+    "file": "chunks/kecskeméti-szc-széchenyi-istván-technikum-2020-09-17-593c60f6.js",
     "src": "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2020-09-17.md",
     "isDynamicEntry": true,
     "imports": [
