@@ -1,5 +1,5 @@
 ---
-title: Covid eleni fellépés
+title: Covid eleni fellépés (2020. 11. 17.)
 date: 2020-11-17T16:26:48.395Z
 coverImage: /images/baptistaszeretetszolgalatkecskemet-scaled.jpg
 categories:
