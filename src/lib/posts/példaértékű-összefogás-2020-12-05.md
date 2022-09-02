@@ -1,6 +1,6 @@
 ---
 title: Példaértékű összefogás (2020. 12. 05.)
-date: 2022-09-02T15:52:04.123Z
+date: 2020-12-05T16:52:04.123Z
 coverImage: /images/20201205-1.jpg
 categories:
   - hirek
