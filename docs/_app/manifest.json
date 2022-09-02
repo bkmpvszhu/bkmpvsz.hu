@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-9597fe54.js",
+    "file": "start-b54cda74.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-f995da09.js",
+    "file": "pages/blog/category/page/_page_.svelte-a7233865.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9e21d3cb.js",
+      "_fetchPosts-38f10f7b.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-89d3cc82.js",
+    "file": "pages/blog/category/_category_/index.svelte-ac3619ba.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9e21d3cb.js",
+      "_fetchPosts-38f10f7b.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-705ffbb9.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-c129e3c3.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9e21d3cb.js",
+      "_fetchPosts-38f10f7b.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-5ec29d60.js",
+    "file": "pages/blog/page/_page_.svelte-6f50b01e.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9e21d3cb.js",
+      "_fetchPosts-38f10f7b.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-1016cf3d.js",
+    "file": "pages/blog/_post_.svelte-2fc8ae87.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -340,8 +340,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-9e21d3cb.js": {
-    "file": "chunks/fetchPosts-9e21d3cb.js",
+  "_fetchPosts-38f10f7b.js": {
+    "file": "chunks/fetchPosts-38f10f7b.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -914,7 +914,7 @@
     ]
   },
   "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md": {
-    "file": "chunks/példás-összefogással-találták-meg-a-kisfiút-1-26149ed4.js",
+    "file": "chunks/példás-összefogással-találták-meg-a-kisfiút-1-c37519c8.js",
     "src": "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
     "isDynamicEntry": true,
     "imports": [
