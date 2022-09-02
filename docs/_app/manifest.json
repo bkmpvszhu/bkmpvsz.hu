@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-b7bc3ef8.js",
+    "file": "start-83f4f44a.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-a81bdbab.js",
+    "file": "pages/blog/category/page/_page_.svelte-7b00f25e.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2a2aa72b.js",
+      "_fetchPosts-5c235ed7.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-9f135ca0.js",
+    "file": "pages/blog/category/_category_/index.svelte-7529fb7d.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2a2aa72b.js",
+      "_fetchPosts-5c235ed7.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-95b120ce.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-7f7beb32.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2a2aa72b.js",
+      "_fetchPosts-5c235ed7.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-41cb2cf9.js",
+    "file": "pages/blog/page/_page_.svelte-e8acbc2c.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2a2aa72b.js",
+      "_fetchPosts-5c235ed7.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-dbc09029.js",
+    "file": "pages/blog/_post_.svelte-be2717f0.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -250,6 +250,7 @@
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md",
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md",
       "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
+      "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md",
       "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md",
       "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
@@ -340,8 +341,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-2a2aa72b.js": {
-    "file": "chunks/fetchPosts-2a2aa72b.js",
+  "_fetchPosts-5c235ed7.js": {
+    "file": "chunks/fetchPosts-5c235ed7.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -367,6 +368,7 @@
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md",
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md",
       "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
+      "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md",
       "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md",
       "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
@@ -572,6 +574,14 @@
   "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md": {
     "file": "chunks/kecskeméti-bányai-júlia-gimnázium-2021-11-04-46385082.js",
     "src": "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md": {
+    "file": "chunks/kecskeméti-piarista-gimnázium-2020-09-25-bf84385e.js",
+    "src": "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
