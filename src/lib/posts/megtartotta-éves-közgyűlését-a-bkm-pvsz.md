@@ -1,5 +1,5 @@
 ---
-title: Megtartotta éves Közgyűlését a BKM PVSZ
+title: Megtartotta éves Közgyűlését a BKM PVSZ (2022. 05. 20.)
 date: 2022-05-20T19:01:45.217Z
 coverImage: /images/20220520-1.jpg
 categories:
