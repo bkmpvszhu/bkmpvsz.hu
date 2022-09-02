@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-14b9f56a.js",
+    "file": "start-416629d2.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-8e3c0519.js",
+    "file": "pages/blog/category/page/_page_.svelte-a394672b.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-66f610d8.js",
+      "_fetchPosts-87b37a69.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-d630be4c.js",
+    "file": "pages/blog/category/_category_/index.svelte-a271e3d0.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-66f610d8.js",
+      "_fetchPosts-87b37a69.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-00ccb810.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-346c77d3.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-66f610d8.js",
+      "_fetchPosts-87b37a69.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-09cdaa82.js",
+    "file": "pages/blog/page/_page_.svelte-169897d9.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-66f610d8.js",
+      "_fetchPosts-87b37a69.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-3ceb2b0d.js",
+    "file": "pages/blog/_post_.svelte-132d097b.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -253,6 +253,7 @@
       "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium-2019-09-27.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md",
+      "src/lib/posts/kecskeméti-református-gimnázium-2019-09-17.md",
       "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md",
       "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
@@ -344,8 +345,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-66f610d8.js": {
-    "file": "chunks/fetchPosts-66f610d8.js",
+  "_fetchPosts-87b37a69.js": {
+    "file": "chunks/fetchPosts-87b37a69.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -374,6 +375,7 @@
       "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium-2019-09-27.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md",
+      "src/lib/posts/kecskeméti-református-gimnázium-2019-09-17.md",
       "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
       "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md",
       "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
@@ -604,6 +606,14 @@
   "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md": {
     "file": "chunks/kecskeméti-piarista-gimnázium-2020-09-25-bf84385e.js",
     "src": "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-református-gimnázium-2019-09-17.md": {
+    "file": "chunks/kecskeméti-református-gimnázium-2019-09-17-a0d7af96.js",
+    "src": "src/lib/posts/kecskeméti-református-gimnázium-2019-09-17.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
