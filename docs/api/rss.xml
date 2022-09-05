@@ -6,6 +6,12 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/co-érzékelők-adományozása-2019-12-06</guid>
+<title>CO érzékelők adományozása (2019. 12. 06.)</title>
+<link>https://example.com/blog/co-érzékelők-adományozása-2019-12-06</link>
+<description> </description>
+<pubDate>Mon, 05 Sep 2022 17:46:06 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/bevetésen-a-tüzes-kunok-járási-mentőcsoport</guid>
 <title>Bevetésen a Tüzes Kunok járási mentőcsoport</title>
 <link>https://example.com/blog/bevetésen-a-tüzes-kunok-járási-mentőcsoport</link>

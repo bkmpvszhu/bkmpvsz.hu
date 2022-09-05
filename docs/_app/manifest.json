@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-4562ae33.js",
+    "file": "start-dd4f55f1.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-36fbbbb6.js",
+    "file": "pages/blog/category/page/_page_.svelte-86308464.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-afe8b08b.js",
+      "_fetchPosts-799aa8b7.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-94d1e6f0.js",
+    "file": "pages/blog/category/_category_/index.svelte-c3176315.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-afe8b08b.js",
+      "_fetchPosts-799aa8b7.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-b264ea09.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-244f018f.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-afe8b08b.js",
+      "_fetchPosts-799aa8b7.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-66d4c493.js",
+    "file": "pages/blog/page/_page_.svelte-aad35bc5.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-afe8b08b.js",
+      "_fetchPosts-799aa8b7.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-dca13192.js",
+    "file": "pages/blog/_post_.svelte-12f5749c.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -234,6 +234,7 @@
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md",
       "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md",
+      "src/lib/posts/co-érzékelők-adományozása-2019-12-06.md",
       "src/lib/posts/covid-eleni-fellépés.md",
       "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
       "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
@@ -348,8 +349,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-afe8b08b.js": {
-    "file": "chunks/fetchPosts-afe8b08b.js",
+  "_fetchPosts-799aa8b7.js": {
+    "file": "chunks/fetchPosts-799aa8b7.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -359,6 +360,7 @@
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md",
       "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md",
+      "src/lib/posts/co-érzékelők-adományozása-2019-12-06.md",
       "src/lib/posts/covid-eleni-fellépés.md",
       "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
       "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
@@ -460,6 +462,14 @@
   "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md": {
     "file": "chunks/bányai-júlia-gimnázium-2020-09-29-06ad567e.js",
     "src": "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/co-érzékelők-adományozása-2019-12-06.md": {
+    "file": "chunks/co-érzékelők-adományozása-2019-12-06-6755de90.js",
+    "src": "src/lib/posts/co-érzékelők-adományozása-2019-12-06.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
