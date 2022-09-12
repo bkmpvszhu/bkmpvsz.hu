@@ -1,5 +1,5 @@
 ---
-title: Katasztrófavédelmi ifjúsági verseny megyei döntőke (2017. 04. 12.)
+title: Katasztrófavédelmi ifjúsági verseny megyei döntője (2017. 04. 12.)
 date: 2017-04-12T21:45:20.551Z
 coverImage: /images/2017-04-12-index.jpg
 categories:
