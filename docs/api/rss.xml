@@ -6,6 +6,12 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31</guid>
+<title>Bács-Kiskun Megyei Polgári Védelmi Szövetség nemzetközi nyári tábora Baján (2022. 07. 27-31.)</title>
+<link>https://example.com/blog/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31</link>
+<description>Ez évben június 27-31 között szervezte meg a Bács-Kiskun Megyei Polgári Védelmi Szövetség 5 ország ifjúsági csapatainak részvételével a „Barátság” nemzetközi nyári táborát Baján.</description>
+<pubDate>Mon, 01 Aug 2022 17:20:18 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/bevetésen-a-tüzes-kunok-járási-mentőcsoport</guid>
 <title>Bevetésen a Tüzes Kunok járási mentőcsoport</title>
 <link>https://example.com/blog/bevetésen-a-tüzes-kunok-járási-mentőcsoport</link>

@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-8f880c98.js",
+    "file": "start-62866495.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-4249f12f.js",
+    "file": "pages/blog/category/page/_page_.svelte-47bc5a4c.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-62a0389d.js",
+      "_fetchPosts-23b665cc.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-8a735cb3.js",
+    "file": "pages/blog/category/_category_/index.svelte-a7330b9b.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-62a0389d.js",
+      "_fetchPosts-23b665cc.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-6f5cb4a5.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-3a196b6f.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-62a0389d.js",
+      "_fetchPosts-23b665cc.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-70bdce1e.js",
+    "file": "pages/blog/page/_page_.svelte-902907d6.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-62a0389d.js",
+      "_fetchPosts-23b665cc.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-291eec93.js",
+    "file": "pages/blog/_post_.svelte-f0e09a8c.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -232,6 +232,7 @@
     "dynamicImports": [
       "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
+      "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md",
       "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md",
       "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md",
       "src/lib/posts/co-érzékelők-adományozása-2018-11-26.md",
@@ -353,8 +354,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-62a0389d.js": {
-    "file": "chunks/fetchPosts-62a0389d.js",
+  "_fetchPosts-23b665cc.js": {
+    "file": "chunks/fetchPosts-23b665cc.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -362,6 +363,7 @@
     "dynamicImports": [
       "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
+      "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md",
       "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md",
       "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md",
       "src/lib/posts/co-érzékelők-adományozása-2018-11-26.md",
@@ -454,6 +456,14 @@
   "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md": {
     "file": "chunks/bevetésen-a-tüzes-kunok-járási-mentőcsoport-9cb917dc.js",
     "src": "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md": {
+    "file": "chunks/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31-e392be3a.js",
+    "src": "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
