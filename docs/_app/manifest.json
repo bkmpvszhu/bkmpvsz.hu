@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-62866495.js",
+    "file": "start-7e40d74f.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-47bc5a4c.js",
+    "file": "pages/blog/category/page/_page_.svelte-0d98d602.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-23b665cc.js",
+      "_fetchPosts-cd0d664b.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-a7330b9b.js",
+    "file": "pages/blog/category/_category_/index.svelte-36e11134.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-23b665cc.js",
+      "_fetchPosts-cd0d664b.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-3a196b6f.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-79c3a445.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-23b665cc.js",
+      "_fetchPosts-cd0d664b.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-902907d6.js",
+    "file": "pages/blog/page/_page_.svelte-c89f841d.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-23b665cc.js",
+      "_fetchPosts-cd0d664b.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-f0e09a8c.js",
+    "file": "pages/blog/_post_.svelte-8a8e6953.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -249,6 +249,7 @@
       "src/lib/posts/hirek-2022-02-10.md",
       "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
+      "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
@@ -354,8 +355,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-23b665cc.js": {
-    "file": "chunks/fetchPosts-23b665cc.js",
+  "_fetchPosts-cd0d664b.js": {
+    "file": "chunks/fetchPosts-cd0d664b.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -380,6 +381,7 @@
       "src/lib/posts/hirek-2022-02-10.md",
       "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
+      "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
@@ -592,6 +594,14 @@
   "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md": {
     "file": "chunks/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30-65fd3219.js",
     "src": "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md": {
+    "file": "chunks/jódtabletta-gyakorlat-2022-06-08-c0b7f48c.js",
+    "src": "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
