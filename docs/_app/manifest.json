@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-9e6a96c5.js",
+    "file": "start-a9ce045d.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-cef7ddf8.js",
+    "file": "pages/blog/category/page/_page_.svelte-65cd8584.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-69f4a935.js",
+      "_fetchPosts-a00a545f.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-aedd67e0.js",
+    "file": "pages/blog/category/_category_/index.svelte-bfb6112c.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-69f4a935.js",
+      "_fetchPosts-a00a545f.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-af92f06d.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-9587b8c3.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-69f4a935.js",
+      "_fetchPosts-a00a545f.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-263aca30.js",
+    "file": "pages/blog/page/_page_.svelte-040dcb36.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-69f4a935.js",
+      "_fetchPosts-a00a545f.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-7bf84360.js",
+    "file": "pages/blog/_post_.svelte-0000d3b2.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -255,6 +255,7 @@
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2019-04-11.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12.md",
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md",
       "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium-2019-09-27.md",
@@ -359,8 +360,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-69f4a935.js": {
-    "file": "chunks/fetchPosts-69f4a935.js",
+  "_fetchPosts-a00a545f.js": {
+    "file": "chunks/fetchPosts-a00a545f.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -391,6 +392,7 @@
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2019-04-11.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12.md",
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md",
       "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium-2019-09-27.md",
@@ -650,6 +652,14 @@
   "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md": {
     "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28-7d2868a3.js",
     "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12.md": {
+    "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12-e8a05995.js",
+    "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
