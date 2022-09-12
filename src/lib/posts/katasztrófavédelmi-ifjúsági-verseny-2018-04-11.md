@@ -3,7 +3,7 @@ title: Katasztrófavédelmi ifjúsági verseny (2018. 04. 11.)
 date: 2018-04-11T21:05:55.577Z
 coverImage: /images/2018-04-11-7.jpg
 categories:
-  - hirek
+  - ifjusag
 excerpt: "A korábbi rendnek megfelelően ismét az ágasegyházai bázis adott
   otthont a Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság és a Bács-Kiskun
   Megyei Polgári Védelmi Szövetség közös rendezvényének. "
