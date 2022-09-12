@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-88b5409a.js",
+    "file": "start-5d31765c.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-05eb9d3e.js",
+    "file": "pages/blog/category/page/_page_.svelte-f3698c71.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-949009fd.js",
+      "_fetchPosts-b615c626.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-1afd01e0.js",
+    "file": "pages/blog/category/_category_/index.svelte-ada6cb01.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-949009fd.js",
+      "_fetchPosts-b615c626.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-a819e3f2.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-d7039e75.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-949009fd.js",
+      "_fetchPosts-b615c626.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-3a8dac77.js",
+    "file": "pages/blog/page/_page_.svelte-371f54a8.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-949009fd.js",
+      "_fetchPosts-b615c626.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-1bd14c30.js",
+    "file": "pages/blog/_post_.svelte-6c7f37fb.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -299,6 +299,7 @@
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
       "src/lib/posts/móra-járási-mentőcsoport-gyakorlata-2018-06-19.md",
       "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
+      "src/lib/posts/nemzetközi-polgári-védelmi-nap-2018-03-01.md",
       "src/lib/posts/nemzetközi-polgári-védelmi-nap-2019-03-01.md",
       "src/lib/posts/nemzetközi-tábor-bajmok-2018-06-26-29.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
@@ -356,8 +357,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-949009fd.js": {
-    "file": "chunks/fetchPosts-949009fd.js",
+  "_fetchPosts-b615c626.js": {
+    "file": "chunks/fetchPosts-b615c626.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -432,6 +433,7 @@
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
       "src/lib/posts/móra-járási-mentőcsoport-gyakorlata-2018-06-19.md",
       "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
+      "src/lib/posts/nemzetközi-polgári-védelmi-nap-2018-03-01.md",
       "src/lib/posts/nemzetközi-polgári-védelmi-nap-2019-03-01.md",
       "src/lib/posts/nemzetközi-tábor-bajmok-2018-06-26-29.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
@@ -996,6 +998,14 @@
   "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md": {
     "file": "chunks/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04-ac55921c.js",
     "src": "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/nemzetközi-polgári-védelmi-nap-2018-03-01.md": {
+    "file": "chunks/nemzetközi-polgári-védelmi-nap-2018-03-01-681416a7.js",
+    "src": "src/lib/posts/nemzetközi-polgári-védelmi-nap-2018-03-01.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
