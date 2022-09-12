@@ -11,15 +11,11 @@ excerpt: A katasztrófavédelmi ifjúsági verseny megyei döntőjén azok az á
   megrendezett helyi versenyekre - a korábbi évekhez hasonlóan - több száz
   versenyző érkezett, hogy összemérjék tudásukat, ügyességüket.
 ---
-
-
 ![](/images/2019-04-11-6.jpg)
 
 ![](/images/2019-04-11-1.jpg)
 
 ![](/images/2019-04-11-2.jpg)
-
-
 
 ![](/images/2019-04-11-3.jpg)
 
@@ -51,8 +47,8 @@ II. helyezett Kalocsai Szent István Gimnázium – Stúdió Brigád
 
 III. helyezett KSZC Dékáni Árpád Szakgimnáziuma és Szakközépiskolája – Dékáni I. csapata
 
-Gratulálunk!
+A﻿ versenyt megtekintette Gáspár József, a Magyar Polgári Védelmi Szövetség vezetőségi tagja, aki elismerő szavakkal méltatta a példás rendezést, külön kiemelve a Bács-Kiskun Megyei Polgári Védelmi Szövetség hozzájárulását a sikeres rendezvényhez, illetve  kiemelte Szövetség Bajai koordinátorának Balatonné Sáfrány Erikának munkáját, aki az általános iskola első helyezett csapatának felkészítője is volt egyben.
 
- 
+Gratulálunk!
 
 Fotó: Kovács Andrea tű. főhadnagy
