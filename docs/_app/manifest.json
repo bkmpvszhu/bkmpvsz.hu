@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-408be6ab.js",
+    "file": "start-5f42be15.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-0f8cccc4.js",
+    "file": "pages/blog/category/page/_page_.svelte-f55f1627.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-588481e0.js",
+      "_fetchPosts-3f5f705f.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-b4a69f59.js",
+    "file": "pages/blog/category/_category_/index.svelte-e1f7d099.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-588481e0.js",
+      "_fetchPosts-3f5f705f.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-d9d6f569.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-81545cf5.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-588481e0.js",
+      "_fetchPosts-3f5f705f.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-7682e483.js",
+    "file": "pages/blog/page/_page_.svelte-eaa680a5.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-588481e0.js",
+      "_fetchPosts-3f5f705f.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-99a43313.js",
+    "file": "pages/blog/_post_.svelte-54e54d64.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -321,6 +321,7 @@
       "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
       "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
+      "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md"
     ],
     "css": [
@@ -364,8 +365,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-588481e0.js": {
-    "file": "chunks/fetchPosts-588481e0.js",
+  "_fetchPosts-3f5f705f.js": {
+    "file": "chunks/fetchPosts-3f5f705f.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -462,6 +463,7 @@
       "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
       "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
+      "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md"
     ]
   },
@@ -1188,6 +1190,14 @@
   "src/lib/posts/szentisváni-általános-iskola-baja.md": {
     "file": "chunks/szentisváni-általános-iskola-baja-16f2aaff.js",
     "src": "src/lib/posts/szentisváni-általános-iskola-baja.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md": {
+    "file": "chunks/tisztújító-közgyűlés-2018-02-02-48de888a.js",
+    "src": "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
