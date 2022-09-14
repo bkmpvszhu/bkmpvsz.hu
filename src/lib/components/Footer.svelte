@@ -18,8 +18,8 @@
 				<span>+36/20-952-2306</span>
 			</li>
 			<li>
-				<Icon icon="cil:fax" />
-				<span>+36/76-952-2306</span>
+				<Icon icon="eva:phone-call-outline" />
+				<span>+36/20-453-1728</span>
 			</li>
 			<li>
 				<Icon icon="carbon:email" />
@@ -36,6 +36,7 @@
 		<li>Bankszámlaszám: 11732002-20414601</li>
 		<li>Adószám: 18367186-1-03</li>
 		<li>&copy;{new Date().getFullYear()} {siteAuthor}</li>
+		<li><a href="/pdfs/alapszabaly.pdf" rel=external>Alapszabály</a></li>
 	</ul>
 
 </footer>
