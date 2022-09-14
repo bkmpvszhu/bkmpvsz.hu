@@ -36,7 +36,7 @@
 		<li>Bankszámlaszám: 11732002-20414601</li>
 		<li>Adószám: 18367186-1-03</li>
 		<li>&copy;{new Date().getFullYear()} {siteAuthor}</li>
-		<li><a href="/pdfs/Alapszabály.pdf" rel=external>Alapszabály</a></li>
+		<li><a href="/pdfs/alapszabaly.pdf" rel=external>Alapszabály</a></li>
 	</ul>
 
 </footer>
