@@ -1,6 +1,6 @@
 ---
-title: Ifjúsági tábor a Szilágyságban
-date: 2022-10-05T20:54:19.649Z
+title: Ifjúsági tábor a Szilágyságban (2015. 08. 6-10.)
+date: 2015-08-10T20:54:19.649Z
 coverImage: /images/indexkép.jpg
 categories:
   - ifjusag

@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-d00a45a7.js",
+    "file": "start-893dd56d.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-da4be6e1.js",
+    "file": "pages/blog/category/page/_page_.svelte-f2151b51.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-24fce08c.js",
+      "_fetchPosts-d307dbfc.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-51d6bad7.js",
+    "file": "pages/blog/category/_category_/index.svelte-54727799.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-24fce08c.js",
+      "_fetchPosts-d307dbfc.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-efa1b9f4.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-eda19ce2.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-24fce08c.js",
+      "_fetchPosts-d307dbfc.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-77f03836.js",
+    "file": "pages/blog/page/_page_.svelte-943f6329.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-24fce08c.js",
+      "_fetchPosts-d307dbfc.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-535bf4f8.js",
+    "file": "pages/blog/_post_.svelte-d3f4d25d.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -367,8 +367,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-24fce08c.js": {
-    "file": "chunks/fetchPosts-24fce08c.js",
+  "_fetchPosts-d307dbfc.js": {
+    "file": "chunks/fetchPosts-d307dbfc.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -616,7 +616,7 @@
     ]
   },
   "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md": {
-    "file": "chunks/ifjúsági-tábor-a-szilágyságban-a9f72b1b.js",
+    "file": "chunks/ifjúsági-tábor-a-szilágyságban-afc53056.js",
     "src": "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
     "isDynamicEntry": true,
     "imports": [
