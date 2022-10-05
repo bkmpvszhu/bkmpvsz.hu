@@ -6,6 +6,12 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/ifjúsági-tábor-a-szilágyságban</guid>
+<title>Ifjúsági tábor a Szilágyságban</title>
+<link>https://example.com/blog/ifjúsági-tábor-a-szilágyságban</link>
+<description>A sarmasági S.O.S. Alapítvány Ippen rendezte meg augusztus 6–10. között a X. Nemzetközi Ifjúsági Tűzoltótábort. A táborba a Bács-Kiskun Megyei Polgári Védelmi Szövetséget a Katasztrófavédelmi Ifjúsági Verseny Megyei fordulójának győztes csapatai képviselték, az Aranycsapat és az Aranyosok, akik valamennyien a kiskunmajsai Arany János Általános Iskola volt és jelenlegi tanulói.</description>
+<pubDate>Wed, 05 Oct 2022 20:54:19 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31</guid>
 <title>Bács-Kiskun Megyei Polgári Védelmi Szövetség nemzetközi nyári tábora Baján (2022. 07. 27-31.)</title>
 <link>https://example.com/blog/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31</link>

@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-e8d5e292.js",
+    "file": "start-d00a45a7.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-c46bed16.js",
+    "file": "pages/blog/category/page/_page_.svelte-da4be6e1.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4039ba4a.js",
+      "_fetchPosts-24fce08c.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-f63cb32a.js",
+    "file": "pages/blog/category/_category_/index.svelte-51d6bad7.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4039ba4a.js",
+      "_fetchPosts-24fce08c.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-7861be52.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-efa1b9f4.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4039ba4a.js",
+      "_fetchPosts-24fce08c.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-c1946210.js",
+    "file": "pages/blog/page/_page_.svelte-77f03836.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4039ba4a.js",
+      "_fetchPosts-24fce08c.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-228f43cc.js",
+    "file": "pages/blog/_post_.svelte-535bf4f8.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -248,6 +248,7 @@
       "src/lib/posts/hirek-2021-09-24.md",
       "src/lib/posts/hirek-2021-11-01.md",
       "src/lib/posts/hirek-2021-11-15.md",
+      "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
       "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
       "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
@@ -366,8 +367,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-4039ba4a.js": {
-    "file": "chunks/fetchPosts-4039ba4a.js",
+  "_fetchPosts-24fce08c.js": {
+    "file": "chunks/fetchPosts-24fce08c.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -391,6 +392,7 @@
       "src/lib/posts/hirek-2021-09-24.md",
       "src/lib/posts/hirek-2021-11-01.md",
       "src/lib/posts/hirek-2021-11-15.md",
+      "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
       "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
       "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
@@ -608,6 +610,14 @@
   "src/lib/posts/hirek-2021-11-15.md": {
     "file": "chunks/hirek-2021-11-15-aaa3485f.js",
     "src": "src/lib/posts/hirek-2021-11-15.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md": {
+    "file": "chunks/ifjúsági-tábor-a-szilágyságban-a9f72b1b.js",
+    "src": "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
