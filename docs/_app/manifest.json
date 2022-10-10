@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-31b0d76b.js",
+    "file": "start-311b2e0c.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-1e80cfdb.js",
+    "file": "pages/blog/category/page/_page_.svelte-dd2b8abe.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f3d56f27.js",
+      "_fetchPosts-4209d80a.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-48fe6445.js",
+    "file": "pages/blog/category/_category_/index.svelte-adbe8ef3.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f3d56f27.js",
+      "_fetchPosts-4209d80a.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-f2a272be.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-e57e81be.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f3d56f27.js",
+      "_fetchPosts-4209d80a.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-36bcea8d.js",
+    "file": "pages/blog/page/_page_.svelte-f0652903.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f3d56f27.js",
+      "_fetchPosts-4209d80a.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-84edb5e1.js",
+    "file": "pages/blog/_post_.svelte-2251e304.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -326,6 +326,7 @@
       "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
       "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
+      "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
       "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md"
@@ -371,8 +372,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-f3d56f27.js": {
-    "file": "chunks/fetchPosts-f3d56f27.js",
+  "_fetchPosts-4209d80a.js": {
+    "file": "chunks/fetchPosts-4209d80a.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -474,6 +475,7 @@
       "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
       "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
+      "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
       "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md"
@@ -1242,6 +1244,14 @@
   "src/lib/posts/szentisváni-általános-iskola-baja.md": {
     "file": "chunks/szentisváni-általános-iskola-baja-16f2aaff.js",
     "src": "src/lib/posts/szentisváni-általános-iskola-baja.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md": {
+    "file": "chunks/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25-bd10c40d.js",
+    "src": "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
