@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-311b2e0c.js",
+    "file": "start-640cef07.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-dd2b8abe.js",
+    "file": "pages/blog/category/page/_page_.svelte-7280a0da.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4209d80a.js",
+      "_fetchPosts-37a373e4.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-adbe8ef3.js",
+    "file": "pages/blog/category/_category_/index.svelte-a9880962.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4209d80a.js",
+      "_fetchPosts-37a373e4.js",
       "_PostsList-b285387f.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-e57e81be.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-0552ce2a.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4209d80a.js",
+      "_fetchPosts-37a373e4.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-f0652903.js",
+    "file": "pages/blog/page/_page_.svelte-1d6facd1.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4209d80a.js",
+      "_fetchPosts-37a373e4.js",
       "_config-9de8a8bc.js",
       "_PostsList-b285387f.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-2251e304.js",
+    "file": "pages/blog/_post_.svelte-aa9a92f3.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -241,6 +241,7 @@
       "src/lib/posts/co-érzékelők-adományozása-2019-12-06.md",
       "src/lib/posts/covid-eleni-fellépés.md",
       "src/lib/posts/együttműködés-a-honvédséggel.md",
+      "src/lib/posts/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27.md",
       "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
       "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
       "src/lib/posts/hirek-2021-01-15.md",
@@ -372,8 +373,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-4209d80a.js": {
-    "file": "chunks/fetchPosts-4209d80a.js",
+  "_fetchPosts-37a373e4.js": {
+    "file": "chunks/fetchPosts-37a373e4.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -390,6 +391,7 @@
       "src/lib/posts/co-érzékelők-adományozása-2019-12-06.md",
       "src/lib/posts/covid-eleni-fellépés.md",
       "src/lib/posts/együttműködés-a-honvédséggel.md",
+      "src/lib/posts/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27.md",
       "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
       "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
       "src/lib/posts/hirek-2021-01-15.md",
@@ -564,6 +566,14 @@
   "src/lib/posts/együttműködés-a-honvédséggel.md": {
     "file": "chunks/együttműködés-a-honvédséggel-53b852bb.js",
     "src": "src/lib/posts/együttműködés-a-honvédséggel.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27.md": {
+    "file": "chunks/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27-2d4df9bc.js",
+    "src": "src/lib/posts/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
