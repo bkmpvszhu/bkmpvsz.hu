@@ -20,7 +20,7 @@ Ezt követően emlékplakettek és elismerések átadására került sor. **Dr.
 
 A Bács-Kiskun Megyei Polgári Védelmi Szövetség által alapított Benke László emlékplakett elismerésben minden évben legfeljebb két fő részesül, akik kimagasló munkát végeztek a szövetség célkitűzéseinek megvalósulásában. Ebben az évben, azonban három embernek ítélte oda a díjat a vezetőség, az egyik díjat már csak posztumusz adhattuk át Gyetvai István János úrnak. A díjat felesége vette át. 
 
-**Dr. Ferenczy István**, a Bács-Kiskun Megyei Polgári Védelmi Szövetség tiszteletbeli elnöke, az elmúlt időszakban a tanuló ifjúság érdekében végzett kiemelkedő tevékenységéért Benke László emlékplakettet adományozott:  
+**Dr. Ferenczy István**, a Bács-Kiskun Megyei Polgári Védelmi Szövetség tiszteletbeli elnöke, az elmúlt időszakban a tanuló ifjúság érdekében végzett kiemelkedő tevékenységéért Benke László emlékplakettet adományozott:  **Faludi Éva Szidónia** asszonynak, és **Lakatos Tamás** úrnak, a szövetség kiskunmajsai tagjainak.
 
 ![](/images/20150228-1.jpg)
 
@@ -31,5 +31,3 @@ A Bács-Kiskun Megyei Polgári Védelmi Szövetség által alapított Benke Lás
 ![](/images/20150228-4.jpg)
 
 ![](/images/20150228-5.jpg)
-
-**Faludi Éva Szidónia** asszonynak, és **Lakatos Tamás** úrnak, a szövetség kiskunmajsai tagjainak.
