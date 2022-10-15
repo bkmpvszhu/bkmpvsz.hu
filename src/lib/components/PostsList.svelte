@@ -32,6 +32,7 @@
 							width={post.coverWidth}
 							height={post.coverHeight}
 							style="ratio: {post.coverWidth} / {post.coverHeight}"
+							class:scale-down="{post.scaleDown}"
 					/>
 					<h2>
 						{post.title}
@@ -75,5 +76,9 @@
 
 	.pinned {
 		text-align: justify;
+	}
+
+	.scale-down {
+		object-fit: scale-down !important;
 	}
 </style>
