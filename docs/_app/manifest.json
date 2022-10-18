@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-630df900.js",
+    "file": "start-bb723464.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-b419efcc.js",
+    "file": "pages/blog/category/page/_page_.svelte-9b825462.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-108b18b0.js",
+      "_fetchPosts-a530db44.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-2d6a7ac3.js",
+    "file": "pages/blog/category/_category_/index.svelte-31976d56.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-108b18b0.js",
+      "_fetchPosts-a530db44.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-9663334d.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-519b6409.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-108b18b0.js",
+      "_fetchPosts-a530db44.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-b125d54e.js",
+    "file": "pages/blog/page/_page_.svelte-128f2018.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-108b18b0.js",
+      "_fetchPosts-a530db44.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-c3a92d31.js",
+    "file": "pages/blog/_post_.svelte-8f038e8b.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -375,8 +375,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-108b18b0.js": {
-    "file": "chunks/fetchPosts-108b18b0.js",
+  "_fetchPosts-a530db44.js": {
+    "file": "chunks/fetchPosts-a530db44.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -488,7 +488,7 @@
     ]
   },
   "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md": {
-    "file": "chunks/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2e45c24e.js",
+    "file": "chunks/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-7458f1d9.js",
     "src": "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
     "isDynamicEntry": true,
     "imports": [
