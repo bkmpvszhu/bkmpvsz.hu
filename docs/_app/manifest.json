@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-91097f4c.js",
+    "file": "start-630df900.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-5d9fe2d1.js",
+    "file": "pages/blog/category/page/_page_.svelte-b419efcc.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-00ca663b.js",
+      "_fetchPosts-108b18b0.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-bd27d62e.js",
+    "file": "pages/blog/category/_category_/index.svelte-2d6a7ac3.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-00ca663b.js",
+      "_fetchPosts-108b18b0.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-cb5ee9a7.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-9663334d.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-00ca663b.js",
+      "_fetchPosts-108b18b0.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-2f946793.js",
+    "file": "pages/blog/page/_page_.svelte-b125d54e.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-00ca663b.js",
+      "_fetchPosts-108b18b0.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-cbf1dfb7.js",
+    "file": "pages/blog/_post_.svelte-c3a92d31.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -230,6 +230,7 @@
       "_vendor-48b2defe.js"
     ],
     "dynamicImports": [
+      "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md",
@@ -374,13 +375,14 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-00ca663b.js": {
-    "file": "chunks/fetchPosts-00ca663b.js",
+  "_fetchPosts-108b18b0.js": {
+    "file": "chunks/fetchPosts-108b18b0.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
     ],
     "dynamicImports": [
+      "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md",
@@ -483,6 +485,14 @@
       "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md"
+    ]
+  },
+  "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md": {
+    "file": "chunks/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2e45c24e.js",
+    "src": "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
     ]
   },
   "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md": {

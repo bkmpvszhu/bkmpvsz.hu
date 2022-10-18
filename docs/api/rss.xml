@@ -6,6 +6,12 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata</guid>
+<title>A Bács-Kiskun megyei Petőfi Mentőcsoport nemzeti újraminősítő gyakorlata</title>
+<link>https://example.com/blog/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata</link>
+<description>2022. október 14-15-én Hartán került sor a 2012-ben alakult és korábban nemzeti minősítést szerzett területi rendeltetésű Bács-Kiskun megyei Petőfi Mentőcsoport újraminősítő gyakorlatára. </description>
+<pubDate>Sat, 15 Oct 2022 19:04:55 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31</guid>
 <title>Bács-Kiskun Megyei Polgári Védelmi Szövetség nemzetközi nyári tábora Baján (2022. 07. 27-31.)</title>
 <link>https://example.com/blog/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31</link>
