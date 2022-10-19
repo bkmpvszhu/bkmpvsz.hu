@@ -6,6 +6,12 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19</guid>
+<title>Kerekasztal beszélgetés civil szervezetek képviselőivel (2022. 10. 19.)</title>
+<link>https://example.com/blog/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19</link>
+<description>A Bács-Kiskun Megyei Civil Közösségi Központ szervezésében „Megyejárás” címmel kerekasztal beszélgetést rendeztek civil szervezetek részére a Kecskeméti Városházán, melyen a Bács-Kiskun Megyei Polgári Védelmi Szövetség is képviseltette magát.</description>
+<pubDate>Wed, 19 Oct 2022 18:37:35 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata</guid>
 <title>A Bács-Kiskun megyei Petőfi Mentőcsoport nemzeti újraminősítő gyakorlata (2022.10.15.)</title>
 <link>https://example.com/blog/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata</link>
