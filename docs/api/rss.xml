@@ -6,6 +6,12 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/co-érzékelők-adományozása</guid>
+<title>CO érzékelők adományozása</title>
+<link>https://example.com/blog/co-érzékelők-adományozása</link>
+<description>2017-ben indítottuk azt a programot, melynek keretében olyan településeknek részére adományozunk szén-monoxid érzékelőket, melyek tagságukkal erősítik szervezetünket.</description>
+<pubDate>Tue, 25 Oct 2022 16:55:36 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19</guid>
 <title>Kerekasztal beszélgetés civil szervezetek képviselőivel (2022. 10. 19.)</title>
 <link>https://example.com/blog/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19</link>
