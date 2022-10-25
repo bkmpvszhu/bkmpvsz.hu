@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-1b482f5e.js",
+    "file": "start-f6e91b60.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-68394a9c.js",
+    "file": "pages/blog/category/page/_page_.svelte-b758ee77.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-64a54ccb.js",
+      "_fetchPosts-2b6405ff.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-eb356133.js",
+    "file": "pages/blog/category/_category_/index.svelte-c49b5857.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-64a54ccb.js",
+      "_fetchPosts-2b6405ff.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-a458f09a.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-2ba71171.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-64a54ccb.js",
+      "_fetchPosts-2b6405ff.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-6b19bd0d.js",
+    "file": "pages/blog/page/_page_.svelte-ed1c9bcb.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-64a54ccb.js",
+      "_fetchPosts-2b6405ff.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-822bc741.js",
+    "file": "pages/blog/_post_.svelte-63c80a62.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -380,8 +380,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-64a54ccb.js": {
-    "file": "chunks/fetchPosts-64a54ccb.js",
+  "_fetchPosts-2b6405ff.js": {
+    "file": "chunks/fetchPosts-2b6405ff.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -578,7 +578,7 @@
     ]
   },
   "src/lib/posts/co-érzékelők-adományozása.md": {
-    "file": "chunks/co-érzékelők-adományozása-cf24f546.js",
+    "file": "chunks/co-érzékelők-adományozása-07f50bd9.js",
     "src": "src/lib/posts/co-érzékelők-adományozása.md",
     "isDynamicEntry": true,
     "imports": [
