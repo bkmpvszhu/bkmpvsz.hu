@@ -6,6 +6,12 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/adomány-ukrajnába-2022-11-07</guid>
+<title>Adomány Ukrajnába (2022. 11. 07.)</title>
+<link>https://example.com/blog/adomány-ukrajnába-2022-11-07</link>
+<description>40 polár takaróval járulunk hozzá a hidegben nélkülöző kárpátaljai lakosság szenvedéseinek csökkentéséhez.</description>
+<pubDate>Wed, 09 Nov 2022 20:04:24 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/co-érzékelők-adományozása</guid>
 <title>CO érzékelők adományozása (2022. 10. 25.)</title>
 <link>https://example.com/blog/co-érzékelők-adományozása</link>
