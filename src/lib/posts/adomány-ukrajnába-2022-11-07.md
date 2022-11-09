@@ -1,7 +1,7 @@
 ---
 title: Adomány Ukrajnába (2022. 11. 07.)
 date: 2022-11-09T20:04:24.990Z
-coverImage: /images/20221107-2.jpg
+coverImage: /images/20221107-6.jpg
 categories:
   - hirek
 excerpt: 40 polár takaróval járulunk hozzá a hidegben nélkülöző kárpátaljai
@@ -11,7 +11,7 @@ excerpt: 40 polár takaróval járulunk hozzá a hidegben nélkülöző kárpát
 
 ![](/images/20221107-5.jpg)
 
-![](/images/20221107-6.jpg)
+![]()
 
 A polgári védelem eredendő célja a fegyveres összeütközés esetén a (hátországban lévő) lakosság életének és anyagi javainak megóvása, az életben maradás feltételeinek biztosítása, a lakosság felkészítése azok hatásainak leküzdése és a túlélés feltételeinek megteremtése érdekében.
 
