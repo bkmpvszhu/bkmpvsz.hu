@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-bad2973e.js",
+    "file": "start-1c9eb8b6.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-04bab6fb.js",
+    "file": "pages/blog/category/page/_page_.svelte-fe0b3d75.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5c1c9b24.js",
+      "_fetchPosts-e4a61f96.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-aff49ead.js",
+    "file": "pages/blog/category/_category_/index.svelte-197e95e5.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5c1c9b24.js",
+      "_fetchPosts-e4a61f96.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-4bdeed96.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-081062b6.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5c1c9b24.js",
+      "_fetchPosts-e4a61f96.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-fb4adb32.js",
+    "file": "pages/blog/page/_page_.svelte-1a751033.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5c1c9b24.js",
+      "_fetchPosts-e4a61f96.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-bb25772d.js",
+    "file": "pages/blog/_post_.svelte-b20ba4bd.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -306,6 +306,7 @@
       "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/közgyűlés-2019-04-26.md",
+      "src/lib/posts/közös-összefogás-a-rászorultak-védelméért.md",
       "src/lib/posts/közös-ünnepség-a-nemzetközi-polgári-védelem-nap-alkalmából.md",
       "src/lib/posts/külső-védelmi-tervgyakorlatot-kiskunhalason-2016-11-23.md",
       "src/lib/posts/megnyílt-a-bajai-ifjúsági-tábor-2019-07-01.md",
@@ -381,8 +382,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-5c1c9b24.js": {
-    "file": "chunks/fetchPosts-5c1c9b24.js",
+  "_fetchPosts-e4a61f96.js": {
+    "file": "chunks/fetchPosts-e4a61f96.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -464,6 +465,7 @@
       "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/közgyűlés-2019-04-26.md",
+      "src/lib/posts/közös-összefogás-a-rászorultak-védelméért.md",
       "src/lib/posts/közös-ünnepség-a-nemzetközi-polgári-védelem-nap-alkalmából.md",
       "src/lib/posts/külső-védelmi-tervgyakorlatot-kiskunhalason-2016-11-23.md",
       "src/lib/posts/megnyílt-a-bajai-ifjúsági-tábor-2019-07-01.md",
@@ -1102,6 +1104,14 @@
   "src/lib/posts/közgyűlés-2019-04-26.md": {
     "file": "chunks/közgyűlés-2019-04-26-f0aa23ad.js",
     "src": "src/lib/posts/közgyűlés-2019-04-26.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közös-összefogás-a-rászorultak-védelméért.md": {
+    "file": "chunks/közös-összefogás-a-rászorultak-védelméért-8f29dbe8.js",
+    "src": "src/lib/posts/közös-összefogás-a-rászorultak-védelméért.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
