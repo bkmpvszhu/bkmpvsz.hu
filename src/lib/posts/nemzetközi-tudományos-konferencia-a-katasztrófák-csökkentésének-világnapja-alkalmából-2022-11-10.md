@@ -2,7 +2,7 @@
 title: Nemzetközi Tudományos Konferencia a Katasztrófák Csökkentésének
   Világnapja alkalmából (2022. 11. 10.)
 date: 2022-11-10T20:21:45.162Z
-coverImage: /images/20221112-1.jpg
+coverImage: /images/20221112-index.jpg
 categories:
   - hirek
 excerpt: Több mint száz résztvevő követte figyelemmel a Magyar Tudomány Ünnepe
