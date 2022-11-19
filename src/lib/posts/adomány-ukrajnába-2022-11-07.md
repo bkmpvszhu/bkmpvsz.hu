@@ -11,7 +11,13 @@ excerpt: 40 polár takaróval járulunk hozzá a hidegben nélkülöző kárpát
 
 ![](/images/20221107-5.jpg)
 
-![]()
+![](/images/20221107-10.jpg)
+
+![](/images/20221107-11.jpg)
+
+![](/images/20221107-12.jpg)
+
+![](/images/20221107-13.jpg)
 
 A polgári védelem eredendő célja a fegyveres összeütközés esetén a (hátországban lévő) lakosság életének és anyagi javainak megóvása, az életben maradás feltételeinek biztosítása, a lakosság felkészítése azok hatásainak leküzdése és a túlélés feltételeinek megteremtése érdekében.
 
