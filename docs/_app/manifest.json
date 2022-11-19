@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-9b28d4d2.js",
+    "file": "start-395da7d2.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-a781a3cf.js",
+    "file": "pages/blog/category/page/_page_.svelte-07ea6a89.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-dcbf4a33.js",
+      "_fetchPosts-2a79966b.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-38e9229e.js",
+    "file": "pages/blog/category/_category_/index.svelte-1dab9630.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-dcbf4a33.js",
+      "_fetchPosts-2a79966b.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-00c17259.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-fd74c950.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-dcbf4a33.js",
+      "_fetchPosts-2a79966b.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-7284d552.js",
+    "file": "pages/blog/page/_page_.svelte-83efc651.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-dcbf4a33.js",
+      "_fetchPosts-2a79966b.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-7499261c.js",
+    "file": "pages/blog/_post_.svelte-9fa63baa.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -383,8 +383,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-dcbf4a33.js": {
-    "file": "chunks/fetchPosts-dcbf4a33.js",
+  "_fetchPosts-2a79966b.js": {
+    "file": "chunks/fetchPosts-2a79966b.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -512,7 +512,7 @@
     ]
   },
   "src/lib/posts/adomány-ukrajnába-2022-11-07.md": {
-    "file": "chunks/adomány-ukrajnába-2022-11-07-8e1a7a6d.js",
+    "file": "chunks/adomány-ukrajnába-2022-11-07-1576830a.js",
     "src": "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
     "isDynamicEntry": true,
     "imports": [
