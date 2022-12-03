@@ -6,6 +6,12 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01</guid>
+<title>Kiskunhalasi II. Rákóczi Ferenc Katolikus Gimnázium és Technikum (2022. 12. 01.)</title>
+<link>https://example.com/blog/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01</link>
+<description>  https://halasmedia.hu/televizio/megtekintheto-musoraink/video/hirado-20221201-csutortok</description>
+<pubDate>Sat, 03 Dec 2022 17:27:32 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/közös-összefogás-a-rászorultak-védelméért</guid>
 <title>Közös összefogás a rászorultak védelméért (2022. 11. 11.)</title>
 <link>https://example.com/blog/közös-összefogás-a-rászorultak-védelméért</link>

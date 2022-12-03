@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-395da7d2.js",
+    "file": "start-71e1dff8.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-07ea6a89.js",
+    "file": "pages/blog/category/page/_page_.svelte-984ebd0f.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2a79966b.js",
+      "_fetchPosts-9f03f745.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-1dab9630.js",
+    "file": "pages/blog/category/_category_/index.svelte-115fa202.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2a79966b.js",
+      "_fetchPosts-9f03f745.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-fd74c950.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-e8faed27.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2a79966b.js",
+      "_fetchPosts-9f03f745.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-83efc651.js",
+    "file": "pages/blog/page/_page_.svelte-27ec1f1a.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2a79966b.js",
+      "_fetchPosts-9f03f745.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-9fa63baa.js",
+    "file": "pages/blog/_post_.svelte-4e769fd0.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -294,6 +294,7 @@
       "src/lib/posts/kepzesek-2019-06-22.md",
       "src/lib/posts/kepzesek-2019-11-18.md",
       "src/lib/posts/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19.md",
+      "src/lib/posts/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01.md",
       "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
@@ -383,8 +384,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-2a79966b.js": {
-    "file": "chunks/fetchPosts-2a79966b.js",
+  "_fetchPosts-9f03f745.js": {
+    "file": "chunks/fetchPosts-9f03f745.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -454,6 +455,7 @@
       "src/lib/posts/kepzesek-2019-06-22.md",
       "src/lib/posts/kepzesek-2019-11-18.md",
       "src/lib/posts/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19.md",
+      "src/lib/posts/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01.md",
       "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
@@ -1010,6 +1012,14 @@
   "src/lib/posts/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19.md": {
     "file": "chunks/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19-33569f4b.js",
     "src": "src/lib/posts/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01.md": {
+    "file": "chunks/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01-4a5ba7a0.js",
+    "src": "src/lib/posts/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
