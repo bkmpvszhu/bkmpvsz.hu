@@ -15,7 +15,9 @@ A verseny fő célja a honvédelmi nevelés népszerűsítése, emellett az egé
 
 A sportesemény presztízsét jelzi, hogy a Honvédelmi Minisztérium és a Honvédelmi Sportszövetség képviselői is ellátogattak a megméretésre.
 
-A kategóriák első három helyezettje gravírozott trófeát kapott és minden résztvevőnek érmet akasztottak a nyakába. A Bács-Kiskun Megyei Polgári Védelmi Szövetség különdíját Györgyi Adrián kapta, aki a legjobb testsúly/emelt súly hányadossal rendelkezett. 62,7 kilót testsúllyal 132,5 kilót nyomott ki fekve
+A kategóriák első három helyezettje gravírozott trófeát kapott és minden résztvevőnek érmet akasztottak a nyakába. A Bács-Kiskun Megyei Polgári Védelmi Szövetség különdíját Györgyi Adrián kapta, aki a legjobb testsúly/emelt súly hányadossal rendelkezett. 62,7 kilót testsúllyal 132,5 kilót nyomott ki fekve.
+
+https://www.baon.hu/helyi-kozelet/2022/12/fekvenyomo-bajnoksagot-rendezett-a-honvedseg-a-gasparban-galeriaval
 
 ![](/images/20221205-1.jpg)
 
