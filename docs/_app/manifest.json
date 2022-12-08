@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-1285d8b4.js",
+    "file": "start-39454d04.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-27b460b3.js",
+    "file": "pages/blog/category/page/_page_.svelte-846fdb16.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-be99a153.js",
+      "_fetchPosts-89f61a74.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-301042d9.js",
+    "file": "pages/blog/category/_category_/index.svelte-f9143063.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-be99a153.js",
+      "_fetchPosts-89f61a74.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-bc87198a.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-e600121b.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-be99a153.js",
+      "_fetchPosts-89f61a74.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-1b4f6c74.js",
+    "file": "pages/blog/page/_page_.svelte-47d1585b.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-be99a153.js",
+      "_fetchPosts-89f61a74.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-981696db.js",
+    "file": "pages/blog/_post_.svelte-bf4cb890.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -387,8 +387,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-be99a153.js": {
-    "file": "chunks/fetchPosts-be99a153.js",
+  "_fetchPosts-89f61a74.js": {
+    "file": "chunks/fetchPosts-89f61a74.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -1264,7 +1264,7 @@
     ]
   },
   "src/lib/posts/nemzetközi-tudományos-konferencia-a-katasztrófák-csökkentésének-világnapja-alkalmából.md": {
-    "file": "chunks/nemzetközi-tudományos-konferencia-a-katasztrófák-csökkentésének-világnapja-alkalmából-01944245.js",
+    "file": "chunks/nemzetközi-tudományos-konferencia-a-katasztrófák-csökkentésének-világnapja-alkalmából-28fce490.js",
     "src": "src/lib/posts/nemzetközi-tudományos-konferencia-a-katasztrófák-csökkentésének-világnapja-alkalmából.md",
     "isDynamicEntry": true,
     "imports": [

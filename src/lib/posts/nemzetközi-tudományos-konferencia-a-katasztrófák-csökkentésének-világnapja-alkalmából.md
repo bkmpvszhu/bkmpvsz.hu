@@ -1,6 +1,6 @@
 ---
 title: Nemzetközi Tudományos Konferencia a Katasztrófák Csökkentésének
-  Világnapja alkalmából
+  Világnapja alkalmából (2022. 11. 10.)
 date: 2022-11-10T04:46:03.277Z
 coverImage: /images/20221112-index.jpg
 categories:
