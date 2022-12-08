@@ -6,6 +6,12 @@
 <link>https://github.com/josh-collinsworth/sveltekit-blog-starter</link>
 <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
+<guid isPermaLink="true">https://example.com/blog/közös-rendezvény-a-honvédség-népszerűsítéséért-2022-12-05</guid>
+<title>Közös rendezvény a Honvédség népszerűsítéséért (2022. 12. 05.)</title>
+<link>https://example.com/blog/közös-rendezvény-a-honvédség-népszerűsítéséért-2022-12-05</link>
+<description>A Bács-Kiskun Megyei Polgári Védelmi Szövetség támogatásával a kecskeméti 13. Hadkiegészítő Toborzó Iroda december 5-én Mikulás Kupa Fekvenyomó Bajnokságot rendezett.</description>
+<pubDate>Mon, 05 Dec 2022 19:31:31 GMT</pubDate>
+</item><item>
 <guid isPermaLink="true">https://example.com/blog/kiskunhalasi-bibó-istván-gimnázium-2022-12-01</guid>
 <title>Kiskunhalasi Bibó István Gimnázium (2022. 12. 01.)</title>
 <link>https://example.com/blog/kiskunhalasi-bibó-istván-gimnázium-2022-12-01</link>
