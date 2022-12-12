@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-39454d04.js",
+    "file": "start-13e95944.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -148,13 +148,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-846fdb16.js",
+    "file": "pages/blog/category/page/_page_.svelte-a4c5393d.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-89f61a74.js",
+      "_fetchPosts-a14d18bd.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -162,13 +162,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-f9143063.js",
+    "file": "pages/blog/category/_category_/index.svelte-80fb10c2.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-89f61a74.js",
+      "_fetchPosts-a14d18bd.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -184,13 +184,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-e600121b.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-9751e000.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-89f61a74.js",
+      "_fetchPosts-a14d18bd.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -207,13 +207,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-47d1585b.js",
+    "file": "pages/blog/page/_page_.svelte-3ea16ddd.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-89f61a74.js",
+      "_fetchPosts-a14d18bd.js",
       "_config-9de8a8bc.js",
       "_PostsList-0ef38003.js",
       "_Pagination-67c0b4fa.js",
@@ -221,7 +221,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-bf4cb890.js",
+    "file": "pages/blog/_post_.svelte-b1d63cd7.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -344,7 +344,8 @@
       "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
       "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
-      "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md"
+      "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md",
+      "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md"
     ],
     "css": [
       "assets/pages/blog/_post_.svelte-528b6a6d.css"
@@ -387,8 +388,8 @@
       "_config-9de8a8bc.js"
     ]
   },
-  "_fetchPosts-89f61a74.js": {
-    "file": "chunks/fetchPosts-89f61a74.js",
+  "_fetchPosts-a14d18bd.js": {
+    "file": "chunks/fetchPosts-a14d18bd.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-9de8a8bc.js"
@@ -508,7 +509,8 @@
       "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
       "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
-      "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md"
+      "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md",
+      "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md"
     ]
   },
   "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md": {
@@ -1426,6 +1428,14 @@
   "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md": {
     "file": "chunks/tüzes-kunok-szintentartó-gyakorlata-2021-05-08-6bc0f86d.js",
     "src": "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md": {
+    "file": "chunks/újabb-adomány-kárpátaljára-2022-12-09-d473af44.js",
+    "src": "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
