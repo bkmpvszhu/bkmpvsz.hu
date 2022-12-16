@@ -34,11 +34,11 @@ export const navItems = [
 		route: '/tamogatoink'
 	},
 	{
-		title: 'Számviteli beszámolók',
-		route: '/szamviteli-beszamolok'
-	},
-	{
 		title: 'Benke László Emlékplakett',
 		route: '/emlekplakett'
+	},
+	{
+		title: 'Társoldalak',
+		route: '/tarsoldalak'
 	},
 ]
