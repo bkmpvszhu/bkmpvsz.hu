@@ -37,6 +37,7 @@
 		<li>Adószám: 18367186-1-03</li>
 		<li>&copy;{new Date().getFullYear()} {siteAuthor}</li>
 		<li><a href="/pdfs/alapszabaly.pdf" rel=external>Alapszabály</a></li>
+		<li><a href="/szamviteli-beszamolok" rel=external>Számviteli beszámolók</a></li>
 	</ul>
 
 </footer>
