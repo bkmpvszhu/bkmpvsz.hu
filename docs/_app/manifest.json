@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-00626cb1.js",
+    "file": "start-5c489806.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-ddbf020a.js",
+    "file": "pages/blog/category/page/_page_.svelte-bc606914.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ee139768.js",
+      "_fetchPosts-d981a480.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-2c0efa6a.js",
+    "file": "pages/blog/category/_category_/index.svelte-d479f434.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ee139768.js",
+      "_fetchPosts-d981a480.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-b6fb4b78.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-38b94cdc.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ee139768.js",
+      "_fetchPosts-d981a480.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-5d235041.js",
+    "file": "pages/blog/page/_page_.svelte-ad1158e5.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ee139768.js",
+      "_fetchPosts-d981a480.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-c293764b.js",
+    "file": "pages/blog/_post_.svelte-98d3f6bd.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -245,6 +245,7 @@
     "dynamicImports": [
       "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
+      "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
       "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md",
@@ -402,8 +403,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-ee139768.js": {
-    "file": "chunks/fetchPosts-ee139768.js",
+  "_fetchPosts-d981a480.js": {
+    "file": "chunks/fetchPosts-d981a480.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -411,6 +412,7 @@
     "dynamicImports": [
       "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
+      "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
       "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md",
@@ -539,6 +541,14 @@
   "src/lib/posts/adomány-ukrajnába-2022-11-07.md": {
     "file": "chunks/adomány-ukrajnába-2022-11-07-1576830a.js",
     "src": "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md": {
+    "file": "chunks/bajai-szc-türr-istván-technikum-2022-12-19-6d40f0ce.js",
+    "src": "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
