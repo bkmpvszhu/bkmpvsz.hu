@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-d42e0435.js",
+    "file": "start-46a4aabe.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-1a31ed04.js",
+    "file": "pages/blog/category/page/_page_.svelte-b919a729.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9797dd91.js",
+      "_fetchPosts-9b526a32.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-783526d0.js",
+    "file": "pages/blog/category/_category_/index.svelte-4a93ee41.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9797dd91.js",
+      "_fetchPosts-9b526a32.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-afee88c5.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-51ba4398.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9797dd91.js",
+      "_fetchPosts-9b526a32.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-d931b8b7.js",
+    "file": "pages/blog/page/_page_.svelte-a999cfab.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9797dd91.js",
+      "_fetchPosts-9b526a32.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-60288778.js",
+    "file": "pages/blog/_post_.svelte-6de2015b.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -262,6 +262,7 @@
       "src/lib/posts/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27.md",
       "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
       "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
+      "src/lib/posts/gyászhír.md",
       "src/lib/posts/hirek-2021-01-15.md",
       "src/lib/posts/hirek-2021-06-29.md",
       "src/lib/posts/hirek-2021-06-30.md",
@@ -405,8 +406,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-9797dd91.js": {
-    "file": "chunks/fetchPosts-9797dd91.js",
+  "_fetchPosts-9b526a32.js": {
+    "file": "chunks/fetchPosts-9b526a32.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -431,6 +432,7 @@
       "src/lib/posts/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27.md",
       "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
       "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
+      "src/lib/posts/gyászhír.md",
       "src/lib/posts/hirek-2021-01-15.md",
       "src/lib/posts/hirek-2021-06-29.md",
       "src/lib/posts/hirek-2021-06-30.md",
@@ -681,6 +683,14 @@
   "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md": {
     "file": "chunks/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26-dde79146.js",
     "src": "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/gyászhír.md": {
+    "file": "chunks/gyászhír-33ee3b79.js",
+    "src": "src/lib/posts/gyászhír.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
