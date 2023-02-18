@@ -7,4 +7,6 @@ categories:
 excerpt: Mély fájdalommal tudatjuk, hogy Gémes József, a Bács-Kiskun Megyei
   Polgári Védelmi Szövetség tagja 2023. február 14-én elhunyt.
 ---
+![](/images/2017-03-01-19.jpg)
+
   ﻿l
