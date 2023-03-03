@@ -1,5 +1,5 @@
 ---
-title: " Március 1. a Nemzetközi Polgári Védelem Napja "
+title: Közös ünneplés (2023. 03. 01.)
 date: 2023-03-01T18:48:44.329Z
 coverImage: /images/20230301-05.jpg
 categories:
@@ -7,8 +7,10 @@ categories:
 excerpt: A Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság a Bács-Kiskun
   Megyei Polgári Védelmi Szövetséggel közösen ünnepi állománygyűlésen emlékezett
   meg a Nemzetközi Polgári Védelem Napjáról. A rendezvényt megtisztelte
-  jelenlétével Kovács Ernő, a Bács-Kiskun Vármegyei Kormányhivatal főispánja és
-  Zombor Attila, a Bács-Kiskun Vármegyei Kormányhivatal főigazgatója.
+  jelenlétével Kovács Ernő, a Bács-Kiskun Vármegyei Kormányhivatal főispánja,
+  Zombor Attila, a Bács-Kiskun Vármegyei Kormányhivatal főigazgatója, dr. Fekecs
+  Dénes, a Bács-Kiskun Megyei Polgárőrszövetség elnöke és Lipóthné Komjáti
+  Andrea a Magyar Vöröskereszt Bács-Kiskun Megyei Szervezetének igazgatója.
 ---
 Az ünnepséget Huszár Tibor tűzoltó ezredes, a Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság igazgatója nyitotta meg és köszöntötte a résztvevőket. Ezt követően a meghívott vendégek és az állomány Kaszala Zoltán tűzoltó főhadnagy, Kunszentmiklós járás katasztrófavédelmi megbízottjának ünnepi beszédét hallhatták. „Ma azokra a hősökre emlékezünk, akik a Légoltalmi Liga közel 90 éves megalapítása óta életüket adták a lakosság védelme, életének megóvása érdekében. Azokra a hősökre emlékezünk, akik a mai napig önzetlenül honfitársaik, embertársaik, a civil lakosság segítségére sietnek”- kezdte beszédét a főhadnagy, majd felidézte - a kezdetektől napjainkig - a polgári védelem történetét, feladatait, valamint a szervezet életében bekövetkezett változásokat. Az ünnepi beszéd után emlékplakett és elismerések átadására került sor.
 
