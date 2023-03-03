@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-16c9d99e.js",
+    "file": "start-46b9f697.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-053dac73.js",
+    "file": "pages/blog/category/page/_page_.svelte-c47ce62e.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2d669b23.js",
+      "_fetchPosts-60754d4d.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-bafcddb7.js",
+    "file": "pages/blog/category/_category_/index.svelte-b2265cc3.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2d669b23.js",
+      "_fetchPosts-60754d4d.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-3a23dd8d.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-2d34f3cc.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2d669b23.js",
+      "_fetchPosts-60754d4d.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-806a1db1.js",
+    "file": "pages/blog/page/_page_.svelte-10f40fe8.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2d669b23.js",
+      "_fetchPosts-60754d4d.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-418f6a6a.js",
+    "file": "pages/blog/_post_.svelte-296edb8c.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -337,6 +337,7 @@
       "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
       "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28.md",
+      "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja.md",
       "src/lib/posts/móra-járási-mentőcsoport-gyakorlata-2018-06-19.md",
       "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
       "src/lib/posts/nemzetközi-polgári-védelmi-nap-2017-03-01.md",
@@ -407,8 +408,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-2d669b23.js": {
-    "file": "chunks/fetchPosts-2d669b23.js",
+  "_fetchPosts-60754d4d.js": {
+    "file": "chunks/fetchPosts-60754d4d.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -508,6 +509,7 @@
       "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
       "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28.md",
+      "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja.md",
       "src/lib/posts/móra-járási-mentőcsoport-gyakorlata-2018-06-19.md",
       "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
       "src/lib/posts/nemzetközi-polgári-védelmi-nap-2017-03-01.md",
@@ -1285,6 +1287,14 @@
   "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28.md": {
     "file": "chunks/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28-111eb713.js",
     "src": "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja.md": {
+    "file": "chunks/március-1-a-nemzetközi-polgári-védelem-napja-da2b258b.js",
+    "src": "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
