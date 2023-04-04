@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-2b40d2a0.js",
+    "file": "start-48d1ac7e.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-0661559d.js",
+    "file": "pages/blog/category/page/_page_.svelte-87114930.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-709097b7.js",
+      "_fetchPosts-07f6d115.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-16457d2f.js",
+    "file": "pages/blog/category/_category_/index.svelte-d8d4719b.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-709097b7.js",
+      "_fetchPosts-07f6d115.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-72e28790.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-7957bba7.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-709097b7.js",
+      "_fetchPosts-07f6d115.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-1da8826a.js",
+    "file": "pages/blog/page/_page_.svelte-17c72d45.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-709097b7.js",
+      "_fetchPosts-07f6d115.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-392842d3.js",
+    "file": "pages/blog/_post_.svelte-96ecf4df.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -292,6 +292,7 @@
       "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
       "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum.md",
       "src/lib/posts/kecskeméti-szc-kada-elek-technikum.md",
+      "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum-2023-04-03.md",
       "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum.md",
       "src/lib/posts/kecskeméti-szc-szent-györgyi-albert-technikum.md",
       "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2020-09-17.md",
@@ -409,8 +410,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-709097b7.js": {
-    "file": "chunks/fetchPosts-709097b7.js",
+  "_fetchPosts-07f6d115.js": {
+    "file": "chunks/fetchPosts-07f6d115.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -465,6 +466,7 @@
       "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
       "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum.md",
       "src/lib/posts/kecskeméti-szc-kada-elek-technikum.md",
+      "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum-2023-04-03.md",
       "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum.md",
       "src/lib/posts/kecskeméti-szc-szent-györgyi-albert-technikum.md",
       "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2020-09-17.md",
@@ -929,6 +931,14 @@
   "src/lib/posts/kecskeméti-szc-kada-elek-technikum.md": {
     "file": "chunks/kecskeméti-szc-kada-elek-technikum-dc80b237.js",
     "src": "src/lib/posts/kecskeméti-szc-kada-elek-technikum.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum-2023-04-03.md": {
+    "file": "chunks/kecskeméti-szc-kandó-kálmán-technikum-2023-04-03-9572fd12.js",
+    "src": "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum-2023-04-03.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
