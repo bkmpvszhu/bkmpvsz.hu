@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-41a87ef8.js",
+    "file": "start-ad6bc935.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-2a6df8e1.js",
+    "file": "pages/blog/category/page/_page_.svelte-5a81830e.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-16f8fa71.js",
+      "_fetchPosts-5b208681.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-a6a18198.js",
+    "file": "pages/blog/category/_category_/index.svelte-3fd2adb2.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-16f8fa71.js",
+      "_fetchPosts-5b208681.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-0b041a26.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-8979c1a5.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-16f8fa71.js",
+      "_fetchPosts-5b208681.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-822d1800.js",
+    "file": "pages/blog/page/_page_.svelte-ee522c88.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-16f8fa71.js",
+      "_fetchPosts-5b208681.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-b1ccac00.js",
+    "file": "pages/blog/_post_.svelte-8f803dd5.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -416,8 +416,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-16f8fa71.js": {
-    "file": "chunks/fetchPosts-16f8fa71.js",
+  "_fetchPosts-5b208681.js": {
+    "file": "chunks/fetchPosts-5b208681.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -1165,7 +1165,7 @@
     ]
   },
   "src/lib/posts/kiskunhalasi-református-kollégium-szilády-áron-gimnázium-és-kollégium-2022-12-01.md": {
-    "file": "chunks/kiskunhalasi-református-kollégium-szilády-áron-gimnázium-és-kollégium-2022-12-01-1682b0e8.js",
+    "file": "chunks/kiskunhalasi-református-kollégium-szilády-áron-gimnázium-és-kollégium-2022-12-01-7330ac39.js",
     "src": "src/lib/posts/kiskunhalasi-református-kollégium-szilády-áron-gimnázium-és-kollégium-2022-12-01.md",
     "isDynamicEntry": true,
     "imports": [
