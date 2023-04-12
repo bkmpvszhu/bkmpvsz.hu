@@ -4,7 +4,6 @@ title: Kiskunhalasi II. Rákóczi Ferenc Katolikus Gimnázium és Technikum (202
 date: 2022-12-03T17:27:32.092Z
 coverImage: /images/20221201-2.jpg
 categories:
-  - hirek
   - prevencio
 excerpt: "  https://halasmedia.hu/televizio/megtekintheto-musoraink/video/hirad\
   o-20221201-csutortok"
