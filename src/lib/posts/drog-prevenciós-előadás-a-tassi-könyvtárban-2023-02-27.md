@@ -3,7 +3,6 @@ title: Drog prevenciós előadás a tassi könyvtárban (2023. 02. 27.)
 date: 2023-02-27T19:23:08.064Z
 coverImage: /images/20230227-index.jpg
 categories:
-  - hirek
   - prevencio
 excerpt: 2023. február 27-én könyvtárunkban járt, és fantasztikus előadást
   tartott Marosi Antal újságíró, hadi tudósító.
