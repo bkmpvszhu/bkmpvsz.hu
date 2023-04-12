@@ -3,7 +3,6 @@ title: Kecskeméti SZC Kada Elek Technikum (2023. 04. 04.)
 date: 2023-04-04T20:05:08.154Z
 coverImage: /images/2023-04-04-1.jpg
 categories:
-  - hirek
   - prevencio
 excerpt: " "
 ---
