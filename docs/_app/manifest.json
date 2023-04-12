@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-731b680b.js",
+    "file": "start-a36ca7f6.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-823cd0a6.js",
+    "file": "pages/blog/category/page/_page_.svelte-66a4f29d.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-fdd9fc6c.js",
+      "_fetchPosts-2f3166fd.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-3ce94487.js",
+    "file": "pages/blog/category/_category_/index.svelte-f5b93b49.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-fdd9fc6c.js",
+      "_fetchPosts-2f3166fd.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-5a2dcede.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-731ef674.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-fdd9fc6c.js",
+      "_fetchPosts-2f3166fd.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-494571f3.js",
+    "file": "pages/blog/page/_page_.svelte-24ace35b.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-fdd9fc6c.js",
+      "_fetchPosts-2f3166fd.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-6fde998c.js",
+    "file": "pages/blog/_post_.svelte-717a34c4.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -416,8 +416,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-fdd9fc6c.js": {
-    "file": "chunks/fetchPosts-fdd9fc6c.js",
+  "_fetchPosts-2f3166fd.js": {
+    "file": "chunks/fetchPosts-2f3166fd.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -1565,7 +1565,7 @@
     ]
   },
   "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md": {
-    "file": "chunks/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17-644f04ce.js",
+    "file": "chunks/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17-04064c6a.js",
     "src": "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
     "isDynamicEntry": true,
     "imports": [
