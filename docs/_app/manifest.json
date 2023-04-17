@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-a36ca7f6.js",
+    "file": "start-6f5515e7.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -76,7 +76,7 @@
     ]
   },
   "src/routes/emlekplakett.svelte": {
-    "file": "pages/emlekplakett.svelte-e326d9a2.js",
+    "file": "pages/emlekplakett.svelte-b0e515f7.js",
     "src": "src/routes/emlekplakett.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
