@@ -23,7 +23,7 @@
 			</li>
 			<li>
 				<Icon icon="carbon:email" />
-				<span>kozeplok@vipmail.hu</span>
+				<span>bkvpvsz@gmail.com</span>
 			</li>
 			<li>
 				<Icon icon="akar-icons:person" />
