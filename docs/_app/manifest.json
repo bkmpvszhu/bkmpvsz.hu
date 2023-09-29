@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-795a419f.js",
+    "file": "start-8f7572d0.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-faa4117a.js",
+    "file": "pages/blog/category/page/_page_.svelte-d7ee56ea.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4e53f820.js",
+      "_fetchPosts-bc595ce8.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-3e48d06f.js",
+    "file": "pages/blog/category/_category_/index.svelte-3025deac.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4e53f820.js",
+      "_fetchPosts-bc595ce8.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-d54ac80c.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-4094b0d9.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4e53f820.js",
+      "_fetchPosts-bc595ce8.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-8884d57f.js",
+    "file": "pages/blog/page/_page_.svelte-4394d215.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-4e53f820.js",
+      "_fetchPosts-bc595ce8.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-29315845.js",
+    "file": "pages/blog/_post_.svelte-7e3e9da6.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -374,6 +374,7 @@
       "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
       "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
+      "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md",
       "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
       "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
@@ -422,8 +423,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-4e53f820.js": {
-    "file": "chunks/fetchPosts-4e53f820.js",
+  "_fetchPosts-bc595ce8.js": {
+    "file": "chunks/fetchPosts-bc595ce8.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -560,6 +561,7 @@
       "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
       "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
+      "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md",
       "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
       "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
@@ -1611,6 +1613,14 @@
   "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md": {
     "file": "chunks/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25-bd10c40d.js",
     "src": "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md": {
+    "file": "chunks/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26-bbb9455d.js",
+    "src": "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
