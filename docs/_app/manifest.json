@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-bd044214.js",
+    "file": "start-1597f41d.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-b7aff159.js",
+    "file": "pages/blog/category/page/_page_.svelte-0bca84e9.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0397e644.js",
+      "_fetchPosts-0566c917.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-154fb218.js",
+    "file": "pages/blog/category/_category_/index.svelte-bd390427.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0397e644.js",
+      "_fetchPosts-0566c917.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-e748edd4.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-cbd0d962.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0397e644.js",
+      "_fetchPosts-0566c917.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-2e6bf484.js",
+    "file": "pages/blog/page/_page_.svelte-0bd580fc.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0397e644.js",
+      "_fetchPosts-0566c917.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-1aceaa24.js",
+    "file": "pages/blog/_post_.svelte-47ed4e1a.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -332,6 +332,7 @@
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
       "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10.md",
+      "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
       "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
       "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
@@ -424,8 +425,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-0397e644.js": {
-    "file": "chunks/fetchPosts-0397e644.js",
+  "_fetchPosts-0566c917.js": {
+    "file": "chunks/fetchPosts-0566c917.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -520,6 +521,7 @@
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
       "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10.md",
+      "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
       "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
       "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
@@ -1279,6 +1281,14 @@
   "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10.md": {
     "file": "chunks/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10-7d1c390a.js",
     "src": "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md": {
+    "file": "chunks/kunszentmiklós-virágh-gedeon-technikum-2023-09-22-99eeb01a.js",
+    "src": "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
