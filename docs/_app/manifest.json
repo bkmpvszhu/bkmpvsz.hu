@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-4be7b8bc.js",
+    "file": "start-ebb4f510.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-928aa70a.js",
+    "file": "pages/blog/category/page/_page_.svelte-d19b7419.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ffc578ab.js",
+      "_fetchPosts-d0fa3af7.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-59205532.js",
+    "file": "pages/blog/category/_category_/index.svelte-09910f96.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ffc578ab.js",
+      "_fetchPosts-d0fa3af7.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-52748c47.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-60621970.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ffc578ab.js",
+      "_fetchPosts-d0fa3af7.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-f31489e4.js",
+    "file": "pages/blog/page/_page_.svelte-f674b2d5.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ffc578ab.js",
+      "_fetchPosts-d0fa3af7.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-fda9151a.js",
+    "file": "pages/blog/_post_.svelte-9c1b4ab6.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -279,6 +279,7 @@
       "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
+      "src/lib/posts/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2018-04-11.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2019-04-11.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
@@ -426,8 +427,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-ffc578ab.js": {
-    "file": "chunks/fetchPosts-ffc578ab.js",
+  "_fetchPosts-d0fa3af7.js": {
+    "file": "chunks/fetchPosts-d0fa3af7.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -469,6 +470,7 @@
       "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
+      "src/lib/posts/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2018-04-11.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2019-04-11.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
@@ -859,6 +861,14 @@
   "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md": {
     "file": "chunks/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09-6e2afb99.js",
     "src": "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14.md": {
+    "file": "chunks/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14-10967d35.js",
+    "src": "src/lib/posts/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
