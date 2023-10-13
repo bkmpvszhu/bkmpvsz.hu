@@ -4,6 +4,7 @@ date: 2023-10-13T18:32:00.346Z
 coverImage: /images/füstsátor4.jpg
 categories:
   - ifjusag
+  - hirek
 excerpt: A kalocsai járás öt településéről, köztük Kalocsáról és Soltról közel
   130 általános - és középiskolás diák 31 csapata vett részt az Érsekkertben
   október 10-én megrendezett Járási Katasztrófavédelmi Ifjúsági Versenyen. A
