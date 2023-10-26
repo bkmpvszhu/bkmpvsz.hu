@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-e5ee7281.js",
+    "file": "start-4c50a4f2.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-66e95081.js",
+    "file": "pages/blog/category/page/_page_.svelte-7459292a.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5d478703.js",
+      "_fetchPosts-ebb4382b.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-d66ee38c.js",
+    "file": "pages/blog/category/_category_/index.svelte-133bfb40.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5d478703.js",
+      "_fetchPosts-ebb4382b.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-0fdba2c4.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-a1cc4f88.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5d478703.js",
+      "_fetchPosts-ebb4382b.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-bbac23bb.js",
+    "file": "pages/blog/page/_page_.svelte-c4752a35.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5d478703.js",
+      "_fetchPosts-ebb4382b.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-781a1461.js",
+    "file": "pages/blog/_post_.svelte-3d9f9da0.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -379,6 +379,7 @@
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
       "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
       "src/lib/posts/tass-könyvtár-2023-09-22.md",
+      "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md",
       "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md",
       "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
@@ -428,8 +429,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-5d478703.js": {
-    "file": "chunks/fetchPosts-5d478703.js",
+  "_fetchPosts-ebb4382b.js": {
+    "file": "chunks/fetchPosts-ebb4382b.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -571,6 +572,7 @@
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
       "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
       "src/lib/posts/tass-könyvtár-2023-09-22.md",
+      "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md",
       "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md",
       "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
@@ -1663,6 +1665,14 @@
   "src/lib/posts/tass-könyvtár-2023-09-22.md": {
     "file": "chunks/tass-könyvtár-2023-09-22-8fcb4002.js",
     "src": "src/lib/posts/tass-könyvtár-2023-09-22.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md": {
+    "file": "chunks/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18-b357f489.js",
+    "src": "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
