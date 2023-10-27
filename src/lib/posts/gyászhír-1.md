@@ -1,6 +1,6 @@
 ---
 title: Gyászhír
-date: 2023-10-27T09:59:12.720Z
+date: 2023-10-27T10:09:20.969Z
 coverImage: /images/kiss-zoltán-tű.-alez..png
 categories:
   - hirek
