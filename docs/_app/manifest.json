@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-4c50a4f2.js",
+    "file": "start-d08472f3.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-7459292a.js",
+    "file": "pages/blog/category/page/_page_.svelte-58a5f912.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ebb4382b.js",
+      "_fetchPosts-523e57a0.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-133bfb40.js",
+    "file": "pages/blog/category/_category_/index.svelte-05981532.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ebb4382b.js",
+      "_fetchPosts-523e57a0.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-a1cc4f88.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-898b5408.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ebb4382b.js",
+      "_fetchPosts-523e57a0.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-c4752a35.js",
+    "file": "pages/blog/page/_page_.svelte-874d78d6.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ebb4382b.js",
+      "_fetchPosts-523e57a0.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-3d9f9da0.js",
+    "file": "pages/blog/_post_.svelte-c134beea.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -264,6 +264,7 @@
       "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
       "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
       "src/lib/posts/gyakorlatoztak-a-tüzes-kunok-2023-04-30.md",
+      "src/lib/posts/gyászhír-1.md",
       "src/lib/posts/gyászhír.md",
       "src/lib/posts/haditornaversenyt-rendeztek-ballószögön-2023-09-27.md",
       "src/lib/posts/hirek-2021-01-15.md",
@@ -429,8 +430,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-ebb4382b.js": {
-    "file": "chunks/fetchPosts-ebb4382b.js",
+  "_fetchPosts-523e57a0.js": {
+    "file": "chunks/fetchPosts-523e57a0.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -457,6 +458,7 @@
       "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
       "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
       "src/lib/posts/gyakorlatoztak-a-tüzes-kunok-2023-04-30.md",
+      "src/lib/posts/gyászhír-1.md",
       "src/lib/posts/gyászhír.md",
       "src/lib/posts/haditornaversenyt-rendeztek-ballószögön-2023-09-27.md",
       "src/lib/posts/hirek-2021-01-15.md",
@@ -745,6 +747,14 @@
   "src/lib/posts/gyakorlatoztak-a-tüzes-kunok-2023-04-30.md": {
     "file": "chunks/gyakorlatoztak-a-tüzes-kunok-2023-04-30-b654e451.js",
     "src": "src/lib/posts/gyakorlatoztak-a-tüzes-kunok-2023-04-30.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/gyászhír-1.md": {
+    "file": "chunks/gyászhír-1-2d8364b3.js",
+    "src": "src/lib/posts/gyászhír-1.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
