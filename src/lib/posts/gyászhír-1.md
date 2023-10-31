@@ -8,6 +8,7 @@ excerpt: Mély fájdalommal tudatjuk, hogy Kiss Zoltán tűzoltó alezredes, a
   Kiskunhalasi Katasztrófavédelmi Kirendeltség polgári védelmi felügyelője, a
   Bács-Kiskun Megyei Polgári Védelmi Szövetség tagja 2023. október 17-én,
   életének 56. évében elhunyt.
+scaleDown: true
 ---
 Felsőfokú végzettségeit a Zalka Máté Katonai Műszaki Főiskolán, majd a Budapesti Műszaki Egyetemen és a Katasztrófavédelmi Oktatási Központban szerezte. Kiss Zoltán 2000-ben került a Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság állományába. 2012-től a Kiskunhalasi Katasztrófavédelmi Kirendeltség polgári védelmi felügyelője. 
 
