@@ -9,6 +9,8 @@ excerpt: A településen bekövetkező – az állampolgárok élet- és vagyonb
   veszélyeztető – káros esemény felszámolásának végrehajtására csak egy jól
   felkészült, védelmi ismeretekkel rendelkező szervezet tagjai képesek.
 ---
+A településen bekövetkező – az állampolgárok élet- és vagyonbiztonságát veszélyeztető – káros esemény felszámolásának végrehajtására csak egy jól felkészült, védelmi ismeretekkel rendelkező szervezet tagjai képesek.
+
 Ennek szellemében 2023.10.18-án a Csávoly és Felsőszentiván települési köteles polgári védelmi szervezet teljes személyi állománya részére riasztási gyakorlat, majd azt követően szakkiképzés került végrehajtásra. 
 
 A képzést Csávoly polgármestere, Csala Józsefné nyitotta meg. A szakmai nap lefolytatását Gödön Sándor tű. ezredes Baja Katasztrófavédelmi Kirendeltség polgári védelmi felügyelője irányította, aki „Település veszélyforrásai” című indító előadásával alapozta meg az oktatást.
