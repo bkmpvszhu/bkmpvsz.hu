@@ -5,11 +5,11 @@
 <p><a href="https://fpvsz.hu/">Fővárosi Polgári Védelmi és Katasztrófavédelmi Szövetség</a></p>
 
 <p><a href="https://bekes.katasztrofavedelem.hu/34834/bekes-megyei-katasztrofa-es-polgari-vedelmi-szovetseg">Békés
-	Megyei Katasztrófa- és Polgári Védelmi Szövetség</a></p>
+	Vármegyei Katasztrófa- és Polgári Védelmi Szövetség</a></p>
 
-<p><a href="https://www.gyorpv.hu/">Győr-Moson-Sopron Megyei Polgári Védelmi Szövetség</a></p>
+<p><a href="https://www.gyorpv.hu/">Győr-Moson-Sopron Vármegyei Polgári Védelmi Szövetség</a></p>
 
-<p><a href="http://jnszmpvsz.hu/">Jász-Nagykun-Szolnok Megyei Polgári Védelmi Szövetség</a></p>
+<p><a href="http://jnszmpvsz.hu/">Jász-Nagykun-Szolnok Vármegyei Polgári Védelmi Szövetség</a></p>
 
 <p><a href="https://hu-hu.facebook.com/ZMPVSZ/">Zala Megye Polgári Védelmi Szövetsége</a></p>
 
