@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-520e8c58.js",
+    "file": "start-f3b12ac0.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-0d3fa67f.js",
+    "file": "pages/blog/category/page/_page_.svelte-dbbec81a.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f02cfa42.js",
+      "_fetchPosts-6252c1da.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-38febbef.js",
+    "file": "pages/blog/category/_category_/index.svelte-e3b76e3d.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f02cfa42.js",
+      "_fetchPosts-6252c1da.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-8dc93a2b.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-03d3ef5b.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f02cfa42.js",
+      "_fetchPosts-6252c1da.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-f56eb65a.js",
+    "file": "pages/blog/page/_page_.svelte-83a52a49.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f02cfa42.js",
+      "_fetchPosts-6252c1da.js",
       "_config-4b8eca1a.js",
       "_PostsList-0ef38003.js",
       "_Pagination-4236e5ed.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-f8670960.js",
+    "file": "pages/blog/_post_.svelte-ca822c54.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -334,6 +334,7 @@
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
       "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
+      "src/lib/posts/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18.md",
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10.md",
       "src/lib/posts/kunszentmiklós-baksay-sándor-református-gimnázium-és-általános-iskola-2023-09-22.md",
       "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
@@ -430,8 +431,8 @@
       "_config-4b8eca1a.js"
     ]
   },
-  "_fetchPosts-f02cfa42.js": {
-    "file": "chunks/fetchPosts-f02cfa42.js",
+  "_fetchPosts-6252c1da.js": {
+    "file": "chunks/fetchPosts-6252c1da.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-4b8eca1a.js"
@@ -528,6 +529,7 @@
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
       "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
+      "src/lib/posts/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18.md",
       "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10.md",
       "src/lib/posts/kunszentmiklós-baksay-sándor-református-gimnázium-és-általános-iskola-2023-09-22.md",
       "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
@@ -1307,6 +1309,14 @@
   "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md": {
     "file": "chunks/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17-16a77acd.js",
     "src": "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18.md": {
+    "file": "chunks/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18-b455634b.js",
+    "src": "src/lib/posts/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
