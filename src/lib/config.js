@@ -1,8 +1,9 @@
-export const siteTitle = 'Bács-Kiskun Megyei Polgári Védelmi Szövetség'
-export const siteDescription = 'A Bács-Kiskun Megyei Polgári Védelmi Szövetség weboldala'
+const orgName = 'Bács-Kiskun Vármegyei Polgári Védelmi Szövetség'
+export const siteTitle = orgName
+export const siteDescription = `${orgName} weboldala`
 export const siteURL = 'example.com' //TODO
 export const siteLink = 'https://github.com/josh-collinsworth/sveltekit-blog-starter' //TODO
-export const siteAuthor = 'Bács-Kiskun Megyei Polgári Védelmi Szövetség'
+export const siteAuthor = orgName
 
 // Controls how many posts are shown per page on the main blog index pages
 export const postsPerPage = 9999
