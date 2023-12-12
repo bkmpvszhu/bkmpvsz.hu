@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-aae2b807.js",
+    "file": "start-dc792210.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-ffa6c29f.js",
+    "file": "pages/blog/category/page/_page_.svelte-6734d1b7.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3396b397.js",
+      "_fetchPosts-fb7858fa.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-f0902f2e.js",
+    "file": "pages/blog/category/_category_/index.svelte-6880746e.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3396b397.js",
+      "_fetchPosts-fb7858fa.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-71c03cbc.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-05be485c.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3396b397.js",
+      "_fetchPosts-fb7858fa.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-492d4b0c.js",
+    "file": "pages/blog/page/_page_.svelte-fb3faa55.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3396b397.js",
+      "_fetchPosts-fb7858fa.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-b196f612.js",
+    "file": "pages/blog/_post_.svelte-20847a19.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -291,6 +291,7 @@
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2017-06-26-30.md",
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md",
       "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
+      "src/lib/posts/kecskeméti-mikulás-fekvenyomó-kupa-2023-12-05.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium-2019-09-27.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md",
       "src/lib/posts/kecskeméti-református-gimnázium-2019-09-17.md",
@@ -433,8 +434,8 @@
       "_config-b65acbb0.js"
     ]
   },
-  "_fetchPosts-3396b397.js": {
-    "file": "chunks/fetchPosts-3396b397.js",
+  "_fetchPosts-fb7858fa.js": {
+    "file": "chunks/fetchPosts-fb7858fa.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -488,6 +489,7 @@
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2017-06-26-30.md",
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md",
       "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
+      "src/lib/posts/kecskeméti-mikulás-fekvenyomó-kupa-2023-12-05.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium-2019-09-27.md",
       "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md",
       "src/lib/posts/kecskeméti-református-gimnázium-2019-09-17.md",
@@ -969,6 +971,14 @@
   "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md": {
     "file": "chunks/kecskeméti-bányai-júlia-gimnázium-2021-11-04-46385082.js",
     "src": "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-mikulás-fekvenyomó-kupa-2023-12-05.md": {
+    "file": "chunks/kecskeméti-mikulás-fekvenyomó-kupa-2023-12-05-fbaabd8c.js",
+    "src": "src/lib/posts/kecskeméti-mikulás-fekvenyomó-kupa-2023-12-05.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
