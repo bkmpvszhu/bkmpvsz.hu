@@ -1,6 +1,6 @@
 ---
-title: Újabb adomány Kárpátaljára (2022. 12. 09.)
-date: 2022-12-12T21:06:41.425Z
+title: Újabb adomány Kárpátaljára
+date: 2022. 12. 09.
 coverImage: /images/20221209-5.jpg
 categories:
   - hirek

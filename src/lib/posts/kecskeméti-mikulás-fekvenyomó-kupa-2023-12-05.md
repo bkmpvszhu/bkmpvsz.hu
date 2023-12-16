@@ -1,6 +1,6 @@
 ---
-title: Kecskeméti Mikulás Fekvenyomó Kupa (2023. 12. 05.)
-date: 2023-12-12T17:48:28.350Z
+title: Kecskeméti Mikulás Fekvenyomó Kupa
+date: 2023. 12. 05.
 coverImage: /images/2023-12-05-index.jpg
 categories:
   - hirek

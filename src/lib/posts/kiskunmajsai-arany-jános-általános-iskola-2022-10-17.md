@@ -1,6 +1,6 @@
 ---
-title: Kiskunmajsai Arany János Általános Iskola (2022. 10. 17.)
-date: 2022-10-17T17:37:25.344Z
+title: Kiskunmajsai Arany János Általános Iskola
+date: 2022. 10. 17.
 coverImage: /images/20221017-8.jpg
 categories:
   - prevencio

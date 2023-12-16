@@ -1,7 +1,6 @@
 ---
 title: Tudás, kitartás, gyorsaság – Megyei Katasztrófavédelmi Ifjúsági Verseny
-  (2016. 04. 04.)
-date: 2016-04-04T17:25:53.103Z
+date: 2016. 04. 04.
 coverImage: /images/20160404-10.jpg
 categories:
   - ifjusag

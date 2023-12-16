@@ -1,6 +1,6 @@
 ---
-title: Szakkiképzés Nemesnádudvaron (2022. 06. 16.)
-date: 2022-06-16T13:50:22.313Z
+title: Szakkiképzés Nemesnádudvaron
+date: 2022. 06. 16.
 coverImage: /images/20220616-4.jpg
 categories:
   - hirek

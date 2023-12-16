@@ -1,6 +1,6 @@
 ---
-title: Kecskeméti Piarista Gimnázium (2019. 09. 27.)
-date: 2019-09-27T18:05:40.696Z
+title: Kecskeméti Piarista Gimnázium
+date: 2019. 09. 27.
 coverImage: /images/20190927-1.jpg
 categories:
   - prevencio

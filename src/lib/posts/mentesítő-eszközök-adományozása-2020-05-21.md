@@ -1,6 +1,6 @@
 ---
-title: Mentesítő eszközök adományozása (2020. 05. 21.)
-date: 2020-05-21T21:01:20.014Z
+title: Mentesítő eszközök adományozása
+date: 2020. 05. 21.
 coverImage: /images/20200521-2.jpg
 categories:
   - hirek

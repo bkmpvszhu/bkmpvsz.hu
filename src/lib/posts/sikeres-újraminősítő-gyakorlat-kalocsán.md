@@ -1,6 +1,6 @@
 ---
-title: Sikeres újraminősítő gyakorlat Kalocsán (2022. 05. 28.)
-date: 2022-05-30T14:39:41.039Z
+title: Sikeres újraminősítő gyakorlat Kalocsán
+date: 2022. 05. 28.
 coverImage: /images/20220528-1.jpg
 categories:
   - hirek

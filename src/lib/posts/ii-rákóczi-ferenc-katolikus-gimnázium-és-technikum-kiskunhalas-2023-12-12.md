@@ -1,7 +1,7 @@
 ---
-title: II. Rákóczi Ferenc Katolikus Gimnázium és Technikum - Kiskunhalas (2023.
-  12. 12.)
-date: 2023-12-13T16:59:22.583Z
+title: II. Rákóczi Ferenc Katolikus Gimnázium és Technikum - Kiskunhalas
+date: 2023.
+  12. 12.
 coverImage: /images/2023-12-12-3index.jpg
 categories:
   - prevencio

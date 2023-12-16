@@ -1,6 +1,6 @@
 ---
-title: Móra Járási Mentőcsoport gyakorlata (2018. 06. 19.)
-date: 2018-06-19T18:15:19.163Z
+title: Móra Járási Mentőcsoport gyakorlata
+date: 2018. 06. 19.
 coverImage: /images/20180619-2.jpg
 categories:
   - kepzesek

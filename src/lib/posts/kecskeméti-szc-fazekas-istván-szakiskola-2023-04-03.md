@@ -1,6 +1,6 @@
 ---
-title: Kecskeméti SZC Fazekas István Szakiskola (2023. 04. 03.)
-date: 2023-04-03T19:25:17.384Z
+title: Kecskeméti SZC Fazekas István Szakiskola
+date: 2023. 04. 03.
 coverImage: /images/2023-04-03-3.jpg
 categories:
   - prevencio

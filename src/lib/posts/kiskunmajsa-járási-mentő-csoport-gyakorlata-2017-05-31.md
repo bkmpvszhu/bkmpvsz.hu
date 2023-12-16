@@ -1,6 +1,6 @@
 ---
-title: Kiskunmajsa Járási Mentő Csoport gyakorlata (2017. 05. 31.)
-date: 2017-05-31T14:27:00.469Z
+title: Kiskunmajsa Járási Mentő Csoport gyakorlata
+date: 2017. 05. 31.
 coverImage: /images/20170531-3.jpg
 categories:
   - kepzesek

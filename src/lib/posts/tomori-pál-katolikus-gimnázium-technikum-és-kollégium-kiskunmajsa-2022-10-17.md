@@ -1,7 +1,6 @@
 ---
 title: Tomori Pál Katolikus Gimnázium, Technikum és Kollégium - Kiskunmajsa
-  (2022. 10. 17.)
-date: 2022-10-17T17:11:28.300Z
+date: 2022. 10. 17.
 coverImage: /images/20221017-2.jpg
 categories:
   - prevencio

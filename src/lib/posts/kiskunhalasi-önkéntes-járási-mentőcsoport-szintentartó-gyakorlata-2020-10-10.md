@@ -1,7 +1,7 @@
 ---
-title: Kiskunhalasi Önkéntes Járási Mentőcsoport szintentartó gyakorlata (2020.
-  10. 10.)
-date: 2020-10-10T16:28:50.062Z
+title: Kiskunhalasi Önkéntes Járási Mentőcsoport szintentartó gyakorlata
+date: 2020.
+  10. 10.
 coverImage: /images/201011gyakorlat13.jpg
 categories:
   - kepzesek

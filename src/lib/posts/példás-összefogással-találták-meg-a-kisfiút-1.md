@@ -1,6 +1,6 @@
 ---
-title: Példás összefogással találták meg a kisfiút (2022. 03. 10.)
-date: 2022-03-13T18:22:15.735Z
+title: Példás összefogással találták meg a kisfiút
+date: 2022. 03. 10.
 coverImage: /images/0310-7.jpg
 categories:
   - hirek

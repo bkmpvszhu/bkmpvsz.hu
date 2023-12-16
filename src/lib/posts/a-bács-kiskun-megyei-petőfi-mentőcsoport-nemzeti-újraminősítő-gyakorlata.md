@@ -1,7 +1,6 @@
 ---
 title: A Bács-Kiskun megyei Petőfi Mentőcsoport nemzeti újraminősítő gyakorlata
-  (2022.10.15.)
-date: 2022-10-15T19:04:55.386Z
+date: 2022.10.15.
 coverImage: /images/felirat1.jpg
 categories:
   - hirek

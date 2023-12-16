@@ -1,6 +1,6 @@
 ---
-title: Katasztrófavédelmi ifjúsági verseny (2018. 04. 11.)
-date: 2018-04-11T21:05:55.577Z
+title: Katasztrófavédelmi ifjúsági verseny
+date: 2018. 04. 11.
 coverImage: /images/2018-04-11-7.jpg
 categories:
   - ifjusag

@@ -1,6 +1,6 @@
 ---
-title: CO érzékelők adományozása (2018. 11. 26.)
-date: 2018-11-26T19:35:17.363Z
+title: CO érzékelők adományozása
+date: 2018. 11. 26.
 coverImage: /images/20181126-index2.png
 categories:
   - hirek

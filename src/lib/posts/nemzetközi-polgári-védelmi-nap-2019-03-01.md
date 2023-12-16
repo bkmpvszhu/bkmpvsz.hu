@@ -1,6 +1,6 @@
 ---
-title: Nemzetközi polgári Védelmi Nap (2019. 03. 01.)
-date: 2019-03-01T18:33:58.667Z
+title: Nemzetközi polgári Védelmi Nap
+date: 2019. 03. 01.
 coverImage: /images/20190301-1.jpg
 categories:
   - hirek

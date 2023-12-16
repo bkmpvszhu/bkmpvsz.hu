@@ -1,6 +1,6 @@
 ---
-title: Járási Katasztrófavédelmi Ifjúsági Verseny Kalocsán (2023. 10. 10.)
-date: 2023-10-13T18:32:00.346Z
+title: Járási Katasztrófavédelmi Ifjúsági Verseny Kalocsán
+date: 2023. 10. 10.
 coverImage: /images/füstsátor4.jpg
 categories:
   - ifjusag

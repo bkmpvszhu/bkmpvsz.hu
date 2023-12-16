@@ -1,6 +1,6 @@
 ---
-title: Polgármesteri fórum (2017. 11. 23.)
-date: 2017-11-23T20:27:52.254Z
+title: Polgármesteri fórum
+date: 2017. 11. 23.
 coverImage: /images/2017-11-23-index.jpg
 categories:
   - hirek

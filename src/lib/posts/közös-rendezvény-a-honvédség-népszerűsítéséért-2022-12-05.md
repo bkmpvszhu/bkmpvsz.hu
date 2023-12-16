@@ -1,6 +1,6 @@
 ---
-title: Közös rendezvény a Honvédség népszerűsítéséért (2022. 12. 05.)
-date: 2022-12-05T19:31:31.493Z
+title: Közös rendezvény a Honvédség népszerűsítéséért
+date: 2022. 12. 05.
 coverImage: /images/20221205-2.jpg
 categories:
   - hirek

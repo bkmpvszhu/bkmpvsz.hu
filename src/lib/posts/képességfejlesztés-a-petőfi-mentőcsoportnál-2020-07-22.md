@@ -1,6 +1,6 @@
 ---
-title: Képességfejlesztés a Petőfi Mentőcsoportnál (2020. 07. 22.)
-date: 2020-07-22T15:39:23.987Z
+title: Képességfejlesztés a Petőfi Mentőcsoportnál
+date: 2020. 07. 22.
 coverImage: /images/20200722-1.jpg
 categories:
   - hirek

@@ -1,7 +1,7 @@
 ---
 title: Felső-Bácskai Önkéntes Mentőcsoport végrehajtotta éves ismétlő
-  gyakorlatát (2021. 06. 19.)
-date: 2021-06-21T20:12:47.473Z
+  gyakorlatát
+date: 2021. 06. 19.
 coverImage: /images/20210619-3.jpg
 categories:
   - kepzesek

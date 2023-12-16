@@ -1,6 +1,6 @@
 ---
-title: Móra mentőcsoport újraminősítő gyakorlata (2023.09.15)
-date: 2023-09-15T08:20:31.223Z
+title: Móra mentőcsoport újraminősítő gyakorlata
+date: 2023.09.15
 coverImage: /images/20230915-3.jpeg
 categories:
   - hirek

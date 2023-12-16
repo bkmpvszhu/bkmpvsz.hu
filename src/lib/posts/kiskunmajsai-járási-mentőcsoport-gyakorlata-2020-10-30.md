@@ -1,6 +1,6 @@
 ---
-title: Kiskunmajsai Járási Mentőcsoport gyakorlata (2020. 10. 30.)
-date: 2020-10-30T17:17:00.159Z
+title: Kiskunmajsai Járási Mentőcsoport gyakorlata
+date: 2020. 10. 30.
 coverImage: /images/20201030-1.jpg
 categories:
   - kepzesek

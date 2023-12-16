@@ -1,6 +1,6 @@
 ---
-title: Jódtabletta gyakorlat (2022. 06. 08.)
-date: 2022-06-08T19:15:21.971Z
+title: Jódtabletta gyakorlat
+date: 2022. 06. 08.
 coverImage: /images/2022-06-08-index.jpg
 categories:
   - hirek

@@ -1,6 +1,6 @@
 ---
-title: Szentistváni Általános Iskola, Baja (2017. 05. 22.)
-date: 2017-05-22T18:36:49.974Z
+title: Szentistváni Általános Iskola, Baja
+date: 2017. 05. 22.
 coverImage: /images/dsc_0030.jpg
 categories:
   - prevencio

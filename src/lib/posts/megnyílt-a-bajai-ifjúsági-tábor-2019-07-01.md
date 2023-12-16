@@ -1,6 +1,6 @@
 ---
-title: Megnyílt a bajai ifjúsági tábor (2019. 07. 01.)
-date: 2019-07-01T18:16:34.826Z
+title: Megnyílt a bajai ifjúsági tábor
+date: 2019. 07. 01.
 coverImage: /images/20190701-index.jpg
 categories:
   - ifjusag
