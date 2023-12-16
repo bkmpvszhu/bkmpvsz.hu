@@ -1,6 +1,6 @@
 ---
 title: Kunszentmiklós Baksay Sándor Református Gimnázium és Általános Iskola
-date: 2023. 09. 22.
+date: 2023-09-22T00:00:00.000Z
 coverImage: /images/20230922-16.jpg
 categories:
   - prevencio

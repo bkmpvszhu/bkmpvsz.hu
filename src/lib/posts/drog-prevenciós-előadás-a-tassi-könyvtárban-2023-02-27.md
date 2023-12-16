@@ -1,6 +1,6 @@
 ---
 title: Drog prevenciós előadás a tassi könyvtárban
-date: 2023. 02. 27.
+date: 2023-02-27T00:00:00.000Z
 coverImage: /images/20230227-index.jpg
 categories:
   - prevencio

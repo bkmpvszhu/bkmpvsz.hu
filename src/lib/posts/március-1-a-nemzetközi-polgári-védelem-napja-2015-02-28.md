@@ -1,6 +1,6 @@
 ---
 title: Március 1. a Nemzetközi Polgári Védelem Napja
-date: 2015. 02. 28.
+date: 2015-02-28T00:00:00.000Z
 coverImage: /images/20150228-5.jpg
 categories:
   - hirek

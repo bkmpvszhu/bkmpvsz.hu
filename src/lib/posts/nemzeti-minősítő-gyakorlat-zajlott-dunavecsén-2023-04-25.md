@@ -1,6 +1,6 @@
 ---
 title: Nemzeti minősítő gyakorlat zajlott Dunavecsén
-date: 2023. 04. 25.
+date: 2023-04-25T00:00:00.000Z
 coverImage: /images/2023-04-25-6.jpg
 categories:
   - hirek

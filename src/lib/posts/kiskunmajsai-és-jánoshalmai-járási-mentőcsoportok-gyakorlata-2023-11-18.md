@@ -1,6 +1,6 @@
 ---
 title: Kiskunmajsai és Jánoshalmai Járási Mentőcsoportok gyakorlata
-date: 2023. 11. 18.
+date: 2023-11-18T00:00:00.000Z
 coverImage: /images/2023-11-18-1-fadöntés.jpg
 categories:
   - hirek

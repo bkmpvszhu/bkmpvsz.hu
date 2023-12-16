@@ -1,6 +1,6 @@
 ---
 title: Bajai SZC Bányai Júlia Technikum és Szakképző Iskola
-date: 2022. 12. 19.
+date: 2022-12-19T00:00:00.000Z
 coverImage: /images/20221219-5.jpg
 categories:
   - prevencio

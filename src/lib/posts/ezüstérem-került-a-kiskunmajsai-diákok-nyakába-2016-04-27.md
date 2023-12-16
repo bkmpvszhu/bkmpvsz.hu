@@ -1,6 +1,6 @@
 ---
 title: Ezüstérem került a kiskunmajsai diákok nyakába
-date: 2016. 04. 27.
+date: 2016-04-27T00:00:00.000Z
 coverImage: /images/20160427-30.jpg
 categories:
   - ifjusag

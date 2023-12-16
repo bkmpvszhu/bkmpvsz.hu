@@ -1,6 +1,6 @@
 ---
 title: Katasztrófavédelmi ifjúsági verseny megyei döntője
-date: 2017. 04. 12.
+date: 2017-04-12T00:00:00.000Z
 coverImage: /images/2017-04-12-index.jpg
 categories:
   - ifjusag

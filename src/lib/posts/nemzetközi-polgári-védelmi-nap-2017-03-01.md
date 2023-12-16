@@ -1,6 +1,6 @@
 ---
 title: Nemzetközi Polgári Védelmi Nap
-date: 2017. 03. 01.
+date: 2017-03-01T00:00:00.000Z
 coverImage: /images/2017-03-01-9.jpg
 categories:
   - hirek

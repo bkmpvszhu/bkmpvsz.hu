@@ -1,6 +1,6 @@
 ---
 title: Külső védelmi tervgyakorlatot Kiskunhalason
-date: 2016. 11. 23.
+date: 2016-11-23T00:00:00.000Z
 coverImage: /images/20161123-index.jpg
 categories:
   - kepzesek

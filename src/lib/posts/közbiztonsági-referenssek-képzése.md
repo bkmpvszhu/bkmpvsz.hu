@@ -1,6 +1,6 @@
 ---
 title: Közbiztonsági referenssek képzése
-date: 2020. 02. 18.
+date: 2020-02-18T00:00:00.000Z
 coverImage: /images/20200218-1.jpg
 categories:
   - kepzesek

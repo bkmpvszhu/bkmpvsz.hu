@@ -1,6 +1,6 @@
 ---
 title: Bajai SZC Türr István Technikum
-date: 2022. 12. 19.
+date: 2022-12-19T00:00:00.000Z
 coverImage: /images/20221219-1.jpg
 categories:
   - prevencio

@@ -1,6 +1,6 @@
 ---
 title: Közös összefogás a rászorultak védelméért
-date: 2022. 11. 11.
+date: 2022-11-11T00:00:00.000Z
 coverImage: /images/20221110-index.jpg
 categories:
   - hirek

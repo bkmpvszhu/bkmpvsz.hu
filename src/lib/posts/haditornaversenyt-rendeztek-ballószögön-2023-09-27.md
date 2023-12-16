@@ -1,6 +1,6 @@
 ---
 title: Haditornaversenyt rendeztek Ballószögön
-date: 2023. 09. 27.
+date: 2023-09-27T00:00:00.000Z
 coverImage: /images/20230927-7.jpg
 categories:
   - hirek

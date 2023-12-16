@@ -1,6 +1,6 @@
 ---
 title: Móra mentőcsoport szintentartó gyakorlata
-date: 2021. 06. 04.
+date: 2021-06-04T00:00:00.000Z
 coverImage: /images/20210604-1.jpg
 categories:
   - kepzesek

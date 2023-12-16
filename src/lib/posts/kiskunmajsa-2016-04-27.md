@@ -1,6 +1,6 @@
 ---
 title: Kiskunmajsa
-date: 2016. 04. 27.
+date: 2016-04-27T00:00:00.000Z
 coverImage: /images/20160427-1.jpg
 categories:
   - prevencio

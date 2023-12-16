@@ -1,6 +1,6 @@
 ---
 title: Tüzes Kunok szintentartó gyakorlata
-date: 2021. 05. 08.
+date: 2021-05-08T00:00:00.000Z
 coverImage: /images/20210508-12.jpg
 categories:
   - kepzesek

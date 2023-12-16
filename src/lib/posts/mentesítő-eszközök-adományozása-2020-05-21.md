@@ -1,6 +1,6 @@
 ---
 title: Mentesítő eszközök adományozása
-date: 2020. 05. 21.
+date: 2020-05-21T00:00:00.000Z
 coverImage: /images/20200521-2.jpg
 categories:
   - hirek

@@ -1,6 +1,6 @@
 ---
 title: Taroltak az országos versenyen a kiskunmajsai diákok
-date: 2015. 04. 25.
+date: 2015-04-25T00:00:00.000Z
 coverImage: /images/20150427-12.jpg
 categories:
   - ifjusag

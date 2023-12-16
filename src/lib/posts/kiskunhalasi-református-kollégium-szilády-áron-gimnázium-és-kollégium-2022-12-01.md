@@ -1,6 +1,6 @@
 ---
 title: Kiskunhalasi Református Kollégium Szilády Áron Gimnázium és Kollégium
-date: 2022. 12. 01.
+date: 2022-12-01T00:00:00.000Z
 coverImage: /images/20221201-12.jpg
 categories:
   - prevencio

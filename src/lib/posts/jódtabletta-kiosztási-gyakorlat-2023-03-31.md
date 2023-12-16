@@ -1,6 +1,6 @@
 ---
 title: Jódtabletta kiosztási gyakorlat
-date: 2023. 05. 31.
+date: 2023-05-31T00:00:00.000Z
 coverImage: /images/20230531-index.jpg
 categories:
   - hirek

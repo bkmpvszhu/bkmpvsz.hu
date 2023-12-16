@@ -1,7 +1,7 @@
 ---
 title: Megtartotta éves közgyűlését a Bács-Kiskun Megyei Polgári Védelmi
   Szövetség
-date: 2023. 03. 31.
+date: 2023-03-31T00:00:00.000Z
 coverImage: /images/2m.jpg
 categories:
   - hirek

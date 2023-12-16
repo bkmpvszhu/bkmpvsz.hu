@@ -1,7 +1,6 @@
 ---
 title: KRK Központi Általános Iskola Gy. Szabó Béla Tagiskolája - Szank
-date: 2023.
-  11. 22.
+date: 2023-11-22T00:00:00.000Z
 coverImage: /images/2023-11-22-iindex.jpg
 categories:
   - prevencio

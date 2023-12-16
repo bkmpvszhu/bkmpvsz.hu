@@ -1,6 +1,6 @@
 ---
 title: CO érzékelők adományozása
-date: 2022. 10. 25.
+date: 2022-10-25T00:00:00.000Z
 coverImage: /images/co.png
 categories:
   - hirek

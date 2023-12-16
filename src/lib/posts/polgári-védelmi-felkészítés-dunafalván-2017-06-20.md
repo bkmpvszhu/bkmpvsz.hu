@@ -1,6 +1,6 @@
 ---
 title: Polgári védelmi felkészítés Dunafalván
-date: 2017. 06. 20.
+date: 2017-06-20T00:00:00.000Z
 coverImage: /images/20170620-1.jpg
 categories:
   - kepzesek

@@ -1,6 +1,6 @@
 ---
 title: Szakmár - Települési köteles polgári védelmi szervezetek felkészítése
-date: 2018. 05. 14.
+date: 2018-05-14T00:00:00.000Z
 coverImage: /images/20180514-index.jpg
 categories:
   - kepzesek

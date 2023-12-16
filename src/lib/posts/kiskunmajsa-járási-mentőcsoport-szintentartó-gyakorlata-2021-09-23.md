@@ -1,6 +1,6 @@
 ---
 title: Kiskunmajsa Járási Mentőcsoport szintentartó gyakorlata
-date: 2021. 09. 23.
+date: 2021-09-23T00:00:00.000Z
 coverImage: /images/kkmajsa20210923-1.jfif
 categories:
   - kepzesek
