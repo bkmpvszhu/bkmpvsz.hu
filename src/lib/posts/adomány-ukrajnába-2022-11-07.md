@@ -1,6 +1,6 @@
 ---
-title: Adomány Ukrajnába (2022. 11. 07.)
-date: 2022-11-09T20:04:24.990Z
+title: Adomány Ukrajnába
+date: 2022-11-07T00:00:00.000Z
 coverImage: /images/20221107-6.jpg
 categories:
   - hirek

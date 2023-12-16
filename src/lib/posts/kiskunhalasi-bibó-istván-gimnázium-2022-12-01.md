@@ -1,6 +1,6 @@
 ---
-title: Kiskunhalasi Bibó István Gimnázium (2022. 12. 01.)
-date: 2022-12-03T17:56:25.102Z
+title: Kiskunhalasi Bibó István Gimnázium
+date: 2022-12-01T00:00:00.000Z
 coverImage: /images/20221201-8.jpg
 categories:
   - prevencio

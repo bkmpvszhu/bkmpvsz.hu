@@ -1,6 +1,6 @@
 ---
-title: Katasztrófavédelmi ifjúsági verseny a Petőfi szigeten (2022. 04. 28.)
-date: 2022-04-28T18:27:52.022Z
+title: Katasztrófavédelmi ifjúsági verseny a Petőfi szigeten
+date: 2022-04-28T00:00:00.000Z
 coverImage: /images/baja-20220428-ifj.-v.-01.jpg
 categories:
   - hirek

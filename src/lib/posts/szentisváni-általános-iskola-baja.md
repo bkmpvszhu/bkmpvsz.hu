@@ -1,6 +1,6 @@
 ---
-title: Szentisváni Általános Iskola - Baja (2018. 12. 13.)
-date: 2018-12-13T19:04:24.798Z
+title: Szentisváni Általános Iskola - Baja
+date: 2018-12-13T00:00:00.000Z
 coverImage: /images/baja-szentisváni-1.jpg
 categories:
   - prevencio

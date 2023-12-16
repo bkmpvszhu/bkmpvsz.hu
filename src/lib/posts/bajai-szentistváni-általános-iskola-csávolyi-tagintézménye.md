@@ -1,6 +1,6 @@
 ---
-title: Bajai Szentistváni Általános Iskola Csávolyi tagintézménye (2018. 12. 13.)
-date: 2018-12-13T19:09:41.334Z
+title: Bajai Szentistváni Általános Iskola Csávolyi tagintézménye
+date: 2018-12-13T00:00:00.000Z
 coverImage: /images/csávoly-1.jpg
 categories:
   - prevencio

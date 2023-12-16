@@ -1,6 +1,6 @@
 ---
-title: Katasztrófavédelmi gyakorlat Csengődön (2017. 10. 27.)
-date: 2017-10-27T18:17:42.931Z
+title: Katasztrófavédelmi gyakorlat Csengődön
+date: 2017-10-27T00:00:00.000Z
 coverImage: /images/20171027-1.jpg
 categories:
   - kepzesek

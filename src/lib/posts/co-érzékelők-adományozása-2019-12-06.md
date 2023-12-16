@@ -1,6 +1,6 @@
 ---
-title: CO érzékelők adományozása (2019. 12. 06.)
-date: 2019-12-06T18:46:06.603Z
+title: CO érzékelők adományozása
+date: 2019-12-06T00:00:00.000Z
 coverImage: /images/20181126-index2.png
 categories:
   - hirek

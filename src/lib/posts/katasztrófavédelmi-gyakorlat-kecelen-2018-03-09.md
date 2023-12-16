@@ -1,6 +1,6 @@
 ---
-title: Katasztrófavédelmi gyakorlat Kecelen (2018. 03. 09.)
-date: 2018-03-09T04:40:56.410Z
+title: Katasztrófavédelmi gyakorlat Kecelen
+date: 2018-03-09T00:00:00.000Z
 coverImage: /images/20180309-2.jpg
 categories:
   - kepzesek

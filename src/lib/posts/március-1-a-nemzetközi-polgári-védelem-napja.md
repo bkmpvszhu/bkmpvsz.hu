@@ -1,6 +1,6 @@
 ---
-title: Közös ünneplés (2023. 03. 01.)
-date: 2023-03-01T18:48:44.329Z
+title: Közös ünneplés
+date: 2023-03-01T00:00:00.000Z
 coverImage: /images/20230301-05.jpg
 categories:
   - hirek

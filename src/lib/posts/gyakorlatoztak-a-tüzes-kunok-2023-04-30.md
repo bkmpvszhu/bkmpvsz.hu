@@ -1,6 +1,6 @@
 ---
-title: Gyakorlatoztak a Tüzes Kunok (2023. 04.29.)
-date: 2023-05-01T10:23:28.201Z
+title: Gyakorlatoztak a Tüzes Kunok
+date: 2023. 04.29.
 coverImage: /images/230429gyakorlat.jpg
 categories:
   - hirek

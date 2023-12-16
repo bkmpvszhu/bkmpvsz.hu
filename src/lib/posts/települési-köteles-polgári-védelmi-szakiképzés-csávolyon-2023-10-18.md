@@ -1,6 +1,6 @@
 ---
-title: Települési köteles polgári védelmi szakiképzés Csávolyon (2023. 10. 18.)
-date: 2023-10-18T20:35:31.030Z
+title: Települési köteles polgári védelmi szakiképzés Csávolyon
+date: 2023-10-18T00:00:00.000Z
 coverImage: /images/2023-10-18-1.jpg
 categories:
   - hirek

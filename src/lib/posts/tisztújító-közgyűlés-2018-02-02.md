@@ -1,6 +1,6 @@
 ---
-title: Tisztújító közgyűlés (2018. 02. 02.)
-date: 2018-02-02T18:32:50.230Z
+title: Tisztújító közgyűlés
+date: 2018-02-02T00:00:00.000Z
 coverImage: /images/20180202-2.jpg
 categories:
   - hirek

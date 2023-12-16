@@ -1,6 +1,6 @@
 ---
-title: Kiskunmajsai Járási Mentőcsoport gyakorlata (2018. 05. 31.)
-date: 2018-05-31T13:28:37.574Z
+title: Kiskunmajsai Járási Mentőcsoport gyakorlata
+date: 2018-05-31T00:00:00.000Z
 coverImage: /images/20180531-7.jpg
 categories:
   - kepzesek

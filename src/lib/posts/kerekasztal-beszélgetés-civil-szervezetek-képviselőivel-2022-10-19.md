@@ -1,6 +1,6 @@
 ---
-title: Kerekasztal beszélgetés civil szervezetek képviselőivel (2022. 10. 19.)
-date: 2022-10-19T18:37:35.246Z
+title: Kerekasztal beszélgetés civil szervezetek képviselőivel
+date: 2022-10-19T00:00:00.000Z
 coverImage: /images/20221019indexm.jpg
 categories:
   - hirek

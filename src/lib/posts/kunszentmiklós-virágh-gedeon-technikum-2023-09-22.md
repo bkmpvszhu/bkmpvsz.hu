@@ -1,6 +1,6 @@
 ---
-title: Kunszentmiklós Virágh Gedeon Technikum (2023. 09. 22.)
-date: 2023-10-03T17:49:52.023Z
+title: Kunszentmiklós Virágh Gedeon Technikum
+date: 2023-09-22T00:00:00.000Z
 coverImage: /images/20230922-8.jpg
 categories:
   - prevencio

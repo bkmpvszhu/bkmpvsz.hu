@@ -1,7 +1,7 @@
 ---
 title: Jászszentlászló és Szank települési önkéntes mentőcsoportok éves szinten
-  tartó gyakorlata (2017. 05. 30.)
-date: 2017-05-30T14:11:57.309Z
+  tartó gyakorlata
+date: 2017-05-30T00:00:00.000Z
 coverImage: /images/20170530-3.jpg
 categories:
   - kepzesek

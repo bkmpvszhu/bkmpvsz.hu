@@ -1,6 +1,6 @@
 ---
-title: Kecskeméti SZC Széchenyi István Technikum (2023. 04. 04.)
-date: 2023-04-04T20:20:28.332Z
+title: Kecskeméti SZC Széchenyi István Technikum
+date: 2023-04-04T00:00:00.000Z
 coverImage: /images/2023-04-04-7.jpg
 categories:
   - prevencio

@@ -1,6 +1,6 @@
 ---
-title: Kecskeméti SZC Kada Elek Technikum (2022. 04. 25.)
-date: 2022-04-25T15:32:24.161Z
+title: Kecskeméti SZC Kada Elek Technikum
+date: 2022-04-25T00:00:00.000Z
 coverImage: /images/drogprevencio-2022-04-25-1.jpg
 categories:
   - prevencio

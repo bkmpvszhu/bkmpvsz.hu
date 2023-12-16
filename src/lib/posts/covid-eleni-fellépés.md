@@ -1,6 +1,6 @@
 ---
-title: Covid eleni fellépés (2020. 11. 17.)
-date: 2020-11-17T16:26:48.395Z
+title: Covid eleni fellépés
+date: 2020-11-17T00:00:00.000Z
 coverImage: /images/baptistaszeretetszolgalatkecskemet-scaled.jpg
 categories:
   - hirek

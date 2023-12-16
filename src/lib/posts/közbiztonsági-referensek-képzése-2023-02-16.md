@@ -1,6 +1,6 @@
 ---
-title: Közbiztonsági referensek képzése (2023. 02. 16.)
-date: 2023-02-17T20:50:52.093Z
+title: Közbiztonsági referensek képzése
+date: 2023-02-16T00:00:00.000Z
 coverImage: /images/20230219-3.jpg
 categories:
   - hirek

@@ -1,6 +1,6 @@
 ---
-title: Települési nemzeti minősítő gyakorlatok a Kiskunságban (2023. 06. 16)
-date: 2023-05-31T18:07:32.601Z
+title: Települési nemzeti minősítő gyakorlatok a Kiskunságban
+date: 2023. 06. 16
 coverImage: /images/index-20230623.jpeg
 categories:
   - hirek

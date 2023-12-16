@@ -1,6 +1,6 @@
 ---
-title: Vezetőségi ülés (2022. 12. 09.)
-date: 2022-12-13T17:36:35.160Z
+title: Vezetőségi ülés
+date: 2022-12-09T00:00:00.000Z
 coverImage: /images/20221209-6.jpg
 categories:
   - hirek

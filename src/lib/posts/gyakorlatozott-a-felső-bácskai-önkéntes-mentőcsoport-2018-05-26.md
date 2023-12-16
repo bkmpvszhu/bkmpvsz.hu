@@ -1,6 +1,6 @@
 ---
-title: Gyakorlatozott a Felső-Bácskai Önkéntes Mentőcsoport (2018. 05. 26.)
-date: 2019-05-26T13:17:52.876Z
+title: Gyakorlatozott a Felső-Bácskai Önkéntes Mentőcsoport
+date: 2018-05-26T00:00:00.000Z
 coverImage: /images/20180526-index.jpg
 categories:
   - kepzesek

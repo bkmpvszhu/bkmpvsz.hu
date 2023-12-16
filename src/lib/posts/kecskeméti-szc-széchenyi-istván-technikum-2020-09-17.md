@@ -1,6 +1,6 @@
 ---
-title: Kecskeméti SZC SZéchenyi István Technikum (2020. 09. 17.)
-date: 2020-09-17T16:25:27.006Z
+title: Kecskeméti SZC SZéchenyi István Technikum
+date: 2020-09-17T00:00:00.000Z
 coverImage: /images/20200917-1.jpg
 categories:
   - prevencio
