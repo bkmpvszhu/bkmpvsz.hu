@@ -5,6 +5,7 @@ coverImage: /images/2024-02-06-1.jpg
 categories:
   - prevencio
 excerpt: " "
+scaleDown: true
 ---
 ![](/images/2024-02-06-2.jpg)
 
