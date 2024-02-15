@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-6f4fc172.js",
+    "file": "start-1d8c1273.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-e3dea45f.js",
+    "file": "pages/blog/category/page/_page_.svelte-3a77f75a.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-253b724f.js",
+      "_fetchPosts-2c7b1e21.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-38cdb1cc.js",
+    "file": "pages/blog/category/_category_/index.svelte-2ce2b0b8.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-253b724f.js",
+      "_fetchPosts-2c7b1e21.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-eb94a660.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-a1146c7f.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-253b724f.js",
+      "_fetchPosts-2c7b1e21.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-4ba2a8bf.js",
+    "file": "pages/blog/page/_page_.svelte-487e5d87.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-253b724f.js",
+      "_fetchPosts-2c7b1e21.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-446f34f6.js",
+    "file": "pages/blog/_post_.svelte-bb47122e.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -250,6 +250,7 @@
       "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
       "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye-1.md",
       "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
+      "src/lib/posts/bajai-szentistváni-általános-iskola.md",
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md",
       "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md",
@@ -439,8 +440,8 @@
       "_config-b65acbb0.js"
     ]
   },
-  "_fetchPosts-253b724f.js": {
-    "file": "chunks/fetchPosts-253b724f.js",
+  "_fetchPosts-2c7b1e21.js": {
+    "file": "chunks/fetchPosts-2c7b1e21.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -453,6 +454,7 @@
       "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
       "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye-1.md",
       "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
+      "src/lib/posts/bajai-szentistváni-általános-iskola.md",
       "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
       "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md",
       "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md",
@@ -653,6 +655,14 @@
   "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md": {
     "file": "chunks/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye-27de4b0b.js",
     "src": "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-szentistváni-általános-iskola.md": {
+    "file": "chunks/bajai-szentistváni-általános-iskola-d2356103.js",
+    "src": "src/lib/posts/bajai-szentistváni-általános-iskola.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
