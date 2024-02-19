@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-1d8c1273.js",
+    "file": "start-2f606d05.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-3a77f75a.js",
+    "file": "pages/blog/category/page/_page_.svelte-6a3b545b.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2c7b1e21.js",
+      "_fetchPosts-e04a91ca.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-2ce2b0b8.js",
+    "file": "pages/blog/category/_category_/index.svelte-507c55d2.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2c7b1e21.js",
+      "_fetchPosts-e04a91ca.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-a1146c7f.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-bf920c73.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2c7b1e21.js",
+      "_fetchPosts-e04a91ca.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-487e5d87.js",
+    "file": "pages/blog/page/_page_.svelte-12a123c6.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2c7b1e21.js",
+      "_fetchPosts-e04a91ca.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-bb47122e.js",
+    "file": "pages/blog/_post_.svelte-03c9bf22.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -348,6 +348,7 @@
       "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
       "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
       "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
+      "src/lib/posts/közbiztonsági-referensek-értekezlete.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/közgyűlés-2019-04-26.md",
       "src/lib/posts/közös-rendezvény-a-honvédség-népszerűsítéséért-2022-12-05.md",
@@ -440,8 +441,8 @@
       "_config-b65acbb0.js"
     ]
   },
-  "_fetchPosts-2c7b1e21.js": {
-    "file": "chunks/fetchPosts-2c7b1e21.js",
+  "_fetchPosts-e04a91ca.js": {
+    "file": "chunks/fetchPosts-e04a91ca.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -552,6 +553,7 @@
       "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
       "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
       "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
+      "src/lib/posts/közbiztonsági-referensek-értekezlete.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/közgyűlés-2019-04-26.md",
       "src/lib/posts/közös-rendezvény-a-honvédség-népszerűsítéséért-2022-12-05.md",
@@ -1439,6 +1441,14 @@
   "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md": {
     "file": "chunks/közbiztonsági-referensek-képzése-2023-02-16-d8edc637.js",
     "src": "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közbiztonsági-referensek-értekezlete.md": {
+    "file": "chunks/közbiztonsági-referensek-értekezlete-e34e7a70.js",
+    "src": "src/lib/posts/közbiztonsági-referensek-értekezlete.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
