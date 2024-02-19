@@ -5,8 +5,9 @@ coverImage: /images/20240215_index.jpg
 categories:
   - hirek
 excerpt: 2024. február 15-én a Kalocsai Hivatásos Tűzoltóparancsnokság
-  tantermében   referensi  értekezlet került megtartására, melyen Baja és
-  Kalocsa járás 22 közbiztonsági referense, referens-helyettese vett részt.
+  tantermében   Magony Mária tű. százados, katasztrófavédelmi megbízott és
+  munkatársai referensi értekezletet tartott, melyen Baja és Kalocsa járás 22
+  közbiztonsági referense, referens-helyettese vett részt.
 ---
 ![](/images/20240215_2.jpg)
 
