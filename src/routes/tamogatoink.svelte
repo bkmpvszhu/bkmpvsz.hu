@@ -1,11 +1,11 @@
 <script>
 	const sponsors = [
-		{ name: 'Aszinkron Kft.', 			imageSrc: 'http://aszinkron.hu/templates/motif/images/logos/mlogo-s2.png', link: 'http://aszinkron.hu/index.php' },
-		{ name: 'Fercom Systems Kft.', 		imageSrc: 'https://fercomsystems.hu/assets/images/fercom-systems-logo.pznlo4-664x258.png', link: 'https://fercomsystems.hu/' },
+		{ name: 'Aszinkron Kft.', 			imageSrc: 'https://bkmpvsz.hu/logos/aszinkron.png', link: 'http://aszinkron.hu/index.php' },
+		{ name: 'Fercom Systems Kft.', 		imageSrc: 'https://bkmpvsz.hu/logos/fercom.png', link: 'https://fercomsystems.hu/' },
 		{ name: 'Fornetti', 				imageSrc: 'https://cdn.freebiesupply.com/logos/large/2x/fornetti-logo-svg-vector.svg', link: 'https://www.fornetti.hu' },
-		{ name: 'Furafol Hungary Kft.', 	imageSrc: 'https://furafol.hu/wp-content/uploads/2019/04/cropped-furafol-logo-1-1.png', link: 'https://furafol.hu/' },
-		{ name: 'Jonathermál Zrt.', 		imageSrc: 'https://jonathermal.hu/wp-content/uploads/2022/02/jonathermál-logo.png', link: 'https://www.jonathermal.hu' },
-		{ name: 'Polár-Stúdió Kft.', 		imageSrc: 'https://www.polar-studio.hu/wp-content/uploads/2023/07/polar-studio-logo.png', link: 'http://www.polar-studio.hu' },
+		{ name: 'Furafol Hungary Kft.', 	imageSrc: 'https://bkmpvsz.hu/logos/fufarol.png', link: 'https://furafol.hu/' },
+		{ name: 'Jonathermál Zrt.', 		imageSrc: 'https://bkmpvsz.hu/logos/jonathermal.png', link: 'https://www.jonathermal.hu' },
+		{ name: 'Polár-Stúdió Kft.', 		imageSrc: 'https://bkmpvsz.hu/logos/polar.png', link: 'http://www.polar-studio.hu' },
 		{ name: 'Print 2000', 				imageSrc: 'http://www.print2000.hu/css/print_2000_nyomda_kecskemet_logo.svg', link: 'http://www.print2000.hu' },
 		{ name: 'Csávoly önkormányzata', 	imageSrc: 'https://csavoly.hu/wp/wp-content/uploads/2020/04/címer.jpg', link: 'https://csavoly.hu'},
 		{ name: 'Pintérné és Társa Bt.'},
