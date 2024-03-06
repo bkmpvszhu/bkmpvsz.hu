@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-bff1c3d9.js",
+    "file": "start-fb3d81ed.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-c0b27095.js",
+    "file": "pages/blog/category/page/_page_.svelte-e18992f2.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e8027ed9.js",
+      "_fetchPosts-e417ded7.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-fd7c05be.js",
+    "file": "pages/blog/category/_category_/index.svelte-b693ca7a.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e8027ed9.js",
+      "_fetchPosts-e417ded7.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-43536359.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-f5c1519c.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e8027ed9.js",
+      "_fetchPosts-e417ded7.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-5f889e92.js",
+    "file": "pages/blog/page/_page_.svelte-f84034fd.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e8027ed9.js",
+      "_fetchPosts-e417ded7.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-a484e18a.js",
+    "file": "pages/blog/_post_.svelte-61aa4599.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -392,7 +392,6 @@
       "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
       "src/lib/posts/tass-könyvtár-2023-09-22.md",
       "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md",
-      "src/lib/posts/teszt-poszt.md",
       "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md",
       "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
@@ -443,8 +442,8 @@
       "_config-b65acbb0.js"
     ]
   },
-  "_fetchPosts-e8027ed9.js": {
-    "file": "chunks/fetchPosts-e8027ed9.js",
+  "_fetchPosts-e417ded7.js": {
+    "file": "chunks/fetchPosts-e417ded7.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -599,7 +598,6 @@
       "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
       "src/lib/posts/tass-könyvtár-2023-09-22.md",
       "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md",
-      "src/lib/posts/teszt-poszt.md",
       "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md",
       "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
       "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
@@ -1797,14 +1795,6 @@
   "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md": {
     "file": "chunks/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18-fccca0c7.js",
     "src": "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-48b2defe.js"
-    ]
-  },
-  "src/lib/posts/teszt-poszt.md": {
-    "file": "chunks/teszt-poszt-e6aa7b0f.js",
-    "src": "src/lib/posts/teszt-poszt.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
