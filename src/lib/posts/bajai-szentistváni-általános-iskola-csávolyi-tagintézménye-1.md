@@ -1,6 +1,6 @@
 ---
 title: Bajai Szentistváni Általános Iskola Csávolyi Tagintézménye
-date: 2024-02-06T16:58:35.534Z
+date: 2024-02-02T16:58:35.534Z
 coverImage: /images/2024-02-06-1.jpg
 categories:
   - prevencio

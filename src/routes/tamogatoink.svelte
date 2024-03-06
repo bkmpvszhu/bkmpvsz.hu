@@ -7,6 +7,7 @@
 		{ name: 'Jonathermál Zrt.', 		imageSrc: 'https://www.jonathermal.hu/images/logo.png', link: 'https://www.jonathermal.hu' },
 		{ name: 'Polár-Stúdió Kft.', 		imageSrc: 'http://www.polar-studio.hu/images/logo.jpg', link: 'http://www.polar-studio.hu' },
 		{ name: 'Print 2000', 				imageSrc: 'http://www.print2000.hu/css/print_2000_nyomda_kecskemet_logo.svg', link: 'http://www.print2000.hu' },
+		{ name: 'Csávoly önkormányzata', 	imageSrc: 'https://csavoly.hu/wp/wp-content/uploads/2020/04/címer.jpg', link: 'https://csavoly.hu'},
 		{ name: 'Pintérné és Társa Bt.'},
 		{ name: 'Halas-Agromark Kft.'},
 		{ name: 'Csátalja önkormányzata', link: 'http://csatalja.hu/' },
