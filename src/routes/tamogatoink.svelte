@@ -63,8 +63,8 @@
 	}
 
 	img {
-		max-width: 150px;
-		max-height: 150px;
+		max-width: 125px;
+		max-height: 125px;
 	}
 
 	.container {
