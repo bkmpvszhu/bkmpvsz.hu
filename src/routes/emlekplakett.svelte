@@ -13,6 +13,11 @@
 
 <h2>Díjazottaink</h2>
 
+<h3>2024</h3>
+<ul>
+	<li>Péjó Lajos</li>
+</ul>
+
 <h3>2023</h3>
 <ul>
 	<li>Polgár Pál</li>

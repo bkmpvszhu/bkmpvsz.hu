@@ -7,6 +7,7 @@ categories:
 excerpt: Március 1. a Polgári Védelem Világnapja. Ebből az alkalomból tartott
   ünnepi állománygyűlést a Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság
   a Bács-Kiskun Vármegyei Polgári Védelmi Szövetséggel közösen.
+scaleDown: true
 ---
 ![](/images/2024-03-01-1.jpg)
 
