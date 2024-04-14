@@ -4,7 +4,8 @@ date: 2024-04-14T10:06:09.201Z
 coverImage: /images/224-04-06-1.jpg
 scaleDown: false
 categories:
-  - hirek kepzesek
+  - hirek
+  - kepzesek
 excerpt: 2024. április 6-án került sor Kiskunhalason, a Kiskunhalasi
   Katasztrófavédelmi Kirendeltség illetékességi területéhez tartozó négy járás
   Járási Önkéntes Mentőszervezeteinek nemzeti újraminősítő gyakorlatára. A
