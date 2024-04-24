@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-76ff75c9.js",
+    "file": "start-e9c4275d.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-f9016f00.js",
+    "file": "pages/blog/category/page/_page_.svelte-e0ca6b44.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f5a6554c.js",
+      "_fetchPosts-935318d8.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-c39741f3.js",
+    "file": "pages/blog/category/_category_/index.svelte-fdbfb830.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f5a6554c.js",
+      "_fetchPosts-935318d8.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-f2c899d0.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-1dfa2c2d.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f5a6554c.js",
+      "_fetchPosts-935318d8.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-1695d4bf.js",
+    "file": "pages/blog/page/_page_.svelte-32209cf8.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-f5a6554c.js",
+      "_fetchPosts-935318d8.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-7ad6666c.js",
+    "file": "pages/blog/_post_.svelte-cb449d3f.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -245,6 +245,7 @@
     "dynamicImports": [
       "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
+      "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-2022-12-19.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola.md",
       "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
@@ -444,8 +445,8 @@
       "_config-b65acbb0.js"
     ]
   },
-  "_fetchPosts-f5a6554c.js": {
-    "file": "chunks/fetchPosts-f5a6554c.js",
+  "_fetchPosts-935318d8.js": {
+    "file": "chunks/fetchPosts-935318d8.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -453,6 +454,7 @@
     "dynamicImports": [
       "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
+      "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-2022-12-19.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola.md",
       "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
@@ -623,6 +625,14 @@
   "src/lib/posts/adomány-ukrajnába-2022-11-07.md": {
     "file": "chunks/adomány-ukrajnába-2022-11-07-26fcdf4f.js",
     "src": "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md": {
+    "file": "chunks/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése-e3552737.js",
+    "src": "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
