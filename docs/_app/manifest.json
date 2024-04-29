@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-e9c4275d.js",
+    "file": "start-06184ede.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-e0ca6b44.js",
+    "file": "pages/blog/category/page/_page_.svelte-d1e23f3e.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-935318d8.js",
+      "_fetchPosts-25fccf68.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-fdbfb830.js",
+    "file": "pages/blog/category/_category_/index.svelte-adc38803.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-935318d8.js",
+      "_fetchPosts-25fccf68.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-1dfa2c2d.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-5be7b66d.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-935318d8.js",
+      "_fetchPosts-25fccf68.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-32209cf8.js",
+    "file": "pages/blog/page/_page_.svelte-97333ef4.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-935318d8.js",
+      "_fetchPosts-25fccf68.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-cb449d3f.js",
+    "file": "pages/blog/_post_.svelte-7bdf7f21.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -358,6 +358,7 @@
       "src/lib/posts/közös-ünnepség-a-nemzetközi-polgári-védelem-nap-alkalmából.md",
       "src/lib/posts/külső-védelmi-tervgyakorlatot-kiskunhalason-2016-11-23.md",
       "src/lib/posts/meghívó-2023-03-01.md",
+      "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére.md",
       "src/lib/posts/megnyílt-a-bajai-ifjúsági-tábor-2019-07-01.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31.md",
@@ -445,8 +446,8 @@
       "_config-b65acbb0.js"
     ]
   },
-  "_fetchPosts-935318d8.js": {
-    "file": "chunks/fetchPosts-935318d8.js",
+  "_fetchPosts-25fccf68.js": {
+    "file": "chunks/fetchPosts-25fccf68.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -567,6 +568,7 @@
       "src/lib/posts/közös-ünnepség-a-nemzetközi-polgári-védelem-nap-alkalmából.md",
       "src/lib/posts/külső-védelmi-tervgyakorlatot-kiskunhalason-2016-11-23.md",
       "src/lib/posts/meghívó-2023-03-01.md",
+      "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére.md",
       "src/lib/posts/megnyílt-a-bajai-ifjúsági-tábor-2019-07-01.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31.md",
@@ -1529,6 +1531,14 @@
   "src/lib/posts/meghívó-2023-03-01.md": {
     "file": "chunks/meghívó-2023-03-01-911745fd.js",
     "src": "src/lib/posts/meghívó-2023-03-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére.md": {
+    "file": "chunks/meghívó-a-bkv-pvsz-közgyűlésére-d9c33e72.js",
+    "src": "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
