@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-06184ede.js",
+    "file": "start-608e3e36.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-d1e23f3e.js",
+    "file": "pages/blog/category/page/_page_.svelte-dc491867.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-25fccf68.js",
+      "_fetchPosts-fe87f41e.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-adc38803.js",
+    "file": "pages/blog/category/_category_/index.svelte-45e0d741.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-25fccf68.js",
+      "_fetchPosts-fe87f41e.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-5be7b66d.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-f095d89e.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-25fccf68.js",
+      "_fetchPosts-fe87f41e.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-97333ef4.js",
+    "file": "pages/blog/page/_page_.svelte-930ea7a0.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-25fccf68.js",
+      "_fetchPosts-fe87f41e.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-7bdf7f21.js",
+    "file": "pages/blog/_post_.svelte-6e54cbcb.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -287,6 +287,7 @@
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
       "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
       "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md",
+      "src/lib/posts/jódtabletta-kiosztási-gyakorlat.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
       "src/lib/posts/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14.md",
@@ -446,8 +447,8 @@
       "_config-b65acbb0.js"
     ]
   },
-  "_fetchPosts-25fccf68.js": {
-    "file": "chunks/fetchPosts-25fccf68.js",
+  "_fetchPosts-fe87f41e.js": {
+    "file": "chunks/fetchPosts-fe87f41e.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -497,6 +498,7 @@
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
       "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
       "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md",
+      "src/lib/posts/jódtabletta-kiosztási-gyakorlat.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
       "src/lib/posts/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14.md",
@@ -963,6 +965,14 @@
   "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md": {
     "file": "chunks/jódtabletta-kiosztási-gyakorlat-2023-03-31-130d35c2.js",
     "src": "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/jódtabletta-kiosztási-gyakorlat.md": {
+    "file": "chunks/jódtabletta-kiosztási-gyakorlat-f2eccd89.js",
+    "src": "src/lib/posts/jódtabletta-kiosztási-gyakorlat.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
