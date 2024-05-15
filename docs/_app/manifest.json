@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-fd48cdd4.js",
+    "file": "start-50ed1557.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-c068b11f.js",
+    "file": "pages/blog/category/page/_page_.svelte-dfd47aca.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-efb02920.js",
+      "_fetchPosts-6efa6cd8.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-279e1f4d.js",
+    "file": "pages/blog/category/_category_/index.svelte-6ce071c4.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-efb02920.js",
+      "_fetchPosts-6efa6cd8.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-166ccd10.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-af705f16.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-efb02920.js",
+      "_fetchPosts-6efa6cd8.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-a846e591.js",
+    "file": "pages/blog/page/_page_.svelte-f45cefd5.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-efb02920.js",
+      "_fetchPosts-6efa6cd8.js",
       "_config-b65acbb0.js",
       "_PostsList-0ef38003.js",
       "_Pagination-14a1df0e.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-6d459314.js",
+    "file": "pages/blog/_post_.svelte-5e423078.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -380,6 +380,7 @@
       "src/lib/posts/nemzetközi-tudományos-konferencia-a-katasztrófák-csökkentésének-világnapja-alkalmából.md",
       "src/lib/posts/nemzetközi-tábor-bajmok-2018-06-26-29.md",
       "src/lib/posts/nemzetközi-tábor-dombrádon-2017-08-04-7.md",
+      "src/lib/posts/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
       "src/lib/posts/petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2017-04-25-27.md",
       "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md",
@@ -447,8 +448,8 @@
       "_config-b65acbb0.js"
     ]
   },
-  "_fetchPosts-efb02920.js": {
-    "file": "chunks/fetchPosts-efb02920.js",
+  "_fetchPosts-6efa6cd8.js": {
+    "file": "chunks/fetchPosts-6efa6cd8.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-b65acbb0.js"
@@ -591,6 +592,7 @@
       "src/lib/posts/nemzetközi-tudományos-konferencia-a-katasztrófák-csökkentésének-világnapja-alkalmából.md",
       "src/lib/posts/nemzetközi-tábor-bajmok-2018-06-26-29.md",
       "src/lib/posts/nemzetközi-tábor-dombrádon-2017-08-04-7.md",
+      "src/lib/posts/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
       "src/lib/posts/petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2017-04-25-27.md",
       "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md",
@@ -1709,6 +1711,14 @@
   "src/lib/posts/nemzetközi-tábor-dombrádon-2017-08-04-7.md": {
     "file": "chunks/nemzetközi-tábor-dombrádon-2017-08-04-7-1ee4aa19.js",
     "src": "src/lib/posts/nemzetközi-tábor-dombrádon-2017-08-04-7.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md": {
+    "file": "chunks/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2b844827.js",
+    "src": "src/lib/posts/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
