@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-50ed1557.js",
+    "file": "start-1fe7fd3f.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -31,13 +31,13 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-37387204.js",
+    "file": "pages/__layout.svelte-05ebcb83.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_config-b65acbb0.js",
+      "_config-085cc7a9.js",
       "_singletons-4fc5a6de.js"
     ],
     "css": [
@@ -140,15 +140,15 @@
     ]
   },
   "src/routes/blog/index.svelte": {
-    "file": "pages/blog/index.svelte-8c060a2e.js",
+    "file": "pages/blog/index.svelte-f100471e.js",
     "src": "src/routes/blog/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
       "_PostsList-0ef38003.js",
-      "_Pagination-14a1df0e.js",
-      "_config-b65acbb0.js"
+      "_Pagination-ebe72911.js",
+      "_config-085cc7a9.js"
     ]
   },
   "src/routes/blog/category/index.svelte": {
@@ -161,30 +161,30 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-dfd47aca.js",
+    "file": "pages/blog/category/page/_page_.svelte-e83fd988.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6efa6cd8.js",
-      "_config-b65acbb0.js",
+      "_fetchPosts-49bc67c1.js",
+      "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
-      "_Pagination-14a1df0e.js",
+      "_Pagination-ebe72911.js",
       "_preload-helper-ec9aa979.js"
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-6ce071c4.js",
+    "file": "pages/blog/category/_category_/index.svelte-ceb9a16d.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6efa6cd8.js",
+      "_fetchPosts-49bc67c1.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
-      "_config-b65acbb0.js"
+      "_config-085cc7a9.js"
     ]
   },
   "src/routes/blog/category/[category]/page/index.svelte": {
@@ -197,16 +197,16 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-af705f16.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-4ed65e1e.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6efa6cd8.js",
-      "_config-b65acbb0.js",
+      "_fetchPosts-49bc67c1.js",
+      "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
-      "_Pagination-14a1df0e.js",
+      "_Pagination-ebe72911.js",
       "_preload-helper-ec9aa979.js"
     ]
   },
@@ -220,16 +220,16 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-f45cefd5.js",
+    "file": "pages/blog/page/_page_.svelte-fa44eaf1.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6efa6cd8.js",
-      "_config-b65acbb0.js",
+      "_fetchPosts-49bc67c1.js",
+      "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
-      "_Pagination-14a1df0e.js",
+      "_Pagination-ebe72911.js",
       "_preload-helper-ec9aa979.js"
     ]
   },
@@ -420,8 +420,8 @@
   "_preload-helper-ec9aa979.js": {
     "file": "chunks/preload-helper-ec9aa979.js"
   },
-  "_config-b65acbb0.js": {
-    "file": "chunks/config-b65acbb0.js"
+  "_config-085cc7a9.js": {
+    "file": "chunks/config-085cc7a9.js"
   },
   "_Magunkrol-5d619035.js": {
     "file": "chunks/Magunkrol-5d619035.js",
@@ -441,18 +441,18 @@
       "assets/PostsList-c7e22639.css"
     ]
   },
-  "_Pagination-14a1df0e.js": {
-    "file": "chunks/Pagination-14a1df0e.js",
+  "_Pagination-ebe72911.js": {
+    "file": "chunks/Pagination-ebe72911.js",
     "imports": [
       "_vendor-48b2defe.js",
-      "_config-b65acbb0.js"
+      "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-6efa6cd8.js": {
-    "file": "chunks/fetchPosts-6efa6cd8.js",
+  "_fetchPosts-49bc67c1.js": {
+    "file": "chunks/fetchPosts-49bc67c1.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
-      "_config-b65acbb0.js"
+      "_config-085cc7a9.js"
     ],
     "dynamicImports": [
       "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
