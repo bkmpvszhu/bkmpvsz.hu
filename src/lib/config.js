@@ -19,7 +19,7 @@ export const navItems = [
 		route: '/blog/category/hirek'
 	},
 	{
-		title: 'Ifjusági események',
+		title: 'Ifjúsági események',
 		route: '/blog/category/ifjusag'
 	},
 	{

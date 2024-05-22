@@ -61,7 +61,7 @@
 			case 'hirek':
 				return 'Hírek'
 			case 'ifjusag':
-				return 'Ifjusági események'
+				return 'Ifjúsági események'
 			case 'kepzesek':
 				return 'Felkészítések, képzések'
 			case 'prevencio':
