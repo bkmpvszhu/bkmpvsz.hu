@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-4d8b37df.js",
+    "file": "start-f6e92e95.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-4329f255.js",
+    "file": "pages/blog/category/page/_page_.svelte-e65ee21e.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ea1d51de.js",
+      "_fetchPosts-0f64e041.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-1da5c394.js",
+    "file": "pages/blog/category/_category_/index.svelte-b9a4aa81.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ea1d51de.js",
+      "_fetchPosts-0f64e041.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-ea446512.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-4b098b51.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ea1d51de.js",
+      "_fetchPosts-0f64e041.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-1c4e382c.js",
+    "file": "pages/blog/page/_page_.svelte-5ca32964.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ea1d51de.js",
+      "_fetchPosts-0f64e041.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-02a068ba.js",
+    "file": "pages/blog/_post_.svelte-302cb9ac.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -295,6 +295,7 @@
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2019-04-11.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-baján.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12.md",
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2017-06-26-30.md",
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md",
@@ -449,8 +450,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-ea1d51de.js": {
-    "file": "chunks/fetchPosts-ea1d51de.js",
+  "_fetchPosts-0f64e041.js": {
+    "file": "chunks/fetchPosts-0f64e041.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -508,6 +509,7 @@
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2019-04-11.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-baján.md",
       "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12.md",
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2017-06-26-30.md",
       "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md",
@@ -1033,6 +1035,14 @@
   "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md": {
     "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28-518b1202.js",
     "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-baján.md": {
+    "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-baján-6d2f1f48.js",
+    "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-baján.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
