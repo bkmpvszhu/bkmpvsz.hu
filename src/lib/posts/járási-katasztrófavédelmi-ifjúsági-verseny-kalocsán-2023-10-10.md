@@ -2,8 +2,8 @@
 title: Járási Katasztrófavédelmi Ifjúsági Verseny Kalocsán
 date: 2023-10-10T00:00:00.000Z
 coverImage: /images/füstsátor4.jpg
+scaleDown: false
 categories:
-  - ifjusag
   - hirek
 excerpt: A kalocsai járás öt településéről, köztük Kalocsáról és Soltról közel
   130 általános - és középiskolás diák 31 csapata vett részt az Érsekkertben
