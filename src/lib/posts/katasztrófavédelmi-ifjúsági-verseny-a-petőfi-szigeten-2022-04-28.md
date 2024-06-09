@@ -2,8 +2,8 @@
 title: Katasztrófavédelmi ifjúsági verseny a Petőfi szigeten
 date: 2022-04-28T00:00:00.000Z
 coverImage: /images/baja-20220428-ifj.-v.-01.jpg
+scaleDown: false
 categories:
-  - hirek
   - ifjusag
 excerpt: A Bajai Tűzoltóság 150 éves megalakítása alkalmából a Bács-Kiskun
   Megyei Katasztrófavédelmi Igazgatóság Baja Kirendeltsége és a Bács-Kiskun
