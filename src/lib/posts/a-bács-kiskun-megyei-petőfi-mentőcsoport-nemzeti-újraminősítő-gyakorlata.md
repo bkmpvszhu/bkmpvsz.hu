@@ -2,8 +2,8 @@
 title: A Bács-Kiskun megyei Petőfi Mentőcsoport nemzeti újraminősítő gyakorlata
 date: 2022.10.15.
 coverImage: /images/felirat1.jpg
+scaleDown: true
 categories:
-  - hirek
   - kepzesek
 excerpt: "2022. október 14-15-én Hartán került sor a 2012-ben alakult és
   korábban nemzeti minősítést szerzett területi rendeltetésű Bács-Kiskun megyei
