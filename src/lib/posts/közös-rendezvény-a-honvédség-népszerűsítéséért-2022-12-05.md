@@ -2,8 +2,8 @@
 title: Közös rendezvény a Honvédség népszerűsítéséért
 date: 2022-12-05T00:00:00.000Z
 coverImage: /images/20221205-2.jpg
+scaleDown: false
 categories:
-  - hirek
   - ifjusag
 excerpt: A Bács-Kiskun Megyei Polgári Védelmi Szövetség támogatásával a
   kecskeméti 13. Hadkiegészítő Toborzó Iroda december 5-én Mikulás Kupa
