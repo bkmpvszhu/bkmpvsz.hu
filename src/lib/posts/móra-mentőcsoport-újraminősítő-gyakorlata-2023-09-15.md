@@ -2,8 +2,8 @@
 title: Móra mentőcsoport újraminősítő gyakorlata
 date: 2023.09.15
 coverImage: /images/20230915-3.jpeg
+scaleDown: false
 categories:
-  - hirek
   - kepzesek
 excerpt: 2023. szeptember 15-én került sor a 33 fős Kiskunfélegyházi Járás Móra
   Mentőcsoport újraminősítő gyakorlatára. A gyakorlat célja az önkéntes
