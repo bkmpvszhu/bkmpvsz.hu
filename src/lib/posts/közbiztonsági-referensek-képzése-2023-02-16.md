@@ -2,8 +2,8 @@
 title: Közbiztonsági referensek képzése
 date: 2023-02-16T00:00:00.000Z
 coverImage: /images/20230219-3.jpg
+scaleDown: false
 categories:
-  - hirek
   - kepzesek
 excerpt: 2023. február 16-án Kalocsán, a Bajai Katasztrófavédelmi Kirendeltség a
   Bács-Kiskun Megyei Polgári Védelmi Szövetséggel együttműködve  a bajai és a
