@@ -2,13 +2,12 @@
 title: Haditornaversenyt rendeztek Ballószögön
 date: 2023-09-27T00:00:00.000Z
 coverImage: /images/20230927-7.jpg
+scaleDown: true
 categories:
-  - hirek
   - ifjusag
 excerpt: Hagyományosan Ballószögön rendezték meg az Országos Haditornaverseny
   Bács-Kiskun vármegyei döntőjét csütörtökön. A középiskolás fiatalok számos
   versenyszámban mérték össze erejüket és tudásukat.
-scaleDown: true
 ---
 A ballószögi Sportcentrumban, a fitneszparkban és több közeli helyszínen kialakított állomáson a középiskolás fiatalok számos versenyszámban mérték össze erejüket és tudásukat. Idén is 4x100 méteres váltófutás, akadálypálya, kézigránát dobás, akadálypálya, honvédelmi totó, egészségügyi ismeretek, távbecslés és célbalövés várta az ifjú sportolókat. 
 Az idei versenyre 18 négyfős csapat jelentkezett szerte a megyéből. Érkeztek ifjak Kecskemétről, Kiskunfélegyházáról, Kiskunhalasról, Kalocsáról, Bácsalmásról, Kunszentmiklósról, Tiszakécskéről és Kiskunmajsáról is – mondta el Gáldonyi Sándor őrnagy, a szervező kecskeméti 13. Hadkiegészítő és Toborzó Iroda vezetője, hozzátéve, hogy sok diák visszatérő versenyző, ami a megméretés népszerűségét mutatja. Az idei év újdonsága, hogy olyan kísérő diákok is jöttek, akik nem vettek részt a versenyen, hanem jövőre szeretnének indulni és most tanulták a pályát. 
