@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-3530ad22.js",
+    "file": "start-a9fd15ff.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-fc723ada.js",
+    "file": "pages/blog/category/page/_page_.svelte-9dfedf24.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-a9780478.js",
+      "_fetchPosts-53e9dd3a.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-8743325b.js",
+    "file": "pages/blog/category/_category_/index.svelte-173bc694.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-a9780478.js",
+      "_fetchPosts-53e9dd3a.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-d29ca03b.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-a1cf2b97.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-a9780478.js",
+      "_fetchPosts-53e9dd3a.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-a87e7c9a.js",
+    "file": "pages/blog/page/_page_.svelte-2c471d95.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-a9780478.js",
+      "_fetchPosts-53e9dd3a.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-89b21dfb.js",
+    "file": "pages/blog/_post_.svelte-57219ce1.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -450,8 +450,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-a9780478.js": {
-    "file": "chunks/fetchPosts-a9780478.js",
+  "_fetchPosts-53e9dd3a.js": {
+    "file": "chunks/fetchPosts-53e9dd3a.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -1617,7 +1617,7 @@
     ]
   },
   "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md": {
-    "file": "chunks/mentési-gyakorlat-a-„hírös-városban”-51ddbe75.js",
+    "file": "chunks/mentési-gyakorlat-a-„hírös-városban”-4aae876c.js",
     "src": "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
     "isDynamicEntry": true,
     "imports": [
