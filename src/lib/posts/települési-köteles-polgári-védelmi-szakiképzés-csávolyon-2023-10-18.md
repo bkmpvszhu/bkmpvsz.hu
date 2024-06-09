@@ -2,8 +2,8 @@
 title: Települési köteles polgári védelmi szakiképzés Csávolyon
 date: 2023-10-18T00:00:00.000Z
 coverImage: /images/2023-10-18-1.jpg
+scaleDown: false
 categories:
-  - hirek
   - kepzesek
 excerpt: A településen bekövetkező – az állampolgárok élet- és vagyonbiztonságát
   veszélyeztető – káros esemény felszámolásának végrehajtására csak egy jól
