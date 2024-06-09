@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-030c0bc9.js",
+    "file": "start-3247a4da.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-a4f9b52c.js",
+    "file": "pages/blog/category/page/_page_.svelte-25217e5c.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e4f7ec8.js",
+      "_fetchPosts-db7c355a.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-2ca2a382.js",
+    "file": "pages/blog/category/_category_/index.svelte-1cdd75fb.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e4f7ec8.js",
+      "_fetchPosts-db7c355a.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-20f21655.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-173e17fd.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e4f7ec8.js",
+      "_fetchPosts-db7c355a.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-f04e3cbb.js",
+    "file": "pages/blog/page/_page_.svelte-fb9745a0.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e4f7ec8.js",
+      "_fetchPosts-db7c355a.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-967ee399.js",
+    "file": "pages/blog/_post_.svelte-33d7d135.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -450,8 +450,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-0e4f7ec8.js": {
-    "file": "chunks/fetchPosts-0e4f7ec8.js",
+  "_fetchPosts-db7c355a.js": {
+    "file": "chunks/fetchPosts-db7c355a.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -1489,7 +1489,7 @@
     ]
   },
   "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md": {
-    "file": "chunks/közbiztonsági-referensek-képzése-2023-02-16-d8edc637.js",
+    "file": "chunks/közbiztonsági-referensek-képzése-2023-02-16-152fec1b.js",
     "src": "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
     "isDynamicEntry": true,
     "imports": [
