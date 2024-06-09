@@ -2,8 +2,8 @@
 title: Katasztrófavédelmi ifjúsági verseny a kalocsai járásban
 date: 2022-04-07T00:00:00.000Z
 coverImage: /images/0407-3.jpg
+scaleDown: false
 categories:
-  - hirek
   - ifjusag
 excerpt: "A Kalocsai Tűzoltóság fennállásának 150. évfordulója alkalmából
   rendezett eseménysorozat részeként április 7-én 16 általános iskolai és 5
