@@ -2,8 +2,8 @@
 title: Nemzeti minősítő gyakorlat zajlott Dunavecsén
 date: 2023-04-25T00:00:00.000Z
 coverImage: /images/2023-04-25-6.jpg
+scaleDown: false
 categories:
-  - hirek
   - kepzesek
 excerpt: Több mint 8 éve alakult meg Dunavecsén az önkéntesekből álló települési
   mentőcsoport, amely 2023. április 25-én eredményes gyakorlat keretében
