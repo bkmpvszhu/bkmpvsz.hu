@@ -2,8 +2,8 @@
 title: Települési nemzeti minősítő gyakorlatok a Kiskunságban
 date: 2023. 06. 16
 coverImage: /images/index-20230623.jpeg
+scaleDown: false
 categories:
-  - hirek
   - kepzesek
 excerpt: Május 31-én a Kunszentmiklósi, június 14-én a Szabadszállási, majd
   15-én a Szalkszentmártoni Települési Önkéntes Mentőcsoport gyakorlatozott,
