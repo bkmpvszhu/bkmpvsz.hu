@@ -2,8 +2,8 @@
 title: Jódtabletta gyakorlat
 date: 2022-06-08T00:00:00.000Z
 coverImage: /images/2022-06-08-index.jpg
+scaleDown: true
 categories:
-  - hirek
   - kepzesek
 excerpt: A Bács-Kiskun Megyei Védelmi Bizottság, a Bács-Kiskun Megyei
   Katasztrófavédelmi Igazgatóság, a Bács-Kiskun Megyei Polgári Védelmi Szövetség
