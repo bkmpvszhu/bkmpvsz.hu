@@ -2,8 +2,8 @@
 title: Mentési gyakorlat a „Hírös Városban”
 date: 2022-06-11T00:00:00.000Z
 coverImage: /images/20220611-1.jpg
+scaleDown: false
 categories:
-  - hirek
   - kepzesek
 excerpt: A „Hírös Városban”, Kecskeméten a volt szovjet laktanyában 2022. június
   11-én került sor a Híres Vakond Mentőcsoport 2022 évi ismétlő gyakorlatára és
