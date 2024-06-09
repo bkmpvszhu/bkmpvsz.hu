@@ -2,13 +2,12 @@
 title: Gyakorlatoztak a Tüzes Kunok
 date: 2023. 04.29.
 coverImage: /images/230429gyakorlat.jpg
+scaleDown: true
 categories:
-  - hirek
   - kepzesek
 excerpt: Ismét gyakorlatot tartott a Tüzes Kunok Járási Mentőcsapat. Favágás,
   pásztakészítés, szivattyúzás, valamint a rendelkezésre álló technikai eszközök
   használata volt a feladat.
-scaleDown: true
 ---
 ![](/images/230429gyakorlat1.jpg)
 
