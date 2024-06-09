@@ -2,8 +2,9 @@
 title: Kecskeméti Mikulás Fekvenyomó Kupa
 date: 2023-12-05T00:00:00.000Z
 coverImage: /images/2023-12-05-index.jpg
+scaleDown: false
 categories:
-  - hirek
+  - ifjusag
 excerpt: Országos rendezvénnyé nőtte ki magát a kecskeméti fekvenyomó kupa,
   melynek megvalósulásához a Bács-Kiskun Vármegyei Polgári Védelmi Szövetség is
   hozzájárult.
