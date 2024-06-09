@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-0c40f9cc.js",
+    "file": "start-7605a6a8.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-a3de9e7d.js",
+    "file": "pages/blog/category/page/_page_.svelte-b33cc660.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-02f07abe.js",
+      "_fetchPosts-971aa6dc.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-7d7792b0.js",
+    "file": "pages/blog/category/_category_/index.svelte-0a8c86cd.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-02f07abe.js",
+      "_fetchPosts-971aa6dc.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-d83b7d77.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-f080d17d.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-02f07abe.js",
+      "_fetchPosts-971aa6dc.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-85d33a7f.js",
+    "file": "pages/blog/page/_page_.svelte-20af2d9f.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-02f07abe.js",
+      "_fetchPosts-971aa6dc.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-bdd7cd86.js",
+    "file": "pages/blog/_post_.svelte-bd831935.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -450,8 +450,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-02f07abe.js": {
-    "file": "chunks/fetchPosts-02f07abe.js",
+  "_fetchPosts-971aa6dc.js": {
+    "file": "chunks/fetchPosts-971aa6dc.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -713,7 +713,7 @@
     ]
   },
   "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md": {
-    "file": "chunks/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31-32367ed4.js",
+    "file": "chunks/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31-8991fcfe.js",
     "src": "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md",
     "isDynamicEntry": true,
     "imports": [

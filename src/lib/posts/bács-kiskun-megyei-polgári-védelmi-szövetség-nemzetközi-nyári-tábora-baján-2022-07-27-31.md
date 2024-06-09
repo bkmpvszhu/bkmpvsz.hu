@@ -3,8 +3,8 @@ title: Bács-Kiskun Megyei Polgári Védelmi Szövetség nemzetközi nyári táb
   Baján (2022. 07. 27-31.)
 date: 2022-08-01T17:20:18.743Z
 coverImage: /images/20220728-2.jpg
+scaleDown: false
 categories:
-  - hirek
   - ifjusag
 excerpt: Ez évben június 27-31 között szervezte meg a Bács-Kiskun Megyei Polgári
   Védelmi Szövetség 5 ország ifjúsági csapatainak részvételével a „Barátság”
