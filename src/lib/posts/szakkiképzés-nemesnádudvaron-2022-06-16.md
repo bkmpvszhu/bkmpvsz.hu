@@ -2,8 +2,8 @@
 title: Szakkiképzés Nemesnádudvaron
 date: 2022-06-16T00:00:00.000Z
 coverImage: /images/20220616-4.jpg
+scaleDown: false
 categories:
-  - hirek
   - kepzesek
 excerpt: "2022.06.16.-án Nemesnádudvar település köteles polgári védelmi
   szervezet teljes személyi állománya részére riasztási gyakorlat, majd ezt
