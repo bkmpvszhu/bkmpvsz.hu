@@ -2,8 +2,8 @@
 title: Jódtabletta kiosztási gyakorlat
 date: 2023-05-31T00:00:00.000Z
 coverImage: /images/20230531-index.jpg
+scaleDown: false
 categories:
-  - hirek
   - kepzesek
 excerpt: A Bács-Kiskun Vármegyei Területi Védelmi Bizottság, a Bács-Kiskun
   Vármegyei Katasztrófavédelmi Igazgatóság, Bátya Község és a Bács-Kiskun Megyei
