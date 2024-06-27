@@ -2,6 +2,8 @@
 
 <h1>Számviteli beszámolók és közhasznúsági mellékletek</h1>
 
+<p><a href="/pdfs/2023.pdf" rel=external>2023. évi számviteli beszámoló és közhasznúsági mellékletei</a></p>
+
 <p><a href="/pdfs/2022.pdf" rel=external>2022. évi számviteli beszámoló és közhasznúsági mellékletei</a></p>
 
 <p><a href="/pdfs/2021.pdf" rel=external>2021. évi számviteli beszámoló és közhasznúsági mellékletei</a></p>

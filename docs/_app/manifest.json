@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-a29b2608.js",
+    "file": "start-c4bb1ccc.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -64,7 +64,7 @@
     ]
   },
   "src/routes/szamviteli-beszamolok.svelte": {
-    "file": "pages/szamviteli-beszamolok.svelte-fa4fe9f5.js",
+    "file": "pages/szamviteli-beszamolok.svelte-3c969564.js",
     "src": "src/routes/szamviteli-beszamolok.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
