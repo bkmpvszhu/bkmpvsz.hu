@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-c4bb1ccc.js",
+    "file": "start-173dab6b.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-fd2a0504.js",
+    "file": "pages/blog/category/page/_page_.svelte-eaadc045.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-a2ee8fc5.js",
+      "_fetchPosts-033b2a04.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-c4faa3cf.js",
+    "file": "pages/blog/category/_category_/index.svelte-477d7cc5.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-a2ee8fc5.js",
+      "_fetchPosts-033b2a04.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-e5d09a5c.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-db151258.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-a2ee8fc5.js",
+      "_fetchPosts-033b2a04.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-177621a7.js",
+    "file": "pages/blog/page/_page_.svelte-512b5450.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-a2ee8fc5.js",
+      "_fetchPosts-033b2a04.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-dbf06c79.js",
+    "file": "pages/blog/_post_.svelte-ac323ffe.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -271,6 +271,7 @@
       "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
       "src/lib/posts/gyakorlatoztak-a-tüzes-kunok-2023-04-30.md",
       "src/lib/posts/gyászhír-1.md",
+      "src/lib/posts/gyászhír-2.md",
       "src/lib/posts/gyászhír.md",
       "src/lib/posts/haditornaversenyt-rendeztek-ballószögön-2023-09-27.md",
       "src/lib/posts/hirek-2021-01-15.md",
@@ -450,8 +451,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-a2ee8fc5.js": {
-    "file": "chunks/fetchPosts-a2ee8fc5.js",
+  "_fetchPosts-033b2a04.js": {
+    "file": "chunks/fetchPosts-033b2a04.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -485,6 +486,7 @@
       "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
       "src/lib/posts/gyakorlatoztak-a-tüzes-kunok-2023-04-30.md",
       "src/lib/posts/gyászhír-1.md",
+      "src/lib/posts/gyászhír-2.md",
       "src/lib/posts/gyászhír.md",
       "src/lib/posts/haditornaversenyt-rendeztek-ballószögön-2023-09-27.md",
       "src/lib/posts/hirek-2021-01-15.md",
@@ -843,6 +845,14 @@
   "src/lib/posts/gyászhír-1.md": {
     "file": "chunks/gyászhír-1-ea3f8ae9.js",
     "src": "src/lib/posts/gyászhír-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/gyászhír-2.md": {
+    "file": "chunks/gyászhír-2-61827c8b.js",
+    "src": "src/lib/posts/gyászhír-2.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
