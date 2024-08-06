@@ -1,6 +1,6 @@
 ---
 title: Gyászhír
-date: 2024-08-06T15:41:16.899Z
+date: 2024-08-06T15:52:06.942Z
 coverImage: /images/2024-07-17-index.jpg
 scaleDown: false
 categories:
