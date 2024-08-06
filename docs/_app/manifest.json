@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-173dab6b.js",
+    "file": "start-0a2ebfdc.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-eaadc045.js",
+    "file": "pages/blog/category/page/_page_.svelte-3d2f33fa.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-033b2a04.js",
+      "_fetchPosts-2abf5af1.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-477d7cc5.js",
+    "file": "pages/blog/category/_category_/index.svelte-500d2e96.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-033b2a04.js",
+      "_fetchPosts-2abf5af1.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-db151258.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-1f79351d.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-033b2a04.js",
+      "_fetchPosts-2abf5af1.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-512b5450.js",
+    "file": "pages/blog/page/_page_.svelte-f6429c88.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-033b2a04.js",
+      "_fetchPosts-2abf5af1.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-ac323ffe.js",
+    "file": "pages/blog/_post_.svelte-084aeb52.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -451,8 +451,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-033b2a04.js": {
-    "file": "chunks/fetchPosts-033b2a04.js",
+  "_fetchPosts-2abf5af1.js": {
+    "file": "chunks/fetchPosts-2abf5af1.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -851,7 +851,7 @@
     ]
   },
   "src/lib/posts/gyászhír-2.md": {
-    "file": "chunks/gyászhír-2-61827c8b.js",
+    "file": "chunks/gyászhír-2-6c439b56.js",
     "src": "src/lib/posts/gyászhír-2.md",
     "isDynamicEntry": true,
     "imports": [
