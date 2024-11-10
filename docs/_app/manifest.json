@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-0a2ebfdc.js",
+    "file": "start-816077c1.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-3d2f33fa.js",
+    "file": "pages/blog/category/page/_page_.svelte-1310d8eb.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2abf5af1.js",
+      "_fetchPosts-05be1aff.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-500d2e96.js",
+    "file": "pages/blog/category/_category_/index.svelte-d3ca58d1.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2abf5af1.js",
+      "_fetchPosts-05be1aff.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-1f79351d.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-9f5c30ac.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2abf5af1.js",
+      "_fetchPosts-05be1aff.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-f6429c88.js",
+    "file": "pages/blog/page/_page_.svelte-ad3aa22a.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-2abf5af1.js",
+      "_fetchPosts-05be1aff.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-084aeb52.js",
+    "file": "pages/blog/_post_.svelte-467ca256.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -385,6 +385,7 @@
       "src/lib/posts/nemzetközi-tábor-dombrádon-2017-08-04-7.md",
       "src/lib/posts/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
+      "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md",
       "src/lib/posts/petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2017-04-25-27.md",
       "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md",
       "src/lib/posts/polgármesteri-fórum-2017-11-23.md",
@@ -451,8 +452,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-2abf5af1.js": {
-    "file": "chunks/fetchPosts-2abf5af1.js",
+  "_fetchPosts-05be1aff.js": {
+    "file": "chunks/fetchPosts-05be1aff.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -600,6 +601,7 @@
       "src/lib/posts/nemzetközi-tábor-dombrádon-2017-08-04-7.md",
       "src/lib/posts/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/négy-éve-népszerű-a-tábor.md",
+      "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md",
       "src/lib/posts/petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2017-04-25-27.md",
       "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md",
       "src/lib/posts/polgármesteri-fórum-2017-11-23.md",
@@ -1757,6 +1759,14 @@
   "src/lib/posts/négy-éve-népszerű-a-tábor.md": {
     "file": "chunks/négy-éve-népszerű-a-tábor-2428a21c.js",
     "src": "src/lib/posts/négy-éve-népszerű-a-tábor.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md": {
+    "file": "chunks/országos-haditorna-verseny-vármegyei-fordulója-5f181a46.js",
+    "src": "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
