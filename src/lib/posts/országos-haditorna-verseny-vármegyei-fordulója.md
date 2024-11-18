@@ -1,6 +1,6 @@
 ---
 title: Országos Haditorna Verseny vármegyei fordulója
-date: 2024-11-10T23:30:07.888Z
+date: 2024-10-17T22:30:07.888Z
 coverImage: /images/2024-10-18-index.jpg
 scaleDown: false
 categories:

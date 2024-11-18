@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-816077c1.js",
+    "file": "start-c94b3be0.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-1310d8eb.js",
+    "file": "pages/blog/category/page/_page_.svelte-546ac9d1.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-05be1aff.js",
+      "_fetchPosts-0e28b0ed.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-d3ca58d1.js",
+    "file": "pages/blog/category/_category_/index.svelte-3282ccd7.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-05be1aff.js",
+      "_fetchPosts-0e28b0ed.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-9f5c30ac.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-f6191528.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-05be1aff.js",
+      "_fetchPosts-0e28b0ed.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-ad3aa22a.js",
+    "file": "pages/blog/page/_page_.svelte-b0c409d6.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-05be1aff.js",
+      "_fetchPosts-0e28b0ed.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-467ca256.js",
+    "file": "pages/blog/_post_.svelte-67da2251.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -452,8 +452,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-05be1aff.js": {
-    "file": "chunks/fetchPosts-05be1aff.js",
+  "_fetchPosts-0e28b0ed.js": {
+    "file": "chunks/fetchPosts-0e28b0ed.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -1765,7 +1765,7 @@
     ]
   },
   "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md": {
-    "file": "chunks/országos-haditorna-verseny-vármegyei-fordulója-5f181a46.js",
+    "file": "chunks/országos-haditorna-verseny-vármegyei-fordulója-5c205ca4.js",
     "src": "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md",
     "isDynamicEntry": true,
     "imports": [
