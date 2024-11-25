@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-c94b3be0.js",
+    "file": "start-f0639411.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-546ac9d1.js",
+    "file": "pages/blog/category/page/_page_.svelte-49c53e77.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e28b0ed.js",
+      "_fetchPosts-5270c96f.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-3282ccd7.js",
+    "file": "pages/blog/category/_category_/index.svelte-0e768f1f.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e28b0ed.js",
+      "_fetchPosts-5270c96f.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-f6191528.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-c347dd51.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e28b0ed.js",
+      "_fetchPosts-5270c96f.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-b0c409d6.js",
+    "file": "pages/blog/page/_page_.svelte-1d5c2035.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e28b0ed.js",
+      "_fetchPosts-5270c96f.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-67da2251.js",
+    "file": "pages/blog/_post_.svelte-f3a2eef4.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -396,6 +396,7 @@
       "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md",
       "src/lib/posts/szakkiképzés-nemesnádudvaron-2022-06-16.md",
       "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
+      "src/lib/posts/szalkszentmárton-petőfi-sándor-általános-iskola.md",
       "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
       "src/lib/posts/szja-1.md",
@@ -452,8 +453,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-0e28b0ed.js": {
-    "file": "chunks/fetchPosts-0e28b0ed.js",
+  "_fetchPosts-5270c96f.js": {
+    "file": "chunks/fetchPosts-5270c96f.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -612,6 +613,7 @@
       "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md",
       "src/lib/posts/szakkiképzés-nemesnádudvaron-2022-06-16.md",
       "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
+      "src/lib/posts/szalkszentmárton-petőfi-sándor-általános-iskola.md",
       "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
       "src/lib/posts/szja-1.md",
@@ -1847,6 +1849,14 @@
   "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md": {
     "file": "chunks/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14-4227e892.js",
     "src": "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/szalkszentmárton-petőfi-sándor-általános-iskola.md": {
+    "file": "chunks/szalkszentmárton-petőfi-sándor-általános-iskola-bdb7c4b6.js",
+    "src": "src/lib/posts/szalkszentmárton-petőfi-sándor-általános-iskola.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
