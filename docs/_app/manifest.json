@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-f0639411.js",
+    "file": "start-5335ea1e.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-49c53e77.js",
+    "file": "pages/blog/category/page/_page_.svelte-074942d9.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5270c96f.js",
+      "_fetchPosts-811515bb.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-0e768f1f.js",
+    "file": "pages/blog/category/_category_/index.svelte-34f2f3a3.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5270c96f.js",
+      "_fetchPosts-811515bb.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-c347dd51.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-387f207b.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5270c96f.js",
+      "_fetchPosts-811515bb.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-1d5c2035.js",
+    "file": "pages/blog/page/_page_.svelte-05ab2250.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-5270c96f.js",
+      "_fetchPosts-811515bb.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-f3a2eef4.js",
+    "file": "pages/blog/_post_.svelte-2edb48c4.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -356,6 +356,7 @@
       "src/lib/posts/közbiztonsági-referensek-értekezlete.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/közgyűlés-2019-04-26.md",
+      "src/lib/posts/középiskolások-feszültek-egymásnak-a-kecskeméti-mikulás-fekvenyomó-kupán.md",
       "src/lib/posts/közös-rendezvény-a-honvédség-népszerűsítéséért-2022-12-05.md",
       "src/lib/posts/közös-összefogás-a-rászorultak-védelméért.md",
       "src/lib/posts/közös-ünnepség-a-nemzetközi-polgári-védelem-nap-alkalmából.md",
@@ -453,8 +454,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-5270c96f.js": {
-    "file": "chunks/fetchPosts-5270c96f.js",
+  "_fetchPosts-811515bb.js": {
+    "file": "chunks/fetchPosts-811515bb.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -573,6 +574,7 @@
       "src/lib/posts/közbiztonsági-referensek-értekezlete.md",
       "src/lib/posts/közbiztonsági-referenssek-képzése.md",
       "src/lib/posts/közgyűlés-2019-04-26.md",
+      "src/lib/posts/középiskolások-feszültek-egymásnak-a-kecskeméti-mikulás-fekvenyomó-kupán.md",
       "src/lib/posts/közös-rendezvény-a-honvédség-népszerűsítéséért-2022-12-05.md",
       "src/lib/posts/közös-összefogás-a-rászorultak-védelméért.md",
       "src/lib/posts/közös-ünnepség-a-nemzetközi-polgári-védelem-nap-alkalmából.md",
@@ -1529,6 +1531,14 @@
   "src/lib/posts/közgyűlés-2019-04-26.md": {
     "file": "chunks/közgyűlés-2019-04-26-748e7cb1.js",
     "src": "src/lib/posts/közgyűlés-2019-04-26.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/középiskolások-feszültek-egymásnak-a-kecskeméti-mikulás-fekvenyomó-kupán.md": {
+    "file": "chunks/középiskolások-feszültek-egymásnak-a-kecskeméti-mikulás-fekvenyomó-kupán-58e0842e.js",
+    "src": "src/lib/posts/középiskolások-feszültek-egymásnak-a-kecskeméti-mikulás-fekvenyomó-kupán.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
