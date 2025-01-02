@@ -1,5 +1,5 @@
 ---
-title: Vári István Szakképző Iskola és Kollégium
+title: Vári István Szakképző Iskola és Kollégium - Kiskunhalas
 date: 2024-12-17T14:49:31.562Z
 coverImage: /images/2024-12-17-11index.jpeg
 scaleDown: true
