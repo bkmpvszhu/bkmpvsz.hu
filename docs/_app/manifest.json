@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-9f4b7ba9.js",
+    "file": "start-6be4cef5.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-1a630f06.js",
+    "file": "pages/blog/category/page/_page_.svelte-ae4c13fc.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0a4cea4c.js",
+      "_fetchPosts-ca0d5ef2.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-f726c07f.js",
+    "file": "pages/blog/category/_category_/index.svelte-6d259b2d.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0a4cea4c.js",
+      "_fetchPosts-ca0d5ef2.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-9f1a51b0.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-8ccb6b3a.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0a4cea4c.js",
+      "_fetchPosts-ca0d5ef2.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-465e7a29.js",
+    "file": "pages/blog/page/_page_.svelte-93306b1c.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0a4cea4c.js",
+      "_fetchPosts-ca0d5ef2.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-e7149f2f.js",
+    "file": "pages/blog/_post_.svelte-cf2d10bf.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -411,6 +411,7 @@
       "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md",
       "src/lib/posts/vezetőségi-ülés-2022-12-09.md",
+      "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium.md",
       "src/lib/posts/vári-szabó-istván-szakképző-iskola-és-kollégium-kiskunhalas-2023-12-12.md",
       "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md"
     ],
@@ -455,8 +456,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-0a4cea4c.js": {
-    "file": "chunks/fetchPosts-0a4cea4c.js",
+  "_fetchPosts-ca0d5ef2.js": {
+    "file": "chunks/fetchPosts-ca0d5ef2.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -630,6 +631,7 @@
       "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md",
       "src/lib/posts/vezetőségi-ülés-2022-12-09.md",
+      "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium.md",
       "src/lib/posts/vári-szabó-istván-szakképző-iskola-és-kollégium-kiskunhalas-2023-12-12.md",
       "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md"
     ]
@@ -1973,6 +1975,14 @@
   "src/lib/posts/vezetőségi-ülés-2022-12-09.md": {
     "file": "chunks/vezetőségi-ülés-2022-12-09-2aac5316.js",
     "src": "src/lib/posts/vezetőségi-ülés-2022-12-09.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium.md": {
+    "file": "chunks/vári-istván-szakképző-iskola-és-kollégium-7d3b9a0f.js",
+    "src": "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
