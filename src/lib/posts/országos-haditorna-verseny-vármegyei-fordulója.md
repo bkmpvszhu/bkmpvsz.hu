@@ -4,7 +4,6 @@ date: 2024-10-17T22:30:07.888Z
 coverImage: /images/2024-10-18-index.jpg
 scaleDown: false
 categories:
-  - hirek
   - ifjusag
 excerpt: "A kecskeméti 13. Hadkiegészítő és Toborzó Iroda és a 38. Merász Mihály
   Területvédelmi Zászlóalj szervezésében, valamint a Bács-Kiskun Vármegyei
