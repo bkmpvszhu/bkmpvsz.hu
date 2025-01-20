@@ -4,7 +4,6 @@ date: 2024-06-06T03:40:49.100Z
 coverImage: /images/2024-05-30-index.jpg
 scaleDown: false
 categories:
-  - hirek
   - ifjusag
 excerpt: 2024. május 30-án Baján a Bács-Kiskun Vármegyei Katasztrófavédelmi
   Igazgatóság Bajai Katasztrófavédelmi Kirendeltsége és a Bajai Hivatásos
