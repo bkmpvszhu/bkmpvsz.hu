@@ -4,7 +4,6 @@ date: 2024-11-18T18:44:37.073Z
 coverImage: /images/2024-11-18-index.jpg
 scaleDown: true
 categories:
-  - hirek
   - prevencio
 excerpt: " "
 ---
