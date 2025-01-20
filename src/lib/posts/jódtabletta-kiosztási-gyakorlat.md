@@ -4,7 +4,6 @@ date: 2024-05-08T20:02:10.912Z
 coverImage: /images/20240508_index.jpg
 scaleDown: false
 categories:
-  - hirek
   - kepzesek
 excerpt: A Bács-Kiskun Vármegyei Területi Védelmi Bizottság, a Bács-Kiskun
   Vármegyei Katasztrófavédelmi Igazgatóság, Géderlak Község és a Bács-Kiskun
