@@ -2,8 +2,9 @@
 title: "Közbiztonsági referensek értekezlete "
 date: 2024-02-19T18:41:15.169Z
 coverImage: /images/20240215_index.jpg
+scaleDown: true
 categories:
-  - hirek
+  - kepzesek
 excerpt: 2024. február 15-én a Kalocsai Hivatásos Tűzoltóparancsnokság
   tantermében   Magony Mária tű. százados, katasztrófavédelmi megbízott és
   munkatársai referensi értekezletet tartott, melyen Baja és Kalocsa járás 22
