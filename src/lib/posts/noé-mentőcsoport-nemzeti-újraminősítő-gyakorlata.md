@@ -4,7 +4,6 @@ date: 2024-05-15T03:53:49.339Z
 coverImage: /images/img_20240510_index.jpg
 scaleDown: false
 categories:
-  - hirek
   - kepzesek
 excerpt: A 2013-ban alakult Kunszentmiklós Járási Önkéntes Mentőcsoport a május
   10-i eredményes gyakorlata során újra teljesítette a Nemzeti minősítés
