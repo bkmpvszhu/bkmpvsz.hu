@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-f16ad565.js",
+    "file": "start-ad7cdaa1.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -54,13 +54,13 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-35510b58.js",
+    "file": "pages/index.svelte-92b1863e.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_Magunkrol-5d619035.js"
+      "_Magunkrol-cff2d3ad.js"
     ]
   },
   "src/routes/szamviteli-beszamolok.svelte": {
@@ -112,13 +112,13 @@
     ]
   },
   "src/routes/magunkrol.svelte": {
-    "file": "pages/magunkrol.svelte-0dd06ce2.js",
+    "file": "pages/magunkrol.svelte-b0d89b76.js",
     "src": "src/routes/magunkrol.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_Magunkrol-5d619035.js"
+      "_Magunkrol-cff2d3ad.js"
     ]
   },
   "src/routes/contact.svelte": {
@@ -434,8 +434,8 @@
   "_config-085cc7a9.js": {
     "file": "chunks/config-085cc7a9.js"
   },
-  "_Magunkrol-5d619035.js": {
-    "file": "chunks/Magunkrol-5d619035.js",
+  "_Magunkrol-cff2d3ad.js": {
+    "file": "chunks/Magunkrol-cff2d3ad.js",
     "imports": [
       "_vendor-48b2defe.js"
     ],
