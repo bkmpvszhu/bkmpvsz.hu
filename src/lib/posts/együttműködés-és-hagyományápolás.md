@@ -21,7 +21,7 @@ excerpt: Régre vezet vissza együttműködésünk és szoros kapcsolatunk az Er
 
 ![](/images/2024-12-02-8.jpg)
 
-![](/images/2024-12-12-14.png)
+![](/images/2024-12-15.jpg)
 
 ![](/images/2024-12-12-9.jpg)
 
