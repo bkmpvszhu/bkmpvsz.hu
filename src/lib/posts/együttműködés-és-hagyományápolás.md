@@ -35,4 +35,6 @@ Meghívottként ott voltam azon az ülésen, ahol az egyesület felvette gróf E
 Az ülést követően fölvetődött, hogy tiszteletére egy emléktáblát illene, mi több, kell emelni. A gróf magyarországi működése az ország nyugati részén teljesedett ki, azonban ennek volt egy Bács-Kiskun vármegyei kapcsolódása is, nevezetesen a Nyugat-magyarországi felkelés, amelynek az egyik vezetője volt, és amelyben számos Kecskemét környéki önkéntes vett benne részt. Ezért is éreztük azt, hogy az emléktábla készítéséhez mi is hozzájáruljunk. 
 Az élet felülírta az eredeti elképzeléseket, különféle okok miatt az emléktábla kihelyezése – reményeink szerint csak egyelőre – nem realizálódhatott. Azonban jutott erő, akarat és energia a Kőszegen eltemetett gróf sírhelyének rendbetételére, amelyhez szervezetünk is hozzájárult egy QR kód kihelyezésével és egy a felkelő harcok emlékére készített emlékérem (replika) pótlásával, mivel az eredetit valamikor eltávolították. 
 A QR tábla szeptemberben a sír mellé került, telefonról beolvasva a gróf életútját ismerheti meg az érdeklődő. Az emlékérem másolata az eredetinél valamivel nagyobb átmérővel elkészült, a porcelán felragasztása a fagyok elmúltával valósul meg.
+
+
 Mészáros Zoltán
