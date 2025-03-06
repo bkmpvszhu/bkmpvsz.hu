@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-cf1be202.js",
+    "file": "start-8fa8c3e7.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-f40de382.js",
+    "file": "pages/blog/category/page/_page_.svelte-3e6a0398.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-90b5547d.js",
+      "_fetchPosts-0ff73866.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-dd8356a0.js",
+    "file": "pages/blog/category/_category_/index.svelte-d89ca6c7.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-90b5547d.js",
+      "_fetchPosts-0ff73866.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-d80a5ffd.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-0e4c1bac.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-90b5547d.js",
+      "_fetchPosts-0ff73866.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-d447246a.js",
+    "file": "pages/blog/page/_page_.svelte-7caaf6f6.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-90b5547d.js",
+      "_fetchPosts-0ff73866.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-7b3c502b.js",
+    "file": "pages/blog/_post_.svelte-5ddda1de.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -374,6 +374,7 @@
       "src/lib/posts/megyei-járási-és-települési-mentőcsoportok-gyakorlata-2016-05-18-19.md",
       "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
+      "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-1.md",
       "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28.md",
       "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja.md",
       "src/lib/posts/március-1-a-polgári-védelem-világnapja.md",
@@ -459,8 +460,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-90b5547d.js": {
-    "file": "chunks/fetchPosts-90b5547d.js",
+  "_fetchPosts-0ff73866.js": {
+    "file": "chunks/fetchPosts-0ff73866.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -597,6 +598,7 @@
       "src/lib/posts/megyei-járási-és-települési-mentőcsoportok-gyakorlata-2016-05-18-19.md",
       "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
       "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
+      "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-1.md",
       "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28.md",
       "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja.md",
       "src/lib/posts/március-1-a-polgári-védelem-világnapja.md",
@@ -1685,6 +1687,14 @@
   "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md": {
     "file": "chunks/mentési-gyakorlat-a-„hírös-városban”-4aae876c.js",
     "src": "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-1.md": {
+    "file": "chunks/március-1-a-nemzetközi-polgári-védelem-napja-1-7c4ebc2c.js",
+    "src": "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-1.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
