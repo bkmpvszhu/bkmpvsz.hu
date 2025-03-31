@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-423e2871.js",
+    "file": "start-e1d7c2ba.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-65955fbe.js",
+    "file": "pages/blog/category/page/_page_.svelte-f6bcfb41.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e89f4a0.js",
+      "_fetchPosts-c972a5c9.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-66f7f7f0.js",
+    "file": "pages/blog/category/_category_/index.svelte-09e22aff.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e89f4a0.js",
+      "_fetchPosts-c972a5c9.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-3d2c24c1.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-ad8d7dc8.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e89f4a0.js",
+      "_fetchPosts-c972a5c9.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-6ea3b562.js",
+    "file": "pages/blog/page/_page_.svelte-e6e7be1d.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e89f4a0.js",
+      "_fetchPosts-c972a5c9.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-7bd6bc67.js",
+    "file": "pages/blog/_post_.svelte-7b01e227.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -281,6 +281,7 @@
       "src/lib/posts/hirek-2021-09-24.md",
       "src/lib/posts/hirek-2021-11-01.md",
       "src/lib/posts/hirek-2021-11-15.md",
+      "src/lib/posts/három-település-összevont-felkészítése.md",
       "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
       "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-2023-12-12.md",
       "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas.md",
@@ -460,8 +461,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-0e89f4a0.js": {
-    "file": "chunks/fetchPosts-0e89f4a0.js",
+  "_fetchPosts-c972a5c9.js": {
+    "file": "chunks/fetchPosts-c972a5c9.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -505,6 +506,7 @@
       "src/lib/posts/hirek-2021-09-24.md",
       "src/lib/posts/hirek-2021-11-01.md",
       "src/lib/posts/hirek-2021-11-15.md",
+      "src/lib/posts/három-település-összevont-felkészítése.md",
       "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
       "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-2023-12-12.md",
       "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas.md",
@@ -943,6 +945,14 @@
   "src/lib/posts/hirek-2021-11-15.md": {
     "file": "chunks/hirek-2021-11-15-fe9ecf53.js",
     "src": "src/lib/posts/hirek-2021-11-15.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/három-település-összevont-felkészítése.md": {
+    "file": "chunks/három-település-összevont-felkészítése-77b35b92.js",
+    "src": "src/lib/posts/három-település-összevont-felkészítése.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
