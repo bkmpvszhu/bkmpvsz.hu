@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-48b6d377.js",
+    "file": "start-08cc7221.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-f6bcfb41.js",
+    "file": "pages/blog/category/page/_page_.svelte-f76343c1.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c972a5c9.js",
+      "_fetchPosts-c9ea003a.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-09e22aff.js",
+    "file": "pages/blog/category/_category_/index.svelte-9abcc04e.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c972a5c9.js",
+      "_fetchPosts-c9ea003a.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-ad8d7dc8.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-b730b31e.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c972a5c9.js",
+      "_fetchPosts-c9ea003a.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-e6e7be1d.js",
+    "file": "pages/blog/page/_page_.svelte-23aa1b54.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c972a5c9.js",
+      "_fetchPosts-c9ea003a.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-7b01e227.js",
+    "file": "pages/blog/_post_.svelte-55b96d65.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -356,6 +356,7 @@
       "src/lib/posts/kunszentmiklós-baksay-sándor-református-gimnázium-és-általános-iskola-2023-09-22.md",
       "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
       "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
+      "src/lib/posts/közbiztonsági-referensek-képzése-1.md",
       "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
       "src/lib/posts/közbiztonsági-referensek-képzése.md",
       "src/lib/posts/közbiztonsági-referensek-értekezlete.md",
@@ -461,8 +462,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-c972a5c9.js": {
-    "file": "chunks/fetchPosts-c972a5c9.js",
+  "_fetchPosts-c9ea003a.js": {
+    "file": "chunks/fetchPosts-c9ea003a.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -581,6 +582,7 @@
       "src/lib/posts/kunszentmiklós-baksay-sándor-református-gimnázium-és-általános-iskola-2023-09-22.md",
       "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
       "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
+      "src/lib/posts/közbiztonsági-referensek-képzése-1.md",
       "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
       "src/lib/posts/közbiztonsági-referensek-képzése.md",
       "src/lib/posts/közbiztonsági-referensek-értekezlete.md",
@@ -1545,6 +1547,14 @@
   "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md": {
     "file": "chunks/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22-1cb3218e.js",
     "src": "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közbiztonsági-referensek-képzése-1.md": {
+    "file": "chunks/közbiztonsági-referensek-képzése-1-1615d20a.js",
+    "src": "src/lib/posts/közbiztonsági-referensek-képzése-1.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
