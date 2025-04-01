@@ -35,6 +35,7 @@
 	<ul>
 		<li>Bankszámlaszám: 11732002-20414601</li>
 		<li>Adószám: 18367186-1-03</li>
+		<li>Cégkapu: 18367186</li>
 		<li>&copy;{new Date().getFullYear()} {siteAuthor}</li>
 		<li><a href="/pdfs/alapszabaly.pdf" rel=external>Alapszabály</a></li>
 		<li><a href="/szamviteli-beszamolok" rel=external>Számviteli beszámolók</a></li>
