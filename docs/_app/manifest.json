@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-08cc7221.js",
+    "file": "start-892f048c.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-f76343c1.js",
+    "file": "pages/blog/category/page/_page_.svelte-feb15bf8.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c9ea003a.js",
+      "_fetchPosts-752cf76b.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-9abcc04e.js",
+    "file": "pages/blog/category/_category_/index.svelte-d4633791.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c9ea003a.js",
+      "_fetchPosts-752cf76b.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-b730b31e.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-8a92a810.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c9ea003a.js",
+      "_fetchPosts-752cf76b.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-23aa1b54.js",
+    "file": "pages/blog/page/_page_.svelte-2970504f.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-c9ea003a.js",
+      "_fetchPosts-752cf76b.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-55b96d65.js",
+    "file": "pages/blog/_post_.svelte-5a1927c9.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -407,6 +407,7 @@
       "src/lib/posts/szalkszentmárton-petőfi-sándor-általános-iskola.md",
       "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
+      "src/lib/posts/szja-1-1.md",
       "src/lib/posts/szja-1.md",
       "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
       "src/lib/posts/tass-könyvtár-2023-09-22.md",
@@ -462,8 +463,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-c9ea003a.js": {
-    "file": "chunks/fetchPosts-c9ea003a.js",
+  "_fetchPosts-752cf76b.js": {
+    "file": "chunks/fetchPosts-752cf76b.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -633,6 +634,7 @@
       "src/lib/posts/szalkszentmárton-petőfi-sándor-általános-iskola.md",
       "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
       "src/lib/posts/szentisváni-általános-iskola-baja.md",
+      "src/lib/posts/szja-1-1.md",
       "src/lib/posts/szja-1.md",
       "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
       "src/lib/posts/tass-könyvtár-2023-09-22.md",
@@ -1955,6 +1957,14 @@
   "src/lib/posts/szentisváni-általános-iskola-baja.md": {
     "file": "chunks/szentisváni-általános-iskola-baja-236e594c.js",
     "src": "src/lib/posts/szentisváni-általános-iskola-baja.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/szja-1-1.md": {
+    "file": "chunks/szja-1-1-23f6c985.js",
+    "src": "src/lib/posts/szja-1-1.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
