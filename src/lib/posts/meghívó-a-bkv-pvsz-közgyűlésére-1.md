@@ -1,7 +1,7 @@
 ---
 title: Meghívó a BKV PVSZ közgyűlésére
 date: 2025-04-04T16:23:29.488Z
-coverImage: /images/2025-04-25-meghívó.pdf
+coverImage: /images/képernyőkép-2025-04-19-132621.png
 scaleDown: true
 categories:
   - hirek
