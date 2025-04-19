@@ -37,6 +37,6 @@ Kecskemét, 2025. április 4.
 (Mészáros Zoltán)
 elnök
 
-![](/images/2025-04-25-meghívó.pdf)
+![](/images/képernyőkép-2025-04-19-132621.png)
 
-![](/images/2025-04-25-meghívó2.pdf)
+![]()
