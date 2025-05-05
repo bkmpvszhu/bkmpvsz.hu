@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-cb48175a.js",
+    "file": "start-60782ab5.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-229febaf.js",
+    "file": "pages/blog/category/page/_page_.svelte-b3b74fa7.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6a6d4ccf.js",
+      "_fetchPosts-9c460030.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-a741fd81.js",
+    "file": "pages/blog/category/_category_/index.svelte-b0e76cc2.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6a6d4ccf.js",
+      "_fetchPosts-9c460030.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-93d1f8f6.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-58b94b98.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6a6d4ccf.js",
+      "_fetchPosts-9c460030.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-34c8f3aa.js",
+    "file": "pages/blog/page/_page_.svelte-786d5093.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6a6d4ccf.js",
+      "_fetchPosts-9c460030.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-8ceb2134.js",
+    "file": "pages/blog/_post_.svelte-103a1502.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -351,6 +351,7 @@
       "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
+      "src/lib/posts/kiskunmajsai-móra-ferenc-álralános-iskola.md",
       "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
       "src/lib/posts/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18.md",
       "src/lib/posts/krk-központi-általános-iskola-gy-szabó-béla-tagiskolája-szank-2023-11-22.md",
@@ -466,8 +467,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-6a6d4ccf.js": {
-    "file": "chunks/fetchPosts-6a6d4ccf.js",
+  "_fetchPosts-9c460030.js": {
+    "file": "chunks/fetchPosts-9c460030.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -581,6 +582,7 @@
       "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
+      "src/lib/posts/kiskunmajsai-móra-ferenc-álralános-iskola.md",
       "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
       "src/lib/posts/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18.md",
       "src/lib/posts/krk-központi-általános-iskola-gy-szabó-béla-tagiskolája-szank-2023-11-22.md",
@@ -1515,6 +1517,14 @@
   "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md": {
     "file": "chunks/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30-4e7b5374.js",
     "src": "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsai-móra-ferenc-álralános-iskola.md": {
+    "file": "chunks/kiskunmajsai-móra-ferenc-álralános-iskola-3f007bf9.js",
+    "src": "src/lib/posts/kiskunmajsai-móra-ferenc-álralános-iskola.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
