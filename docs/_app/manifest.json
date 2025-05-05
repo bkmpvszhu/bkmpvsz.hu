@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-a2129440.js",
+    "file": "start-cb48175a.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-c9efabb5.js",
+    "file": "pages/blog/category/page/_page_.svelte-229febaf.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-616d43c8.js",
+      "_fetchPosts-6a6d4ccf.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-9d2a446b.js",
+    "file": "pages/blog/category/_category_/index.svelte-a741fd81.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-616d43c8.js",
+      "_fetchPosts-6a6d4ccf.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-502b3a31.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-93d1f8f6.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-616d43c8.js",
+      "_fetchPosts-6a6d4ccf.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-0759100e.js",
+    "file": "pages/blog/page/_page_.svelte-34c8f3aa.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-616d43c8.js",
+      "_fetchPosts-6a6d4ccf.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-e3e22265.js",
+    "file": "pages/blog/_post_.svelte-8ceb2134.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -348,6 +348,7 @@
       "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
       "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
       "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola-2022-10-17.md",
+      "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
       "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
@@ -465,8 +466,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-616d43c8.js": {
-    "file": "chunks/fetchPosts-616d43c8.js",
+  "_fetchPosts-6a6d4ccf.js": {
+    "file": "chunks/fetchPosts-6a6d4ccf.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -577,6 +578,7 @@
       "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
       "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
       "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola-2022-10-17.md",
+      "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
       "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
       "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
@@ -1489,6 +1491,14 @@
   "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola-2022-10-17.md": {
     "file": "chunks/kiskunmajsai-arany-jános-általános-iskola-2022-10-17-ea0a2710.js",
     "src": "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola-2022-10-17.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola.md": {
+    "file": "chunks/kiskunmajsai-arany-jános-általános-iskola-b74087e0.js",
+    "src": "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
