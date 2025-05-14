@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-8e90a725.js",
+    "file": "start-e3878973.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-65fac317.js",
+    "file": "pages/blog/category/page/_page_.svelte-77be3778.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-29871762.js",
+      "_fetchPosts-6fb194c4.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-186aa696.js",
+    "file": "pages/blog/category/_category_/index.svelte-413b3512.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-29871762.js",
+      "_fetchPosts-6fb194c4.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-63df4f6a.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-43e6ebaa.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-29871762.js",
+      "_fetchPosts-6fb194c4.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-b8467019.js",
+    "file": "pages/blog/page/_page_.svelte-673e2f1d.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-29871762.js",
+      "_fetchPosts-6fb194c4.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-2ef82d95.js",
+    "file": "pages/blog/_post_.svelte-73ce348e.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -376,6 +376,7 @@
       "src/lib/posts/megnyílt-a-bajai-ifjúsági-tábor-2019-07-01.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség-1.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség.md",
       "src/lib/posts/megyei-járási-és-települési-mentőcsoportok-gyakorlata-2016-05-18-19.md",
       "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
@@ -468,8 +469,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-29871762.js": {
-    "file": "chunks/fetchPosts-29871762.js",
+  "_fetchPosts-6fb194c4.js": {
+    "file": "chunks/fetchPosts-6fb194c4.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -608,6 +609,7 @@
       "src/lib/posts/megnyílt-a-bajai-ifjúsági-tábor-2019-07-01.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség-1.md",
       "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség.md",
       "src/lib/posts/megyei-járási-és-települési-mentőcsoportok-gyakorlata-2016-05-18-19.md",
       "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
@@ -1719,6 +1721,14 @@
   "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31.md": {
     "file": "chunks/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31-0efeefae.js",
     "src": "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség-1.md": {
+    "file": "chunks/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség-1-6d3e98c3.js",
+    "src": "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség-1.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
