@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-e3878973.js",
+    "file": "start-a02214d7.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-77be3778.js",
+    "file": "pages/blog/category/page/_page_.svelte-b258a45f.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6fb194c4.js",
+      "_fetchPosts-d30fee98.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-413b3512.js",
+    "file": "pages/blog/category/_category_/index.svelte-92ad426c.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6fb194c4.js",
+      "_fetchPosts-d30fee98.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-43e6ebaa.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-973e14a0.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6fb194c4.js",
+      "_fetchPosts-d30fee98.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-673e2f1d.js",
+    "file": "pages/blog/page/_page_.svelte-c0211188.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6fb194c4.js",
+      "_fetchPosts-d30fee98.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-73ce348e.js",
+    "file": "pages/blog/_post_.svelte-4e393ef4.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -287,6 +287,7 @@
       "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas.md",
       "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
       "src/lib/posts/járási-katasztrófavédelmi-ifjúsági-verseny-kalocsán-2023-10-10.md",
+      "src/lib/posts/járási-mentőcsoportok-továbbképzése-kiskunhalason.md",
       "src/lib/posts/járási-mentőcsoportok-újraminősítő-gyakorlata-kiskunhalason.md",
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
       "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
@@ -469,8 +470,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-6fb194c4.js": {
-    "file": "chunks/fetchPosts-6fb194c4.js",
+  "_fetchPosts-d30fee98.js": {
+    "file": "chunks/fetchPosts-d30fee98.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -520,6 +521,7 @@
       "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas.md",
       "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
       "src/lib/posts/járási-katasztrófavédelmi-ifjúsági-verseny-kalocsán-2023-10-10.md",
+      "src/lib/posts/járási-mentőcsoportok-továbbképzése-kiskunhalason.md",
       "src/lib/posts/járási-mentőcsoportok-újraminősítő-gyakorlata-kiskunhalason.md",
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
       "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
@@ -1009,6 +1011,14 @@
   "src/lib/posts/járási-katasztrófavédelmi-ifjúsági-verseny-kalocsán-2023-10-10.md": {
     "file": "chunks/járási-katasztrófavédelmi-ifjúsági-verseny-kalocsán-2023-10-10-73771dc5.js",
     "src": "src/lib/posts/járási-katasztrófavédelmi-ifjúsági-verseny-kalocsán-2023-10-10.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/járási-mentőcsoportok-továbbképzése-kiskunhalason.md": {
+    "file": "chunks/járási-mentőcsoportok-továbbképzése-kiskunhalason-71879bb0.js",
+    "src": "src/lib/posts/járási-mentőcsoportok-továbbképzése-kiskunhalason.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
