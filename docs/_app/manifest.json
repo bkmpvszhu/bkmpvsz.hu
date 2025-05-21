@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-a02214d7.js",
+    "file": "start-01ddae0d.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-b258a45f.js",
+    "file": "pages/blog/category/page/_page_.svelte-3aa554f1.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d30fee98.js",
+      "_fetchPosts-37a99ca6.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-92ad426c.js",
+    "file": "pages/blog/category/_category_/index.svelte-e3490bfc.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d30fee98.js",
+      "_fetchPosts-37a99ca6.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-973e14a0.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-a2d0afbb.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d30fee98.js",
+      "_fetchPosts-37a99ca6.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-c0211188.js",
+    "file": "pages/blog/page/_page_.svelte-2532c866.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-d30fee98.js",
+      "_fetchPosts-37a99ca6.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-4e393ef4.js",
+    "file": "pages/blog/_post_.svelte-eb9bb012.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -291,6 +291,7 @@
       "src/lib/posts/járási-mentőcsoportok-újraminősítő-gyakorlata-kiskunhalason.md",
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
       "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
+      "src/lib/posts/jódtabletta-kiosztási-gyakorlat-1.md",
       "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md",
       "src/lib/posts/jódtabletta-kiosztási-gyakorlat.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
@@ -470,8 +471,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-d30fee98.js": {
-    "file": "chunks/fetchPosts-d30fee98.js",
+  "_fetchPosts-37a99ca6.js": {
+    "file": "chunks/fetchPosts-37a99ca6.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -525,6 +526,7 @@
       "src/lib/posts/járási-mentőcsoportok-újraminősítő-gyakorlata-kiskunhalason.md",
       "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
       "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
+      "src/lib/posts/jódtabletta-kiosztási-gyakorlat-1.md",
       "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md",
       "src/lib/posts/jódtabletta-kiosztási-gyakorlat.md",
       "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
@@ -1043,6 +1045,14 @@
   "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md": {
     "file": "chunks/jódtabletta-gyakorlat-2022-06-08-b5893168.js",
     "src": "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/jódtabletta-kiosztási-gyakorlat-1.md": {
+    "file": "chunks/jódtabletta-kiosztási-gyakorlat-1-87986f72.js",
+    "src": "src/lib/posts/jódtabletta-kiosztási-gyakorlat-1.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
