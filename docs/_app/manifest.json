@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-01ddae0d.js",
+    "file": "start-e85137ea.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-3aa554f1.js",
+    "file": "pages/blog/category/page/_page_.svelte-88bb6c0f.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-37a99ca6.js",
+      "_fetchPosts-57cb6d6b.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-e3490bfc.js",
+    "file": "pages/blog/category/_category_/index.svelte-acda17e9.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-37a99ca6.js",
+      "_fetchPosts-57cb6d6b.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-a2d0afbb.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-83e62c9f.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-37a99ca6.js",
+      "_fetchPosts-57cb6d6b.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-2532c866.js",
+    "file": "pages/blog/page/_page_.svelte-ed23a7c6.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-37a99ca6.js",
+      "_fetchPosts-57cb6d6b.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-eb9bb012.js",
+    "file": "pages/blog/_post_.svelte-6d0b20e5.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -246,6 +246,7 @@
       "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
       "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
+      "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-2022-12-19.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola.md",
       "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
@@ -471,8 +472,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-37a99ca6.js": {
-    "file": "chunks/fetchPosts-37a99ca6.js",
+  "_fetchPosts-57cb6d6b.js": {
+    "file": "chunks/fetchPosts-57cb6d6b.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -481,6 +482,7 @@
       "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
       "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
+      "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-2022-12-19.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola.md",
       "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
@@ -685,6 +687,14 @@
   "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md": {
     "file": "chunks/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése-e3552737.js",
     "src": "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md": {
+    "file": "chunks/bajai-katazstrófavédelmi-ifjúsági-verseny-fc63d444.js",
+    "src": "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
