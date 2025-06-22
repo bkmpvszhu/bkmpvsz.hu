@@ -1,6 +1,6 @@
 ---
-title: Bajai katazstrófavédelmi ifjúsági verseny
-date: 2025-06-29T16:27:20.522Z
+title: Bajai katasztrófavédelmi ifjúsági verseny
+date: 2025-06-22T11:16:55.618Z
 coverImage: /images/2025-05-29-3.jpg
 scaleDown: false
 categories:

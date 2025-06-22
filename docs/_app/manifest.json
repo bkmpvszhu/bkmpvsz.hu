@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-40025226.js",
+    "file": "start-bddf6f19.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-6ab44a18.js",
+    "file": "pages/blog/category/page/_page_.svelte-0671b63a.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-7e14535b.js",
+      "_fetchPosts-1307b1e3.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-9ab60504.js",
+    "file": "pages/blog/category/_category_/index.svelte-fe73a32d.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-7e14535b.js",
+      "_fetchPosts-1307b1e3.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-348a0487.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-cb907cb8.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-7e14535b.js",
+      "_fetchPosts-1307b1e3.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-0b224ef0.js",
+    "file": "pages/blog/page/_page_.svelte-a04ab9af.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-7e14535b.js",
+      "_fetchPosts-1307b1e3.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-a81cd6bb.js",
+    "file": "pages/blog/_post_.svelte-781d4183.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -473,8 +473,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-7e14535b.js": {
-    "file": "chunks/fetchPosts-7e14535b.js",
+  "_fetchPosts-1307b1e3.js": {
+    "file": "chunks/fetchPosts-1307b1e3.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -703,7 +703,7 @@
     ]
   },
   "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md": {
-    "file": "chunks/bajai-katazstrófavédelmi-ifjúsági-verseny-fc63d444.js",
+    "file": "chunks/bajai-katazstrófavédelmi-ifjúsági-verseny-39504042.js",
     "src": "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md",
     "isDynamicEntry": true,
     "imports": [
