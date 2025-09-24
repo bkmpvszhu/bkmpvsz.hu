@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-0bb2a2f1.js",
+    "file": "start-8666e231.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-a9519379.js",
+    "file": "pages/blog/category/page/_page_.svelte-8711cc29.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9e458bc1.js",
+      "_fetchPosts-80c5be8d.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-00e3c268.js",
+    "file": "pages/blog/category/_category_/index.svelte-07ff7b26.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9e458bc1.js",
+      "_fetchPosts-80c5be8d.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-247804f3.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-966482e8.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9e458bc1.js",
+      "_fetchPosts-80c5be8d.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-e075fb95.js",
+    "file": "pages/blog/page/_page_.svelte-89a6eac1.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-9e458bc1.js",
+      "_fetchPosts-80c5be8d.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-d8e6413c.js",
+    "file": "pages/blog/_post_.svelte-d3cdbefa.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -245,6 +245,7 @@
     "dynamicImports": [
       "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/a-kalocsai-járás-wesselényi-önkéntes-mentőcsoport-sikeres-ismétlő-gyakorlata-hartán.md",
+      "src/lib/posts/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata.md",
       "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
       "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
       "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md",
@@ -473,8 +474,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-9e458bc1.js": {
-    "file": "chunks/fetchPosts-9e458bc1.js",
+  "_fetchPosts-80c5be8d.js": {
+    "file": "chunks/fetchPosts-80c5be8d.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -482,6 +483,7 @@
     "dynamicImports": [
       "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
       "src/lib/posts/a-kalocsai-járás-wesselényi-önkéntes-mentőcsoport-sikeres-ismétlő-gyakorlata-hartán.md",
+      "src/lib/posts/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata.md",
       "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
       "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
       "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md",
@@ -681,6 +683,14 @@
   "src/lib/posts/a-kalocsai-járás-wesselényi-önkéntes-mentőcsoport-sikeres-ismétlő-gyakorlata-hartán.md": {
     "file": "chunks/a-kalocsai-járás-wesselényi-önkéntes-mentőcsoport-sikeres-ismétlő-gyakorlata-hartán-c7ff20ac.js",
     "src": "src/lib/posts/a-kalocsai-járás-wesselényi-önkéntes-mentőcsoport-sikeres-ismétlő-gyakorlata-hartán.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata.md": {
+    "file": "chunks/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata-c618921d.js",
+    "src": "src/lib/posts/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
