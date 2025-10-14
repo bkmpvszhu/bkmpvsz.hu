@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-f6a807ee.js",
+    "file": "start-9aecac7b.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-48b665e4.js",
+    "file": "pages/blog/category/page/_page_.svelte-e051bfc6.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3d8e774e.js",
+      "_fetchPosts-594e83fc.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-048ec014.js",
+    "file": "pages/blog/category/_category_/index.svelte-df3ec477.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3d8e774e.js",
+      "_fetchPosts-594e83fc.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-555b4f23.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-94c121c5.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3d8e774e.js",
+      "_fetchPosts-594e83fc.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-56f04002.js",
+    "file": "pages/blog/page/_page_.svelte-9508f797.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-3d8e774e.js",
+      "_fetchPosts-594e83fc.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-0d3c6582.js",
+    "file": "pages/blog/_post_.svelte-b5754c11.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -259,7 +259,6 @@
       "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md",
       "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md",
       "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md",
-      "src/lib/posts/bácsalmás-köteles-polgári-védelmi-felkészítés.md",
       "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md",
       "src/lib/posts/bízhatunk-a-megye-fiataljaiban-2015-04-20.md",
       "src/lib/posts/co-érzékelők-adományozása-2018-11-26.md",
@@ -479,8 +478,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-3d8e774e.js": {
-    "file": "chunks/fetchPosts-3d8e774e.js",
+  "_fetchPosts-594e83fc.js": {
+    "file": "chunks/fetchPosts-594e83fc.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -502,7 +501,6 @@
       "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md",
       "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md",
       "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md",
-      "src/lib/posts/bácsalmás-köteles-polgári-védelmi-felkészítés.md",
       "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md",
       "src/lib/posts/bízhatunk-a-megye-fiataljaiban-2015-04-20.md",
       "src/lib/posts/co-érzékelők-adományozása-2018-11-26.md",
@@ -805,14 +803,6 @@
   "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md": {
     "file": "chunks/bács-megyei-gyerekek-szlovéniában-2019-07-25-28-73f54ce2.js",
     "src": "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-48b2defe.js"
-    ]
-  },
-  "src/lib/posts/bácsalmás-köteles-polgári-védelmi-felkészítés.md": {
-    "file": "chunks/bácsalmás-köteles-polgári-védelmi-felkészítés-8ae0548e.js",
-    "src": "src/lib/posts/bácsalmás-köteles-polgári-védelmi-felkészítés.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
