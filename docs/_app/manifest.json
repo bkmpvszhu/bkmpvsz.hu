@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-9aecac7b.js",
+    "file": "start-1bdb79d8.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-e051bfc6.js",
+    "file": "pages/blog/category/page/_page_.svelte-dc418a61.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-594e83fc.js",
+      "_fetchPosts-d34f2242.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-df3ec477.js",
+    "file": "pages/blog/category/_category_/index.svelte-1a3f8182.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-594e83fc.js",
+      "_fetchPosts-d34f2242.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-94c121c5.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-66196a50.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-594e83fc.js",
+      "_fetchPosts-d34f2242.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-9508f797.js",
+    "file": "pages/blog/page/_page_.svelte-37653baf.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-594e83fc.js",
+      "_fetchPosts-d34f2242.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-b5754c11.js",
+    "file": "pages/blog/_post_.svelte-55bd0b97.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -365,7 +365,6 @@
       "src/lib/posts/kunszentmiklós-baksay-sándor-református-gimnázium-és-általános-iskola-2023-09-22.md",
       "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
       "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
-      "src/lib/posts/köteles-polgári-védelmi-szervezetek-felkészítése.md",
       "src/lib/posts/közbiztonsági-referensek-képzése-1.md",
       "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
       "src/lib/posts/közbiztonsági-referensek-képzése.md",
@@ -408,7 +407,6 @@
       "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md",
       "src/lib/posts/petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2017-04-25-27.md",
       "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md",
-      "src/lib/posts/polgári-védelmi-szervezetek-felkészítése.md",
       "src/lib/posts/polgári-védelmi-szervezetek-képzése.md",
       "src/lib/posts/polgármesteri-fórum-2017-11-23.md",
       "src/lib/posts/prevencio-pinned.md",
@@ -478,8 +476,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-594e83fc.js": {
-    "file": "chunks/fetchPosts-594e83fc.js",
+  "_fetchPosts-d34f2242.js": {
+    "file": "chunks/fetchPosts-d34f2242.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -607,7 +605,6 @@
       "src/lib/posts/kunszentmiklós-baksay-sándor-református-gimnázium-és-általános-iskola-2023-09-22.md",
       "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
       "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
-      "src/lib/posts/köteles-polgári-védelmi-szervezetek-felkészítése.md",
       "src/lib/posts/közbiztonsági-referensek-képzése-1.md",
       "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
       "src/lib/posts/közbiztonsági-referensek-képzése.md",
@@ -650,7 +647,6 @@
       "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md",
       "src/lib/posts/petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2017-04-25-27.md",
       "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md",
-      "src/lib/posts/polgári-védelmi-szervezetek-felkészítése.md",
       "src/lib/posts/polgári-védelmi-szervezetek-képzése.md",
       "src/lib/posts/polgármesteri-fórum-2017-11-23.md",
       "src/lib/posts/prevencio-pinned.md",
@@ -1656,14 +1652,6 @@
       "_vendor-48b2defe.js"
     ]
   },
-  "src/lib/posts/köteles-polgári-védelmi-szervezetek-felkészítése.md": {
-    "file": "chunks/köteles-polgári-védelmi-szervezetek-felkészítése-bcae3962.js",
-    "src": "src/lib/posts/köteles-polgári-védelmi-szervezetek-felkészítése.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-48b2defe.js"
-    ]
-  },
   "src/lib/posts/közbiztonsági-referensek-képzése-1.md": {
     "file": "chunks/közbiztonsági-referensek-képzése-1-1615d20a.js",
     "src": "src/lib/posts/közbiztonsági-referensek-képzése-1.md",
@@ -1995,14 +1983,6 @@
   "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md": {
     "file": "chunks/polgári-védelmi-felkészítés-dunafalván-2017-06-20-97821d58.js",
     "src": "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-48b2defe.js"
-    ]
-  },
-  "src/lib/posts/polgári-védelmi-szervezetek-felkészítése.md": {
-    "file": "chunks/polgári-védelmi-szervezetek-felkészítése-89a0a763.js",
-    "src": "src/lib/posts/polgári-védelmi-szervezetek-felkészítése.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
