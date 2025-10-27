@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-738f3174.js",
+    "file": "start-8b092097.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -88,7 +88,7 @@
     ]
   },
   "src/routes/tamogatoink.svelte": {
-    "file": "pages/tamogatoink.svelte-90dc3a4e.js",
+    "file": "pages/tamogatoink.svelte-75e5ab5f.js",
     "src": "src/routes/tamogatoink.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
