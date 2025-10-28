@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-8b092097.js",
+    "file": "start-1ca6a91c.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-1b44b226.js",
+    "file": "pages/blog/category/page/_page_.svelte-4ce97e15.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e6e51798.js",
+      "_fetchPosts-ede97859.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-08786ae9.js",
+    "file": "pages/blog/category/_category_/index.svelte-b731a122.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e6e51798.js",
+      "_fetchPosts-ede97859.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-186630bc.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-03689e4e.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e6e51798.js",
+      "_fetchPosts-ede97859.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-b66d9fcc.js",
+    "file": "pages/blog/page/_page_.svelte-1e867c36.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-e6e51798.js",
+      "_fetchPosts-ede97859.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-6f23694f.js",
+    "file": "pages/blog/_post_.svelte-dbdd7c95.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -248,6 +248,7 @@
       "src/lib/posts/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata.md",
       "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
       "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
+      "src/lib/posts/bajai-járás-önkéntes-mentőcsoport-gyakorlata.md",
       "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-2022-12-19.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola.md",
@@ -478,8 +479,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-e6e51798.js": {
-    "file": "chunks/fetchPosts-e6e51798.js",
+  "_fetchPosts-ede97859.js": {
+    "file": "chunks/fetchPosts-ede97859.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -490,6 +491,7 @@
       "src/lib/posts/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata.md",
       "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
       "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
+      "src/lib/posts/bajai-járás-önkéntes-mentőcsoport-gyakorlata.md",
       "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-2022-12-19.md",
       "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola.md",
@@ -715,6 +717,14 @@
   "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md": {
     "file": "chunks/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése-e3552737.js",
     "src": "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-járás-önkéntes-mentőcsoport-gyakorlata.md": {
+    "file": "chunks/bajai-járás-önkéntes-mentőcsoport-gyakorlata-8a162a21.js",
+    "src": "src/lib/posts/bajai-járás-önkéntes-mentőcsoport-gyakorlata.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
