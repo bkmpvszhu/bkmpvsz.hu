@@ -1,5 +1,5 @@
 ---
-title: Kiskunmajsai Móra Ferenc Álralános Iskola
+title: Kiskunmajsai Móra Ferenc Általános Iskola
 date: 2025-04-14T17:14:15.214Z
 coverImage: /images/20250414-8.jpg
 scaleDown: true
