@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-de6e4e48.js",
+    "file": "start-689bd190.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-4ce97e15.js",
+    "file": "pages/blog/category/page/_page_.svelte-70be4a26.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ede97859.js",
+      "_fetchPosts-aa2a8ca9.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-b731a122.js",
+    "file": "pages/blog/category/_category_/index.svelte-3581cd99.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ede97859.js",
+      "_fetchPosts-aa2a8ca9.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-03689e4e.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-d44892b4.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ede97859.js",
+      "_fetchPosts-aa2a8ca9.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-1e867c36.js",
+    "file": "pages/blog/page/_page_.svelte-356fa5d9.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-ede97859.js",
+      "_fetchPosts-aa2a8ca9.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-dbdd7c95.js",
+    "file": "pages/blog/_post_.svelte-35b703a7.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -288,6 +288,7 @@
       "src/lib/posts/hirek-2021-11-15.md",
       "src/lib/posts/három-település-összevont-felkészítése.md",
       "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
+      "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-1.md",
       "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-2023-12-12.md",
       "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas.md",
       "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
@@ -479,8 +480,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-ede97859.js": {
-    "file": "chunks/fetchPosts-ede97859.js",
+  "_fetchPosts-aa2a8ca9.js": {
+    "file": "chunks/fetchPosts-aa2a8ca9.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -531,6 +532,7 @@
       "src/lib/posts/hirek-2021-11-15.md",
       "src/lib/posts/három-település-összevont-felkészítése.md",
       "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
+      "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-1.md",
       "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-2023-12-12.md",
       "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas.md",
       "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
@@ -1037,6 +1039,14 @@
   "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md": {
     "file": "chunks/ifjúsági-tábor-a-szilágyságban-afc53056.js",
     "src": "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-1.md": {
+    "file": "chunks/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-1-c9e4f474.js",
+    "src": "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-1.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
