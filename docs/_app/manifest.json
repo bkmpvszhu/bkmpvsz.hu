@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-823e08ec.js",
+    "file": "start-d2296267.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-5bee669f.js",
+    "file": "pages/blog/category/page/_page_.svelte-531662e7.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6d0407be.js",
+      "_fetchPosts-1b06ca18.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-6f32fd29.js",
+    "file": "pages/blog/category/_category_/index.svelte-6c4a51d9.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6d0407be.js",
+      "_fetchPosts-1b06ca18.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-38930fcd.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-2b2b215a.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6d0407be.js",
+      "_fetchPosts-1b06ca18.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-829ef686.js",
+    "file": "pages/blog/page/_page_.svelte-a4469f01.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-6d0407be.js",
+      "_fetchPosts-1b06ca18.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-80e44225.js",
+    "file": "pages/blog/_post_.svelte-829a249f.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -436,6 +436,7 @@
       "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md",
       "src/lib/posts/vezetőségi-ülés-2022-12-09.md",
+      "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium-kiskunhalas.md",
       "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium.md",
       "src/lib/posts/vári-szabó-istván-szakképző-iskola-és-kollégium-kiskunhalas-2023-12-12.md",
       "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md"
@@ -481,8 +482,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-6d0407be.js": {
-    "file": "chunks/fetchPosts-6d0407be.js",
+  "_fetchPosts-1b06ca18.js": {
+    "file": "chunks/fetchPosts-1b06ca18.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -681,6 +682,7 @@
       "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
       "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md",
       "src/lib/posts/vezetőségi-ülés-2022-12-09.md",
+      "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium-kiskunhalas.md",
       "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium.md",
       "src/lib/posts/vári-szabó-istván-szakképző-iskola-és-kollégium-kiskunhalas-2023-12-12.md",
       "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md"
@@ -2225,6 +2227,14 @@
   "src/lib/posts/vezetőségi-ülés-2022-12-09.md": {
     "file": "chunks/vezetőségi-ülés-2022-12-09-2aac5316.js",
     "src": "src/lib/posts/vezetőségi-ülés-2022-12-09.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium-kiskunhalas.md": {
+    "file": "chunks/vári-istván-szakképző-iskola-és-kollégium-kiskunhalas-c72a574b.js",
+    "src": "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium-kiskunhalas.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
