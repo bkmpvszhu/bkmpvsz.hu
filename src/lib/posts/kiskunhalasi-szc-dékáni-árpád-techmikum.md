@@ -1,5 +1,5 @@
 ---
-title: Kiskunhalasi SZC Dékáni Árpád Techmikum
+title: Kiskunhalasi SZC Dékáni Árpád Technikum
 date: 2024-12-17T15:04:15.557Z
 coverImage: /images/2024-12-17-1-index.jpg
 scaleDown: false
