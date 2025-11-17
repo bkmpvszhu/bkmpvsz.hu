@@ -5,7 +5,7 @@ coverImage: /images/2025-11-17-index2.jpg
 scaleDown: false
 categories:
   - hirek
-  - prevecio
+  - prevencio
 excerpt: " "
 ---
 ![](/images/2025-11-17-4.jpg)
