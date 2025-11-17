@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-689bd190.js",
+    "file": "start-823e08ec.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-70be4a26.js",
+    "file": "pages/blog/category/page/_page_.svelte-5bee669f.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-aa2a8ca9.js",
+      "_fetchPosts-6d0407be.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-3581cd99.js",
+    "file": "pages/blog/category/_category_/index.svelte-6f32fd29.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-aa2a8ca9.js",
+      "_fetchPosts-6d0407be.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-d44892b4.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-38930fcd.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-aa2a8ca9.js",
+      "_fetchPosts-6d0407be.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-356fa5d9.js",
+    "file": "pages/blog/page/_page_.svelte-829ef686.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-aa2a8ca9.js",
+      "_fetchPosts-6d0407be.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-35b703a7.js",
+    "file": "pages/blog/_post_.svelte-80e44225.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -352,6 +352,7 @@
       "src/lib/posts/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01.md",
       "src/lib/posts/kiskunhalasi-református-kollégium-szilády-áron-gimnázium-és-kollégium-2022-12-01.md",
       "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-techmikum.md",
+      "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-technikum.md",
       "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
@@ -480,8 +481,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-aa2a8ca9.js": {
-    "file": "chunks/fetchPosts-aa2a8ca9.js",
+  "_fetchPosts-6d0407be.js": {
+    "file": "chunks/fetchPosts-6d0407be.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -596,6 +597,7 @@
       "src/lib/posts/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01.md",
       "src/lib/posts/kiskunhalasi-református-kollégium-szilády-áron-gimnázium-és-kollégium-2022-12-01.md",
       "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-techmikum.md",
+      "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-technikum.md",
       "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md",
       "src/lib/posts/kiskunmajsa-2016-04-27.md",
       "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
@@ -1551,6 +1553,14 @@
   "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-techmikum.md": {
     "file": "chunks/kiskunhalasi-szc-dékáni-árpád-techmikum-42ab2872.js",
     "src": "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-techmikum.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-technikum.md": {
+    "file": "chunks/kiskunhalasi-szc-dékáni-árpád-technikum-92f04484.js",
+    "src": "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-technikum.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
