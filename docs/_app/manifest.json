@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-8636d333.js",
+    "file": "start-84d4fc84.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -161,13 +161,13 @@
     ]
   },
   "src/routes/blog/category/page/[page].svelte": {
-    "file": "pages/blog/category/page/_page_.svelte-580ae95d.js",
+    "file": "pages/blog/category/page/_page_.svelte-9532f6da.js",
     "src": "src/routes/blog/category/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e111223.js",
+      "_fetchPosts-464d6de7.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -175,13 +175,13 @@
     ]
   },
   "src/routes/blog/category/[category]/index.svelte": {
-    "file": "pages/blog/category/_category_/index.svelte-552d25e3.js",
+    "file": "pages/blog/category/_category_/index.svelte-bc3a01f7.js",
     "src": "src/routes/blog/category/[category]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e111223.js",
+      "_fetchPosts-464d6de7.js",
       "_PostsList-0ef38003.js",
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -197,13 +197,13 @@
     ]
   },
   "src/routes/blog/category/[category]/page/[page].svelte": {
-    "file": "pages/blog/category/_category_/page/_page_.svelte-e42b145e.js",
+    "file": "pages/blog/category/_category_/page/_page_.svelte-31a22bca.js",
     "src": "src/routes/blog/category/[category]/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e111223.js",
+      "_fetchPosts-464d6de7.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -220,13 +220,13 @@
     ]
   },
   "src/routes/blog/page/[page].svelte": {
-    "file": "pages/blog/page/_page_.svelte-bf12e99c.js",
+    "file": "pages/blog/page/_page_.svelte-559eacd4.js",
     "src": "src/routes/blog/page/[page].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js",
-      "_fetchPosts-0e111223.js",
+      "_fetchPosts-464d6de7.js",
       "_config-085cc7a9.js",
       "_PostsList-0ef38003.js",
       "_Pagination-ebe72911.js",
@@ -234,7 +234,7 @@
     ]
   },
   "src/routes/blog/[post].svelte": {
-    "file": "pages/blog/_post_.svelte-1573ce94.js",
+    "file": "pages/blog/_post_.svelte-08208a86.js",
     "src": "src/routes/blog/[post].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -269,6 +269,7 @@
       "src/lib/posts/covid-eleni-fellépés.md",
       "src/lib/posts/csólyospálosi-általános-iskola-2023-11-22.md",
       "src/lib/posts/drog-prevenciós-előadás-a-tassi-könyvtárban-2023-02-27.md",
+      "src/lib/posts/dunavecse-petőfi-sándor-általános-iskola.md",
       "src/lib/posts/dékáni-árpád-szakgimnázium-és-szakközépiskola-kiskunhalas-2023-12-12.md",
       "src/lib/posts/együttműködés-a-honvédséggel.md",
       "src/lib/posts/együttműködés-és-hagyományápolás.md",
@@ -482,8 +483,8 @@
       "_config-085cc7a9.js"
     ]
   },
-  "_fetchPosts-0e111223.js": {
-    "file": "chunks/fetchPosts-0e111223.js",
+  "_fetchPosts-464d6de7.js": {
+    "file": "chunks/fetchPosts-464d6de7.js",
     "imports": [
       "_preload-helper-ec9aa979.js",
       "_config-085cc7a9.js"
@@ -515,6 +516,7 @@
       "src/lib/posts/covid-eleni-fellépés.md",
       "src/lib/posts/csólyospálosi-általános-iskola-2023-11-22.md",
       "src/lib/posts/drog-prevenciós-előadás-a-tassi-könyvtárban-2023-02-27.md",
+      "src/lib/posts/dunavecse-petőfi-sándor-általános-iskola.md",
       "src/lib/posts/dékáni-árpád-szakgimnázium-és-szakközépiskola-kiskunhalas-2023-12-12.md",
       "src/lib/posts/együttműködés-a-honvédséggel.md",
       "src/lib/posts/együttműködés-és-hagyományápolás.md",
@@ -891,6 +893,14 @@
   "src/lib/posts/drog-prevenciós-előadás-a-tassi-könyvtárban-2023-02-27.md": {
     "file": "chunks/drog-prevenciós-előadás-a-tassi-könyvtárban-2023-02-27-659e158e.js",
     "src": "src/lib/posts/drog-prevenciós-előadás-a-tassi-könyvtárban-2023-02-27.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/dunavecse-petőfi-sándor-általános-iskola.md": {
+    "file": "chunks/dunavecse-petőfi-sándor-általános-iskola-ddc1d9ac.js",
+    "src": "src/lib/posts/dunavecse-petőfi-sándor-általános-iskola.md",
     "isDynamicEntry": true,
     "imports": [
       "_vendor-48b2defe.js"
