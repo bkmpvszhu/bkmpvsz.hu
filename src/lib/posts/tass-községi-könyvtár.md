@@ -4,7 +4,7 @@ date: 2025-12-01T18:30:59.572Z
 coverImage: /images/2025-12-01-index2.jpg
 scaleDown: false
 categories:
-  - hírek
+  - hirek
   - prevencio
 excerpt: " "
 ---
