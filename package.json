@@ -31,5 +31,8 @@
   "type": "module",
   "dependencies": {
     "just-throttle": "^4.0.1"
+  },
+  "overrides": {
+    "cookie": "^0.7.2"
   }
 }
