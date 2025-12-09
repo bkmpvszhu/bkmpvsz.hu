@@ -1,7 +1,7 @@
 <script>
   import { getContext } from 'svelte'
 
-  let { href } = $props()
+  let { href, children } = $props()
 
   const appState = getContext('appState')
 
@@ -18,11 +18,11 @@
 <li>
   <a
     href={href}
-    on:click={maybeCloseMenu}
+    onclick={maybeCloseMenu}
     class:active={isCurrentPage}
     aria-current={isCurrentPage ? 'page' : false}
   >
-    <slot />
+    {@render children()}
   </a>
 </li>
 

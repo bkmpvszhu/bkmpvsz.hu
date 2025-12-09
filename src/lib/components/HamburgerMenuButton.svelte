@@ -13,7 +13,7 @@
 </script>
 
 <button
-  on:click={toggleIsMenuOpen}
+  onclick={toggleIsMenuOpen}
   aria-pressed={appState.isMenuOpen}
   class="menu-button"
   tabindex={(appState.isMenuOpen || !closeOnly) ? '0' : '-1'}

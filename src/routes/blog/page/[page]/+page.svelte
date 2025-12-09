@@ -1,15 +1,13 @@
 <!-- This file handles any /blog/page/x route for pagination -->
 
 <script>
-  import PostsList from '$lib/components/PostsList.svelte'
-  import Pagination from '$lib/components/Pagination.svelte'
-  import { postsPerPage, siteDescription } from '$lib/config'
+	import PaginatedPostsPage from '$lib/components/PaginatedPostsPage.svelte'
+	import { siteDescription } from '$lib/config'
 
-  export let data
-  const { page, totalPosts, posts = [] } = data
-
-  $: lowerBound = (page * postsPerPage) - (postsPerPage - 1) || 1
-  $: upperBound = Math.min(page * postsPerPage, totalPosts)
+	let { data } = $props()
+	let page = $derived(data.page)
+	let totalPosts = $derived(data.totalPosts)
+	let posts = $derived(data.posts ?? [])
 </script>
 
 
@@ -18,17 +16,10 @@
 	<meta data-key="description" name="description" content={siteDescription}>
 </svelte:head>
 
-
-<!-- TODO: this is duplicated in both `[page].svelte` files -->
-{#if posts.length}
-  <h1>Posts {lowerBound}–{upperBound} of {totalPosts}</h1>
-  <Pagination currentPage={page} {totalPosts} />
-
-  <PostsList {posts} />
-
-  <Pagination currentPage={page} {totalPosts} />
-{:else}
-	<p><strong>Hoppá!</strong> Sajnos ebben a kategóriában még nincs egy poszt sem.</p>
-
-	<p><a href="/">Vissza a főoldalra</a></p>
-{/if}
+<PaginatedPostsPage
+	{posts}
+	{page}
+	{totalPosts}
+	title="Posts {(page * 10) - 9}–{Math.min(page * 10, totalPosts)} of {totalPosts}"
+	paginationPath="/blog/page"
+/>

@@ -1,16 +1,17 @@
 <!-- This is the global layout file; it "wraps" every page on the site. (Or more accurately: is the parent component to every page component on the site.) -->
 <script>
   import '$lib/assets/scss/global.scss'
+  import '$lib/icons.js'
   import Header from '$lib/components/Header.svelte'
   import Footer from '$lib/components/Footer.svelte'
   import { createAppState } from '$lib/state.svelte.js'
-  import { setContext } from 'svelte'
+  import { setContext, onMount } from 'svelte'
   import { fade } from 'svelte/transition'
 
   const transitionIn = { delay: 150, duration: 150 }
   const transitionOut = { duration: 100 }
 
-  let { data } = $props()
+  let { data, children } = $props()
   let path = $derived(data.path)
 
   // Create and provide app state via context
@@ -26,9 +27,9 @@
   })
 
   /**
-   * Netlify Identity integration for CMS login
+   * Netlify Identity integration for CMS login (runs once on mount)
    **/
-  $effect(() => {
+  onMount(() => {
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
         if (!user) {
@@ -41,8 +42,8 @@
   })
 </script>
 
-<!-- 
-  The below markup is used on every page in the site. The <slot> is where the page's
+<!--
+  The below markup is used on every page in the site. The {@render children()} is where the page's
   actual contents will show up.
 -->
 <div class="layout" class:open={appState.isMenuOpen}>
@@ -54,7 +55,7 @@
       in:fade={transitionIn}
       out:fade={transitionOut}
     >
-      <slot />
+      {@render children()}
     </main>
   {/key}
   <Footer />

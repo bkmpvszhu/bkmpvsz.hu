@@ -2,7 +2,6 @@
 <script>
 	import PostsList from '$lib/components/PostsList.svelte'
 	import Pagination from '$lib/components/Pagination.svelte'
-	import { postsPerPage } from '$lib/config'
 	import { getCategoryTitle } from '$lib/utils/categories'
 
 	let { data } = $props()

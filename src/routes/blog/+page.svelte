@@ -3,8 +3,9 @@
 	import Pagination from '$lib/components/Pagination.svelte'
 	import { siteDescription } from '$lib/config'
 
-	export let data
-	const { posts, total } = data
+	let { data } = $props()
+	let posts = $derived(data.posts)
+	let total = $derived(data.total)
 </script>
 
 

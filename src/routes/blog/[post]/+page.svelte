@@ -3,9 +3,15 @@
 <script>
 	import { formatDate } from '$lib/utils/date'
 
-	export let data
-	const { PostContent, meta } = data
-	const { title, excerpt, date, updated, coverImage, coverWidth, coverHeight, categories } = meta
+	let { data } = $props()
+	let PostContent = $derived(data.PostContent)
+	let meta = $derived(data.meta)
+	let title = $derived(meta.title)
+	let excerpt = $derived(meta.excerpt)
+	let date = $derived(meta.date)
+	let coverImage = $derived(meta.coverImage)
+	let coverWidth = $derived(meta.coverWidth)
+	let coverHeight = $derived(meta.coverHeight)
 </script>
 
 
@@ -42,9 +48,9 @@
 		<b>Megjelent:</b> {formatDate(date)}
 	</div>
 
-	<svelte:component this={PostContent}/>
+	<PostContent />
 
-	<button on:click={() => history.back()}>
+	<button onclick={() => history.back()}>
 		Vissza
 	</button>
 </article>
