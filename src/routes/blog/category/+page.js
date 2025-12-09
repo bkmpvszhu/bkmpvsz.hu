@@ -7,7 +7,7 @@ export const load = async () => {
 
 	posts.forEach(post => {
 		post.categories?.forEach(category => {
-			if (uniqueCategories.hasOwnProperty(category)) {
+			if (category in uniqueCategories) {
 				uniqueCategories[category].count += 1
 			} else {
 				uniqueCategories[category] = {
@@ -20,7 +20,7 @@ export const load = async () => {
 
 	const sortedUniqueCategories =
 		Object.values(uniqueCategories)
-			.sort((a, b) => a.title > b.title)
+			.sort((a, b) => a.title.localeCompare(b.title))
 
 	return {
 		uniqueCategories: sortedUniqueCategories

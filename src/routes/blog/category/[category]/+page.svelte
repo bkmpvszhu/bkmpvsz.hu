@@ -3,33 +3,20 @@
 	import PostsList from '$lib/components/PostsList.svelte'
 	import Pagination from '$lib/components/Pagination.svelte'
 	import { postsPerPage } from '$lib/config'
+	import { getCategoryTitle } from '$lib/utils/categories'
 
-	export let data
-	$: ({ posts, category, total } = data)
-
-	//TODO: unmaintainable...
-	function mapCategoryToTitle(category) {
-		switch (category) {
-			case 'hirek':
-				return 'Hírek'
-			case 'ifjusag':
-				return 'Ifjúsági események'
-			case 'kepzesek':
-				return 'Felkészítések, képzések'
-			case 'prevencio':
-				return 'Drogprevenció'
-			default:
-				return '';
-		}
-	}
+	let { data } = $props()
+	let posts = $derived(data.posts)
+	let category = $derived(data.category)
+	let total = $derived(data.total)
 </script>
 
 
 <svelte:head>
-	<title>BKMPVSZ: {mapCategoryToTitle(category)}</title>
+	<title>BKMPVSZ: {getCategoryTitle(category)}</title>
 </svelte:head>
 
-<h1>{mapCategoryToTitle(category)}</h1>
+<h1>{getCategoryTitle(category)}</h1>
 
 {#if posts.length}
 	<Pagination currentPage={1} totalPosts={total} path="/blog/category/{category}/page"/>

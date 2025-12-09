@@ -1,14 +1,10 @@
 <script>
+	import { formatDate } from '$lib/utils/date'
 
-	export let posts = [];
+	let { posts = [] } = $props()
 
-	const pinned = posts.filter(p => p.pinned)
-	const regularPosts = posts.filter(p => !p.pinned)
-
-	function normalizeDate(date) {
-		const d = new Date(date);
-		return d.toLocaleDateString('hu');
-	}
+	let pinned = $derived(posts.filter(p => p.pinned))
+	let regularPosts = $derived(posts.filter(p => !p.pinned))
 </script>
 
 <ul class="posts-list">
@@ -37,7 +33,7 @@
 					<h2>
 						{post.title}
 					</h2>
-					<span class="subtitle">{normalizeDate(post.date)}</span>
+					<span class="subtitle">{formatDate(post.date)}</span>
 				</a>
 			</article>
 
@@ -78,7 +74,7 @@
 		text-align: justify;
 	}
 
-	.scale-down {
-		object-fit: scale-down !important;
+	img.scale-down {
+		object-fit: scale-down;
 	}
 </style>

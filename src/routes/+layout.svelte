@@ -3,26 +3,32 @@
   import '$lib/assets/scss/global.scss'
   import Header from '$lib/components/Header.svelte'
   import Footer from '$lib/components/Footer.svelte'
-  import { currentPage, isMenuOpen } from '$lib/assets/js/store'
-  import { onMount } from 'svelte'
+  import { createAppState } from '$lib/state.svelte.js'
+  import { setContext } from 'svelte'
   import { fade } from 'svelte/transition'
 
   const transitionIn = { delay: 150, duration: 150 }
   const transitionOut = { duration: 100 }
 
-  export let data
-  $: ({ path } = data)
+  let { data } = $props()
+  let path = $derived(data.path)
+
+  // Create and provide app state via context
+  const appState = createAppState()
+  setContext('appState', appState)
 
   /**
-   * Updates the global store with the current path. (Used for highlighting
+   * Updates the global state with the current path. (Used for highlighting
    * the current page in the nav, but could be useful for other purposes.)
    **/
-  $: currentPage.set(path)
+  $effect(() => {
+    appState.currentPage = path
+  })
 
   /**
    * Netlify Identity integration for CMS login
    **/
-  onMount(() => {
+  $effect(() => {
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
         if (!user) {
@@ -39,7 +45,7 @@
   The below markup is used on every page in the site. The <slot> is where the page's
   actual contents will show up.
 -->
-<div class="layout" class:open={$isMenuOpen}>
+<div class="layout" class:open={appState.isMenuOpen}>
   <Header />
   {#key path}
     <main

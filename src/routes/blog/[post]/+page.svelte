@@ -1,14 +1,11 @@
 <!-- This file renders each individual blog post for reading. Be sure to update the svelte:head below -->
 
 <script>
+	import { formatDate } from '$lib/utils/date'
+
 	export let data
 	const { PostContent, meta } = data
 	const { title, excerpt, date, updated, coverImage, coverWidth, coverHeight, categories } = meta
-
-	function normalizeDate(date) {
-		const d = new Date(date);
-		return d.toLocaleDateString('hu');
-	}
 </script>
 
 
@@ -42,7 +39,7 @@
 	<h1>{ title }</h1>
 
 	<div class="meta">
-		<b>Megjelent:</b> {normalizeDate(date)}
+		<b>Megjelent:</b> {formatDate(date)}
 	</div>
 
 	<svelte:component this={PostContent}/>

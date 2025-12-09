@@ -1,20 +1,22 @@
 <script>
-  import { isMenuOpen } from '$lib/assets/js/store'
+  import { getContext } from 'svelte'
   import HamburgerSVG from './svg/HamburgerSVG.svelte'
   import XSVG from './svg/XSVG.svelte'
 
-  export let closeOnly
+  let { closeOnly = false } = $props()
+
+  const appState = getContext('appState')
 
   const toggleIsMenuOpen = () => {
-    isMenuOpen.set(!$isMenuOpen)
+    appState.toggleMenu()
   }
 </script>
 
 <button
   on:click={toggleIsMenuOpen}
-  aria-pressed={$isMenuOpen}
+  aria-pressed={appState.isMenuOpen}
   class="menu-button"
-  tabindex={($isMenuOpen || !closeOnly) ? '0' : '-1'}
+  tabindex={(appState.isMenuOpen || !closeOnly) ? '0' : '-1'}
 >
   <span class="sr-only">Menü megjelenítése</span>
   {#if closeOnly}
