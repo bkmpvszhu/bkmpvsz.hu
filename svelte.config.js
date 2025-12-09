@@ -36,8 +36,19 @@ const config = {
 			assets: 'build',
 			fallback: undefined,
 			precompress: false,
-			strict: true
-		})
+			strict: false
+		}),
+		prerender: {
+			handleHttpError: ({ path, referrer, message }) => {
+				// Ignore 404s for missing logos and images
+				if (path.startsWith('/logos/') || path.startsWith('/images/')) {
+					return;
+				}
+				// Throw on other errors
+				throw new Error(message);
+			},
+			handleUnseenRoutes: 'ignore'
+		}
 	}
 };
 
