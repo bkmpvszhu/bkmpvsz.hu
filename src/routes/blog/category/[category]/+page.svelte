@@ -1,30 +1,10 @@
 <!-- This dynamic page renders any page at /blog/category/* -->
 <!-- TODO: add pagination to this route -->
-<script context="module">
-	import fetchPosts from '$lib/assets/js/fetchPosts'
-
-	export const load = async ({ params, fetch }) => {
-		const category = params.category
-		const options = { category }
-		const { posts } = await fetchPosts(options)
-		const res = await fetch(`/api/posts/category/${category}/count.json`)
-		const { total } = await res.json()
-
-		return {
-			props: {
-				posts,
-				category,
-				total
-			}
-		}
-	}
-</script>
-
 <script>
 	import PostsList from '$lib/components/PostsList.svelte'
 
-	export let posts
-	export let category
+	export let data
+	const { posts, category } = data
 
 	//TODO: unmaintainable...
 	function mapCategoryToTitle(category) {
