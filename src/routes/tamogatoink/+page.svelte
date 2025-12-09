@@ -40,8 +40,8 @@
 		{ name: 'Tázlár önkormányzata', imageSrc: '/logos/HUN_Tázlár_COA.jpg', link: 'http://tazlar.hu/'},
 		{ name: 'Tompa önkormányzata', imageSrc: '/logos/Flag_of_Tompa.svg', link: 'http://tompa.hu/'},
 		{ name: 'Vaskút önkormányzata', imageSrc: '/logos/HUN_Vaskút_COA.svg', link: 'https://www.vaskut-nagykozseg.hu'},
-		{ name: 'Újtelek önkormányzata', imageSrc: '/logos/HUN_Újtelek_COA.svg.png', link: 'http://ujtelek.hu/'},
-		{ name: 'Pálmomostora önkormányzata', imageSrc: '/logos/HUN_Pálmonostora_COA.svg', link: 'http://palmonostora.hu/'},
+		{ name: 'Újtelek önkormányzata', imageSrc: '/logos/HUN_Ujtelek_COA.svg.png', link: 'http://ujtelek.hu/'},
+		{ name: 'Pálmomostora önkormányzata', imageSrc: '/logos/HUN_Palmonostora_COA.svg', link: 'http://palmonostora.hu/'},
 		{ name: 'Zsana önkormányzata', imageSrc: '/logos/HUN_Zsana_COA.svg', link: 'http://zsana.hu/'},
 	];
 </script>
