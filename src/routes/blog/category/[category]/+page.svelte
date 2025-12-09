@@ -1,10 +1,11 @@
 <!-- This dynamic page renders any page at /blog/category/* -->
-<!-- TODO: add pagination to this route -->
 <script>
 	import PostsList from '$lib/components/PostsList.svelte'
+	import Pagination from '$lib/components/Pagination.svelte'
+	import { postsPerPage } from '$lib/config'
 
 	export let data
-	$: ({ posts, category } = data)
+	$: ({ posts, category, total } = data)
 
 	//TODO: unmaintainable...
 	function mapCategoryToTitle(category) {
@@ -31,8 +32,9 @@
 <h1>{mapCategoryToTitle(category)}</h1>
 
 {#if posts.length}
+	<Pagination currentPage={1} totalPosts={total} path="/blog/category/{category}/page"/>
 	<PostsList {posts}/>
-<!--	<Pagination currentPage="1" totalPosts={total} path="/blog/category/{category}/page"/>-->
+	<Pagination currentPage={1} totalPosts={total} path="/blog/category/{category}/page"/>
 {:else}
 	<p><strong>Hoppá!</strong> Sajnos ebben a kategóriában még nincs egy poszt sem.</p>
 
