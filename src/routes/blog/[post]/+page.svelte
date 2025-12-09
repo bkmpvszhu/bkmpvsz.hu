@@ -1,30 +1,8 @@
 <!-- This file renders each individual blog post for reading. Be sure to update the svelte:head below -->
 
-<script context="module">
-	export const load = async ({ params }) => {
-		try {
-			const post = await import(`../../lib/posts/${params.post}.md`)
-
-			return {
-				props: {
-					PostContent: post.default,
-					meta: { ...post.metadata, slug: params.post }
-				}
-			}
-		} catch (error) {
-			return {
-				status: 404,
-				error: error.message
-			}
-		}
-	}
-</script>
-
-
 <script>
-	export let PostContent
-	export let meta
-
+	export let data
+	const { PostContent, meta } = data
 	const { title, excerpt, date, updated, coverImage, coverWidth, coverHeight, categories } = meta
 
 	function normalizeDate(date) {

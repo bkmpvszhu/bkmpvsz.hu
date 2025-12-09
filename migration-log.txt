@@ -1,0 +1,5 @@
+BEFORE MIGRATION - Current State:
+- Build mode: Client-side routing (SPA)
+- Build size: 520M
+- HTML files: 1 (admin/index.html only)
+- Expected after migration: 200+ HTML files (static generation)
