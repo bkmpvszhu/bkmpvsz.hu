@@ -11,14 +11,16 @@
 
 
 <header>
-  <a on:click|preventDefault={focusMain} class="skip-to-content-link" href="#main">
+  <a onclick={(e) => { e.preventDefault(); focusMain(); }} class="skip-to-content-link" href="#main">
     Ugrás a tartalomra
   </a>
-  
+
+  <img src="/logo.png" alt="Katasztrófavédelem" class="logo" />
+
   <a href="/" class="site-title">
     {siteTitle}
   </a>
-  
+
   <HamburgerMenuButton />
   <MainNav />
 

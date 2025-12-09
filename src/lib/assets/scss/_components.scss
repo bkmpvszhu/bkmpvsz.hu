@@ -26,7 +26,8 @@
     }
 
     a {
-      background: var(--lightAccent);
+      background: rgba(66, 110, 76, 0.1);
+      color: var(--accent);
       text-decoration: none;
       line-height: 1;
       display: flex;
@@ -36,17 +37,23 @@
       height: 2em;
       font-family: var(--primaryFont);
       font-weight: bold;
-      transition: background .1s;
+      transition: all var(--transition-base);
+      border: 1px solid rgba(66, 110, 76, 0.3);
+      box-shadow: var(--shadow-sm);
 
       &:hover {
         background: var(--accent);
-        color: var(--background);
+        color: var(--white);
+        border-color: var(--accent);
+        box-shadow: var(--shadow-md);
+        transform: scale(1.05);
       }
 
       &[aria-current="true"] {
         background: var(--accent);
-        color: var(--background);
-        border: 1px solid currentColor;
+        color: var(--white);
+        border-color: var(--accent);
+        box-shadow: var(--shadow-sm);
       }
     }
 

@@ -1,84 +1,103 @@
 <script>
+	import { formatDate } from '$lib/utils/date'
 
-	export let posts = [];
-
-	const pinned = posts.filter(p => p.pinned)
-	const regularPosts = posts.filter(p => !p.pinned)
-
-	function normalizeDate(date) {
-		const d = new Date(date);
-		return d.toLocaleDateString('hu');
-	}
+	let { posts = [] } = $props()
 </script>
 
-<ul class="posts-list">
-	{#each pinned as post}
-		<li class="card">
-			<article class="pinned">
-				<!-- TODO Not ideal -->
-				{@html post.excerpt}
-			</article>
-		</li>
-	{/each}
+<div class="posts-list-container">
+	<ul class="posts-list">
+		{#each posts as post}
+			<!-- TODO This could be a component-->
+			<li class="card">
+				<article>
+					<a href="/blog/{post.slug}">
+						<img
+								src={post.coverImage}
+								alt=""
+								width={post.coverWidth}
+								height={post.coverHeight}
+								style="ratio: {post.coverWidth} / {post.coverHeight}"
+								class:scale-down="{post.scaleDown}"
+						/>
+						<h2>
+							{post.title}
+						</h2>
+						<span class="subtitle">{formatDate(post.date)}</span>
+					</a>
+				</article>
 
-	{#each regularPosts as post}
-		<!-- TODO This could be a component-->
-		<li class="card">
-			<article>
-				<a href="/blog/{post.slug}">
-					<img
-							src={post.coverImage}
-							alt=""
-							width={post.coverWidth}
-							height={post.coverHeight}
-							style="ratio: {post.coverWidth} / {post.coverHeight}"
-							class:scale-down="{post.scaleDown}"
-					/>
-					<h2>
-						{post.title}
-					</h2>
-					<span class="subtitle">{normalizeDate(post.date)}</span>
-				</a>
-			</article>
-
-			{#if post.excerpt}
-				<p>{post.excerpt}</p>
-			{/if}
-		</li>
-	{/each}
-</ul>
+				{#if post.excerpt}
+					<p>{post.excerpt}</p>
+				{/if}
+			</li>
+		{/each}
+	</ul>
+</div>
 
 <style>
-	.card {
-		/* Add shadows to create the "card" effect */
-		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-		transition: 0.3s;
-		padding: 1rem;
-		margin-bottom: 2rem;
-		border-radius: 15px;
-		background: white;
+	.posts-list-container {
+		@media (min-width: 768px) {
+			width: 100vw;
+			max-width: 60rem;
+			margin-left: 50%;
+			transform: translateX(-50%);
+			padding: 0 2rem;
+		}
+
+		@media (min-width: 1024px) {
+			max-width: 75rem;
+		}
+
+		@media (min-width: 1280px) {
+			max-width: 85rem;
+		}
 	}
 
-	/* On mouse-over, add a deeper shadow */
+	.posts-list {
+		list-style-type: none;
+		padding: 0;
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 2rem;
+
+		@media (min-width: 768px) {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+
+	.card {
+		box-shadow: var(--shadow-base);
+		transition: all var(--transition-base);
+		padding: 1rem;
+		border-radius: var(--radius-card);
+		background: white;
+		margin-bottom: 0;
+	}
+
 	.card:hover {
-		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+		box-shadow: var(--shadow-md);
+		transform: translateY(-2px);
 	}
 
 	img {
-		height: 400px;
 		width: 100%;
 		object-fit: cover;
+		height: 300px;
+
+		@media (min-width: 768px) {
+			height: 350px;
+		}
+
+		@media (min-width: 1024px) {
+			height: 400px;
+		}
 	}
 
 	a {
 		text-decoration: none;
 	}
 
-	.pinned {
-		text-align: justify;
-	}
-
-	.scale-down {
-		object-fit: scale-down !important;
+	img.scale-down {
+		object-fit: scale-down;
 	}
 </style>
