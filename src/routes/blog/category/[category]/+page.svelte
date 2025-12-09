@@ -4,7 +4,7 @@
 	import PostsList from '$lib/components/PostsList.svelte'
 
 	export let data
-	const { posts, category } = data
+	$: ({ posts, category } = data)
 
 	//TODO: unmaintainable...
 	function mapCategoryToTitle(category) {

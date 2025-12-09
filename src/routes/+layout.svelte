@@ -11,7 +11,7 @@
   const transitionOut = { duration: 100 }
 
   export let data
-  const { path } = data
+  $: ({ path } = data)
 
   /**
    * Updates the global store with the current path. (Used for highlighting
