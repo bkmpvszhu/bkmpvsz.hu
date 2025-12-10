@@ -33,14 +33,10 @@ img {
     margin-bottom: 1rem;
   }
 
-  box-shadow: var(--shadow-base);
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 2rem;
-  border-radius: var(--radius-card);
-  transition: box-shadow var(--transition-base);
-
-  &:hover {
-    box-shadow: var(--shadow-md);
-  }
+  border-radius: 15px;
 
   .meta {
     font-size: 0.8rem;
@@ -54,6 +50,23 @@ img {
 
 li {
   margin-bottom: 0.25rem;
+}
+
+.posts-list {
+  list-style-type: none;
+  padding: 0;
+
+  li {
+    margin-bottom: 6rem;
+  }
+
+  img + h2 {
+    margin-top: 1rem;
+  }
+
+  a {
+    display: block;
+  }
 }
 
 .post-footer { 

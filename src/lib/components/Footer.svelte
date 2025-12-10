@@ -1,5 +1,5 @@
 <script>
-	import { siteAuthor, contactInfo } from '$lib/config'
+	import { siteAuthor } from '$lib/config'
 	import Icon from '@iconify/svelte';
 </script>
 
@@ -10,39 +10,35 @@
 
 		<ul>
 			<li>
-				<Icon icon="lucide:map-pin"/>
-				<span> {contactInfo.address} </span>
-			</li>
-			{#each contactInfo.phones as phone}
-				<li>
-					<Icon icon="lucide:phone" />
-					<span>{phone}</span>
-				</li>
-			{/each}
-			<li>
-				<Icon icon="lucide:mail" />
-				<span>{contactInfo.email}</span>
+				<Icon icon="akar-icons:location"/>
+				<span> 6000 Kecskemét, Deák Ferenc tér 3 </span>
 			</li>
 			<li>
-				<Icon icon="lucide:user" />
-				<span>{contactInfo.president} elnök</span>
+				<Icon icon="eva:phone-call-outline" />
+				<span>+36/20-952-2306</span>
+			</li>
+			<li>
+				<Icon icon="eva:phone-call-outline" />
+				<span>+36/20-453-1728</span>
+			</li>
+			<li>
+				<Icon icon="carbon:email" />
+				<span>bkvpvsz@gmail.com</span>
+			</li>
+			<li>
+				<Icon icon="akar-icons:person" />
+				<span>Mészáros Zoltán elnök</span>
 			</li>
 		</ul>
 	</nav>
 
 	<ul>
-		<li>Bankszámlaszám: {contactInfo.bankAccount}</li>
-		<li>Adószám: {contactInfo.taxNumber}</li>
-		<li>Cégkapu: {contactInfo.companyGate}</li>
+		<li>Bankszámlaszám: 11732002-20414601</li>
+		<li>Adószám: 18367186-1-03</li>
+		<li>Cégkapu: 18367186</li>
 		<li>&copy;{new Date().getFullYear()} {siteAuthor}</li>
-		<li><a href="/pdfs/alapszabaly.pdf" rel=external>
-			<Icon icon="lucide:file-text" />
-			<span>Alapszabály</span>
-		</a></li>
-		<li><a href="/szamviteli-beszamolok" rel=external>
-			<Icon icon="lucide:folder-open" />
-			<span>Számviteli beszámolók</span>
-		</a></li>
+		<li><a href="/pdfs/alapszabaly.pdf" rel=external>Alapszabály</a></li>
+		<li><a href="/szamviteli-beszamolok" rel=external>Számviteli beszámolók</a></li>
 	</ul>
 
 </footer>
@@ -55,18 +51,5 @@
 
 	li > span {
 		margin-left: 6px;
-	}
-
-	a {
-		display: inline-flex;
-		align-items: center;
-		gap: 6px;
-		color: inherit;
-
-		&:hover {
-			text-decoration: underline;
-			color: inherit;
-			text-decoration-color: currentColor;
-		}
 	}
 </style>

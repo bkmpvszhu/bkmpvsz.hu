@@ -1,0 +1,2297 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-6166a937.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_preload-helper-ec9aa979.js",
+      "_singletons-4fc5a6de.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      "src/routes/__error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/szamviteli-beszamolok.svelte",
+      "src/routes/emlekplakett.svelte",
+      "src/routes/tamogatoink.svelte",
+      "src/routes/tarsoldalak.svelte",
+      "src/routes/magunkrol.svelte",
+      "src/routes/contact.svelte",
+      "src/routes/about.md",
+      "src/routes/blog/index.svelte",
+      "src/routes/blog/category/index.svelte",
+      "src/routes/blog/category/page/[page].svelte",
+      "src/routes/blog/category/[category]/index.svelte",
+      "src/routes/blog/category/[category]/page/index.svelte",
+      "src/routes/blog/category/[category]/page/[page].svelte",
+      "src/routes/blog/page/index.svelte",
+      "src/routes/blog/page/[page].svelte",
+      "src/routes/blog/[post].svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-c77b40f1.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_config-085cc7a9.js",
+      "_singletons-4fc5a6de.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-67ac58f0.css"
+    ]
+  },
+  "src/routes/__error.svelte": {
+    "file": "pages/__error.svelte-fe98fe84.js",
+    "src": "src/routes/__error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-92b1863e.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_Magunkrol-cff2d3ad.js"
+    ]
+  },
+  "src/routes/szamviteli-beszamolok.svelte": {
+    "file": "pages/szamviteli-beszamolok.svelte-27a64581.js",
+    "src": "src/routes/szamviteli-beszamolok.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ],
+    "css": [
+      "assets/pages/szamviteli-beszamolok.svelte-60b660be.css"
+    ]
+  },
+  "src/routes/emlekplakett.svelte": {
+    "file": "pages/emlekplakett.svelte-e8598dab.js",
+    "src": "src/routes/emlekplakett.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ],
+    "css": [
+      "assets/pages/emlekplakett.svelte-f9c0886c.css"
+    ]
+  },
+  "src/routes/tamogatoink.svelte": {
+    "file": "pages/tamogatoink.svelte-75e5ab5f.js",
+    "src": "src/routes/tamogatoink.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ],
+    "css": [
+      "assets/pages/tamogatoink.svelte-871f5a7c.css"
+    ]
+  },
+  "src/routes/tarsoldalak.svelte": {
+    "file": "pages/tarsoldalak.svelte-12aada53.js",
+    "src": "src/routes/tarsoldalak.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ],
+    "css": [
+      "assets/pages/tarsoldalak.svelte-724e29e1.css"
+    ]
+  },
+  "src/routes/magunkrol.svelte": {
+    "file": "pages/magunkrol.svelte-b0d89b76.js",
+    "src": "src/routes/magunkrol.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_Magunkrol-cff2d3ad.js"
+    ]
+  },
+  "src/routes/contact.svelte": {
+    "file": "pages/contact.svelte-201fea13.js",
+    "src": "src/routes/contact.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/about.md": {
+    "file": "pages/about.md-321a43d9.js",
+    "src": "src/routes/about.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/blog/index.svelte": {
+    "file": "pages/blog/index.svelte-f100471e.js",
+    "src": "src/routes/blog/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_PostsList-0ef38003.js",
+      "_Pagination-ebe72911.js",
+      "_config-085cc7a9.js"
+    ]
+  },
+  "src/routes/blog/category/index.svelte": {
+    "file": "pages/blog/category/index.svelte-1404a3a3.js",
+    "src": "src/routes/blog/category/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/blog/category/page/[page].svelte": {
+    "file": "pages/blog/category/page/_page_.svelte-5f01c8ef.js",
+    "src": "src/routes/blog/category/page/[page].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_fetchPosts-b5ead63b.js",
+      "_config-085cc7a9.js",
+      "_PostsList-0ef38003.js",
+      "_Pagination-ebe72911.js",
+      "_preload-helper-ec9aa979.js"
+    ]
+  },
+  "src/routes/blog/category/[category]/index.svelte": {
+    "file": "pages/blog/category/_category_/index.svelte-425ba6ef.js",
+    "src": "src/routes/blog/category/[category]/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_fetchPosts-b5ead63b.js",
+      "_PostsList-0ef38003.js",
+      "_preload-helper-ec9aa979.js",
+      "_config-085cc7a9.js"
+    ]
+  },
+  "src/routes/blog/category/[category]/page/index.svelte": {
+    "file": "pages/blog/category/_category_/page/index.svelte-0cf23ee0.js",
+    "src": "src/routes/blog/category/[category]/page/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/blog/category/[category]/page/[page].svelte": {
+    "file": "pages/blog/category/_category_/page/_page_.svelte-9fca84f6.js",
+    "src": "src/routes/blog/category/[category]/page/[page].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_fetchPosts-b5ead63b.js",
+      "_config-085cc7a9.js",
+      "_PostsList-0ef38003.js",
+      "_Pagination-ebe72911.js",
+      "_preload-helper-ec9aa979.js"
+    ]
+  },
+  "src/routes/blog/page/index.svelte": {
+    "file": "pages/blog/page/index.svelte-5bd19b91.js",
+    "src": "src/routes/blog/page/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/routes/blog/page/[page].svelte": {
+    "file": "pages/blog/page/_page_.svelte-11acbf1a.js",
+    "src": "src/routes/blog/page/[page].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_fetchPosts-b5ead63b.js",
+      "_config-085cc7a9.js",
+      "_PostsList-0ef38003.js",
+      "_Pagination-ebe72911.js",
+      "_preload-helper-ec9aa979.js"
+    ]
+  },
+  "src/routes/blog/[post].svelte": {
+    "file": "pages/blog/_post_.svelte-32df8f83.js",
+    "src": "src/routes/blog/[post].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_preload-helper-ec9aa979.js",
+      "_vendor-48b2defe.js"
+    ],
+    "dynamicImports": [
+      "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
+      "src/lib/posts/a-kalocsai-járás-wesselényi-önkéntes-mentőcsoport-sikeres-ismétlő-gyakorlata-hartán.md",
+      "src/lib/posts/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata.md",
+      "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
+      "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
+      "src/lib/posts/bajai-járás-önkéntes-mentőcsoport-gyakorlata.md",
+      "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md",
+      "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-2022-12-19.md",
+      "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola.md",
+      "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
+      "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye-1.md",
+      "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
+      "src/lib/posts/bajai-szentistváni-általános-iskola.md",
+      "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
+      "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md",
+      "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md",
+      "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md",
+      "src/lib/posts/bácsalmási-járás-önkéntes-mentőcsoport-gyakorlata.md",
+      "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md",
+      "src/lib/posts/bízhatunk-a-megye-fiataljaiban-2015-04-20.md",
+      "src/lib/posts/co-érzékelők-adományozása-2018-11-26.md",
+      "src/lib/posts/co-érzékelők-adományozása-2019-12-06.md",
+      "src/lib/posts/co-érzékelők-adományozása.md",
+      "src/lib/posts/covid-eleni-fellépés.md",
+      "src/lib/posts/csólyospálosi-általános-iskola-2023-11-22.md",
+      "src/lib/posts/drog-prevenciós-előadás-a-tassi-könyvtárban-2023-02-27.md",
+      "src/lib/posts/dunavecse-petőfi-sándor-általános-iskola.md",
+      "src/lib/posts/dékáni-árpád-szakgimnázium-és-szakközépiskola-kiskunhalas-2023-12-12.md",
+      "src/lib/posts/együttműködés-a-honvédséggel.md",
+      "src/lib/posts/együttműködés-és-hagyományápolás.md",
+      "src/lib/posts/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27.md",
+      "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
+      "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
+      "src/lib/posts/gyakorlatoztak-a-tüzes-kunok-2023-04-30.md",
+      "src/lib/posts/gyászhír-1.md",
+      "src/lib/posts/gyászhír-2.md",
+      "src/lib/posts/gyászhír.md",
+      "src/lib/posts/haditornaversenyt-rendeztek-ballószögön-2023-09-27.md",
+      "src/lib/posts/hirek-2021-01-15.md",
+      "src/lib/posts/hirek-2021-06-29.md",
+      "src/lib/posts/hirek-2021-06-30.md",
+      "src/lib/posts/hirek-2021-09-24.md",
+      "src/lib/posts/hirek-2021-11-01.md",
+      "src/lib/posts/hirek-2021-11-15.md",
+      "src/lib/posts/három-település-összevont-felkészítése.md",
+      "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
+      "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-1.md",
+      "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-2023-12-12.md",
+      "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas.md",
+      "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
+      "src/lib/posts/járási-katasztrófavédelmi-ifjúsági-verseny-kalocsán-2023-10-10.md",
+      "src/lib/posts/járási-mentőcsoportok-továbbképzése-kiskunhalason.md",
+      "src/lib/posts/járási-mentőcsoportok-újraminősítő-gyakorlata-kiskunhalason.md",
+      "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
+      "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
+      "src/lib/posts/jódtabletta-kiosztási-gyakorlat-1.md",
+      "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md",
+      "src/lib/posts/jódtabletta-kiosztási-gyakorlat.md",
+      "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
+      "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
+      "src/lib/posts/katasztrófavédelmi-gyermektábor-2025-baja.md",
+      "src/lib/posts/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2018-04-11.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2019-04-11.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-baján.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-kiskunhalason.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12.md",
+      "src/lib/posts/katasztrófavédelmi-tábor-baján-2017-06-26-30.md",
+      "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md",
+      "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
+      "src/lib/posts/kecskeméti-mikulás-fekvenyomó-kupa-2023-12-05.md",
+      "src/lib/posts/kecskeméti-piarista-gimnázium-2019-09-27.md",
+      "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md",
+      "src/lib/posts/kecskeméti-református-gimnázium-2019-09-17.md",
+      "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
+      "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola-2023-04-03.md",
+      "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md",
+      "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum-2023-04-04.md",
+      "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
+      "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum-2023-04-03.md",
+      "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum.md",
+      "src/lib/posts/kecskeméti-szc-kada-elek-technikum-2023-04-04.md",
+      "src/lib/posts/kecskeméti-szc-kada-elek-technikum.md",
+      "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum-2023-04-03.md",
+      "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum.md",
+      "src/lib/posts/kecskeméti-szc-szent-györgyi-albert-technikum.md",
+      "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2020-09-17.md",
+      "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2021-11-04.md",
+      "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2023-04-04.md",
+      "src/lib/posts/kecskeméti-szc-virágh-gedeon-technikum-kunszentmiklós.md",
+      "src/lib/posts/kecskeméti-tóth-lászló-általános-iskola-2021-10-21.md",
+      "src/lib/posts/kepzesek-2017-11-24.md",
+      "src/lib/posts/kepzesek-2017-11-24_2.md",
+      "src/lib/posts/kepzesek-2017-11-25.md",
+      "src/lib/posts/kepzesek-2017-12-08.md",
+      "src/lib/posts/kepzesek-2018-05-13.md",
+      "src/lib/posts/kepzesek-2018-05-31.md",
+      "src/lib/posts/kepzesek-2018-11-11.md",
+      "src/lib/posts/kepzesek-2018-11-26.md",
+      "src/lib/posts/kepzesek-2019-02-05.md",
+      "src/lib/posts/kepzesek-2019-05-10.md",
+      "src/lib/posts/kepzesek-2019-06-01.md",
+      "src/lib/posts/kepzesek-2019-06-22.md",
+      "src/lib/posts/kepzesek-2019-11-18.md",
+      "src/lib/posts/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19.md",
+      "src/lib/posts/kiskunhalasi-bibó-istván-gimnázium-2022-12-01.md",
+      "src/lib/posts/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01.md",
+      "src/lib/posts/kiskunhalasi-református-kollégium-szilády-áron-gimnázium-és-kollégium-2022-12-01.md",
+      "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-techmikum.md",
+      "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-technikum.md",
+      "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md",
+      "src/lib/posts/kiskunmajsa-2016-04-27.md",
+      "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
+      "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
+      "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola-2022-10-17.md",
+      "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola.md",
+      "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
+      "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
+      "src/lib/posts/kiskunmajsai-móra-ferenc-álralános-iskola.md",
+      "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
+      "src/lib/posts/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18.md",
+      "src/lib/posts/krk-központi-általános-iskola-gy-szabó-béla-tagiskolája-szank-2023-11-22.md",
+      "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10.md",
+      "src/lib/posts/kunszentmiklós-baksay-sándor-református-gimnázium-és-általános-iskola-2023-09-22.md",
+      "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
+      "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
+      "src/lib/posts/közbiztonsági-referensek-alapképzése-kecskeméten.md",
+      "src/lib/posts/közbiztonsági-referensek-képzése-1.md",
+      "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
+      "src/lib/posts/közbiztonsági-referensek-képzése.md",
+      "src/lib/posts/közbiztonsági-referensek-értekezlete.md",
+      "src/lib/posts/közbiztonsági-referenssek-képzése.md",
+      "src/lib/posts/közgyűlés-2019-04-26.md",
+      "src/lib/posts/középiskolások-feszültek-egymásnak-a-kecskeméti-mikulás-fekvenyomó-kupán.md",
+      "src/lib/posts/közös-rendezvény-a-honvédség-népszerűsítéséért-2022-12-05.md",
+      "src/lib/posts/közös-összefogás-a-rászorultak-védelméért.md",
+      "src/lib/posts/közös-ünnepség-a-nemzetközi-polgári-védelem-nap-alkalmából.md",
+      "src/lib/posts/külső-védelmi-tervgyakorlatot-kiskunhalason-2016-11-23.md",
+      "src/lib/posts/meghívó-2023-03-01.md",
+      "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére-1.md",
+      "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére.md",
+      "src/lib/posts/megnyílt-a-bajai-ifjúsági-tábor-2019-07-01.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség-1.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség.md",
+      "src/lib/posts/megyei-járási-és-települési-mentőcsoportok-gyakorlata-2016-05-18-19.md",
+      "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
+      "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
+      "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-1.md",
+      "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28.md",
+      "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja.md",
+      "src/lib/posts/március-1-a-polgári-védelem-világnapja.md",
+      "src/lib/posts/móra-járási-mentőcsoport-gyakorlata-2018-06-19.md",
+      "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
+      "src/lib/posts/móra-mentőcsoport-újraminősítő-gyakorlata-2023-09-15.md",
+      "src/lib/posts/nemzeti-minősítő-gyakorlat-kunszentmiklóson-2023-05-31.md",
+      "src/lib/posts/nemzeti-minősítő-gyakorlat-zajlott-dunavecsén-2023-04-25.md",
+      "src/lib/posts/nemzetközi-polgári-védelmi-nap-2017-03-01.md",
+      "src/lib/posts/nemzetközi-polgári-védelmi-nap-2018-03-01.md",
+      "src/lib/posts/nemzetközi-polgári-védelmi-nap-2019-03-01.md",
+      "src/lib/posts/nemzetközi-tudományos-konferencia-a-katasztrófák-csökkentésének-világnapja-alkalmából.md",
+      "src/lib/posts/nemzetközi-tábor-bajmok-2018-06-26-29.md",
+      "src/lib/posts/nemzetközi-tábor-dombrádon-2017-08-04-7.md",
+      "src/lib/posts/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
+      "src/lib/posts/négy-éve-népszerű-a-tábor.md",
+      "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md",
+      "src/lib/posts/petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2017-04-25-27.md",
+      "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md",
+      "src/lib/posts/polgári-védelmi-szervezetek-képzése.md",
+      "src/lib/posts/polgármesteri-fórum-2017-11-23.md",
+      "src/lib/posts/prevencio-pinned.md",
+      "src/lib/posts/példaértékű-összefogás-2020-12-05.md",
+      "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
+      "src/lib/posts/segítség-a-bajban.md",
+      "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md",
+      "src/lib/posts/szakkiképzés-nemesnádudvaron-2022-06-16.md",
+      "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
+      "src/lib/posts/szalkszentmárton-petőfi-sándor-általános-iskola.md",
+      "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
+      "src/lib/posts/szentisváni-általános-iskola-baja.md",
+      "src/lib/posts/szja-1-1.md",
+      "src/lib/posts/szja-1.md",
+      "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
+      "src/lib/posts/tass-könyvtár-2023-09-22.md",
+      "src/lib/posts/tass-községi-könyvtár.md",
+      "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md",
+      "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md",
+      "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
+      "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
+      "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium.md",
+      "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
+      "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md",
+      "src/lib/posts/vezetőségi-ülés-2022-12-09.md",
+      "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium-kiskunhalas.md",
+      "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium.md",
+      "src/lib/posts/vári-szabó-istván-szakképző-iskola-és-kollégium-kiskunhalas-2023-12-12.md",
+      "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md"
+    ],
+    "css": [
+      "assets/pages/blog/_post_.svelte-528b6a6d.css"
+    ]
+  },
+  "_vendor-48b2defe.js": {
+    "file": "chunks/vendor-48b2defe.js"
+  },
+  "_singletons-4fc5a6de.js": {
+    "file": "chunks/singletons-4fc5a6de.js"
+  },
+  "_preload-helper-ec9aa979.js": {
+    "file": "chunks/preload-helper-ec9aa979.js"
+  },
+  "_config-085cc7a9.js": {
+    "file": "chunks/config-085cc7a9.js"
+  },
+  "_Magunkrol-cff2d3ad.js": {
+    "file": "chunks/Magunkrol-cff2d3ad.js",
+    "imports": [
+      "_vendor-48b2defe.js"
+    ],
+    "css": [
+      "assets/Magunkrol-6dc2b9b0.css"
+    ]
+  },
+  "_PostsList-0ef38003.js": {
+    "file": "chunks/PostsList-0ef38003.js",
+    "imports": [
+      "_vendor-48b2defe.js"
+    ],
+    "css": [
+      "assets/PostsList-c7e22639.css"
+    ]
+  },
+  "_Pagination-ebe72911.js": {
+    "file": "chunks/Pagination-ebe72911.js",
+    "imports": [
+      "_vendor-48b2defe.js",
+      "_config-085cc7a9.js"
+    ]
+  },
+  "_fetchPosts-b5ead63b.js": {
+    "file": "chunks/fetchPosts-b5ead63b.js",
+    "imports": [
+      "_preload-helper-ec9aa979.js",
+      "_config-085cc7a9.js"
+    ],
+    "dynamicImports": [
+      "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
+      "src/lib/posts/a-kalocsai-járás-wesselényi-önkéntes-mentőcsoport-sikeres-ismétlő-gyakorlata-hartán.md",
+      "src/lib/posts/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata.md",
+      "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
+      "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
+      "src/lib/posts/bajai-járás-önkéntes-mentőcsoport-gyakorlata.md",
+      "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md",
+      "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-2022-12-19.md",
+      "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola.md",
+      "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
+      "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye-1.md",
+      "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
+      "src/lib/posts/bajai-szentistváni-általános-iskola.md",
+      "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
+      "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md",
+      "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md",
+      "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md",
+      "src/lib/posts/bácsalmási-járás-önkéntes-mentőcsoport-gyakorlata.md",
+      "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md",
+      "src/lib/posts/bízhatunk-a-megye-fiataljaiban-2015-04-20.md",
+      "src/lib/posts/co-érzékelők-adományozása-2018-11-26.md",
+      "src/lib/posts/co-érzékelők-adományozása-2019-12-06.md",
+      "src/lib/posts/co-érzékelők-adományozása.md",
+      "src/lib/posts/covid-eleni-fellépés.md",
+      "src/lib/posts/csólyospálosi-általános-iskola-2023-11-22.md",
+      "src/lib/posts/drog-prevenciós-előadás-a-tassi-könyvtárban-2023-02-27.md",
+      "src/lib/posts/dunavecse-petőfi-sándor-általános-iskola.md",
+      "src/lib/posts/dékáni-árpád-szakgimnázium-és-szakközépiskola-kiskunhalas-2023-12-12.md",
+      "src/lib/posts/együttműködés-a-honvédséggel.md",
+      "src/lib/posts/együttműködés-és-hagyományápolás.md",
+      "src/lib/posts/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27.md",
+      "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
+      "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
+      "src/lib/posts/gyakorlatoztak-a-tüzes-kunok-2023-04-30.md",
+      "src/lib/posts/gyászhír-1.md",
+      "src/lib/posts/gyászhír-2.md",
+      "src/lib/posts/gyászhír.md",
+      "src/lib/posts/haditornaversenyt-rendeztek-ballószögön-2023-09-27.md",
+      "src/lib/posts/hirek-2021-01-15.md",
+      "src/lib/posts/hirek-2021-06-29.md",
+      "src/lib/posts/hirek-2021-06-30.md",
+      "src/lib/posts/hirek-2021-09-24.md",
+      "src/lib/posts/hirek-2021-11-01.md",
+      "src/lib/posts/hirek-2021-11-15.md",
+      "src/lib/posts/három-település-összevont-felkészítése.md",
+      "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
+      "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-1.md",
+      "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-2023-12-12.md",
+      "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas.md",
+      "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
+      "src/lib/posts/járási-katasztrófavédelmi-ifjúsági-verseny-kalocsán-2023-10-10.md",
+      "src/lib/posts/járási-mentőcsoportok-továbbképzése-kiskunhalason.md",
+      "src/lib/posts/járási-mentőcsoportok-újraminősítő-gyakorlata-kiskunhalason.md",
+      "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
+      "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
+      "src/lib/posts/jódtabletta-kiosztási-gyakorlat-1.md",
+      "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md",
+      "src/lib/posts/jódtabletta-kiosztási-gyakorlat.md",
+      "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
+      "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
+      "src/lib/posts/katasztrófavédelmi-gyermektábor-2025-baja.md",
+      "src/lib/posts/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2018-04-11.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2019-04-11.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-baján.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-kiskunhalason.md",
+      "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12.md",
+      "src/lib/posts/katasztrófavédelmi-tábor-baján-2017-06-26-30.md",
+      "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md",
+      "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
+      "src/lib/posts/kecskeméti-mikulás-fekvenyomó-kupa-2023-12-05.md",
+      "src/lib/posts/kecskeméti-piarista-gimnázium-2019-09-27.md",
+      "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md",
+      "src/lib/posts/kecskeméti-református-gimnázium-2019-09-17.md",
+      "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
+      "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola-2023-04-03.md",
+      "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md",
+      "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum-2023-04-04.md",
+      "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
+      "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum-2023-04-03.md",
+      "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum.md",
+      "src/lib/posts/kecskeméti-szc-kada-elek-technikum-2023-04-04.md",
+      "src/lib/posts/kecskeméti-szc-kada-elek-technikum.md",
+      "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum-2023-04-03.md",
+      "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum.md",
+      "src/lib/posts/kecskeméti-szc-szent-györgyi-albert-technikum.md",
+      "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2020-09-17.md",
+      "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2021-11-04.md",
+      "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2023-04-04.md",
+      "src/lib/posts/kecskeméti-szc-virágh-gedeon-technikum-kunszentmiklós.md",
+      "src/lib/posts/kecskeméti-tóth-lászló-általános-iskola-2021-10-21.md",
+      "src/lib/posts/kepzesek-2017-11-24.md",
+      "src/lib/posts/kepzesek-2017-11-24_2.md",
+      "src/lib/posts/kepzesek-2017-11-25.md",
+      "src/lib/posts/kepzesek-2017-12-08.md",
+      "src/lib/posts/kepzesek-2018-05-13.md",
+      "src/lib/posts/kepzesek-2018-05-31.md",
+      "src/lib/posts/kepzesek-2018-11-11.md",
+      "src/lib/posts/kepzesek-2018-11-26.md",
+      "src/lib/posts/kepzesek-2019-02-05.md",
+      "src/lib/posts/kepzesek-2019-05-10.md",
+      "src/lib/posts/kepzesek-2019-06-01.md",
+      "src/lib/posts/kepzesek-2019-06-22.md",
+      "src/lib/posts/kepzesek-2019-11-18.md",
+      "src/lib/posts/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19.md",
+      "src/lib/posts/kiskunhalasi-bibó-istván-gimnázium-2022-12-01.md",
+      "src/lib/posts/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01.md",
+      "src/lib/posts/kiskunhalasi-református-kollégium-szilády-áron-gimnázium-és-kollégium-2022-12-01.md",
+      "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-techmikum.md",
+      "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-technikum.md",
+      "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md",
+      "src/lib/posts/kiskunmajsa-2016-04-27.md",
+      "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
+      "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
+      "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola-2022-10-17.md",
+      "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola.md",
+      "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
+      "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
+      "src/lib/posts/kiskunmajsai-móra-ferenc-álralános-iskola.md",
+      "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
+      "src/lib/posts/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18.md",
+      "src/lib/posts/krk-központi-általános-iskola-gy-szabó-béla-tagiskolája-szank-2023-11-22.md",
+      "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10.md",
+      "src/lib/posts/kunszentmiklós-baksay-sándor-református-gimnázium-és-általános-iskola-2023-09-22.md",
+      "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
+      "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
+      "src/lib/posts/közbiztonsági-referensek-alapképzése-kecskeméten.md",
+      "src/lib/posts/közbiztonsági-referensek-képzése-1.md",
+      "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
+      "src/lib/posts/közbiztonsági-referensek-képzése.md",
+      "src/lib/posts/közbiztonsági-referensek-értekezlete.md",
+      "src/lib/posts/közbiztonsági-referenssek-képzése.md",
+      "src/lib/posts/közgyűlés-2019-04-26.md",
+      "src/lib/posts/középiskolások-feszültek-egymásnak-a-kecskeméti-mikulás-fekvenyomó-kupán.md",
+      "src/lib/posts/közös-rendezvény-a-honvédség-népszerűsítéséért-2022-12-05.md",
+      "src/lib/posts/közös-összefogás-a-rászorultak-védelméért.md",
+      "src/lib/posts/közös-ünnepség-a-nemzetközi-polgári-védelem-nap-alkalmából.md",
+      "src/lib/posts/külső-védelmi-tervgyakorlatot-kiskunhalason-2016-11-23.md",
+      "src/lib/posts/meghívó-2023-03-01.md",
+      "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére-1.md",
+      "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére.md",
+      "src/lib/posts/megnyílt-a-bajai-ifjúsági-tábor-2019-07-01.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség-1.md",
+      "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség.md",
+      "src/lib/posts/megyei-járási-és-települési-mentőcsoportok-gyakorlata-2016-05-18-19.md",
+      "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
+      "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
+      "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-1.md",
+      "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28.md",
+      "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja.md",
+      "src/lib/posts/március-1-a-polgári-védelem-világnapja.md",
+      "src/lib/posts/móra-járási-mentőcsoport-gyakorlata-2018-06-19.md",
+      "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
+      "src/lib/posts/móra-mentőcsoport-újraminősítő-gyakorlata-2023-09-15.md",
+      "src/lib/posts/nemzeti-minősítő-gyakorlat-kunszentmiklóson-2023-05-31.md",
+      "src/lib/posts/nemzeti-minősítő-gyakorlat-zajlott-dunavecsén-2023-04-25.md",
+      "src/lib/posts/nemzetközi-polgári-védelmi-nap-2017-03-01.md",
+      "src/lib/posts/nemzetközi-polgári-védelmi-nap-2018-03-01.md",
+      "src/lib/posts/nemzetközi-polgári-védelmi-nap-2019-03-01.md",
+      "src/lib/posts/nemzetközi-tudományos-konferencia-a-katasztrófák-csökkentésének-világnapja-alkalmából.md",
+      "src/lib/posts/nemzetközi-tábor-bajmok-2018-06-26-29.md",
+      "src/lib/posts/nemzetközi-tábor-dombrádon-2017-08-04-7.md",
+      "src/lib/posts/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
+      "src/lib/posts/négy-éve-népszerű-a-tábor.md",
+      "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md",
+      "src/lib/posts/petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2017-04-25-27.md",
+      "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md",
+      "src/lib/posts/polgári-védelmi-szervezetek-képzése.md",
+      "src/lib/posts/polgármesteri-fórum-2017-11-23.md",
+      "src/lib/posts/prevencio-pinned.md",
+      "src/lib/posts/példaértékű-összefogás-2020-12-05.md",
+      "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
+      "src/lib/posts/segítség-a-bajban.md",
+      "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md",
+      "src/lib/posts/szakkiképzés-nemesnádudvaron-2022-06-16.md",
+      "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
+      "src/lib/posts/szalkszentmárton-petőfi-sándor-általános-iskola.md",
+      "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
+      "src/lib/posts/szentisváni-általános-iskola-baja.md",
+      "src/lib/posts/szja-1-1.md",
+      "src/lib/posts/szja-1.md",
+      "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
+      "src/lib/posts/tass-könyvtár-2023-09-22.md",
+      "src/lib/posts/tass-községi-könyvtár.md",
+      "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md",
+      "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md",
+      "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
+      "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
+      "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium.md",
+      "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
+      "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md",
+      "src/lib/posts/vezetőségi-ülés-2022-12-09.md",
+      "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium-kiskunhalas.md",
+      "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium.md",
+      "src/lib/posts/vári-szabó-istván-szakképző-iskola-és-kollégium-kiskunhalas-2023-12-12.md",
+      "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md"
+    ]
+  },
+  "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md": {
+    "file": "chunks/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-e44098d8.js",
+    "src": "src/lib/posts/a-bács-kiskun-megyei-petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/a-kalocsai-járás-wesselényi-önkéntes-mentőcsoport-sikeres-ismétlő-gyakorlata-hartán.md": {
+    "file": "chunks/a-kalocsai-járás-wesselényi-önkéntes-mentőcsoport-sikeres-ismétlő-gyakorlata-hartán-c7ff20ac.js",
+    "src": "src/lib/posts/a-kalocsai-járás-wesselényi-önkéntes-mentőcsoport-sikeres-ismétlő-gyakorlata-hartán.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata.md": {
+    "file": "chunks/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata-c618921d.js",
+    "src": "src/lib/posts/a-tiszakécskei-járási-mentőcsoport-minősítő-gyakorlata.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/adomány-ukrajnába-2022-11-07.md": {
+    "file": "chunks/adomány-ukrajnába-2022-11-07-26fcdf4f.js",
+    "src": "src/lib/posts/adomány-ukrajnába-2022-11-07.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md": {
+    "file": "chunks/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése-e3552737.js",
+    "src": "src/lib/posts/baja-települési-köteles-polgári-védelmi-szervezet-parancsnokság-továbbképzése.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-járás-önkéntes-mentőcsoport-gyakorlata.md": {
+    "file": "chunks/bajai-járás-önkéntes-mentőcsoport-gyakorlata-8a162a21.js",
+    "src": "src/lib/posts/bajai-járás-önkéntes-mentőcsoport-gyakorlata.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md": {
+    "file": "chunks/bajai-katazstrófavédelmi-ifjúsági-verseny-09ac1891.js",
+    "src": "src/lib/posts/bajai-katazstrófavédelmi-ifjúsági-verseny.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-2022-12-19.md": {
+    "file": "chunks/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-2022-12-19-d934b22a.js",
+    "src": "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-2022-12-19.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola.md": {
+    "file": "chunks/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola-be7584e2.js",
+    "src": "src/lib/posts/bajai-szc-bányai-júlia-technikum-és-szakképző-iskola.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md": {
+    "file": "chunks/bajai-szc-türr-istván-technikum-2022-12-19-19591439.js",
+    "src": "src/lib/posts/bajai-szc-türr-istván-technikum-2022-12-19.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye-1.md": {
+    "file": "chunks/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye-1-9d0d76e1.js",
+    "src": "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md": {
+    "file": "chunks/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye-27de4b0b.js",
+    "src": "src/lib/posts/bajai-szentistváni-általános-iskola-csávolyi-tagintézménye.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bajai-szentistváni-általános-iskola.md": {
+    "file": "chunks/bajai-szentistváni-általános-iskola-3fbe5c2c.js",
+    "src": "src/lib/posts/bajai-szentistváni-általános-iskola.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md": {
+    "file": "chunks/bevetésen-a-tüzes-kunok-járási-mentőcsoport-9cb917dc.js",
+    "src": "src/lib/posts/bevetésen-a-tüzes-kunok-járási-mentőcsoport.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md": {
+    "file": "chunks/bizovaci-találkozó-2016-08-04-07-92911610.js",
+    "src": "src/lib/posts/bizovaci-találkozó-2016-08-04-07.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md": {
+    "file": "chunks/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31-8991fcfe.js",
+    "src": "src/lib/posts/bács-kiskun-megyei-polgári-védelmi-szövetség-nemzetközi-nyári-tábora-baján-2022-07-27-31.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md": {
+    "file": "chunks/bács-megyei-gyerekek-szlovéniában-2019-07-25-28-73f54ce2.js",
+    "src": "src/lib/posts/bács-megyei-gyerekek-szlovéniában-2019-07-25-28.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bácsalmási-járás-önkéntes-mentőcsoport-gyakorlata.md": {
+    "file": "chunks/bácsalmási-járás-önkéntes-mentőcsoport-gyakorlata-68414b36.js",
+    "src": "src/lib/posts/bácsalmási-járás-önkéntes-mentőcsoport-gyakorlata.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md": {
+    "file": "chunks/bányai-júlia-gimnázium-2020-09-29-27dcdb15.js",
+    "src": "src/lib/posts/bányai-júlia-gimnázium-2020-09-29.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/bízhatunk-a-megye-fiataljaiban-2015-04-20.md": {
+    "file": "chunks/bízhatunk-a-megye-fiataljaiban-2015-04-20-00b423d0.js",
+    "src": "src/lib/posts/bízhatunk-a-megye-fiataljaiban-2015-04-20.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/co-érzékelők-adományozása-2018-11-26.md": {
+    "file": "chunks/co-érzékelők-adományozása-2018-11-26-4bcdd5af.js",
+    "src": "src/lib/posts/co-érzékelők-adományozása-2018-11-26.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/co-érzékelők-adományozása-2019-12-06.md": {
+    "file": "chunks/co-érzékelők-adományozása-2019-12-06-fe61318d.js",
+    "src": "src/lib/posts/co-érzékelők-adományozása-2019-12-06.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/co-érzékelők-adományozása.md": {
+    "file": "chunks/co-érzékelők-adományozása-4bf0d3cb.js",
+    "src": "src/lib/posts/co-érzékelők-adományozása.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/covid-eleni-fellépés.md": {
+    "file": "chunks/covid-eleni-fellépés-ab52c39f.js",
+    "src": "src/lib/posts/covid-eleni-fellépés.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/csólyospálosi-általános-iskola-2023-11-22.md": {
+    "file": "chunks/csólyospálosi-általános-iskola-2023-11-22-4badc4d4.js",
+    "src": "src/lib/posts/csólyospálosi-általános-iskola-2023-11-22.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/drog-prevenciós-előadás-a-tassi-könyvtárban-2023-02-27.md": {
+    "file": "chunks/drog-prevenciós-előadás-a-tassi-könyvtárban-2023-02-27-659e158e.js",
+    "src": "src/lib/posts/drog-prevenciós-előadás-a-tassi-könyvtárban-2023-02-27.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/dunavecse-petőfi-sándor-általános-iskola.md": {
+    "file": "chunks/dunavecse-petőfi-sándor-általános-iskola-ddc1d9ac.js",
+    "src": "src/lib/posts/dunavecse-petőfi-sándor-általános-iskola.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/dékáni-árpád-szakgimnázium-és-szakközépiskola-kiskunhalas-2023-12-12.md": {
+    "file": "chunks/dékáni-árpád-szakgimnázium-és-szakközépiskola-kiskunhalas-2023-12-12-7e222495.js",
+    "src": "src/lib/posts/dékáni-árpád-szakgimnázium-és-szakközépiskola-kiskunhalas-2023-12-12.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/együttműködés-a-honvédséggel.md": {
+    "file": "chunks/együttműködés-a-honvédséggel-53b852bb.js",
+    "src": "src/lib/posts/együttműködés-a-honvédséggel.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/együttműködés-és-hagyományápolás.md": {
+    "file": "chunks/együttműködés-és-hagyományápolás-f5497721.js",
+    "src": "src/lib/posts/együttműködés-és-hagyományápolás.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27.md": {
+    "file": "chunks/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27-42506874.js",
+    "src": "src/lib/posts/ezüstérem-került-a-kiskunmajsai-diákok-nyakába-2016-04-27.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md": {
+    "file": "chunks/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19-447949ce.js",
+    "src": "src/lib/posts/felső-bácskai-önkéntes-mentőcsoport-végrehajtotta-éves-ismétlő-gyakorlatát-2021-06-19.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md": {
+    "file": "chunks/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26-550815d1.js",
+    "src": "src/lib/posts/gyakorlatozott-a-felső-bácskai-önkéntes-mentőcsoport-2018-05-26.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/gyakorlatoztak-a-tüzes-kunok-2023-04-30.md": {
+    "file": "chunks/gyakorlatoztak-a-tüzes-kunok-2023-04-30-7b0f2d4c.js",
+    "src": "src/lib/posts/gyakorlatoztak-a-tüzes-kunok-2023-04-30.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/gyászhír-1.md": {
+    "file": "chunks/gyászhír-1-ea3f8ae9.js",
+    "src": "src/lib/posts/gyászhír-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/gyászhír-2.md": {
+    "file": "chunks/gyászhír-2-6c439b56.js",
+    "src": "src/lib/posts/gyászhír-2.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/gyászhír.md": {
+    "file": "chunks/gyászhír-5803cf9c.js",
+    "src": "src/lib/posts/gyászhír.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/haditornaversenyt-rendeztek-ballószögön-2023-09-27.md": {
+    "file": "chunks/haditornaversenyt-rendeztek-ballószögön-2023-09-27-8f1abc0c.js",
+    "src": "src/lib/posts/haditornaversenyt-rendeztek-ballószögön-2023-09-27.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-01-15.md": {
+    "file": "chunks/hirek-2021-01-15-b1c825f4.js",
+    "src": "src/lib/posts/hirek-2021-01-15.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-06-29.md": {
+    "file": "chunks/hirek-2021-06-29-c7ccb708.js",
+    "src": "src/lib/posts/hirek-2021-06-29.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-06-30.md": {
+    "file": "chunks/hirek-2021-06-30-fc353535.js",
+    "src": "src/lib/posts/hirek-2021-06-30.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-09-24.md": {
+    "file": "chunks/hirek-2021-09-24-d5015a8d.js",
+    "src": "src/lib/posts/hirek-2021-09-24.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-11-01.md": {
+    "file": "chunks/hirek-2021-11-01-23cecf02.js",
+    "src": "src/lib/posts/hirek-2021-11-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/hirek-2021-11-15.md": {
+    "file": "chunks/hirek-2021-11-15-fe9ecf53.js",
+    "src": "src/lib/posts/hirek-2021-11-15.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/három-település-összevont-felkészítése.md": {
+    "file": "chunks/három-település-összevont-felkészítése-77b35b92.js",
+    "src": "src/lib/posts/három-település-összevont-felkészítése.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md": {
+    "file": "chunks/ifjúsági-tábor-a-szilágyságban-afc53056.js",
+    "src": "src/lib/posts/ifjúsági-tábor-a-szilágyságban.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-1.md": {
+    "file": "chunks/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-1-c9e4f474.js",
+    "src": "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-2023-12-12.md": {
+    "file": "chunks/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-2023-12-12-a52490d6.js",
+    "src": "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-2023-12-12.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas.md": {
+    "file": "chunks/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas-7c0c9618.js",
+    "src": "src/lib/posts/ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-kiskunhalas.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md": {
+    "file": "chunks/iii-béla-gimnázium-baja-2018-12-13-7aa244cd.js",
+    "src": "src/lib/posts/iii-béla-gimnázium-baja-2018-12-13.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/járási-katasztrófavédelmi-ifjúsági-verseny-kalocsán-2023-10-10.md": {
+    "file": "chunks/járási-katasztrófavédelmi-ifjúsági-verseny-kalocsán-2023-10-10-73771dc5.js",
+    "src": "src/lib/posts/járási-katasztrófavédelmi-ifjúsági-verseny-kalocsán-2023-10-10.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/járási-mentőcsoportok-továbbképzése-kiskunhalason.md": {
+    "file": "chunks/járási-mentőcsoportok-továbbképzése-kiskunhalason-71879bb0.js",
+    "src": "src/lib/posts/járási-mentőcsoportok-továbbképzése-kiskunhalason.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/járási-mentőcsoportok-újraminősítő-gyakorlata-kiskunhalason.md": {
+    "file": "chunks/járási-mentőcsoportok-újraminősítő-gyakorlata-kiskunhalason-57be4f27.js",
+    "src": "src/lib/posts/járási-mentőcsoportok-újraminősítő-gyakorlata-kiskunhalason.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md": {
+    "file": "chunks/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30-36446f47.js",
+    "src": "src/lib/posts/jászszentlászló-és-szank-települési-önkéntes-mentőcsoportok-éves-szinten-tartó-gyakorlata-2017-05-30.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md": {
+    "file": "chunks/jódtabletta-gyakorlat-2022-06-08-b5893168.js",
+    "src": "src/lib/posts/jódtabletta-gyakorlat-2022-06-08.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/jódtabletta-kiosztási-gyakorlat-1.md": {
+    "file": "chunks/jódtabletta-kiosztási-gyakorlat-1-87986f72.js",
+    "src": "src/lib/posts/jódtabletta-kiosztási-gyakorlat-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md": {
+    "file": "chunks/jódtabletta-kiosztási-gyakorlat-2023-03-31-aae14517.js",
+    "src": "src/lib/posts/jódtabletta-kiosztási-gyakorlat-2023-03-31.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/jódtabletta-kiosztási-gyakorlat.md": {
+    "file": "chunks/jódtabletta-kiosztási-gyakorlat-6b9168a0.js",
+    "src": "src/lib/posts/jódtabletta-kiosztási-gyakorlat.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md": {
+    "file": "chunks/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27-44a053ea.js",
+    "src": "src/lib/posts/katasztrófavédelmi-gyakorlat-csengődön-2017-10-27.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md": {
+    "file": "chunks/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09-1494d0e3.js",
+    "src": "src/lib/posts/katasztrófavédelmi-gyakorlat-kecelen-2018-03-09.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-gyermektábor-2025-baja.md": {
+    "file": "chunks/katasztrófavédelmi-gyermektábor-2025-baja-40d22e32.js",
+    "src": "src/lib/posts/katasztrófavédelmi-gyermektábor-2025-baja.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14.md": {
+    "file": "chunks/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14-10967d35.js",
+    "src": "src/lib/posts/katasztrófavédelmi-gyermektábor-baján-2023-07-10-14.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2018-04-11.md": {
+    "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-2018-04-11-65f6a098.js",
+    "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2018-04-11.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2019-04-11.md": {
+    "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-2019-04-11-e3aeae0e.js",
+    "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-2019-04-11.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md": {
+    "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1-e9dc9a97.js",
+    "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-kalocsai-járásban-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md": {
+    "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28-e7b6682f.js",
+    "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-a-petőfi-szigeten-2022-04-28.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-baján.md": {
+    "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-baján-cfd11a3f.js",
+    "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-baján.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-kiskunhalason.md": {
+    "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-kiskunhalason-81d471bd.js",
+    "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-kiskunhalason.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12.md": {
+    "file": "chunks/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12-06249e58.js",
+    "src": "src/lib/posts/katasztrófavédelmi-ifjúsági-verseny-megyei-döntőke-2017-04-12.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-tábor-baján-2017-06-26-30.md": {
+    "file": "chunks/katasztrófavédelmi-tábor-baján-2017-06-26-30-d0acb3b5.js",
+    "src": "src/lib/posts/katasztrófavédelmi-tábor-baján-2017-06-26-30.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md": {
+    "file": "chunks/katasztrófavédelmi-tábor-baján-2018-06-25-29-bb0fed23.js",
+    "src": "src/lib/posts/katasztrófavédelmi-tábor-baján-2018-06-25-29.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md": {
+    "file": "chunks/kecskeméti-bányai-júlia-gimnázium-2021-11-04-4de64f34.js",
+    "src": "src/lib/posts/kecskeméti-bányai-júlia-gimnázium-2021-11-04.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-mikulás-fekvenyomó-kupa-2023-12-05.md": {
+    "file": "chunks/kecskeméti-mikulás-fekvenyomó-kupa-2023-12-05-24729322.js",
+    "src": "src/lib/posts/kecskeméti-mikulás-fekvenyomó-kupa-2023-12-05.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-piarista-gimnázium-2019-09-27.md": {
+    "file": "chunks/kecskeméti-piarista-gimnázium-2019-09-27-edf8863f.js",
+    "src": "src/lib/posts/kecskeméti-piarista-gimnázium-2019-09-27.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md": {
+    "file": "chunks/kecskeméti-piarista-gimnázium-2020-09-25-ff613e5e.js",
+    "src": "src/lib/posts/kecskeméti-piarista-gimnázium-2020-09-25.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-református-gimnázium-2019-09-17.md": {
+    "file": "chunks/kecskeméti-református-gimnázium-2019-09-17-88f5ce41.js",
+    "src": "src/lib/posts/kecskeméti-református-gimnázium-2019-09-17.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md": {
+    "file": "chunks/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája-9f33867b.js",
+    "src": "src/lib/posts/kecskeméti-szakképzési-centrum-szent-györgyi-albert-szakgimnáziuma-és-szakközépiskolája.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola-2023-04-03.md": {
+    "file": "chunks/kecskeméti-szc-fazekas-istván-szakiskola-2023-04-03-2a236803.js",
+    "src": "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola-2023-04-03.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md": {
+    "file": "chunks/kecskeméti-szc-fazekas-istván-szakiskola-74d01f48.js",
+    "src": "src/lib/posts/kecskeméti-szc-fazekas-istván-szakiskola.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum-2023-04-04.md": {
+    "file": "chunks/kecskeméti-szc-gróf-károlyi-sándor-technikum-2023-04-04-029bc11c.js",
+    "src": "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum-2023-04-04.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md": {
+    "file": "chunks/kecskeméti-szc-gróf-károlyi-sándor-technikum-c3d49ea9.js",
+    "src": "src/lib/posts/kecskeméti-szc-gróf-károlyi-sándor-technikum.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum-2023-04-03.md": {
+    "file": "chunks/kecskeméti-szc-gáspár-andrás-technikum-2023-04-03-6094eb21.js",
+    "src": "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum-2023-04-03.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum.md": {
+    "file": "chunks/kecskeméti-szc-gáspár-andrás-technikum-7d94ed66.js",
+    "src": "src/lib/posts/kecskeméti-szc-gáspár-andrás-technikum.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-kada-elek-technikum-2023-04-04.md": {
+    "file": "chunks/kecskeméti-szc-kada-elek-technikum-2023-04-04-44e2fc01.js",
+    "src": "src/lib/posts/kecskeméti-szc-kada-elek-technikum-2023-04-04.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-kada-elek-technikum.md": {
+    "file": "chunks/kecskeméti-szc-kada-elek-technikum-3f2905dd.js",
+    "src": "src/lib/posts/kecskeméti-szc-kada-elek-technikum.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum-2023-04-03.md": {
+    "file": "chunks/kecskeméti-szc-kandó-kálmán-technikum-2023-04-03-d335cbd6.js",
+    "src": "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum-2023-04-03.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum.md": {
+    "file": "chunks/kecskeméti-szc-kandó-kálmán-technikum-a79b5d03.js",
+    "src": "src/lib/posts/kecskeméti-szc-kandó-kálmán-technikum.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-szent-györgyi-albert-technikum.md": {
+    "file": "chunks/kecskeméti-szc-szent-györgyi-albert-technikum-4a2ff93f.js",
+    "src": "src/lib/posts/kecskeméti-szc-szent-györgyi-albert-technikum.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2020-09-17.md": {
+    "file": "chunks/kecskeméti-szc-széchenyi-istván-technikum-2020-09-17-adf7cb83.js",
+    "src": "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2020-09-17.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2021-11-04.md": {
+    "file": "chunks/kecskeméti-szc-széchenyi-istván-technikum-2021-11-04-89194dbc.js",
+    "src": "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2021-11-04.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2023-04-04.md": {
+    "file": "chunks/kecskeméti-szc-széchenyi-istván-technikum-2023-04-04-ffe0e83a.js",
+    "src": "src/lib/posts/kecskeméti-szc-széchenyi-istván-technikum-2023-04-04.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-szc-virágh-gedeon-technikum-kunszentmiklós.md": {
+    "file": "chunks/kecskeméti-szc-virágh-gedeon-technikum-kunszentmiklós-e43c365f.js",
+    "src": "src/lib/posts/kecskeméti-szc-virágh-gedeon-technikum-kunszentmiklós.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kecskeméti-tóth-lászló-általános-iskola-2021-10-21.md": {
+    "file": "chunks/kecskeméti-tóth-lászló-általános-iskola-2021-10-21-376078f8.js",
+    "src": "src/lib/posts/kecskeméti-tóth-lászló-általános-iskola-2021-10-21.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2017-11-24.md": {
+    "file": "chunks/kepzesek-2017-11-24-e4e9ec19.js",
+    "src": "src/lib/posts/kepzesek-2017-11-24.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2017-11-24_2.md": {
+    "file": "chunks/kepzesek-2017-11-24_2-da0c52f1.js",
+    "src": "src/lib/posts/kepzesek-2017-11-24_2.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2017-11-25.md": {
+    "file": "chunks/kepzesek-2017-11-25-bc1dac8a.js",
+    "src": "src/lib/posts/kepzesek-2017-11-25.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2017-12-08.md": {
+    "file": "chunks/kepzesek-2017-12-08-15c81cfb.js",
+    "src": "src/lib/posts/kepzesek-2017-12-08.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2018-05-13.md": {
+    "file": "chunks/kepzesek-2018-05-13-4624cbdb.js",
+    "src": "src/lib/posts/kepzesek-2018-05-13.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2018-05-31.md": {
+    "file": "chunks/kepzesek-2018-05-31-bc9648c5.js",
+    "src": "src/lib/posts/kepzesek-2018-05-31.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2018-11-11.md": {
+    "file": "chunks/kepzesek-2018-11-11-4176cb40.js",
+    "src": "src/lib/posts/kepzesek-2018-11-11.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2018-11-26.md": {
+    "file": "chunks/kepzesek-2018-11-26-92b7f36d.js",
+    "src": "src/lib/posts/kepzesek-2018-11-26.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2019-02-05.md": {
+    "file": "chunks/kepzesek-2019-02-05-70400674.js",
+    "src": "src/lib/posts/kepzesek-2019-02-05.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2019-05-10.md": {
+    "file": "chunks/kepzesek-2019-05-10-453de08b.js",
+    "src": "src/lib/posts/kepzesek-2019-05-10.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2019-06-01.md": {
+    "file": "chunks/kepzesek-2019-06-01-90bd682b.js",
+    "src": "src/lib/posts/kepzesek-2019-06-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2019-06-22.md": {
+    "file": "chunks/kepzesek-2019-06-22-ec54c745.js",
+    "src": "src/lib/posts/kepzesek-2019-06-22.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kepzesek-2019-11-18.md": {
+    "file": "chunks/kepzesek-2019-11-18-f9ca4614.js",
+    "src": "src/lib/posts/kepzesek-2019-11-18.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19.md": {
+    "file": "chunks/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19-b518dac0.js",
+    "src": "src/lib/posts/kerekasztal-beszélgetés-civil-szervezetek-képviselőivel-2022-10-19.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunhalasi-bibó-istván-gimnázium-2022-12-01.md": {
+    "file": "chunks/kiskunhalasi-bibó-istván-gimnázium-2022-12-01-2b6ec93b.js",
+    "src": "src/lib/posts/kiskunhalasi-bibó-istván-gimnázium-2022-12-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01.md": {
+    "file": "chunks/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01-4149ac9a.js",
+    "src": "src/lib/posts/kiskunhalasi-ii-rákóczi-ferenc-katolikus-gimnázium-és-technikum-2022-12-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunhalasi-református-kollégium-szilády-áron-gimnázium-és-kollégium-2022-12-01.md": {
+    "file": "chunks/kiskunhalasi-református-kollégium-szilády-áron-gimnázium-és-kollégium-2022-12-01-fa5b901b.js",
+    "src": "src/lib/posts/kiskunhalasi-református-kollégium-szilády-áron-gimnázium-és-kollégium-2022-12-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-techmikum.md": {
+    "file": "chunks/kiskunhalasi-szc-dékáni-árpád-techmikum-84e7903a.js",
+    "src": "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-techmikum.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-technikum.md": {
+    "file": "chunks/kiskunhalasi-szc-dékáni-árpád-technikum-8e6ccdfd.js",
+    "src": "src/lib/posts/kiskunhalasi-szc-dékáni-árpád-technikum.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md": {
+    "file": "chunks/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10-45a4cdc8.js",
+    "src": "src/lib/posts/kiskunhalasi-önkéntes-járási-mentőcsoport-szintentartó-gyakorlata-2020-10-10.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsa-2016-04-27.md": {
+    "file": "chunks/kiskunmajsa-2016-04-27-6459b00f.js",
+    "src": "src/lib/posts/kiskunmajsa-2016-04-27.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md": {
+    "file": "chunks/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31-b486c1e2.js",
+    "src": "src/lib/posts/kiskunmajsa-járási-mentő-csoport-gyakorlata-2017-05-31.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md": {
+    "file": "chunks/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23-b6b1b418.js",
+    "src": "src/lib/posts/kiskunmajsa-járási-mentőcsoport-szintentartó-gyakorlata-2021-09-23.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola-2022-10-17.md": {
+    "file": "chunks/kiskunmajsai-arany-jános-általános-iskola-2022-10-17-ea0a2710.js",
+    "src": "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola-2022-10-17.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola.md": {
+    "file": "chunks/kiskunmajsai-arany-jános-általános-iskola-b74087e0.js",
+    "src": "src/lib/posts/kiskunmajsai-arany-jános-általános-iskola.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md": {
+    "file": "chunks/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31-0699b01a.js",
+    "src": "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2018-05-31.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md": {
+    "file": "chunks/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30-4e7b5374.js",
+    "src": "src/lib/posts/kiskunmajsai-járási-mentőcsoport-gyakorlata-2020-10-30.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsai-móra-ferenc-álralános-iskola.md": {
+    "file": "chunks/kiskunmajsai-móra-ferenc-álralános-iskola-a1141f83.js",
+    "src": "src/lib/posts/kiskunmajsai-móra-ferenc-álralános-iskola.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md": {
+    "file": "chunks/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17-c0e0ed42.js",
+    "src": "src/lib/posts/kiskunmajsai-móra-ferenc-óvoda-általános-iskola-és-egymi-2022-10-17.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18.md": {
+    "file": "chunks/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18-f6d20421.js",
+    "src": "src/lib/posts/kiskunmajsai-és-jánoshalmai-járási-mentőcsoportok-gyakorlata-2023-11-18.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/krk-központi-általános-iskola-gy-szabó-béla-tagiskolája-szank-2023-11-22.md": {
+    "file": "chunks/krk-központi-általános-iskola-gy-szabó-béla-tagiskolája-szank-2023-11-22-8edf5e40.js",
+    "src": "src/lib/posts/krk-központi-általános-iskola-gy-szabó-béla-tagiskolája-szank-2023-11-22.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10.md": {
+    "file": "chunks/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10-cc1712c9.js",
+    "src": "src/lib/posts/kszc-széchenyi-istván-idegenforgalmi-vendéglátóipari-szakgimnáziuma-és-szakközépiskolája-2019-12-10.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kunszentmiklós-baksay-sándor-református-gimnázium-és-általános-iskola-2023-09-22.md": {
+    "file": "chunks/kunszentmiklós-baksay-sándor-református-gimnázium-és-általános-iskola-2023-09-22-3675b409.js",
+    "src": "src/lib/posts/kunszentmiklós-baksay-sándor-református-gimnázium-és-általános-iskola-2023-09-22.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md": {
+    "file": "chunks/kunszentmiklós-virágh-gedeon-technikum-2023-09-22-a9955f26.js",
+    "src": "src/lib/posts/kunszentmiklós-virágh-gedeon-technikum-2023-09-22.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md": {
+    "file": "chunks/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22-1cb3218e.js",
+    "src": "src/lib/posts/képességfejlesztés-a-petőfi-mentőcsoportnál-2020-07-22.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közbiztonsági-referensek-alapképzése-kecskeméten.md": {
+    "file": "chunks/közbiztonsági-referensek-alapképzése-kecskeméten-e7a58da4.js",
+    "src": "src/lib/posts/közbiztonsági-referensek-alapképzése-kecskeméten.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közbiztonsági-referensek-képzése-1.md": {
+    "file": "chunks/közbiztonsági-referensek-képzése-1-1615d20a.js",
+    "src": "src/lib/posts/közbiztonsági-referensek-képzése-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md": {
+    "file": "chunks/közbiztonsági-referensek-képzése-2023-02-16-152fec1b.js",
+    "src": "src/lib/posts/közbiztonsági-referensek-képzése-2023-02-16.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közbiztonsági-referensek-képzése.md": {
+    "file": "chunks/közbiztonsági-referensek-képzése-6e7b19e6.js",
+    "src": "src/lib/posts/közbiztonsági-referensek-képzése.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közbiztonsági-referensek-értekezlete.md": {
+    "file": "chunks/közbiztonsági-referensek-értekezlete-5e337677.js",
+    "src": "src/lib/posts/közbiztonsági-referensek-értekezlete.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közbiztonsági-referenssek-képzése.md": {
+    "file": "chunks/közbiztonsági-referenssek-képzése-31e073dd.js",
+    "src": "src/lib/posts/közbiztonsági-referenssek-képzése.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közgyűlés-2019-04-26.md": {
+    "file": "chunks/közgyűlés-2019-04-26-748e7cb1.js",
+    "src": "src/lib/posts/közgyűlés-2019-04-26.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/középiskolások-feszültek-egymásnak-a-kecskeméti-mikulás-fekvenyomó-kupán.md": {
+    "file": "chunks/középiskolások-feszültek-egymásnak-a-kecskeméti-mikulás-fekvenyomó-kupán-58e0842e.js",
+    "src": "src/lib/posts/középiskolások-feszültek-egymásnak-a-kecskeméti-mikulás-fekvenyomó-kupán.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közös-rendezvény-a-honvédség-népszerűsítéséért-2022-12-05.md": {
+    "file": "chunks/közös-rendezvény-a-honvédség-népszerűsítéséért-2022-12-05-42c6c1ca.js",
+    "src": "src/lib/posts/közös-rendezvény-a-honvédség-népszerűsítéséért-2022-12-05.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közös-összefogás-a-rászorultak-védelméért.md": {
+    "file": "chunks/közös-összefogás-a-rászorultak-védelméért-4d02c1cc.js",
+    "src": "src/lib/posts/közös-összefogás-a-rászorultak-védelméért.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/közös-ünnepség-a-nemzetközi-polgári-védelem-nap-alkalmából.md": {
+    "file": "chunks/közös-ünnepség-a-nemzetközi-polgári-védelem-nap-alkalmából-044b907b.js",
+    "src": "src/lib/posts/közös-ünnepség-a-nemzetközi-polgári-védelem-nap-alkalmából.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/külső-védelmi-tervgyakorlatot-kiskunhalason-2016-11-23.md": {
+    "file": "chunks/külső-védelmi-tervgyakorlatot-kiskunhalason-2016-11-23-82dde549.js",
+    "src": "src/lib/posts/külső-védelmi-tervgyakorlatot-kiskunhalason-2016-11-23.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/meghívó-2023-03-01.md": {
+    "file": "chunks/meghívó-2023-03-01-911745fd.js",
+    "src": "src/lib/posts/meghívó-2023-03-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére-1.md": {
+    "file": "chunks/meghívó-a-bkv-pvsz-közgyűlésére-1-88eff88b.js",
+    "src": "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére.md": {
+    "file": "chunks/meghívó-a-bkv-pvsz-közgyűlésére-d9c33e72.js",
+    "src": "src/lib/posts/meghívó-a-bkv-pvsz-közgyűlésére.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/megnyílt-a-bajai-ifjúsági-tábor-2019-07-01.md": {
+    "file": "chunks/megnyílt-a-bajai-ifjúsági-tábor-2019-07-01-8072292d.js",
+    "src": "src/lib/posts/megnyílt-a-bajai-ifjúsági-tábor-2019-07-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md": {
+    "file": "chunks/megtartotta-éves-közgyűlését-a-bkm-pvsz-48a477f2.js",
+    "src": "src/lib/posts/megtartotta-éves-közgyűlését-a-bkm-pvsz.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31.md": {
+    "file": "chunks/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31-0efeefae.js",
+    "src": "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-megyei-polgári-védelmi-szövetség-2023-03-31.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség-1.md": {
+    "file": "chunks/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség-1-6d3e98c3.js",
+    "src": "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség.md": {
+    "file": "chunks/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség-3a526364.js",
+    "src": "src/lib/posts/megtartotta-éves-közgyűlését-a-bács-kiskun-vármegyei-polgári-védelmi-szövetség.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/megyei-járási-és-települési-mentőcsoportok-gyakorlata-2016-05-18-19.md": {
+    "file": "chunks/megyei-járási-és-települési-mentőcsoportok-gyakorlata-2016-05-18-19-64ff01e9.js",
+    "src": "src/lib/posts/megyei-járási-és-települési-mentőcsoportok-gyakorlata-2016-05-18-19.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md": {
+    "file": "chunks/mentesítő-eszközök-adományozása-2020-05-21-57dfb6bb.js",
+    "src": "src/lib/posts/mentesítő-eszközök-adományozása-2020-05-21.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md": {
+    "file": "chunks/mentési-gyakorlat-a-„hírös-városban”-4aae876c.js",
+    "src": "src/lib/posts/mentési-gyakorlat-a-„hírös-városban”.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-1.md": {
+    "file": "chunks/március-1-a-nemzetközi-polgári-védelem-napja-1-7c4ebc2c.js",
+    "src": "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28.md": {
+    "file": "chunks/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28-20f1f71a.js",
+    "src": "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja-2015-02-28.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja.md": {
+    "file": "chunks/március-1-a-nemzetközi-polgári-védelem-napja-34900d05.js",
+    "src": "src/lib/posts/március-1-a-nemzetközi-polgári-védelem-napja.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/március-1-a-polgári-védelem-világnapja.md": {
+    "file": "chunks/március-1-a-polgári-védelem-világnapja-32516190.js",
+    "src": "src/lib/posts/március-1-a-polgári-védelem-világnapja.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/móra-járási-mentőcsoport-gyakorlata-2018-06-19.md": {
+    "file": "chunks/móra-járási-mentőcsoport-gyakorlata-2018-06-19-79c6c3bd.js",
+    "src": "src/lib/posts/móra-járási-mentőcsoport-gyakorlata-2018-06-19.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md": {
+    "file": "chunks/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04-d625f5c6.js",
+    "src": "src/lib/posts/móra-mentőcsoport-szintentartó-gyakorlata-2021-06-04.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/móra-mentőcsoport-újraminősítő-gyakorlata-2023-09-15.md": {
+    "file": "chunks/móra-mentőcsoport-újraminősítő-gyakorlata-2023-09-15-8f756fee.js",
+    "src": "src/lib/posts/móra-mentőcsoport-újraminősítő-gyakorlata-2023-09-15.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/nemzeti-minősítő-gyakorlat-kunszentmiklóson-2023-05-31.md": {
+    "file": "chunks/nemzeti-minősítő-gyakorlat-kunszentmiklóson-2023-05-31-24120f3c.js",
+    "src": "src/lib/posts/nemzeti-minősítő-gyakorlat-kunszentmiklóson-2023-05-31.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/nemzeti-minősítő-gyakorlat-zajlott-dunavecsén-2023-04-25.md": {
+    "file": "chunks/nemzeti-minősítő-gyakorlat-zajlott-dunavecsén-2023-04-25-8abe17d1.js",
+    "src": "src/lib/posts/nemzeti-minősítő-gyakorlat-zajlott-dunavecsén-2023-04-25.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/nemzetközi-polgári-védelmi-nap-2017-03-01.md": {
+    "file": "chunks/nemzetközi-polgári-védelmi-nap-2017-03-01-7e1d99da.js",
+    "src": "src/lib/posts/nemzetközi-polgári-védelmi-nap-2017-03-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/nemzetközi-polgári-védelmi-nap-2018-03-01.md": {
+    "file": "chunks/nemzetközi-polgári-védelmi-nap-2018-03-01-61294062.js",
+    "src": "src/lib/posts/nemzetközi-polgári-védelmi-nap-2018-03-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/nemzetközi-polgári-védelmi-nap-2019-03-01.md": {
+    "file": "chunks/nemzetközi-polgári-védelmi-nap-2019-03-01-704bd00b.js",
+    "src": "src/lib/posts/nemzetközi-polgári-védelmi-nap-2019-03-01.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/nemzetközi-tudományos-konferencia-a-katasztrófák-csökkentésének-világnapja-alkalmából.md": {
+    "file": "chunks/nemzetközi-tudományos-konferencia-a-katasztrófák-csökkentésének-világnapja-alkalmából-ffcd7b41.js",
+    "src": "src/lib/posts/nemzetközi-tudományos-konferencia-a-katasztrófák-csökkentésének-világnapja-alkalmából.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/nemzetközi-tábor-bajmok-2018-06-26-29.md": {
+    "file": "chunks/nemzetközi-tábor-bajmok-2018-06-26-29-47b49d65.js",
+    "src": "src/lib/posts/nemzetközi-tábor-bajmok-2018-06-26-29.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/nemzetközi-tábor-dombrádon-2017-08-04-7.md": {
+    "file": "chunks/nemzetközi-tábor-dombrádon-2017-08-04-7-1ee4aa19.js",
+    "src": "src/lib/posts/nemzetközi-tábor-dombrádon-2017-08-04-7.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md": {
+    "file": "chunks/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata-5aadd13b.js",
+    "src": "src/lib/posts/noé-mentőcsoport-nemzeti-újraminősítő-gyakorlata.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/négy-éve-népszerű-a-tábor.md": {
+    "file": "chunks/négy-éve-népszerű-a-tábor-2428a21c.js",
+    "src": "src/lib/posts/négy-éve-népszerű-a-tábor.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md": {
+    "file": "chunks/országos-haditorna-verseny-vármegyei-fordulója-b9d64d0f.js",
+    "src": "src/lib/posts/országos-haditorna-verseny-vármegyei-fordulója.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2017-04-25-27.md": {
+    "file": "chunks/petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2017-04-25-27-1add2c28.js",
+    "src": "src/lib/posts/petőfi-mentőcsoport-nemzeti-újraminősítő-gyakorlata-2017-04-25-27.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md": {
+    "file": "chunks/polgári-védelmi-felkészítés-dunafalván-2017-06-20-97821d58.js",
+    "src": "src/lib/posts/polgári-védelmi-felkészítés-dunafalván-2017-06-20.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/polgári-védelmi-szervezetek-képzése.md": {
+    "file": "chunks/polgári-védelmi-szervezetek-képzése-d61b278e.js",
+    "src": "src/lib/posts/polgári-védelmi-szervezetek-képzése.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/polgármesteri-fórum-2017-11-23.md": {
+    "file": "chunks/polgármesteri-fórum-2017-11-23-d3a388fe.js",
+    "src": "src/lib/posts/polgármesteri-fórum-2017-11-23.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/prevencio-pinned.md": {
+    "file": "chunks/prevencio-pinned-bc4f693b.js",
+    "src": "src/lib/posts/prevencio-pinned.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/példaértékű-összefogás-2020-12-05.md": {
+    "file": "chunks/példaértékű-összefogás-2020-12-05-b6a372de.js",
+    "src": "src/lib/posts/példaértékű-összefogás-2020-12-05.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md": {
+    "file": "chunks/példás-összefogással-találták-meg-a-kisfiút-1-8e2c18ed.js",
+    "src": "src/lib/posts/példás-összefogással-találták-meg-a-kisfiút-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/segítség-a-bajban.md": {
+    "file": "chunks/segítség-a-bajban-b6a62ec1.js",
+    "src": "src/lib/posts/segítség-a-bajban.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md": {
+    "file": "chunks/sikeres-újraminősítő-gyakorlat-kalocsán-b3dd4321.js",
+    "src": "src/lib/posts/sikeres-újraminősítő-gyakorlat-kalocsán.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/szakkiképzés-nemesnádudvaron-2022-06-16.md": {
+    "file": "chunks/szakkiképzés-nemesnádudvaron-2022-06-16-08f071e5.js",
+    "src": "src/lib/posts/szakkiképzés-nemesnádudvaron-2022-06-16.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md": {
+    "file": "chunks/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14-4227e892.js",
+    "src": "src/lib/posts/szakmár-települési-köteles-polgári-védelmi-szervezetek-felkészítése-2018-05-14.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/szalkszentmárton-petőfi-sándor-általános-iskola.md": {
+    "file": "chunks/szalkszentmárton-petőfi-sándor-általános-iskola-6baf2f5f.js",
+    "src": "src/lib/posts/szalkszentmárton-petőfi-sándor-általános-iskola.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md": {
+    "file": "chunks/szentistváni-általános-iskola-baja-2017-05-22-af7c8e0f.js",
+    "src": "src/lib/posts/szentistváni-általános-iskola-baja-2017-05-22.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/szentisváni-általános-iskola-baja.md": {
+    "file": "chunks/szentisváni-általános-iskola-baja-236e594c.js",
+    "src": "src/lib/posts/szentisváni-általános-iskola-baja.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/szja-1-1.md": {
+    "file": "chunks/szja-1-1-23f6c985.js",
+    "src": "src/lib/posts/szja-1-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/szja-1.md": {
+    "file": "chunks/szja-1-5eacd135.js",
+    "src": "src/lib/posts/szja-1.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md": {
+    "file": "chunks/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25-be6cf28d.js",
+    "src": "src/lib/posts/taroltak-az-országos-versenyen-a-kiskunmajsai-diákok-2015-04-25.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/tass-könyvtár-2023-09-22.md": {
+    "file": "chunks/tass-könyvtár-2023-09-22-24d6418d.js",
+    "src": "src/lib/posts/tass-könyvtár-2023-09-22.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/tass-községi-könyvtár.md": {
+    "file": "chunks/tass-községi-könyvtár-ce26bf2f.js",
+    "src": "src/lib/posts/tass-községi-könyvtár.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md": {
+    "file": "chunks/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18-e1bd9400.js",
+    "src": "src/lib/posts/települési-köteles-polgári-védelmi-szakiképzés-csávolyon-2023-10-18.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md": {
+    "file": "chunks/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26-2f730d0e.js",
+    "src": "src/lib/posts/tiszakécske-települési-önkéntes-mentőcsoport-minősítő-gyakorlata-2023-09-26.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md": {
+    "file": "chunks/tisztújító-közgyűlés-2018-02-02-04abd81d.js",
+    "src": "src/lib/posts/tisztújító-közgyűlés-2018-02-02.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md": {
+    "file": "chunks/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17-19a4678f.js",
+    "src": "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-kiskunmajsa-2022-10-17.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium.md": {
+    "file": "chunks/tomori-pál-katolikus-gimnázium-technikum-és-kollégium-55ea3754.js",
+    "src": "src/lib/posts/tomori-pál-katolikus-gimnázium-technikum-és-kollégium.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md": {
+    "file": "chunks/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04-0d53b18d.js",
+    "src": "src/lib/posts/tudás-kitartás-gyorsaság-–-megyei-katasztrófavédelmi-ifjúsági-verseny-2016-04-04.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md": {
+    "file": "chunks/tüzes-kunok-szintentartó-gyakorlata-2021-05-08-f14719ad.js",
+    "src": "src/lib/posts/tüzes-kunok-szintentartó-gyakorlata-2021-05-08.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/vezetőségi-ülés-2022-12-09.md": {
+    "file": "chunks/vezetőségi-ülés-2022-12-09-2aac5316.js",
+    "src": "src/lib/posts/vezetőségi-ülés-2022-12-09.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium-kiskunhalas.md": {
+    "file": "chunks/vári-istván-szakképző-iskola-és-kollégium-kiskunhalas-c72a574b.js",
+    "src": "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium-kiskunhalas.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium.md": {
+    "file": "chunks/vári-istván-szakképző-iskola-és-kollégium-23b3d807.js",
+    "src": "src/lib/posts/vári-istván-szakképző-iskola-és-kollégium.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/vári-szabó-istván-szakképző-iskola-és-kollégium-kiskunhalas-2023-12-12.md": {
+    "file": "chunks/vári-szabó-istván-szakképző-iskola-és-kollégium-kiskunhalas-2023-12-12-da6494f5.js",
+    "src": "src/lib/posts/vári-szabó-istván-szakképző-iskola-és-kollégium-kiskunhalas-2023-12-12.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  },
+  "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md": {
+    "file": "chunks/újabb-adomány-kárpátaljára-2022-12-09-a6bbb89e.js",
+    "src": "src/lib/posts/újabb-adomány-kárpátaljára-2022-12-09.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-48b2defe.js"
+    ]
+  }
+}

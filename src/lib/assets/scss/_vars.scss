@@ -14,61 +14,28 @@ $xxlMax: 1959px;
 $xxxlMin: 1960px;
 
 :root {
-  // Primary Brand Colors
-  --primary-green: rgb(66, 110, 76);
-  --primary-red: rgb(187, 16, 31);
-  --secondary-green: #a3b18a;
-  --accent-magenta: #f11491;
+  // Colors
+  --accent: rgb(66,110,76);          //Aláhúzás a Blog categories-nél
+  --background: #f7f5f8;      //
+  --lightAccent: rgb(187, 16, 31);     //posted in háttér
+  --lighterAccent: #a3b18a;   //
+  --dark: #f7f5f8;            //Aláhúzás az alatt, hogy BácsKiskun Vármegyei Polgári Védelmi Szöv.
+  --darker_navLinks: #f11491; // nav links
+  --darker: #000000;
+  --page-title: #f7f5f8;
+  --slate: #212121;           //Betű szín
+  --footer: rgb(66,110,76);
 
-  // Neutral Colors
-  --light-bg: #f7f5f8;
-  --dark-text: #212121;
+
   --white: #fff;
   --black: #152030;
 
-  // Component-Specific Colors
-  --header-bg: var(--primary-red);
-  --footer-bg: var(--primary-green);
-  --overlay-bg: rgba(66, 110, 76, 0.85);
-
-  // Legacy Mappings (for backwards compatibility)
-  --accent: var(--primary-green);
-  --background: var(--light-bg);
-  --lightAccent: var(--primary-red);
-  --lighterAccent: var(--secondary-green);
-  --dark: var(--light-bg);
-  --darker_navLinks: var(--accent-magenta);
-  --darker: #000000;
-  --page-title: var(--light-bg);
-  --slate: var(--dark-text);
-  --footer: var(--primary-green);
-
   --ink: var(--slate);
   --paper: var(--background);
-
-  // Shadow System
-  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.05);
-  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
-  --shadow-base: 0 4px 8px rgba(0, 0, 0, 0.12);
-  --shadow-md: 0 8px 16px rgba(0, 0, 0, 0.15);
-  --shadow-lg: 0 12px 24px rgba(0, 0, 0, 0.18);
-  --shadow-xl: 0 16px 32px rgba(0, 0, 0, 0.2);
-
-  // Transitions
-  --transition-fast: 0.15s ease-out;
-  --transition-base: 0.2s ease-out;
-  --transition-slow: 0.3s ease-out;
-
-  // Border Radius
-  --radius-xs: 4px;
-  --radius-sm: 8px;
-  --radius-card: 15px;
-
-  // Touch Targets (for mobile)
-  --touch-target-min: 44px;
+  
 
   // Fonts
-  --accentFont: 'Source Serif Pro', Georgia, Times, serif;
+  --accentFont: 'Source Serif Pro', Georgia, Times, serif; 
   --primaryFont: 'Source Sans Pro', sans-serif;
   --codeFont: 'Fira Code', monospace;
 

@@ -1,6 +1,5 @@
 import adapter from '@sveltejs/adapter-static'
 import { mdsvex } from 'mdsvex'
-import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
 import preprocess from 'svelte-preprocess'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import rehypeSlug from 'rehype-slug'
@@ -10,14 +9,7 @@ const config = {
 	// Ensures both .svelte and .md files are treated as components (can be imported and used anywhere, or  used as pages)
 	extensions: ['.svelte', '.md'],
 
-	onwarn: (warning, handler) => {
-		// Suppress a11y warnings for missing alt attributes
-		if (warning.code === 'a11y-missing-attribute') return;
-		handler(warning);
-	},
-
 	preprocess: [
-		vitePreprocess(),
 		preprocess({
 			scss: {
 				// Ensures Sass variables are always available inside component <style> blocks as vars.$variableDefinedInFile
@@ -37,23 +29,17 @@ const config = {
 	],
 
 	kit: {
-		adapter: adapter({
-			pages: 'build',
-			assets: 'build',
-			fallback: undefined,
-			precompress: false,
-			strict: false
-		}),
-		prerender: {
-			handleHttpError: ({ path, referrer, message }) => {
-				// Ignore 404s for missing logos and images
-				if (path.startsWith('/logos/') || path.startsWith('/images/')) {
-					return;
+		// Default SvelteKit options
+		target: '#svelte',
+		adapter: adapter(),
+
+		// Allows reading from files in the root directory. Necessary for loading the README on the homepage, but nothing else.
+		vite: {
+			server: {
+				fs: {
+					allow: ['.']
 				}
-				// Throw on other errors
-				throw new Error(message);
-			},
-			handleUnseenRoutes: 'ignore'
+			}
 		}
 	}
 };
