@@ -38,11 +38,39 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative;
 
   @media (min-width: vars.$smMin) {
     justify-content: center;
     flex-wrap: wrap;
     height: auto;
+  }
+
+  .logo {
+    position: absolute;
+    left: 2rem;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 120px;
+    height: 120px;
+    object-fit: scale-down;
+
+    @media (min-width: vars.$smMin) {
+      width: 200px;
+      height: 200px;
+      top: 0.25rem;
+      transform: none;
+    }
+  }
+
+  .header-content,
+  .site-title,
+  nav {
+    padding-left: 160px;
+
+    @media (min-width: vars.$smMin) {
+      padding-left: 100px;
+    }
   }
 
   .site-title {
@@ -64,9 +92,13 @@ header {
     margin: 0;
     background: transparent !important;
     color: inherit;
-    padding: 0;
+    padding: 0.5rem;
     border: 0;
-    width: 2rem;
+    min-width: var(--touch-target-min);
+    min-height: var(--touch-target-min);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
     @media (min-width: vars.$smMin) {
       display: none;
@@ -94,7 +126,7 @@ header {
       opacity: 1;
       pointer-events: unset;
       visibility: unset;
-      background: grey;
+      background: var(--overlay-bg);
 
       li {
         opacity: 0;
