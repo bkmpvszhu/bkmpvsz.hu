@@ -11,16 +11,66 @@ public_folder: /images
 locale: 'hu'
 
 collections:
-  - name: blog
-    label: "Bejegyzés" # Used in the UI
+  - name: hirek
+    label: "Hírek"
     folder: "src/lib/posts"
     create: true
     slug: "{{slug}}"
+    filter: { field: "categories", value: "hirek" }
+    sortable_fields: [ 'date', 'title' ]
     fields:
-      - {label: "Cím", name: "title", widget: "string"}
-      - {label: "Megjelent", name: "date", widget: "datetime"}
-      - {label: "Borító", name: "coverImage", widget: "image"}
-      - {label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
-      - {label: "Kategóriák", name: "categories", widget: "list", default: ["hirek"]}
-      - {label: "Összefoglaló", name: "excerpt", widget: "string"}
-      - {label: "Cikk", name: "body", widget: "markdown"}
+      - { label: "Cím", name: "title", widget: "string" }
+      - { label: "Megjelent", name: "date", widget: "datetime" }
+      - { label: "Borító", name: "coverImage", widget: "image" }
+      - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
+      - { label: "Kategóriák", name: "categories", widget: "hidden", default: [ "hirek" ] }
+      - { label: "Összefoglaló", name: "excerpt", widget: "string" }
+      - { label: "Cikk", name: "body", widget: "markdown" }
+
+  - name: kepzesek
+    label: "Képzések"
+    folder: "src/lib/posts"
+    create: true
+    slug: "{{slug}}"
+    filter: { field: "categories", value: "kepzesek" }
+    sortable_fields: ['date']
+    fields:
+      - { label: "Cím", name: "title", widget: "string" }
+      - { label: "Megjelent", name: "date", widget: "datetime" }
+      - { label: "Borító", name: "coverImage", widget: "image" }
+      - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
+      - { label: "Kategóriák", name: "categories", widget: "hidden", default: [ "kepzesek" ] }
+      - { label: "Összefoglaló", name: "excerpt", widget: "string" }
+      - { label: "Cikk", name: "body", widget: "markdown" }
+
+  - name: prevencio
+    label: "Prevenció"
+    folder: "src/lib/posts"
+    create: true
+    slug: "{{slug}}"
+    filter: { field: "categories", value: "prevencio" }
+    sortable_fields: [ 'date' ]
+    fields:
+      - { label: "Cím", name: "title", widget: "string" }
+      - { label: "Megjelent", name: "date", widget: "datetime" }
+      - { label: "Borító", name: "coverImage", widget: "image" }
+      - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
+      - { label: "Kategóriák", name: "categories", widget: "hidden", default: [ "prevencio" ] }
+      - { label: "Összefoglaló", name: "excerpt", widget: "string" }
+      - { label: "Cikk", name: "body", widget: "markdown" }
+
+  - name: ifjusag
+    label: "Ifjúság"
+    folder: "src/lib/posts"
+    create: true
+    slug: "{{slug}}"
+    filter: { field: "categories", value: "ifjusag" }
+    sortable_fields: [ 'date' ]
+    fields:
+      - { label: "Cím", name: "title", widget: "string" }
+      - { label: "Megjelent", name: "date", widget: "datetime" }
+      - { label: "Borító", name: "coverImage", widget: "image" }
+      - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
+      - { label: "Kategóriák", name: "categories", widget: "hidden", default: [ "ifjusag" ] }
+      - { label: "Összefoglaló", name: "excerpt", widget: "string" }
+      - { label: "Cikk", name: "body", widget: "markdown" }

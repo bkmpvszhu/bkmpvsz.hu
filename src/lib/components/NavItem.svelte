@@ -1,13 +1,15 @@
 <script>
-  import { currentPage, isMenuOpen } from '$lib/assets/js/store'
+  import { getContext } from 'svelte'
 
-  export let href
+  let { href, children } = $props()
 
-  $: isCurrentPage = $currentPage.startsWith(href)
+  const appState = getContext('appState')
+
+  let isCurrentPage = $derived(appState.currentPage.startsWith(href))
 
   const maybeCloseMenu = () => {
-    if (href != $currentPage) {
-      isMenuOpen.set(false)
+    if (href !== appState.currentPage) {
+      appState.isMenuOpen = false
     }
   }
 </script>
@@ -16,11 +18,11 @@
 <li>
   <a
     href={href}
-    on:click={maybeCloseMenu}
+    onclick={maybeCloseMenu}
     class:active={isCurrentPage}
     aria-current={isCurrentPage ? 'page' : false}
   >
-    <slot />
+    {@render children()}
   </a>
 </li>
 
