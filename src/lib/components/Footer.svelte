@@ -48,13 +48,22 @@
 </footer>
 
 <style>
+	ul {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+	}
 
 	li {
-		padding-left: 16px;
+		display: flex;
+		align-items: center;
+		padding: 0;
+		margin-bottom: 0.5rem;
+		gap: 6px;
 	}
 
 	li > span {
-		margin-left: 6px;
+		margin-left: 0;
 	}
 
 	a {
