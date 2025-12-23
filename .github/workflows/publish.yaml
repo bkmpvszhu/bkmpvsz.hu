@@ -27,13 +27,13 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -m 'deploy'
 
-#       - name: Force push to destination branch
-#         uses: ad-m/github-push-action@v0.5.0
-#         with:
-#           github_token: ${{ secrets.GITHUB_TOKEN }}
-#           branch: gh-pages
-#           force: true
-#           directory: ./
+      - name: Force push to destination branch
+        uses: ad-m/github-push-action@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          force: true
+          directory: ./
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

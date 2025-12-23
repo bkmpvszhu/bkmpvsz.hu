@@ -1,6 +1,6 @@
 ---
 title: Bajai Szentistváni Általános Iskola
-date: 2024-02-0218:33:00.000Z
+date: 2024-02-02T18:33:00.000Z
 coverImage: /images/2024-02-06-15.jpg
 categories:
   - prevencio
