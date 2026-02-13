@@ -23,7 +23,12 @@ collections:
       - { label: "Megjelent", name: "date", widget: "datetime" }
       - { label: "Borító", name: "coverImage", widget: "image" }
       - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
-      - { label: "Kategóriák", name: "categories", widget: "hidden", default: [ "hirek" ] }
+      - label: "Kategóriák"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: [ "hirek", "kepzesek", "prevencio", "ifjusag" ]
+        default: [ "hirek" ]
       - { label: "Összefoglaló", name: "excerpt", widget: "string" }
       - { label: "Cikk", name: "body", widget: "markdown" }
 
@@ -33,13 +38,18 @@ collections:
     create: true
     slug: "{{slug}}"
     filter: { field: "categories", value: "kepzesek" }
-    sortable_fields: ['date']
+    sortable_fields: [ 'date' ]
     fields:
       - { label: "Cím", name: "title", widget: "string" }
       - { label: "Megjelent", name: "date", widget: "datetime" }
       - { label: "Borító", name: "coverImage", widget: "image" }
       - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
-      - { label: "Kategóriák", name: "categories", widget: "hidden", default: [ "kepzesek" ] }
+      - label: "Kategóriák"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: [ "hirek", "kepzesek", "prevencio", "ifjusag" ]
+        default: [ "kepzesek" ]
       - { label: "Összefoglaló", name: "excerpt", widget: "string" }
       - { label: "Cikk", name: "body", widget: "markdown" }
 
@@ -55,7 +65,12 @@ collections:
       - { label: "Megjelent", name: "date", widget: "datetime" }
       - { label: "Borító", name: "coverImage", widget: "image" }
       - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
-      - { label: "Kategóriák", name: "categories", widget: "hidden", default: [ "prevencio" ] }
+      - label: "Kategóriák"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: [ "hirek", "kepzesek", "prevencio", "ifjusag" ]
+        default: [ "prevencio" ]
       - { label: "Összefoglaló", name: "excerpt", widget: "string" }
       - { label: "Cikk", name: "body", widget: "markdown" }
 
@@ -71,6 +86,11 @@ collections:
       - { label: "Megjelent", name: "date", widget: "datetime" }
       - { label: "Borító", name: "coverImage", widget: "image" }
       - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
-      - { label: "Kategóriák", name: "categories", widget: "hidden", default: [ "ifjusag" ] }
+      - label: "Kategóriák"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: [ "hirek", "kepzesek", "prevencio", "ifjusag" ]
+        default: [ "ifjusag" ]
       - { label: "Összefoglaló", name: "excerpt", widget: "string" }
       - { label: "Cikk", name: "body", widget: "markdown" }
