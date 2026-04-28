@@ -1,7 +1,7 @@
 ---
 title: Nyári tábor
 date: 2026-04-28T16:20:05.181Z
-coverImage: /images/plakát-katasztfófavédelmi-tábor.pdf
+coverImage: /images/plakát-2026.jpg
 scaleDown: false
 categories:
   - hirek
