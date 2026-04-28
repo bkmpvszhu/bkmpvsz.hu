@@ -1,6 +1,6 @@
 ---
 title: Nyári tábor
-date: 2026-04-28T16:20:05.181Z
+date: 2026-04-18T16:20:05.181Z
 coverImage: /images/plakát-2026.jpg
 scaleDown: false
 categories:
