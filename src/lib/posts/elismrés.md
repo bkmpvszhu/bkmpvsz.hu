@@ -1,5 +1,5 @@
 ---
-title: Elismrés
+title: Elismerés
 date: 2026-04-28T17:07:18.416Z
 coverImage: /images/2026-04-28-index.jpg
 scaleDown: true
