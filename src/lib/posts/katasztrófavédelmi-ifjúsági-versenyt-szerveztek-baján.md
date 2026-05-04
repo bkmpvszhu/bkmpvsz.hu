@@ -11,8 +11,6 @@ excerpt: "2026. április 23-án katasztrófavédelmi ifjúsági versenynek adott
   Vármegyei Polgári Védelmi Szövetséggel együttműködésben szervezett meg és
   bonyolított le. "
 ---
-
-
 2026. április 23-án katasztrófavédelmi ifjúsági versenynek adott otthont Baja, amelyet a Bajai Katasztrófavédelmi Kirendeltség a Bács-Kiskun Vármegyei Polgári Védelmi Szövetséggel együttműködésben szervezett meg és bonyolított le.
 
 A megmérettetésen összesen 18 csapat vett részt, köztük 10 középiskolai és 8 általános iskolai csoport. A csapatok döntően Bajáról, de érkeztek Bácsalmásról, Bácsbokodról, Érsekcsanádról és Nagybaracskáról is.
@@ -25,7 +23,11 @@ Az általános iskolások kategóriában a Bácsbokodi Önkéntes Tűzoltó Egye
 
 A verseny végén minden csapat ajándékkal térhetett haza, míg a legjobbak külön elismerésben részesültek: az első helyezett csapat serleget, az első három helyezett pedig érmeket és értékes jutalmakat kapott. Az érmeket és az ajándékokat a Bács-Kiskun Vármegyei Polgári Védelmi Szövetség biztosította, anyagilag is támogatva a rendezvényt.
 
+![](/images/2026-04-23-megnyitó.jpeg)
+
 ![](/images/2026-04-23-célbalövés1.jpg)
+
+![]()
 
 ![](/images/2023-04-23-célbalövés2.jpg)
 
@@ -50,3 +52,9 @@ A verseny végén minden csapat ajándékkal térhetett haza, míg a legjobbak k
 ![](/images/2026-04-23-szerelés.jpg)
 
 ![](/images/2026-04-23-teszt3.jpg)
+
+![](/images/2026-04-23-díjak.jpg)
+
+![](/images/2026-04-23-díjátadás1.jpeg)
+
+![](/images/2026-04-23-díjátadás2.jpeg)
