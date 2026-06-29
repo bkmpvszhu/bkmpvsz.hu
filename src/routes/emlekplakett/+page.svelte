@@ -1,3 +1,6 @@
+<script>
+</script>
+
 <h1>Benke László Emlékplakett</h1>
 
 <div class="intro">
@@ -12,6 +15,11 @@
 </div>
 
 <h2>Díjazottaink</h2>
+
+<h3>2026</h3>
+<ul>
+	<li>Békési Attila</li>
+</ul>
 
 <h3>2025</h3>
 <ul>

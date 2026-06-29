@@ -2,7 +2,7 @@
     import Icon from '@iconify/svelte';
 
     const reports = [];
-    for (let y = 2024; y >= 2011; y--) {
+    for (let y = 2025; y >= 2011; y--) {
         reports.push({ year: y, url: `/pdfs/${y}.pdf` });
     }
 </script>
