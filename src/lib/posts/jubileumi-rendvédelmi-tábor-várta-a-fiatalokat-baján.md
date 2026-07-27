@@ -19,6 +19,8 @@ A rendezvény lebonyolítását a Bács-Kiskun Vármegyei Polgári Védelmi Szö
 A tábor nemzetközi kapcsolatokat is erősített: a programhoz idén négy szerbiai magyar diák is csatlakozott a vajdasági Bajmokról, akik aktív részesei voltak a közös foglalkozásoknak és élményeknek.
 A jubileumi rendvédelmi tábor ismét bizonyította, hogy a játékos, élményalapú ismeretszerzés kiváló lehetőséget kínál a fiatalok számára a rendvédelmi hivatások megismerésére, miközben erősíti az együttműködést, a felelősségérzetet és a közösségi összetartozást. A szervezők bíznak benne, hogy a következő években is hasonló lelkesedéssel és érdeklődéssel térnek vissza a táborozók Bajára.
 
+<https://www.youtube.com/watch?v=RMFxCKV94iY>
+
 ![](/images/2026-06-29-1.jpg)
 
 ![](/images/2026-06-29-2.jpg)
