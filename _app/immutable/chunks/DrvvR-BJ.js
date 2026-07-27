@@ -1,0 +1,11 @@
+import{a as s,f as l}from"./jOqtwBQV.js";import"./Djd6Jr_T.js";import{n as a}from"./tlvavh3R.js";const i={title:"Meghívó",date:"2026-04-28T17:15:13.670Z",coverImage:"/images/2026-04-28-fedlap.png",scaleDown:!0,categories:["hirek"],excerpt:"Tisztelt Szövetségi tag!   A Bács-Kiskun Vármegyei Polgári Védelmi Szövetség Közgyűlését összehívom, melyre tisztelettel meghívom. "},{title:g,date:m,coverImage:p,scaleDown:k,categories:v,excerpt:d}=i;var r=l(`<p>Tisztelt Szövetségi tag!</p> <p>A Bács-Kiskun Vármegyei Polgári Védelmi Szövetség Közgyűlését összehívom, melyre tisztelettel meghívom.
+Az ülés ideje: 2026. május 29. 16.00 óra
+Az ülés helyszíne: Kiskunhalas, Petőfi utca 7. (Tiszti Klub)
+Az ülés tervezett napirendi pontjai:</p> <ol><li>Beszámoló a BKM PVSZ 2025. évi tevékenységéről és a gazdálkodásáról\\
+Előterjesztő: Mészáros Zoltán</li> <li>Felügyelőbizottság jelentése
+Előterjesztő: Faludi Éva Szidónia, FEB elnök</li> <li><ol start="2025"><li>évi Beszámoló elfogadása</li></ol></li> <li>BKM PVSZ 2026. évi Munkatervének elfogadása
+Előterjesztő: Mészáros Zoltán</li> <li>Tájékoztató a BKV PVSZ működésének aktuálisairól
+Előterjesztő: Mészáros Zoltán</li> <li>Egyebek.</li></ol> <p>A Közgyűlés határozatképességére vonatkozóan az Alapszabály 8. 8 pontja alapján „a szavazásra jogosult tagok egyszerű többsége (50%+1 tag személyes jelenlét vagy képviselői útján történő jelenlét) szükséges” miatt megjelenésére föltétlen számítok.
+Amennyiben a Közgyűlés határozatképtelen, akkor a Közgyűlést ismételten összehívom az eredeti napirendi pontok szerint, 2026. május 29.-én 19.00 órára, Kecskemét, Deák Ferenc tér 3. helyszínre. A megismételt közgyűlés az eredeti napirendben szereplő ügyekben a megjelent tagok számára tekintet nélkül határozatképes.
+Kérem, részvételi szándékáról és a napirendi pontokkal kapcsolatos javaslatáról a <a href="mailto:bkvpvsz@gmail.com">bkvpvsz@gmail.com</a> e-mail címre 2026. május 15.-ig visszajelezni szíveskedjen.</p> <p>Kecskemét, 2026. április 28.</p> <p>(Mészáros Zoltán)
+elnök</p> <p><img src="/images/2026-04-28-fedlap.png"/></p> <p><img src="/images/2026-04-28-1h%C3%A1tlap.png"/></p>`,1);function c(e){var t=r();a(14),s(e,t)}export{c as default,i as metadata};
