@@ -1,7 +1,7 @@
 ---
 title: A Bács-Kiskun Vármegyei Petőfi Mentőcsoport sikeres éves ismétlő gyakorlata
 date: 2026-10-13T03:40:42.275Z
-coverImage: /images/2026-10-11-index.jpg
+coverImage: /images/2026-10-11-18.jpg
 scaleDown: false
 categories:
   - hirek
