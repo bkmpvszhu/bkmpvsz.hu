@@ -6,7 +6,7 @@
 	import Header from '#lib/components/Header.svelte';
 	import Footer from '#lib/components/Footer.svelte';
 	import { createAppState } from '#lib/state.svelte.js';
-	import { setContext, onMount } from 'svelte';
+	import { setContext } from 'svelte';
 	import { fade } from 'svelte/transition';
 
 	const transitionIn = { delay: 150, duration: 150 };
@@ -17,21 +17,6 @@
 	// Create and provide app state via context
 	const appState = createAppState();
 	setContext('appState', appState);
-
-	/**
-	 * Netlify Identity integration for CMS login (runs once on mount)
-	 **/
-	onMount(() => {
-		if (window.netlifyIdentity) {
-			window.netlifyIdentity.on('init', (user) => {
-				if (!user) {
-					window.netlifyIdentity.on('login', () => {
-						document.location.href = '/admin/';
-					});
-				}
-			});
-		}
-	});
 </script>
 
 <!--
@@ -47,7 +32,3 @@
 	{/key}
 	<Footer />
 </div>
-
-<svelte:head>
-	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-</svelte:head>
