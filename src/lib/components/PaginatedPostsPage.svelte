@@ -7,11 +7,10 @@
 
 {#if posts.length}
 	<h1>{title}</h1>
-	<Pagination currentPage={page} {totalPosts} path={paginationPath} />
 
 	{@render children?.()}
 
-	<PostsList {posts} />
+	<PostsList {posts} lead={page === 1} />
 
 	<Pagination currentPage={page} {totalPosts} path={paginationPath} />
 {:else}
@@ -21,15 +20,3 @@
 
 	<a href="/">Vissza a főoldalra</a>
 {/if}
-
-<style>
-	h1 {
-		text-align: center;
-	}
-
-	h1::after {
-		width: 50%;
-		margin-left: -25%;
-		left: 50%;
-	}
-</style>
