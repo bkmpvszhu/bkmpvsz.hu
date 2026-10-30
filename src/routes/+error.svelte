@@ -4,11 +4,12 @@
 	import { page } from '$app/state';
 </script>
 
-<h2>{page.status}</h2>
+<svelte:head>
+	<title>BKMPVSZ: {page.status}</title>
+</svelte:head>
 
-<p class="subhead">{page.error?.message || 'Unknown error'}</p>
+<h1>{page.status === 404 ? 'Ez az oldal nem található' : 'Valami hiba történt'}</h1>
 
-<p><strong>Sorry!</strong> Maybe try one of these links?</p>
-<ul>
-	<li><a href="/">Home</a></li>
-</ul>
+<p>Hibakód: {page.status}</p>
+
+<p><a href="/">Vissza a főoldalra</a></p>
