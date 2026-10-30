@@ -1,6 +1,6 @@
 ---
 title: Móra mentőcsoport újraminősítő gyakorlata
-date: 2023.09.15
+date: 2023-09-15T00:00:00.000Z
 coverImage: /images/20230915-3.jpeg
 scaleDown: false
 categories:

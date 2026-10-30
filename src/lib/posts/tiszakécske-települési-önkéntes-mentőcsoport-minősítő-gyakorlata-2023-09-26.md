@@ -1,7 +1,6 @@
 ---
 title: Tiszakécske Települési Önkéntes Mentőcsoport minősítő gyakorlata
-date: 2023.
-  09. 26.
+date: 2023-09-26T00:00:00.000Z
 coverImage: /images/20230926-index.jpg
 categories:
   - kepzesek

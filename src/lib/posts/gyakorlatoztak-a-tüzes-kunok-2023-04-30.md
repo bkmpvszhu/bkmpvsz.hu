@@ -1,6 +1,6 @@
 ---
 title: Gyakorlatoztak a Tüzes Kunok
-date: 2023. 04.29.
+date: 2023-04-29T00:00:00.000Z
 coverImage: /images/230429gyakorlat.jpg
 scaleDown: true
 categories:

@@ -1,7 +1,6 @@
 ---
 title: Kiskunhalasi II. Rákóczi Ferenc Katolikus Gimnázium és Technikum
-date: 2022.
-  12. 01.
+date: 2022-12-01T00:00:00.000Z
 coverImage: /images/20221201-2.jpg
 categories:
   - prevencio
