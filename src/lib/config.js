@@ -29,6 +29,10 @@ export const primaryNav = ['hirek', 'ifjusag', 'kepzesek'].map(categoryNavItem);
 export const secondaryNav = [
 	categoryNavItem('prevencio'),
 	{
+		title: 'Benke László Emlékplakett',
+		route: '/benke-laszlo-emlekplakett'
+	},
+	{
 		title: 'Magunkról',
 		route: '/magunkrol'
 	},
@@ -40,11 +44,6 @@ export const secondaryNav = [
 
 // Shown in the footer only
 export const footerNav = [
-	{
-		title: 'Benke László Emlékplakett',
-		route: '/benke-laszlo-emlekplakett',
-		icon: 'lucide:award'
-	},
 	{
 		title: 'Társoldalak',
 		route: '/tarsoldalak',
