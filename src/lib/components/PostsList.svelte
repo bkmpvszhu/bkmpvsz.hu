@@ -4,7 +4,7 @@
 	let { posts = [] } = $props();
 </script>
 
-<div class="posts-list-container">
+<div class="breakout">
 	<ul class="posts-list">
 		{#each posts as post (post.slug)}
 			<!-- TODO This could be a component-->
@@ -28,24 +28,6 @@
 </div>
 
 <style>
-	.posts-list-container {
-		@media (min-width: 768px) {
-			width: 100vw;
-			max-width: 60rem;
-			margin-left: 50%;
-			transform: translateX(-50%);
-			padding: 0 2rem;
-		}
-
-		@media (min-width: 1024px) {
-			max-width: 75rem;
-		}
-
-		@media (min-width: 1280px) {
-			max-width: 85rem;
-		}
-	}
-
 	.posts-list {
 		list-style-type: none;
 		padding: 0;
