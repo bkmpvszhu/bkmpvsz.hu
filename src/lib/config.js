@@ -1,6 +1,6 @@
 import { categories } from '#lib/utils/categories.js';
 
-export const siteName = 'Bács-Kiskun Vármegyei Polgári Védelmi Szövetség';
+export const siteName = 'Bács-Kiskun Megyei Polgári Védelmi Szövetség';
 export const siteDescription = `${siteName} weboldala`;
 export const siteLink = 'https://bkmpvsz.hu';
 

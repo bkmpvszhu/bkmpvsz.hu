@@ -10,7 +10,7 @@
 		<a href="/" class="site-title">
 			<div class="ribbon"></div>
 			<img src="/logo.png" alt="" class="badge" />
-			<span>Bács-Kiskun Vármegyei</span>
+			<span>Bács-Kiskun Megyei</span>
 			<span>Polgári Védelmi Szövetség</span>
 		</a>
 

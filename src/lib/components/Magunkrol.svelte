@@ -2,8 +2,8 @@
 	Öntevékeny és tettre kész emberekben fogalmazódott meg a gondolat: „Az emberi élet és a
 	környezetünk védelme mindannyiunk közös ügye, és ezért tenni is muszáj!" okán szükség van egy
 	olyan civil szervezetre, amely az egyszerű szerveződésen túlmutatóan megfelelő keretben végzi
-	emberbaráti feladatát. Ez a nemes gondolat vezetett a Bács-Kiskun Vármegyei Polgári Védelmi
-	Szövetség megalakításához (2002).
+	emberbaráti feladatát. Ez a nemes gondolat vezetett a Bács-Kiskun Megyei Polgári Védelmi Szövetség
+	megalakításához (2002).
 </p>
 <p>
 	A Szövetség tevékenységével aktívan közreműködik a megye polgárainak polgári védelmi és
@@ -24,7 +24,7 @@
 	polgári védelmi és katasztrófavédelmi feladatainak végzésében. A közbiztonsági referensek ugyan
 	ezt a munkát végzik, azzal a kiegészítéssel, hogy rendvédelmi és honvédelmi területen is segítik a
 	polgármester munkáját. A közbiztonsági referensek képzése folyamatos, ezt a munkát a Bács-Kiskun
-	Vármegyei Katasztrófavédelmi Igazgatósággal közösen végezzük.
+	Megyei Katasztrófavédelmi Igazgatósággal közösen végezzük.
 </p>
 <p>
 	De nem csak a vezetőket, hanem a lakosságot is el kell érnünk. Ennek érdekében – anyagi
@@ -41,7 +41,7 @@
 	velünk tartó általános- és középiskolások élményeit.
 </p>
 <p>
-	2015 óta egy új feladatrendszerrel bővült a tennivalónk. Nevezetesen a vármegyei-, járási- és
+	2015 óta egy új feladatrendszerrel bővült a tennivalónk. Nevezetesen a megyei-, járási- és
 	települési önkéntes mentőcsoportok képzéséhez, felszerelésük fejlesztéséhez és bővítéséhez,
 	valamint a működésükhöz való hozzájárulás.
 </p>

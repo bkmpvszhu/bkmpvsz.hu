@@ -1,6 +1,6 @@
 <div class="intro">
 	<p>
-		A Bács-Kiskun Vármegyei Polgári Védelmi Szövetség Alapszabályban lefektetett célja szerinti
+		A Bács-Kiskun Megyei Polgári Védelmi Szövetség Alapszabályban lefektetett célja szerinti
 		feladata, egy olyan tanácsadó - felkészítő rendszer megszervezése és működtetése, melynek
 		eredményeként az állampolgárok megismerhetik környezetük veszélyforrásait, képessé válnak
 		önmaguk és embertársaik életét, vagyontárgyait eredményesen oltalmazni, menteni, mind az elemi

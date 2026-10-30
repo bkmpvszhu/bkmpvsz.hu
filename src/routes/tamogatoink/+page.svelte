@@ -91,12 +91,12 @@
 		},
 		{
 			name: 'Lajosmizse önkormányzata',
-			imageSrc: '/logos/HUN_Keleshalom_COA.svg',
+			imageSrc: '/logos/HUN_Lajosmizse_COA.jpg',
 			link: 'http://lajosmizse.hu/'
 		},
 		{
 			name: 'Madaras önkormányzata',
-			imageSrc: '/logos/HUN_Lajosmizse_COA.jpg',
+			imageSrc: '/logos/HUN_Madaras_COA.jpg',
 			link: 'http://madaras.hu/'
 		},
 		{
@@ -150,7 +150,7 @@
 			link: 'http://ujtelek.hu/'
 		},
 		{
-			name: 'Pálmomostora önkormányzata',
+			name: 'Pálmonostora önkormányzata',
 			imageSrc: '/logos/HUN_Palmonostora_COA.svg',
 			link: 'http://palmonostora.hu/'
 		},
