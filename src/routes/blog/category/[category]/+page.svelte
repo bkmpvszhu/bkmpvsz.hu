@@ -19,6 +19,7 @@
 	totalPosts={total}
 	title={categories[category]}
 	paginationPath="/blog/category/{category}/page"
+	sideIntro={category === 'prevencio'}
 >
 	{#if category === 'prevencio'}
 		<PrevencioIntro />

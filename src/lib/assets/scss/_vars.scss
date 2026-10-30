@@ -8,6 +8,7 @@ $lgMin: 1280px;
 	// Colors
 	--red: #ce2939;
 	--green: #264a38;
+	--flag-green: #5aa47c; // Stays visible where the tricolour sits on --green
 	--white: #fff;
 	--stone: #eef0ec;
 	--ink: #17231c;
@@ -15,7 +16,7 @@ $lgMin: 1280px;
 	--line: #d3d8d2;
 
 	// Tricolour, for the ribbon (left to right) and the footer edge (top to bottom)
-	--tricolour: var(--red) 0 33.33%, var(--white) 33.33% 66.66%, var(--green) 66.66% 100%;
+	--tricolour: var(--red) 0 33.33%, var(--white) 33.33% 66.66%, var(--flag-green) 66.66% 100%;
 
 	// Layout
 	--page: 75rem;
