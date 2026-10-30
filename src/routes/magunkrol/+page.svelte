@@ -6,6 +6,15 @@
 	<title>BKMPVSZ: Magunkról</title>
 </svelte:head>
 
-<h1>Magunkról</h1>
+<div class="centred">
+	<h1>Magunkról</h1>
 
-<Magunkrol />
+	<Magunkrol />
+</div>
+
+<style>
+	.centred {
+		max-width: 68ch;
+		margin-inline: auto;
+	}
+</style>

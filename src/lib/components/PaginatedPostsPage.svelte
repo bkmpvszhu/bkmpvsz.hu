@@ -16,7 +16,7 @@
 {#if posts.length}
 	<h1>{title}</h1>
 
-	<div class:columns={sideIntro}>
+	<div class:side-columns={sideIntro} class:wide-right={sideIntro}>
 		{@render children?.()}
 
 		<div>
@@ -34,12 +34,7 @@
 {/if}
 
 <style>
-	.columns {
-		@media (min-width: 1024px) {
-			display: grid;
-			grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
-			gap: 3.5rem;
-			align-items: start;
-		}
+	.wide-right {
+		--right-column: 2fr;
 	}
 </style>
