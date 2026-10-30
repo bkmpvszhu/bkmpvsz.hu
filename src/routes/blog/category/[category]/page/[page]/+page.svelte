@@ -7,7 +7,7 @@
 	let { data } = $props();
 	let page = $derived(data.page);
 	let category = $derived(data.category);
-	let totalPosts = $derived(data.totalPosts);
+	let total = $derived(data.total);
 	let posts = $derived(data.posts ?? []);
 </script>
 
@@ -18,7 +18,7 @@
 <PaginatedPostsPage
 	{posts}
 	{page}
-	{totalPosts}
+	totalPosts={total}
 	title={getCategoryTitle(category)}
 	paginationPath="/blog/category/{category}/page"
 />

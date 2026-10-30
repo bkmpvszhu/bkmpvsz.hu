@@ -1,7 +1,6 @@
 const orgName = 'Bács-Kiskun Vármegyei Polgári Védelmi Szövetség';
 export const siteTitle = orgName;
 export const siteDescription = `${orgName} weboldala`;
-export const siteURL = 'bkmpvsz.hu';
 export const siteLink = 'https://bkmpvsz.hu';
 export const siteAuthor = orgName;
 

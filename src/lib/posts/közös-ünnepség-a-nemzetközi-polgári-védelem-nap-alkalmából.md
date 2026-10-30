@@ -1,6 +1,6 @@
 ---
 title: Közös ünnepség a nemzetközi Polgári Védelem Nap alkalmából
-date: 2016. 03. 02
+date: 2016-03-02T00:00:00.000Z
 coverImage: /images/20160302-6.jpg
 categories:
   - hirek

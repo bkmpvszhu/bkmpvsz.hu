@@ -1,45 +1,32 @@
-// IMPORTANT: update all these property values in src/lib/config.js
-import { siteTitle, siteDescription, siteURL, siteLink } from '#lib/config.js';
+import { siteTitle, siteDescription, siteLink } from '#lib/config.js';
+import { getPosts } from '#lib/server/posts.js';
 
 export const prerender = true;
 
-export const GET = async () => {
-	const data = await Promise.all(
-		Object.entries(import.meta.glob('/src/lib/posts/*.md')).map(async ([path, page]) => {
-			const { metadata } = await page();
-			const slug = path.split('/').pop().split('.').shift();
-			return { ...metadata, slug };
-		})
-	).then((posts) => {
-		return posts.sort((a, b) => new Date(b.date) - new Date(a.date));
-	});
-
-	const body = render(data);
-
-	return new Response(body, {
+export const GET = () =>
+	new Response(render(getPosts()), {
 		headers: {
-			'Cache-Control': `max-age=0, s-max-age=${600}`,
 			'Content-Type': 'application/xml'
 		}
 	});
-};
 
-//Be sure to review and replace any applicable content below!
+const escapeXml = (text) =>
+	text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
 const render = (posts) => `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>${siteTitle}</title>
-<description>${siteDescription}</description>
+<title>${escapeXml(siteTitle)}</title>
+<description>${escapeXml(siteDescription)}</description>
 <link>${siteLink}</link>
-<atom:link href="https://${siteURL}/api/rss.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="${siteLink}/api/rss.xml" rel="self" type="application/rss+xml"/>
 ${posts
 	.map(
 		(post) => `<item>
-<guid isPermaLink="true">https://${siteURL}/blog/${post.slug}</guid>
-<title>${post.title}</title>
-<link>https://${siteURL}/blog/${post.slug}</link>
-<description>${post.excerpt}</description>
-<pubDate>${new Date(post.date).toUTCString()}</pubDate>
+<guid isPermaLink="true">${siteLink}/blog/${post.slug}</guid>
+<title>${escapeXml(post.title)}</title>
+<link>${siteLink}/blog/${post.slug}</link>
+${post.excerpt ? `<description>${escapeXml(post.excerpt)}</description>\n` : ''}<pubDate>${new Date(post.date).toUTCString()}</pubDate>
 </item>`
 	)
 	.join('')}
