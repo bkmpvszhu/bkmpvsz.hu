@@ -62,17 +62,6 @@
 </div>
 
 <style>
-	.flex {
-		display: flex;
-		justify-content: center;
-	}
-
-	img {
-		height: 320px;
-		width: 320px;
-		background: white;
-	}
-
 	p {
 		text-align: justify;
 	}
