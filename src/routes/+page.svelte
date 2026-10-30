@@ -41,7 +41,7 @@
 </section>
 
 <section class="support full-bleed">
-	<div class="support-inner">
+	<div class="support-inner page-width">
 		<div class="section-heading">
 			<h2>Támogatóink</h2>
 			<a href="/tamogatoink">Támogatóink listája</a>
@@ -111,10 +111,6 @@
 	}
 
 	.support-inner {
-		max-width: calc(var(--page) + 2 * var(--gutter));
-		margin-inline: auto;
-		padding-inline: var(--gutter);
-
 		p {
 			margin-block: 0 2rem;
 		}

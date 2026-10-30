@@ -4,9 +4,7 @@
 	import { categories } from '#lib/utils/categories.js';
 
 	let { data } = $props();
-	let posts = $derived(data.posts);
-	let category = $derived(data.category);
-	let total = $derived(data.total);
+	let { posts, category, total } = $derived(data);
 </script>
 
 <svelte:head>
@@ -19,9 +17,5 @@
 	totalPosts={total}
 	title={categories[category]}
 	paginationPath="/blog/category/{category}/page"
-	sideIntro={category === 'prevencio'}
->
-	{#if category === 'prevencio'}
-		<PrevencioIntro />
-	{/if}
-</PaginatedPostsPage>
+	intro={category === 'prevencio' ? PrevencioIntro : undefined}
+/>

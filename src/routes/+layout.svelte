@@ -1,12 +1,8 @@
-<!-- This is the global layout file; it "wraps" every page on the site. (Or more accurately: is the parent component to every page component on the site.) -->
 <script>
 	import '#lib/assets/scss/global.scss';
-	import '#lib/icons.js';
 	import { page } from '$app/state';
 	import Header from '#lib/components/Header.svelte';
 	import Footer from '#lib/components/Footer.svelte';
-	import { createAppState } from '#lib/state.svelte.js';
-	import { setContext } from 'svelte';
 	import { prefersReducedMotion } from 'svelte/motion';
 	import { fade } from 'svelte/transition';
 
@@ -14,17 +10,9 @@
 	const transitionOut = { duration: 100 };
 
 	let { children } = $props();
-
-	// Create and provide app state via context
-	const appState = createAppState();
-	setContext('appState', appState);
 </script>
 
-<!--
-  The below markup is used on every page in the site. The {@render children()} is where the page's
-  actual contents will show up.
--->
-<div class="layout" class:open={appState.isMenuOpen}>
+<div class="layout">
 	<Header />
 	{#key page.url.pathname}
 		<main

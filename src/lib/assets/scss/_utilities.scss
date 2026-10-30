@@ -11,6 +11,13 @@
 	clip-path: inset(50%);
 }
 
+// The page's width, for bands whose background runs edge to edge
+.page-width {
+	max-width: calc(var(--page) + 2 * var(--gutter));
+	margin-inline: auto;
+	padding-inline: var(--gutter);
+}
+
 // Two columns on desktop, stacked below. --right-column sets the right column's share of the width.
 .side-columns {
 	@media (min-width: 1024px) {

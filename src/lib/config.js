@@ -47,6 +47,6 @@ export const footerNav = [
 	{
 		title: 'Társoldalak',
 		route: '/tarsoldalak',
-		icon: 'lucide:link'
+		icon: 'link'
 	}
 ];

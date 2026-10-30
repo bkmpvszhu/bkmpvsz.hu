@@ -1,14 +1,11 @@
 <script>
 	import { primaryNav, secondaryNav } from '#lib/config.js';
-	import { getContext } from 'svelte';
 	import NavItem from './NavItem.svelte';
 	import HamburgerMenuButton from './HamburgerMenuButton.svelte';
-
-	const appState = getContext('appState');
+	import { menu } from '#lib/state.svelte.js';
 </script>
 
-<!-- Contents of this file will be used in the header and the responsive hamburger menu. -->
-<nav class="main-nav" class:open={appState.isMenuOpen}>
+<nav class="main-nav" class:open={menu.open}>
 	<ul class="primary">
 		{#each primaryNav as page (page.route)}
 			<NavItem href={page.route}>

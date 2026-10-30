@@ -6,7 +6,7 @@
 <header>
 	<a class="skip-to-content-link" href="#main"> Ugrás a tartalomra </a>
 
-	<div class="header-inner">
+	<div class="header-inner page-width">
 		<a href="/" class="site-title">
 			<div class="ribbon"></div>
 			<img src="/logo.webp" alt="" class="badge" />

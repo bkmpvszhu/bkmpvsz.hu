@@ -2,12 +2,8 @@
 	import { formatDate } from '#lib/utils/date.js';
 
 	let { data } = $props();
-	let PostContent = $derived(data.PostContent);
-	let meta = $derived(data.meta);
-	let title = $derived(meta.title);
-	let excerpt = $derived(meta.excerpt);
-	let date = $derived(meta.date);
-	let coverImage = $derived(meta.coverImage);
+	let { PostContent, meta } = $derived(data);
+	let { title, excerpt, date, coverImage } = $derived(meta);
 </script>
 
 <svelte:head>
