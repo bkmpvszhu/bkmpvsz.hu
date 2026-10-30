@@ -11,14 +11,7 @@
 			<li class="card">
 				<article>
 					<a href="/blog/{post.slug}">
-						<img
-							src={post.coverImage}
-							alt=""
-							width={post.coverWidth}
-							height={post.coverHeight}
-							style="ratio: {post.coverWidth} / {post.coverHeight}"
-							class:scale-down={post.scaleDown}
-						/>
+						<img src={post.coverImage} alt="" class:scale-down={post.scaleDown} />
 						<h2>
 							{post.title}
 						</h2>

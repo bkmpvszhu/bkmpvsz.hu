@@ -1,6 +1,3 @@
-<script>
-</script>
-
 <h1>Benke László Emlékplakett</h1>
 
 <div class="intro">
