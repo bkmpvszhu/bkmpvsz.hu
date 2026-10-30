@@ -14,11 +14,11 @@
 
 <button
 	onclick={toggleIsMenuOpen}
-	aria-pressed={appState.isMenuOpen}
+	aria-expanded={appState.isMenuOpen}
 	class="menu-button"
 	tabindex={appState.isMenuOpen || !closeOnly ? '0' : '-1'}
 >
-	<span class="sr-only">Menü megjelenítése</span>
+	<span class="sr-only">{closeOnly ? 'Menü bezárása' : 'Menü megnyitása'}</span>
 	{#if closeOnly}
 		<XSVG />
 	{:else}

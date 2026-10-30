@@ -1,18 +1,20 @@
 <script>
 	import MainNav from './MainNav.svelte';
 	import HamburgerMenuButton from './HamburgerMenuButton.svelte';
-	import { siteName } from '#lib/config.js';
 </script>
 
 <header>
 	<a class="skip-to-content-link" href="#main"> Ugrás a tartalomra </a>
 
-	<img src="/logo.png" alt="Katasztrófavédelem" class="logo" />
+	<div class="header-inner">
+		<a href="/" class="site-title">
+			<div class="ribbon"></div>
+			<img src="/logo.png" alt="" class="badge" />
+			<span>Bács-Kiskun Vármegyei</span>
+			<span>Polgári Védelmi Szövetség</span>
+		</a>
 
-	<a href="/" class="site-title">
-		{siteName}
-	</a>
-
-	<HamburgerMenuButton />
-	<MainNav />
+		<HamburgerMenuButton />
+		<MainNav />
+	</div>
 </header>

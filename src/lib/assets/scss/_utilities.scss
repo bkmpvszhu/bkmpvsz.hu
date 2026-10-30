@@ -11,7 +11,30 @@
 	clip-path: inset(50%);
 }
 
-.no-bullets {
+// A plain list of links, one per row
+.link-list {
 	list-style-type: none;
-	padding-left: 0;
+	padding: 0;
+	font-family: var(--headingFont);
+	font-size: 1.2rem;
+	font-weight: 600;
+	line-height: 1.25;
+
+	li {
+		margin: 0;
+		border-top: 1px solid var(--line);
+	}
+
+	a {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		min-height: var(--touch-target-min);
+		padding-block: 0.6rem;
+		text-decoration: none;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
 }
