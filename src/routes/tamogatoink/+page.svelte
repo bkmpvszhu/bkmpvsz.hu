@@ -158,60 +158,62 @@
 	];
 </script>
 
+<svelte:head>
+	<title>BKMPVSZ: Támogatóink</title>
+</svelte:head>
+
 <h1>Támogatóink</h1>
 
-<div class="container">
+<ul class="sponsors">
 	{#each sponsors as sponsor (sponsor.name)}
-		<a class="card" href={sponsor.link} target="_blank">
-			{#if sponsor.imageSrc}
-				<img src={sponsor.imageSrc} alt="logo" />
-			{/if}
-			<p>{sponsor.name}</p>
-		</a>
+		<li>
+			<svelte:element
+				this={sponsor.link ? 'a' : 'div'}
+				class="sponsor"
+				href={sponsor.link}
+				target={sponsor.link ? '_blank' : undefined}
+				rel={sponsor.link ? 'noopener' : undefined}
+			>
+				{#if sponsor.imageSrc}
+					<img src={sponsor.imageSrc} alt="{sponsor.name} logója" loading="lazy" />
+				{/if}
+				<span>{sponsor.name}</span>
+			</svelte:element>
+		</li>
 	{/each}
-</div>
+</ul>
 
 <style>
-	p {
-		margin-top: 0rem;
-		margin-bottom: 0rem;
+	.sponsors {
+		list-style-type: none;
+		max-width: none;
+		padding: 0;
+		margin: 0;
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr));
+		gap: 2.5rem 1.5rem;
+	}
+
+	li {
+		margin: 0;
+	}
+
+	:global(.sponsor) {
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		gap: 0.75rem;
+		text-align: center;
+		font-family: var(--headingFont);
+		font-weight: 600;
+		line-height: 1.15;
+		text-decoration: none;
 	}
 
 	img {
-		max-width: 125px;
-		max-height: 125px;
-	}
-
-	.container {
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: space-evenly;
-	}
-
-	.card {
-		/* Add shadows to create the "card" effect */
-		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-		transition: 0.3s;
-		padding: 0.5rem;
-		margin-bottom: 2rem;
-		border-radius: 15px;
-		background: white;
-		width: 11rem;
-		height: 11rem;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		text-align: center;
-		align-items: center;
-	}
-
-	.card p {
-		margin-top: 1rem;
-		font-weight: bold;
-	}
-
-	/* On mouse-over, add a deeper shadow */
-	.card:hover {
-		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+		height: 6rem;
+		object-fit: contain;
 	}
 </style>

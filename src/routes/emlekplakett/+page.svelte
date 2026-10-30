@@ -26,10 +26,14 @@
 	];
 </script>
 
+<svelte:head>
+	<title>BKMPVSZ: Benke László Emlékplakett</title>
+</svelte:head>
+
 <h1>Benke László Emlékplakett</h1>
 
 <div class="intro">
-	<div class="column" style="margin-right: 1rem">
+	<div>
 		<p>
 			A Szövetség 2013-ban alapította a Benke László Emlékplakettet, melyet azoknak ítél oda, akik
 			elhívatottságukkal és önzetlen munkájukkal szolgálják közös ügyünket.
@@ -47,48 +51,66 @@
 			oda, akik elhívatottságukkal és önzetlen munkájukkal szolgálják közös ügyünket.
 		</p>
 	</div>
-	<img src="/images/benke.jpeg" alt="emlék érme" class="column" />
+	<img src="/images/benke.jpeg" alt="A Benke László Emlékplakett" />
 </div>
 
 <h2>Díjazottaink</h2>
 
-{#each awards as award (award.year)}
-	<h3>{award.year}</h3>
-	<ul>
-		{#each award.names as name (name)}
-			<li>{name}</li>
-		{/each}
-	</ul>
-{/each}
+<dl>
+	{#each awards as award (award.year)}
+		<div>
+			<dt>{award.year}</dt>
+			<dd>
+				{#each award.names as name (name)}
+					<span>{name}</span>
+				{/each}
+			</dd>
+		</div>
+	{/each}
+</dl>
 
 <style>
 	.intro {
-		display: flex;
-		flex-direction: row;
-		flex-wrap: wrap;
-		width: 100%;
-	}
+		display: grid;
+		gap: 2rem 4rem;
 
-	.column {
-		display: flex;
-		flex-direction: column;
-		flex: 1;
+		@media (min-width: 768px) {
+			grid-template-columns: minmax(0, 68ch) 16rem;
+		}
+
+		p:first-child {
+			margin-top: 0;
+		}
 	}
 
 	img {
-		height: 600px;
-		width: 200px;
+		max-width: 16rem;
 	}
 
-	p {
-		text-align: justify;
+	dl {
+		max-width: 44rem;
+		margin: 0;
+
+		div {
+			display: grid;
+			grid-template-columns: 4.5rem 1fr;
+			gap: 1rem;
+			padding-block: 0.6rem;
+			border-top: 1px solid var(--line);
+		}
 	}
 
-	h1 {
-		font-size: 3rem;
+	dt {
+		font-family: var(--headingFont);
+		font-weight: 800;
+		font-size: 1.2rem;
 	}
 
-	h3 {
-		margin-top: 3rem;
+	dd {
+		margin: 0;
+
+		span {
+			display: block;
+		}
 	}
 </style>
