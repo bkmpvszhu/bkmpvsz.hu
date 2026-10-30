@@ -2,12 +2,14 @@
 	import PostsList from '#lib/components/PostsList.svelte';
 	import Pagination from '#lib/components/Pagination.svelte';
 
-	let { posts = [], page, totalPosts, title, paginationPath } = $props();
+	let { posts = [], page, totalPosts, title, paginationPath, children } = $props();
 </script>
 
 {#if posts.length}
 	<h1>{title}</h1>
 	<Pagination currentPage={page} {totalPosts} path={paginationPath} />
+
+	{@render children?.()}
 
 	<PostsList {posts} />
 

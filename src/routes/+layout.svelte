@@ -2,6 +2,7 @@
 <script>
 	import '#lib/assets/scss/global.scss';
 	import '#lib/icons.js';
+	import { page } from '$app/state';
 	import Header from '#lib/components/Header.svelte';
 	import Footer from '#lib/components/Footer.svelte';
 	import { createAppState } from '#lib/state.svelte.js';
@@ -11,20 +12,11 @@
 	const transitionIn = { delay: 150, duration: 150 };
 	const transitionOut = { duration: 100 };
 
-	let { data, children } = $props();
-	let path = $derived(data.path);
+	let { children } = $props();
 
 	// Create and provide app state via context
 	const appState = createAppState();
 	setContext('appState', appState);
-
-	/**
-	 * Updates the global state with the current path. (Used for highlighting
-	 * the current page in the nav, but could be useful for other purposes.)
-	 **/
-	$effect(() => {
-		appState.currentPage = path;
-	});
 
 	/**
 	 * Netlify Identity integration for CMS login (runs once on mount)
@@ -48,7 +40,7 @@
 -->
 <div class="layout" class:open={appState.isMenuOpen}>
 	<Header />
-	{#key path}
+	{#key page.url.pathname}
 		<main id="main" tabindex="-1" in:fade={transitionIn} out:fade={transitionOut}>
 			{@render children()}
 		</main>

@@ -16,11 +16,6 @@ jobs:
       - run: npm ci
       - run: npm run build
 
-      - name: Add CNAME and .nojekyll
-        run: |
-          echo www.bkmpvsz.hu >> ./build/CNAME
-          touch ./build/.nojekyll
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

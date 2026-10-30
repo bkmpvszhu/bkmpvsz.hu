@@ -1,4 +1,4 @@
-import { siteTitle, siteDescription, siteLink } from '#lib/config.js';
+import { siteName, siteDescription, siteLink } from '#lib/config.js';
 import { getPosts } from '#lib/server/posts.js';
 
 export const prerender = true;
@@ -16,7 +16,7 @@ const escapeXml = (text) =>
 const render = (posts) => `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>${escapeXml(siteTitle)}</title>
+<title>${escapeXml(siteName)}</title>
 <description>${escapeXml(siteDescription)}</description>
 <link>${siteLink}</link>
 <atom:link href="${siteLink}/api/rss.xml" rel="self" type="application/rss+xml"/>

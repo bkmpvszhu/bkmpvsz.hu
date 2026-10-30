@@ -1,3 +1,31 @@
+<script>
+	const awards = [
+		{ year: 2026, names: ['Békési Attila'] },
+		{ year: 2025, names: ['Szalka Zoltánné'] },
+		{ year: 2024, names: ['Péjó Lajos'] },
+		{ year: 2023, names: ['Polgár Pál'] },
+		{ year: 2022, names: ['Rausch Sándor (posztumusz)'] },
+		{ year: 2021, names: ['Gödön Sándor'] },
+		{ year: 2020, names: ['Kiss Zoltán'] },
+		{ year: 2019, names: ['Balatonné Sáfrány Erika', 'Kardosné Magony Mária'] },
+		{ year: 2018, names: ['Seresné Farkas Júlia', 'Tóth Árpád'] },
+		{ year: 2017, names: ['P. Szabó Károly (posztumusz)', 'Gémes József'] },
+		{ year: 2016, names: ['Geiger János nyá. mk. pv. ezredes, főtanácsos', 'Dezső Mihály'] },
+		{
+			year: 2015,
+			names: [
+				'Dr. Ferenczi István',
+				'Faludi Éva Szidónia',
+				'Gyetvai István János (posztomusz)',
+				'Lakatos Tamás',
+				'Szekeres Vendelné'
+			]
+		},
+		{ year: 2014, names: ['Farkasné Fazekas Mária', 'Vágó József'] },
+		{ year: 2013, names: ['Hajzer László', 'Szatmári Imre'] }
+	];
+</script>
+
 <h1>Benke László Emlékplakett</h1>
 
 <div class="intro">
@@ -24,85 +52,14 @@
 
 <h2>Díjazottaink</h2>
 
-<h3>2026</h3>
-<ul>
-	<li>Békési Attila</li>
-</ul>
-
-<h3>2025</h3>
-<ul>
-	<li>Szalka Zoltánné</li>
-</ul>
-
-<h3>2024</h3>
-<ul>
-	<li>Péjó Lajos</li>
-</ul>
-
-<h3>2023</h3>
-<ul>
-	<li>Polgár Pál</li>
-</ul>
-
-<h3>2022</h3>
-<ul>
-	<li>Rausch Sándor (posztumusz)</li>
-</ul>
-
-<h3>2021</h3>
-<ul>
-	<li>Gödön Sándor</li>
-</ul>
-
-<h3>2020</h3>
-<ul>
-	<li>Kiss Zoltán</li>
-</ul>
-
-<h3>2019</h3>
-<ul>
-	<li>Balatonné Sáfrány Erika</li>
-	<li>Kardosné Magony Mária</li>
-</ul>
-
-<h3>2018</h3>
-<ul>
-	<li>Seresné Farkas Júlia</li>
-	<li>Tóth Árpád</li>
-</ul>
-
-<h3>2017</h3>
-<ul>
-	<li>P. Szabó Károly (posztumusz)</li>
-	<li>Gémes József</li>
-</ul>
-
-<h3>2016</h3>
-<ul>
-	<li>Geiger János nyá. mk. pv. ezredes, főtanácsos</li>
-	<li>Dezső Mihály</li>
-</ul>
-
-<h3>2015</h3>
-<ul>
-	<li>Dr. Ferenczi István</li>
-	<li>Faludi Éva Szidónia</li>
-	<li>Gyetvai István János (posztomusz)</li>
-	<li>Lakatos Tamás</li>
-	<li>Szekeres Vendelné</li>
-</ul>
-
-<h3>2014</h3>
-<ul>
-	<li>Farkasné Fazekas Mária</li>
-	<li>Vágó József</li>
-</ul>
-
-<h3>2013</h3>
-<ul>
-	<li>Hajzer László</li>
-	<li>Szatmári Imre</li>
-</ul>
+{#each awards as award (award.year)}
+	<h3>{award.year}</h3>
+	<ul>
+		{#each award.names as name (name)}
+			<li>{name}</li>
+		{/each}
+	</ul>
+{/each}
 
 <style>
 	.intro {

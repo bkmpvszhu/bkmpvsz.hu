@@ -1,5 +1,5 @@
 <script>
-	import { siteAuthor, contactInfo } from '#lib/config.js';
+	import { siteName, contactInfo } from '#lib/config.js';
 	import Icon from '@iconify/svelte';
 </script>
 
@@ -33,7 +33,7 @@
 		<li>Bankszámlaszám: {contactInfo.bankAccount}</li>
 		<li>Adószám: {contactInfo.taxNumber}</li>
 		<li>Cégkapu: {contactInfo.companyGate}</li>
-		<li>&copy;{new Date().getFullYear()} {siteAuthor}</li>
+		<li>&copy;{new Date().getFullYear()} {siteName}</li>
 		<li>
 			<a href="/pdfs/alapszabaly.pdf" rel="external">
 				<Icon icon="lucide:file-text" />
@@ -41,7 +41,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="/szamviteli-beszamolok" rel="external">
+			<a href="/szamviteli-beszamolok">
 				<Icon icon="lucide:folder-open" />
 				<span>Számviteli beszámolók</span>
 			</a>

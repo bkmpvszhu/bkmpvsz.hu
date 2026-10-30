@@ -1,7 +1,7 @@
 <script>
 	import { postsPerPage } from '#lib/config.js';
 
-	let { currentPage, totalPosts, path = '/blog/page' } = $props();
+	let { currentPage, totalPosts, path } = $props();
 
 	let pagesAvailable = $derived(Math.ceil(totalPosts / postsPerPage));
 
