@@ -1,9 +1,9 @@
-const orgName = 'Bács-Kiskun Vármegyei Polgári Védelmi Szövetség'
-export const siteTitle = orgName
-export const siteDescription = `${orgName} weboldala`
-export const siteURL = 'bkmpvsz.hu'
-export const siteLink = 'https://bkmpvsz.hu'
-export const siteAuthor = orgName
+const orgName = 'Bács-Kiskun Vármegyei Polgári Védelmi Szövetség';
+export const siteTitle = orgName;
+export const siteDescription = `${orgName} weboldala`;
+export const siteURL = 'bkmpvsz.hu';
+export const siteLink = 'https://bkmpvsz.hu';
+export const siteAuthor = orgName;
 
 // Contact information for footer
 export const contactInfo = {
@@ -14,10 +14,10 @@ export const contactInfo = {
 	bankAccount: '11732002-20414601',
 	taxNumber: '18367186-1-03',
 	companyGate: '18367186'
-}
+};
 
 // Controls how many posts are shown per page on the main blog index pages
-export const postsPerPage = 6
+export const postsPerPage = 6;
 
 // Edit this to alter the main nav menu. (Also used by the footer and mobile nav.)
 export const navItems = [
@@ -52,5 +52,5 @@ export const navItems = [
 	{
 		title: 'Társoldalak',
 		route: '/tarsoldalak'
-	},
-]
+	}
+];

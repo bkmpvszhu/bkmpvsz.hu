@@ -1,5 +1,5 @@
 <script>
-    import Magunkrol from '#lib/components/Magunkrol.svelte';
+	import Magunkrol from '#lib/components/Magunkrol.svelte';
 </script>
 
 <Magunkrol />

@@ -1,8 +1,8 @@
 <script>
-	import PostsList from '#lib/components/PostsList.svelte'
-	import Pagination from '#lib/components/Pagination.svelte'
+	import PostsList from '#lib/components/PostsList.svelte';
+	import Pagination from '#lib/components/Pagination.svelte';
 
-	let { posts = [], page, totalPosts, title, paginationPath } = $props()
+	let { posts = [], page, totalPosts, title, paginationPath } = $props();
 </script>
 
 {#if posts.length}
