@@ -1,4 +1,4 @@
-<div class="pinned-container">
+<div class="breakout">
 	<div class="card pinned">
 		A Bács-Kiskun Vármegyei Polgári Védelmi Szövetség Alapszabályban lefektetett célja szerinti
 		feladata, egy olyan tanácsadó - felkészítő rendszer megszervezése és működtetése, melynek
@@ -34,25 +34,6 @@
 		margin-bottom: 2rem;
 		border-radius: 15px;
 		background: white;
-	}
-
-	.pinned-container {
-		/* Match the PostsList container width using the same breakout technique */
-		@media (min-width: 768px) {
-			width: 100vw;
-			max-width: 60rem;
-			margin-left: 50%;
-			transform: translateX(-50%);
-			padding: 0 2rem;
-		}
-
-		@media (min-width: 1024px) {
-			max-width: 75rem;
-		}
-
-		@media (min-width: 1280px) {
-			max-width: 85rem;
-		}
 	}
 
 	.pinned {
