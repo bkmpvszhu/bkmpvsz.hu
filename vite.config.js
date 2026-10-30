@@ -1,11 +1,19 @@
 import adapter from '@sveltejs/adapter-static';
 import { mdsvex } from 'mdsvex';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
-import preprocess from 'svelte-preprocess';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import rehypeSlug from 'rehype-slug';
 import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vite';
+
+// Post images are decorative and written in the CMS without alt text, so give them an empty one
+const rehypeEmptyAlt = () => (tree) => {
+	const visit = (node) => {
+		if (node.tagName === 'img') node.properties.alt ??= '';
+		node.children?.forEach(visit);
+	};
+	visit(tree);
+};
 
 export default defineConfig({
 	plugins: [
@@ -14,47 +22,17 @@ export default defineConfig({
 			extensions: ['.svelte', '.md'],
 			preprocess: [
 				vitePreprocess(),
-				preprocess({
-					scss: {
-						// Ensures Sass variables are always available inside component <style> blocks as vars.$variableDefinedInFile
-						prependData: `@use 'src/lib/assets/scss/vars';`
-					}
-				}),
 
 				mdsvex({
 					// The default mdsvex extension is .svx; this overrides that.
 					extensions: ['.md'],
 					// Adds IDs to headings, and anchor links to those IDs. Note: must stay in this order to work.
-					rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings]
+					rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings, rehypeEmptyAlt]
 				})
 			],
 
-			adapter: adapter({
-				pages: 'build',
-				assets: 'build',
-				fallback: undefined,
-				precompress: false,
-				strict: false
-			}),
-
-			prerender: {
-				handleHttpError: ({ path, message }) => {
-					// Ignore 404s for missing logos and images
-					if (path.startsWith('/logos/') || path.startsWith('/images/')) {
-						return;
-					}
-
-					// Throw on other errors
-					throw new Error(message);
-				},
-				handleUnseenRoutes: 'ignore'
-			},
-			onwarn: (warning, handler) => {
-				// Suppress a11y warnings for missing alt attributes
-				if (warning.code === 'a11y_missing_attribute') return;
-				handler(warning);
-			}
+			// src/routes/admin only exists on the dev server; static/admin serves the CMS in production
+			adapter: adapter({ strict: false })
 		})
-	],
-	server: { fs: { allow: ['.'] } }
+	]
 });
