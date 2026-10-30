@@ -26,7 +26,7 @@
 		<p><a href="/magunkrol">Bemutatkozásunk</a></p>
 	</div>
 	<img
-		src="/images/2026-10-11-5.jpg"
+		src="/images/home-hero.jpg"
 		alt="A Petőfi Mentőcsoport tagjai homokzsákokkal dolgoznak a Tisza partján, a 2026. októberi gyakorlaton"
 		fetchpriority="high"
 	/>

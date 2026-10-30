@@ -5,11 +5,16 @@
 </script>
 
 <ul class="posts-list">
-	{#each posts as post (post.slug)}
+	{#each posts as post, i (post.slug)}
 		<li>
 			<article>
 				<a href="/blog/{post.slug}" tabindex="-1" aria-hidden="true">
-					<img src={post.coverImage} alt="" class:scale-down={post.scaleDown} loading="lazy" />
+					<img
+						src={post.coverImage}
+						alt=""
+						class:scale-down={post.scaleDown}
+						loading={i === 0 ? 'eager' : 'lazy'}
+					/>
 				</a>
 				<div>
 					<time datetime={new Date(post.date).toISOString()}>{formatDate(post.date)}</time>
@@ -42,6 +47,7 @@
 
 	article {
 		display: grid;
+		grid-template-columns: minmax(0, 1fr);
 		gap: 0.85rem 2rem;
 
 		@media (min-width: 600px) {

@@ -6,7 +6,9 @@
 
 	// Tabbing scrolls the clipped row to the focused link, so put it back for the animation
 	const resetScroll = ({ currentTarget, relatedTarget }) => {
-		if (!prefersReducedMotion.current && !currentTarget.contains(relatedTarget)) {
+		// Focus stays on the link when only the window loses focus, as when a link opens a new tab
+		const stillFocused = currentTarget.contains(relatedTarget ?? document.activeElement);
+		if (!prefersReducedMotion.current && !stillFocused) {
 			currentTarget.scrollLeft = 0;
 		}
 	};
@@ -25,7 +27,7 @@
 							rel="noopener"
 							tabindex={isCopy ? -1 : undefined}
 						>
-							<img src={sponsor.imageSrc} alt="{sponsor.name} logója" />
+							<img src={sponsor.imageSrc} alt="{sponsor.name} logója" loading="lazy" />
 						</a>
 					</li>
 				{/each}
@@ -45,9 +47,10 @@
 		width: max-content;
 		animation: scroll 110s linear infinite;
 
-		&:hover,
-		&:focus-within {
-			animation-play-state: paused;
+		@media (hover: hover) {
+			&:hover {
+				animation-play-state: paused;
+			}
 		}
 
 		/* A moved link could sit out of reach to the left, so keyboard users get the row at rest */

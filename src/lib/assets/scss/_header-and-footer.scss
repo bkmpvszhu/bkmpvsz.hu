@@ -52,13 +52,7 @@ header {
 	left: calc(var(--gutter) + (var(--badge) - var(--ribbon-width)) / 2);
 	width: var(--ribbon-width);
 	height: calc(var(--ribbon-drop) + 12px);
-	// The usual green would vanish into the header, so the ribbon has a brighter one
-	background: linear-gradient(
-		to right,
-		var(--red) 0 33.33%,
-		var(--white) 33.33% 66.66%,
-		#5aa47c 66.66% 100%
-	);
+	background: linear-gradient(to right, var(--tricolour));
 }
 
 .badge {
