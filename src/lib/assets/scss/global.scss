@@ -1,7 +1,7 @@
 @use './typography';
 @use './layout';
-@use './header-and-footer';
 @use './utilities';
+@use './header-and-footer';
 
 *:focus-visible {
 	outline: 3px solid var(--green);

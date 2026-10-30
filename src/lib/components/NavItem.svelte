@@ -1,16 +1,14 @@
 <script>
 	import { page } from '$app/state';
-	import { getContext } from 'svelte';
+	import { menu } from '#lib/state.svelte.js';
 
 	let { href, children } = $props();
-
-	const appState = getContext('appState');
 
 	let isCurrentPage = $derived(page.url.pathname.startsWith(href));
 
 	const maybeCloseMenu = () => {
 		if (href !== page.url.pathname) {
-			appState.isMenuOpen = false;
+			menu.open = false;
 		}
 	};
 </script>

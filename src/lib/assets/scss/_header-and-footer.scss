@@ -30,8 +30,6 @@ header {
 
 .header-inner {
 	position: relative;
-	max-width: calc(var(--page) + 2 * var(--gutter));
-	margin-inline: auto;
 	padding: 0.85rem calc(var(--gutter) + var(--touch-target-min)) 0.85rem
 		calc(var(--gutter) + var(--badge) + var(--badge-gap));
 	min-height: 92px;

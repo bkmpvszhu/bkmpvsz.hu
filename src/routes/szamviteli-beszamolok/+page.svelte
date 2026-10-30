@@ -1,5 +1,5 @@
 <script>
-	import Icon from '@iconify/svelte';
+	import Icon from '#lib/components/Icon.svelte';
 
 	const reports = [];
 	for (let y = 2025; y >= 2011; y--) {
@@ -17,7 +17,7 @@
 	{#each reports as report (report.year)}
 		<li>
 			<a href={report.url} rel="external">
-				<Icon icon="lucide:file-text" />
+				<Icon name="file-text" />
 				<span>{report.year}. évi számviteli beszámoló és közhasznúsági mellékletei</span>
 			</a>
 		</li>

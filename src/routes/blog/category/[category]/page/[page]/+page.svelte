@@ -3,10 +3,7 @@
 	import { categories } from '#lib/utils/categories.js';
 
 	let { data } = $props();
-	let page = $derived(data.page);
-	let category = $derived(data.category);
-	let total = $derived(data.total);
-	let posts = $derived(data.posts);
+	let { page, category, total, posts } = $derived(data);
 </script>
 
 <svelte:head>

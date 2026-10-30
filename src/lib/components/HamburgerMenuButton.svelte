@@ -1,22 +1,16 @@
 <script>
-	import { getContext } from 'svelte';
+	import { menu } from '#lib/state.svelte.js';
 	import HamburgerSVG from './svg/HamburgerSVG.svelte';
 	import XSVG from './svg/XSVG.svelte';
 
 	let { closeOnly = false } = $props();
-
-	const appState = getContext('appState');
-
-	const toggleIsMenuOpen = () => {
-		appState.toggleMenu();
-	};
 </script>
 
 <button
-	onclick={toggleIsMenuOpen}
-	aria-expanded={appState.isMenuOpen}
+	onclick={() => (menu.open = !menu.open)}
+	aria-expanded={menu.open}
 	class="menu-button"
-	tabindex={appState.isMenuOpen || !closeOnly ? '0' : '-1'}
+	tabindex={menu.open || !closeOnly ? '0' : '-1'}
 >
 	<span class="sr-only">{closeOnly ? 'Menü bezárása' : 'Menü megnyitása'}</span>
 	{#if closeOnly}

@@ -2,22 +2,16 @@
 	import PostsList from '#lib/components/PostsList.svelte';
 	import Pagination from '#lib/components/Pagination.svelte';
 
-	let {
-		posts = [],
-		page,
-		totalPosts,
-		title,
-		paginationPath,
-		sideIntro = false,
-		children
-	} = $props();
+	let { posts = [], page, totalPosts, title, paginationPath, intro: Intro } = $props();
 </script>
 
 {#if posts.length}
 	<h1>{title}</h1>
 
-	<div class:side-columns={sideIntro} class:wide-right={sideIntro}>
-		{@render children?.()}
+	<div class:side-columns={Intro} class:wide-right={Intro}>
+		{#if Intro}
+			<Intro />
+		{/if}
 
 		<div>
 			<PostsList {posts} />

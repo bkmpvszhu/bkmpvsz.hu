@@ -1,29 +1,29 @@
 <script>
 	import { siteName, contactInfo, footerNav } from '#lib/config.js';
-	import Icon from '@iconify/svelte';
+	import Icon from '#lib/components/Icon.svelte';
 </script>
 
 <footer>
-	<div class="columns">
+	<div class="columns page-width">
 		<section>
 			<h2>Elérhetőségeink</h2>
 			<ul>
 				<li>
-					<Icon icon="lucide:map-pin" />
+					<Icon name="map-pin" />
 					<span>{contactInfo.address}</span>
 				</li>
 				{#each contactInfo.phones as phone (phone)}
 					<li>
-						<Icon icon="lucide:phone" />
+						<Icon name="phone" />
 						<a href="tel:{phone.replace(/[^+\d]/g, '')}">{phone}</a>
 					</li>
 				{/each}
 				<li>
-					<Icon icon="lucide:mail" />
+					<Icon name="mail" />
 					<a href="mailto:{contactInfo.email}">{contactInfo.email}</a>
 				</li>
 				<li>
-					<Icon icon="lucide:user" />
+					<Icon name="user" />
 					<a href="/admin/index.html" rel="external" class="quiet">{contactInfo.president} elnök</a>
 				</li>
 			</ul>
@@ -42,16 +42,16 @@
 			<h2>Dokumentumok</h2>
 			<ul>
 				<li>
-					<Icon icon="lucide:file-text" />
+					<Icon name="file-text" />
 					<a href="/pdfs/alapszabaly.pdf" rel="external">Alapszabály</a>
 				</li>
 				<li>
-					<Icon icon="lucide:folder-open" />
+					<Icon name="folder-open" />
 					<a href="/szamviteli-beszamolok">Számviteli beszámolók</a>
 				</li>
 				{#each footerNav as page (page.route)}
 					<li>
-						<Icon icon={page.icon} />
+						<Icon name={page.icon} />
 						<a href={page.route}>{page.title}</a>
 					</li>
 				{/each}
@@ -59,17 +59,10 @@
 		</section>
 	</div>
 
-	<p class="copyright">&copy;{new Date().getFullYear()} {siteName}</p>
+	<p class="copyright page-width">&copy;{new Date().getFullYear()} {siteName}</p>
 </footer>
 
 <style>
-	.columns,
-	.copyright {
-		max-width: calc(var(--page) + 2 * var(--gutter));
-		margin-inline: auto;
-		padding-inline: var(--gutter);
-	}
-
 	.columns {
 		display: grid;
 		gap: 2rem;

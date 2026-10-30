@@ -1,5 +1,5 @@
 <script>
-	import Icon from '@iconify/svelte';
+	import Icon from '#lib/components/Icon.svelte';
 	import { postsPerPage } from '#lib/config.js';
 
 	let { currentPage, totalPosts, path } = $props();
@@ -24,7 +24,7 @@
 			{#if currentPage > 1}
 				<li>
 					<a href="{path}/{currentPage - 1}" aria-label="Előző oldal">
-						<Icon icon="lucide:chevron-left" />
+						<Icon name="chevron-left" />
 					</a>
 				</li>
 			{/if}
@@ -45,7 +45,7 @@
 			{#if currentPage < pagesAvailable}
 				<li>
 					<a href="{path}/{currentPage + 1}" aria-label="Következő oldal">
-						<Icon icon="lucide:chevron-right" />
+						<Icon name="chevron-right" />
 					</a>
 				</li>
 			{/if}
