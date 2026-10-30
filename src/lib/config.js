@@ -42,7 +42,7 @@ export const secondaryNav = [
 export const footerNav = [
 	{
 		title: 'Benke László Emlékplakett',
-		route: '/emlekplakett',
+		route: '/benke-laszlo-emlekplakett',
 		icon: 'lucide:award'
 	},
 	{
