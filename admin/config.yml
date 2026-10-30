@@ -1,0 +1,75 @@
+backend:
+  name: github
+  repo: bkmpvszhu/bkmpvsz.hu
+  branch: master
+
+media_folder: /static/images
+public_folder: /images
+
+locale: 'hu'
+
+collections:
+  - &collection
+    name: hirek
+    label: "Hírek"
+    folder: "src/lib/posts"
+    create: true
+    slug: "{{slug}}"
+    filter: { field: "categories", value: "hirek" }
+    sortable_fields: [ 'date', 'title' ]
+    fields:
+      - &title { label: "Cím", name: "title", widget: "string" }
+      - &date { label: "Megjelent", name: "date", widget: "datetime" }
+      - &coverImage { label: "Borító", name: "coverImage", widget: "image" }
+      - &scaleDown { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
+      - &categories
+        label: "Kategóriák"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: [ "hirek", "kepzesek", "prevencio", "ifjusag" ]
+        default: [ "hirek" ]
+      - &excerpt { label: "Összefoglaló", name: "excerpt", widget: "string" }
+      - &body { label: "Cikk", name: "body", widget: "markdown" }
+
+  - <<: *collection
+    name: kepzesek
+    label: "Képzések"
+    filter: { field: "categories", value: "kepzesek" }
+    sortable_fields: [ 'date' ]
+    fields:
+      - *title
+      - *date
+      - *coverImage
+      - *scaleDown
+      - { <<: *categories, default: [ "kepzesek" ] }
+      - *excerpt
+      - *body
+
+  - <<: *collection
+    name: prevencio
+    label: "Prevenció"
+    filter: { field: "categories", value: "prevencio" }
+    sortable_fields: [ 'date' ]
+    fields:
+      - *title
+      - *date
+      - *coverImage
+      - *scaleDown
+      - { <<: *categories, default: [ "prevencio" ] }
+      - *excerpt
+      - *body
+
+  - <<: *collection
+    name: ifjusag
+    label: "Ifjúság"
+    filter: { field: "categories", value: "ifjusag" }
+    sortable_fields: [ 'date' ]
+    fields:
+      - *title
+      - *date
+      - *coverImage
+      - *scaleDown
+      - { <<: *categories, default: [ "ifjusag" ] }
+      - *excerpt
+      - *body
