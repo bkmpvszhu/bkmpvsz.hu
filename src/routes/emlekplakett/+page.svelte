@@ -16,7 +16,7 @@
 			names: [
 				'Dr. Ferenczi István',
 				'Faludi Éva Szidónia',
-				'Gyetvai István János (posztomusz)',
+				'Gyetvai István János (posztumusz)',
 				'Lakatos Tamás',
 				'Szekeres Vendelné'
 			]
@@ -40,7 +40,7 @@
 		</p>
 
 		<p>
-			Benke László (1929-2008) a Bács-Kiskun Vármegyei Polgári Védelmi Szövetség alapító tagja volt,
+			Benke László (1929-2008) a Bács-Kiskun Megyei Polgári Védelmi Szövetség alapító tagja volt,
 			egyben a szövetség Kiskunhalasi Csoportjának vezetője, aki a kezdetektől a haláláig
 			elévülhetetlen szerepet töltött be szervezetünkben. Emberségből, tisztességből és
 			szakmaiságból egyaránt felülírhatatlan mércét állított mindannyiunknak.
