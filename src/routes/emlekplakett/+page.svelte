@@ -5,13 +5,24 @@
 
 <div class="intro">
 	<div class="column" style="margin-right: 1rem">
-		<p>A Szövetség 2013-ban alapította a Benke László Emlékplakettet, melyet azoknak ítél oda, akik elhívatottságukkal és önzetlen munkájukkal szolgálják közös ügyünket.</p>
+		<p>
+			A Szövetség 2013-ban alapította a Benke László Emlékplakettet, melyet azoknak ítél oda, akik
+			elhívatottságukkal és önzetlen munkájukkal szolgálják közös ügyünket.
+		</p>
 
-		<p>Benke László (1929-2008) a Bács-Kiskun Vármegyei Polgári Védelmi Szövetség alapító tagja volt, egyben a szövetség Kiskunhalasi Csoportjának vezetője, aki a kezdetektől a haláláig elévülhetetlen szerepet töltött be szervezetünkben. Emberségből, tisztességből és szakmaiságból egyaránt felülírhatatlan mércét állított mindannyiunknak.</p>
+		<p>
+			Benke László (1929-2008) a Bács-Kiskun Vármegyei Polgári Védelmi Szövetség alapító tagja volt,
+			egyben a szövetség Kiskunhalasi Csoportjának vezetője, aki a kezdetektől a haláláig
+			elévülhetetlen szerepet töltött be szervezetünkben. Emberségből, tisztességből és
+			szakmaiságból egyaránt felülírhatatlan mércét állított mindannyiunknak.
+		</p>
 
-		<p>Emléke tiszteletére alapítottuk a Benke László Emlékplakettet, melyet a Szövetség azoknak ítél oda, akik elhívatottságukkal és önzetlen munkájukkal szolgálják közös ügyünket.</p>
+		<p>
+			Emléke tiszteletére alapítottuk a Benke László Emlékplakettet, melyet a Szövetség azoknak ítél
+			oda, akik elhívatottságukkal és önzetlen munkájukkal szolgálják közös ügyünket.
+		</p>
 	</div>
-	<img src="/images/benke.jpeg" alt="emlék érme"  class="column">
+	<img src="/images/benke.jpeg" alt="emlék érme" class="column" />
 </div>
 
 <h2>Díjazottaink</h2>

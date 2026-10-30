@@ -1,7 +1,7 @@
 <script>
-	import { formatDate } from '#lib/utils/date.js'
+	import { formatDate } from '#lib/utils/date.js';
 
-	let { posts = [] } = $props()
+	let { posts = [] } = $props();
 </script>
 
 <div class="posts-list-container">
@@ -12,12 +12,12 @@
 				<article>
 					<a href="/blog/{post.slug}">
 						<img
-								src={post.coverImage}
-								alt=""
-								width={post.coverWidth}
-								height={post.coverHeight}
-								style="ratio: {post.coverWidth} / {post.coverHeight}"
-								class:scale-down="{post.scaleDown}"
+							src={post.coverImage}
+							alt=""
+							width={post.coverWidth}
+							height={post.coverHeight}
+							style="ratio: {post.coverWidth} / {post.coverHeight}"
+							class:scale-down={post.scaleDown}
 						/>
 						<h2>
 							{post.title}

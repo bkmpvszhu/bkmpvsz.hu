@@ -1,16 +1,15 @@
 <script>
-	import { siteAuthor, contactInfo } from '#lib/config.js'
+	import { siteAuthor, contactInfo } from '#lib/config.js';
 	import Icon from '@iconify/svelte';
 </script>
 
 <footer>
-
 	<nav>
 		<span> Elérhetőségeink:</span>
 
 		<ul>
 			<li>
-				<Icon icon="lucide:map-pin"/>
+				<Icon icon="lucide:map-pin" />
 				<span> {contactInfo.address} </span>
 			</li>
 			{#each contactInfo.phones as phone (phone)}
@@ -35,16 +34,19 @@
 		<li>Adószám: {contactInfo.taxNumber}</li>
 		<li>Cégkapu: {contactInfo.companyGate}</li>
 		<li>&copy;{new Date().getFullYear()} {siteAuthor}</li>
-		<li><a href="/pdfs/alapszabaly.pdf" rel=external>
-			<Icon icon="lucide:file-text" />
-			<span>Alapszabály</span>
-		</a></li>
-		<li><a href="/szamviteli-beszamolok" rel=external>
-			<Icon icon="lucide:folder-open" />
-			<span>Számviteli beszámolók</span>
-		</a></li>
+		<li>
+			<a href="/pdfs/alapszabaly.pdf" rel="external">
+				<Icon icon="lucide:file-text" />
+				<span>Alapszabály</span>
+			</a>
+		</li>
+		<li>
+			<a href="/szamviteli-beszamolok" rel="external">
+				<Icon icon="lucide:folder-open" />
+				<span>Számviteli beszámolók</span>
+			</a>
+		</li>
 	</ul>
-
 </footer>
 
 <style>

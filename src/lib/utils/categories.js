@@ -4,8 +4,8 @@ export const categories = {
 	ifjusag: 'Ifjúsági események',
 	kepzesek: 'Felkészítések, képzések',
 	prevencio: 'Drogprevenció'
-}
+};
 
 export function getCategoryTitle(slug) {
-	return categories[slug] ?? ''
+	return categories[slug] ?? '';
 }
