@@ -1,26 +1,25 @@
 <script>
 	import { formatDate } from '#lib/utils/date.js';
 
-	let { posts = [], lead = false, heading = 'h2' } = $props();
+	let { posts = [], heading = 'h2' } = $props();
 </script>
 
 <ul class="posts-list">
-	{#each posts as post, i (post.slug)}
-		<li class:lead={lead && i === 0}>
+	{#each posts as post (post.slug)}
+		<li>
 			<article>
-				<a href="/blog/{post.slug}">
-					<img
-						src={post.coverImage}
-						alt=""
-						class:scale-down={post.scaleDown}
-						loading={lead && i === 0 ? 'eager' : 'lazy'}
-					/>
-					<svelte:element this={heading} class="post-title">{post.title}</svelte:element>
+				<a href="/blog/{post.slug}" tabindex="-1" aria-hidden="true">
+					<img src={post.coverImage} alt="" class:scale-down={post.scaleDown} loading="lazy" />
 				</a>
-				<time datetime={new Date(post.date).toISOString()}>{formatDate(post.date)}</time>
-				{#if post.excerpt}
-					<p>{post.excerpt}</p>
-				{/if}
+				<div>
+					<time datetime={new Date(post.date).toISOString()}>{formatDate(post.date)}</time>
+					<svelte:element this={heading} class="post-title">
+						<a href="/blog/{post.slug}">{post.title}</a>
+					</svelte:element>
+					{#if post.excerpt}
+						<p>{post.excerpt}</p>
+					{/if}
+				</div>
 			</article>
 		</li>
 	{/each}
@@ -32,52 +31,25 @@
 		max-width: none;
 		padding: 0;
 		margin: 0;
-		display: grid;
-		gap: 2.5rem 2rem;
-
-		@media (min-width: 600px) {
-			grid-template-columns: repeat(2, 1fr);
-		}
-
-		@media (min-width: 1024px) {
-			grid-template-columns: repeat(3, 1fr);
-		}
+		border-bottom: 1px solid var(--line);
 	}
 
 	li {
 		margin: 0;
-		min-width: 0;
+		padding-block: 1.5rem;
+		border-top: 1px solid var(--line);
 	}
 
-	/* On two columns the lead only spans the row when that keeps the rows even */
-	@media (min-width: 600px) {
-		.lead:nth-last-child(odd) {
-			grid-column: span 2;
-		}
-	}
+	article {
+		display: grid;
+		gap: 0.85rem 2rem;
 
-	@media (min-width: 1024px) {
-		.lead,
-		.lead:nth-last-child(odd) {
-			grid-column: span 2;
-			grid-row: span 2;
-		}
-	}
-
-	a {
-		display: block;
-		color: inherit;
-		text-decoration: none;
-
-		&:hover {
-			color: var(--red);
+		@media (min-width: 600px) {
+			grid-template-columns: 13rem minmax(0, 1fr);
 		}
 
-		&:hover :global(.post-title) {
-			color: inherit;
-			text-decoration: underline;
-			text-decoration-thickness: 2px;
-			text-underline-offset: 0.12em;
+		@media (min-width: 1024px) {
+			grid-template-columns: 17rem minmax(0, 1fr);
 		}
 	}
 
@@ -91,35 +63,37 @@
 		object-fit: contain;
 	}
 
-	a :global(.post-title) {
-		margin: 0.85rem 0 0.25rem;
-		font-size: 1.5rem;
-		line-height: 1.08;
-		text-wrap: pretty;
-	}
-
-	.lead a :global(.post-title) {
-		font-size: clamp(1.7rem, 3.2vw, 2.5rem);
-		line-height: 1.02;
-	}
-
 	time {
 		font-family: var(--headingFont);
 		font-weight: 600;
 		color: var(--muted);
 	}
 
-	p {
-		margin: 0.4rem 0 0;
-		display: -webkit-box;
-		-webkit-box-orient: vertical;
-		-webkit-line-clamp: 4;
-		line-clamp: 4;
-		overflow: hidden;
+	article :global(.post-title) {
+		margin: 0.1rem 0 0.4rem;
+		font-size: clamp(1.45rem, 2.4vw, 1.8rem);
+		line-height: 1.08;
+		text-wrap: pretty;
 	}
 
-	.lead p {
-		-webkit-line-clamp: 5;
-		line-clamp: 5;
+	article :global(.post-title a) {
+		color: var(--ink);
+		text-decoration: none;
+	}
+
+	article :global(.post-title a:hover) {
+		color: var(--red);
+		text-decoration: underline;
+		text-decoration-thickness: 2px;
+		text-underline-offset: 0.12em;
+	}
+
+	p {
+		margin: 0;
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 3;
+		line-clamp: 3;
+		overflow: hidden;
 	}
 </style>

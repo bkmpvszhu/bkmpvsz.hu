@@ -9,7 +9,8 @@ header {
 	position: relative;
 	z-index: 2;
 	font-family: var(--headingFont);
-	background: var(--white);
+	color: var(--white);
+	background: var(--green);
 
 	@media (min-width: vars.$mdMin) {
 		--badge: 128px;
@@ -20,6 +21,10 @@ header {
 
 	a {
 		text-decoration: none;
+	}
+
+	*:focus-visible {
+		outline-color: var(--white);
 	}
 }
 
@@ -47,7 +52,13 @@ header {
 	left: calc(var(--gutter) + (var(--badge) - var(--ribbon-width)) / 2);
 	width: var(--ribbon-width);
 	height: calc(var(--ribbon-drop) + 12px);
-	background: linear-gradient(to right, var(--tricolour));
+	// The usual green would vanish into the header, so the ribbon has a brighter one
+	background: linear-gradient(
+		to right,
+		var(--red) 0 33.33%,
+		var(--white) 33.33% 66.66%,
+		#5aa47c 66.66% 100%
+	);
 }
 
 .badge {
@@ -60,7 +71,7 @@ header {
 
 .site-title {
 	display: block;
-	color: var(--ink);
+	color: var(--white);
 	font-weight: 800;
 	font-size: 1.15rem;
 	line-height: 1.05;
@@ -80,7 +91,7 @@ header {
 	}
 
 	&:hover {
-		color: var(--ink);
+		color: var(--white);
 	}
 }
 
@@ -89,7 +100,7 @@ header {
 	padding: 0.5rem;
 	border: 0;
 	background: transparent;
-	color: var(--ink);
+	color: var(--white);
 	width: var(--touch-target-min);
 	height: var(--touch-target-min);
 	display: flex;
@@ -115,6 +126,7 @@ header {
 	transform: translateY(-50%);
 }
 
+// The mobile menu is a white overlay; from $mdMin the nav sits on the green header
 .main-nav {
 	position: fixed;
 	z-index: 3;
@@ -122,8 +134,10 @@ header {
 	height: 100dvh;
 	overflow-y: auto;
 	display: flex;
-	align-items: center;
+	flex-direction: column;
+	justify-content: center;
 	padding: 4rem var(--gutter) 2rem;
+	color: var(--ink);
 	background: var(--white);
 	visibility: hidden;
 	opacity: 0;
@@ -134,6 +148,10 @@ header {
 	&.open {
 		visibility: visible;
 		opacity: 1;
+	}
+
+	*:focus-visible {
+		outline-color: var(--red);
 	}
 
 	ul {
@@ -153,8 +171,8 @@ header {
 		display: block;
 		padding-block: 0.7rem;
 		color: var(--ink);
-		font-size: 1.5rem;
-		font-weight: 700;
+		font-size: 1.75rem;
+		font-weight: 800;
 		line-height: 1.15;
 
 		&:hover,
@@ -163,26 +181,43 @@ header {
 		}
 	}
 
+	.secondary a {
+		font-size: 1.2rem;
+		font-weight: 500;
+	}
+
 	> .menu-button {
 		position: absolute;
 		top: 0.75rem;
 		right: calc(var(--gutter) - 0.5rem);
+		color: var(--ink);
 	}
 
 	@media (min-width: vars.$mdMin) {
 		position: static;
 		height: auto;
 		overflow: visible;
-		display: block;
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: center;
+		gap: 1.5rem;
 		padding: 0;
 		margin-top: 0.25rem;
+		color: var(--white);
+		background: transparent;
 		visibility: visible;
 		opacity: 1;
 		transition: none;
 
+		*:focus-visible {
+			outline-color: var(--white);
+		}
+
 		ul {
 			display: flex;
-			gap: 0 0.8rem;
+			align-items: center;
+			gap: 0 1.1rem;
+			width: auto;
 		}
 
 		li {
@@ -195,24 +230,67 @@ header {
 			align-items: center;
 			min-height: var(--touch-target-min);
 			padding: 0;
-			font-size: 0.92rem;
-			font-weight: 600;
+			color: var(--white);
+			font-size: 1.3rem;
 
+			&:hover,
 			&.active {
+				color: var(--white);
 				text-decoration: underline;
 				text-decoration-thickness: 3px;
 				text-underline-offset: 0.35em;
 			}
 		}
+
+		// Always underlined, so the links don't read like the white site title
+		.primary a {
+			text-decoration: underline;
+			text-decoration-color: rgb(255 255 255 / 55%);
+			text-decoration-thickness: 2px;
+			text-underline-offset: 0.3em;
+
+			&:hover,
+			&.active {
+				text-decoration-color: var(--white);
+				text-decoration-thickness: 4px;
+			}
+		}
+
+		.secondary {
+			padding-left: 1.5rem;
+			border-left: 1px solid rgb(255 255 255 / 40%);
+
+			a {
+				font-size: 1rem;
+				text-decoration: underline;
+				text-decoration-thickness: 1px;
+				text-underline-offset: 0.3em;
+
+				&:hover,
+				&.active {
+					text-decoration-thickness: 3px;
+				}
+			}
+		}
 	}
 
 	@media (min-width: vars.$lgMin) {
+		gap: 2rem;
+
 		ul {
 			gap: 0 1.6rem;
 		}
 
 		a {
-			font-size: 1.1rem;
+			font-size: 1.5rem;
+		}
+
+		.secondary {
+			padding-left: 2rem;
+
+			a {
+				font-size: 1.1rem;
+			}
 		}
 	}
 }

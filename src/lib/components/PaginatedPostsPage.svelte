@@ -10,7 +10,7 @@
 
 	{@render children?.()}
 
-	<PostsList {posts} lead={page === 1} />
+	<PostsList {posts} />
 
 	<Pagination currentPage={page} {totalPosts} path={paginationPath} />
 {:else}
