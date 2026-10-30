@@ -1,8 +1,8 @@
-const orgName = 'Bács-Kiskun Vármegyei Polgári Védelmi Szövetség';
-export const siteTitle = orgName;
-export const siteDescription = `${orgName} weboldala`;
+import { categories } from '#lib/utils/categories.js';
+
+export const siteName = 'Bács-Kiskun Vármegyei Polgári Védelmi Szövetség';
+export const siteDescription = `${siteName} weboldala`;
 export const siteLink = 'https://bkmpvsz.hu';
-export const siteAuthor = orgName;
 
 // Contact information for footer
 export const contactInfo = {
@@ -24,22 +24,10 @@ export const navItems = [
 		title: 'Magunkról',
 		route: '/magunkrol'
 	},
-	{
-		title: 'Hírek',
-		route: '/blog/category/hirek'
-	},
-	{
-		title: 'Ifjúsági események',
-		route: '/blog/category/ifjusag'
-	},
-	{
-		title: 'Felkészítések, képzések',
-		route: '/blog/category/kepzesek'
-	},
-	{
-		title: 'Drogprevenció',
-		route: '/blog/category/prevencio'
-	},
+	...Object.entries(categories).map(([slug, title]) => ({
+		title,
+		route: `/blog/category/${slug}`
+	})),
 	{
 		title: 'Támogatóink',
 		route: '/tamogatoink'

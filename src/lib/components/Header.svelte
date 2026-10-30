@@ -1,30 +1,16 @@
 <script>
 	import MainNav from './MainNav.svelte';
 	import HamburgerMenuButton from './HamburgerMenuButton.svelte';
-	import { siteTitle } from '#lib/config.js';
-
-	const focusMain = () => {
-		const main = document.querySelector('main');
-		main.focus();
-	};
+	import { siteName } from '#lib/config.js';
 </script>
 
 <header>
-	<a
-		onclick={(e) => {
-			e.preventDefault();
-			focusMain();
-		}}
-		class="skip-to-content-link"
-		href="#main"
-	>
-		Ugrás a tartalomra
-	</a>
+	<a class="skip-to-content-link" href="#main"> Ugrás a tartalomra </a>
 
 	<img src="/logo.png" alt="Katasztrófavédelem" class="logo" />
 
 	<a href="/" class="site-title">
-		{siteTitle}
+		{siteName}
 	</a>
 
 	<HamburgerMenuButton />
