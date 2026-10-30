@@ -1,5 +1,5 @@
 <script>
-	import { siteAuthor, contactInfo } from '$lib/config'
+	import { siteAuthor, contactInfo } from '#lib/config.js'
 	import Icon from '@iconify/svelte';
 </script>
 

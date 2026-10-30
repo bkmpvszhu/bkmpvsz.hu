@@ -1,8 +1,8 @@
 <!-- This file handles any /blog/page/x route for pagination -->
 
 <script>
-	import PaginatedPostsPage from '$lib/components/PaginatedPostsPage.svelte'
-	import { siteDescription } from '$lib/config'
+	import PaginatedPostsPage from '#lib/components/PaginatedPostsPage.svelte'
+	import { siteDescription } from '#lib/config.js'
 
 	let { data } = $props()
 	let page = $derived(data.page)

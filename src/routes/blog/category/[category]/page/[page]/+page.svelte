@@ -1,8 +1,8 @@
 <!-- Renders posts listed by category with pagination -->
 
 <script>
-	import PaginatedPostsPage from '$lib/components/PaginatedPostsPage.svelte'
-	import { getCategoryTitle } from '$lib/utils/categories'
+	import PaginatedPostsPage from '#lib/components/PaginatedPostsPage.svelte'
+	import { getCategoryTitle } from '#lib/utils/categories.js'
 
 	let { data } = $props()
 	let page = $derived(data.page)

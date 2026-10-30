@@ -1,10 +1,10 @@
 <!-- This page handles any error encountered by the site. -->
 
 <script>
-  import { page } from '$app/stores'
+  import { page } from '$app/state'
 
-  $: status = $page.status
-  $: message = $page.error?.message || 'Unknown error'
+  $: status = page.status
+  $: message = page.error?.message || 'Unknown error'
 </script>
 
 <h2>{status}</h2>

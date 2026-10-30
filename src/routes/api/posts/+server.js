@@ -1,6 +1,6 @@
 import { json } from '@sveltejs/kit'
-import { postsPerPage } from '$lib/config'
-import fetchPosts from '$lib/assets/js/fetchPosts'
+import { postsPerPage } from '#lib/config.js'
+import fetchPosts from '#lib/assets/js/fetchPosts.js'
 
 export const GET = async ({ url }) => {
 	try {
