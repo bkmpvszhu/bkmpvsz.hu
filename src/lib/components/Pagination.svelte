@@ -1,87 +1,108 @@
 <script>
+	import Icon from '@iconify/svelte';
 	import { postsPerPage } from '#lib/config.js';
 
 	let { currentPage, totalPosts, path } = $props();
 
 	let pagesAvailable = $derived(Math.ceil(totalPosts / postsPerPage));
 
-	const isCurrentPage = (page) => page === currentPage;
+	// First, last and the current page's neighbours, with null marking a gap
+	let pages = $derived.by(() => {
+		const shown = [
+			...new Set([1, currentPage - 1, currentPage, currentPage + 1, pagesAvailable])
+		].filter((page) => page >= 1 && page <= pagesAvailable);
+
+		return shown.flatMap((page, i) => (i && page - shown[i - 1] > 1 ? [null, page] : [page]));
+	});
+
+	const isNeighbour = (page) => Math.abs(page - currentPage) === 1;
 </script>
 
 {#if pagesAvailable > 1}
-	<nav aria-label="Pagination navigation" class="pagination">
+	<nav aria-label="Lapozás" class="pagination">
 		<ul>
-			{#each Array.from({ length: pagesAvailable }, (_, i) => i + 1) as page (page)}
+			{#if currentPage > 1}
 				<li>
-					<a href="{path}/{page}" aria-current={isCurrentPage(page)}>
-						<span class="sr-only">
-							{#if isCurrentPage(page)}
-								Jelenlegi oldal:
-							{:else}
-								Ugrás az oldalra
-							{/if}
-						</span>
-						{page}
+					<a href="{path}/{currentPage - 1}" aria-label="Előző oldal">
+						<Icon icon="lucide:chevron-left" />
 					</a>
 				</li>
+			{/if}
+			{#each pages as page, i (page ?? `gap-${i}`)}
+				{#if page === null}
+					<li class="gap" aria-hidden="true">…</li>
+				{:else}
+					<li class:neighbour={isNeighbour(page) && page !== 1 && page !== pagesAvailable}>
+						<a href="{path}/{page}" aria-current={page === currentPage ? 'page' : undefined}>
+							<span class="sr-only">
+								{page === currentPage ? 'Jelenlegi oldal:' : 'Ugrás az oldalra'}
+							</span>
+							{page}
+						</a>
+					</li>
+				{/if}
 			{/each}
+			{#if currentPage < pagesAvailable}
+				<li>
+					<a href="{path}/{currentPage + 1}" aria-label="Következő oldal">
+						<Icon icon="lucide:chevron-right" />
+					</a>
+				</li>
+			{/if}
 		</ul>
 	</nav>
 {/if}
 
 <style>
 	.pagination {
-		display: flex;
-		justify-content: center;
-		margin: 3rem 0;
+		margin-top: 3rem;
+		font-family: var(--headingFont);
+		font-weight: 700;
+		font-size: 1.15rem;
 	}
 
-	.pagination ul {
+	ul {
 		display: flex;
-		flex-wrap: wrap;
-		justify-content: start;
-		gap: 0.5rem;
+		align-items: center;
+		gap: 0.25rem;
 		list-style: none;
+		max-width: none;
 		margin: 0;
 		padding: 0;
 	}
 
-	.pagination li {
+	li {
 		margin: 0;
 	}
 
-	.pagination a {
+	/* Keeps the row on one line on phones */
+	@media (max-width: 479px) {
+		.neighbour {
+			display: none;
+		}
+	}
+
+	.gap {
+		padding-inline: 0.25rem;
+		color: var(--muted);
+	}
+
+	a {
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		width: 2em;
-		min-width: 2.5rem;
-		height: 2.5rem;
-		padding: 0.5rem;
-		background: white;
-		border: 1px solid rgba(66, 110, 76, 0.3);
-		border-radius: var(--radius-sm);
-		box-shadow: var(--shadow-sm);
-		transition: all var(--transition-base);
+		min-width: var(--touch-target-min);
+		height: var(--touch-target-min);
+		color: var(--ink);
 		text-decoration: none;
-		color: var(--dark-text);
-		font-family: var(--primaryFont);
-		font-weight: 500;
-		line-height: 1;
+
+		&:hover {
+			color: var(--red);
+		}
 	}
 
-	.pagination a:hover {
-		background: var(--accent);
+	a[aria-current='page'] {
+		background: var(--green);
 		color: var(--white);
-		border-color: var(--accent);
-		box-shadow: var(--shadow-base);
-		transform: translateY(-1px);
-	}
-
-	.pagination a[aria-current='true'] {
-		background: var(--primary-green);
-		color: white;
-		border-color: var(--accent);
-		box-shadow: var(--shadow-base);
 	}
 </style>

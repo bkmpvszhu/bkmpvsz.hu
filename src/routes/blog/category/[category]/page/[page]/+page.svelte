@@ -10,7 +10,7 @@
 </script>
 
 <svelte:head>
-	<title>Blog - {categories[category]} - page {page}</title>
+	<title>BKMPVSZ: {categories[category]}, {page}. oldal</title>
 </svelte:head>
 
 <PaginatedPostsPage
