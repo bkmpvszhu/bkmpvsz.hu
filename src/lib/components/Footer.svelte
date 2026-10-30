@@ -24,7 +24,7 @@
 			</li>
 			<li>
 				<Icon icon="lucide:user" />
-				<span>{contactInfo.president} elnök</span>
+				<a href="/admin/" rel="external">{contactInfo.president} elnök</a>
 			</li>
 		</ul>
 	</nav>
