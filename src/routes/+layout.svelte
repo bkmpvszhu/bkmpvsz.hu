@@ -7,6 +7,7 @@
 	import Footer from '#lib/components/Footer.svelte';
 	import { createAppState } from '#lib/state.svelte.js';
 	import { setContext } from 'svelte';
+	import { prefersReducedMotion } from 'svelte/motion';
 	import { fade } from 'svelte/transition';
 
 	const transitionIn = { delay: 150, duration: 150 };
@@ -26,7 +27,12 @@
 <div class="layout" class:open={appState.isMenuOpen}>
 	<Header />
 	{#key page.url.pathname}
-		<main id="main" tabindex="-1" in:fade={transitionIn} out:fade={transitionOut}>
+		<main
+			id="main"
+			tabindex="-1"
+			in:fade={prefersReducedMotion.current ? { duration: 0 } : transitionIn}
+			out:fade={prefersReducedMotion.current ? { duration: 0 } : transitionOut}
+		>
 			{@render children()}
 		</main>
 	{/key}

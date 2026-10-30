@@ -25,9 +25,3 @@
 		{@render children()}
 	</a>
 </li>
-
-<style>
-	a {
-		color: white;
-	}
-</style>

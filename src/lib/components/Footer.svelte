@@ -4,52 +4,79 @@
 </script>
 
 <footer>
-	<nav>
-		<span> Elérhetőségeink:</span>
-
-		<ul>
-			<li>
-				<Icon icon="lucide:map-pin" />
-				<span> {contactInfo.address} </span>
-			</li>
-			{#each contactInfo.phones as phone (phone)}
+	<div class="columns">
+		<section>
+			<h2>Elérhetőségeink</h2>
+			<ul>
 				<li>
-					<Icon icon="lucide:phone" />
-					<span>{phone}</span>
+					<Icon icon="lucide:map-pin" />
+					<span>{contactInfo.address}</span>
 				</li>
-			{/each}
-			<li>
-				<Icon icon="lucide:mail" />
-				<span>{contactInfo.email}</span>
-			</li>
-			<li>
-				<Icon icon="lucide:user" />
-				<a href="/admin/" rel="external">{contactInfo.president} elnök</a>
-			</li>
-		</ul>
-	</nav>
+				{#each contactInfo.phones as phone (phone)}
+					<li>
+						<Icon icon="lucide:phone" />
+						<a href="tel:{phone.replace(/[^+\d]/g, '')}">{phone}</a>
+					</li>
+				{/each}
+				<li>
+					<Icon icon="lucide:mail" />
+					<a href="mailto:{contactInfo.email}">{contactInfo.email}</a>
+				</li>
+				<li>
+					<Icon icon="lucide:user" />
+					<a href="/admin/" rel="external">{contactInfo.president} elnök</a>
+				</li>
+			</ul>
+		</section>
 
-	<ul>
-		<li>Bankszámlaszám: {contactInfo.bankAccount}</li>
-		<li>Adószám: {contactInfo.taxNumber}</li>
-		<li>Cégkapu: {contactInfo.companyGate}</li>
-		<li>&copy;{new Date().getFullYear()} {siteName}</li>
-		<li>
-			<a href="/pdfs/alapszabaly.pdf" rel="external">
-				<Icon icon="lucide:file-text" />
-				<span>Alapszabály</span>
-			</a>
-		</li>
-		<li>
-			<a href="/szamviteli-beszamolok">
-				<Icon icon="lucide:folder-open" />
-				<span>Számviteli beszámolók</span>
-			</a>
-		</li>
-	</ul>
+		<section>
+			<h2>Adataink</h2>
+			<ul>
+				<li>Bankszámlaszám: {contactInfo.bankAccount}</li>
+				<li>Adószám: {contactInfo.taxNumber}</li>
+				<li>Cégkapu: {contactInfo.companyGate}</li>
+			</ul>
+		</section>
+
+		<section>
+			<h2>Dokumentumok</h2>
+			<ul>
+				<li>
+					<Icon icon="lucide:file-text" />
+					<a href="/pdfs/alapszabaly.pdf" rel="external">Alapszabály</a>
+				</li>
+				<li>
+					<Icon icon="lucide:folder-open" />
+					<a href="/szamviteli-beszamolok">Számviteli beszámolók</a>
+				</li>
+			</ul>
+		</section>
+	</div>
+
+	<p class="copyright">&copy;{new Date().getFullYear()} {siteName}</p>
 </footer>
 
 <style>
+	.columns,
+	.copyright {
+		max-width: calc(var(--page) + 2 * var(--gutter));
+		margin-inline: auto;
+		padding-inline: var(--gutter);
+	}
+
+	.columns {
+		display: grid;
+		gap: 2rem;
+		padding-block: 2.5rem 2rem;
+		grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+	}
+
+	h2 {
+		margin: 0 0 0.75rem;
+		font-size: 1.3rem;
+		color: inherit;
+	}
+
 	ul {
 		list-style-type: none;
 		padding: 0;
@@ -59,25 +86,14 @@
 	li {
 		display: flex;
 		align-items: center;
-		padding: 0;
-		margin-bottom: 0.5rem;
-		gap: 6px;
+		gap: 0.5rem;
+		min-height: 1.75rem;
+		margin-bottom: 0.25rem;
 	}
 
-	li > span {
-		margin-left: 0;
-	}
-
-	a {
-		display: inline-flex;
-		align-items: center;
-		gap: 6px;
-		color: inherit;
-
-		&:hover {
-			text-decoration: underline;
-			color: inherit;
-			text-decoration-color: currentColor;
-		}
+	.copyright {
+		margin-block: 0;
+		padding-bottom: 1.5rem;
+		font-size: 0.95rem;
 	}
 </style>
