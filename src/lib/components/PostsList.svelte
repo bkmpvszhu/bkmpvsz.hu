@@ -6,7 +6,7 @@
 
 <div class="posts-list-container">
 	<ul class="posts-list">
-		{#each posts as post}
+		{#each posts as post (post.slug)}
 			<!-- TODO This could be a component-->
 			<li class="card">
 				<article>

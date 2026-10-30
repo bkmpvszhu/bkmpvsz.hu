@@ -5,7 +5,7 @@ export const load = async () => {
 
 	// Count all posts
 	const allPosts = await Promise.all(
-		Object.entries(import.meta.glob('/src/lib/posts/*.md')).map(async ([path, resolver]) => {
+		Object.values(import.meta.glob('/src/lib/posts/*.md')).map(async (resolver) => {
 			const { metadata } = await resolver()
 			return metadata
 		})

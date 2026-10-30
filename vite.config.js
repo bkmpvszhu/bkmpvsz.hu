@@ -38,7 +38,7 @@ export default defineConfig({
 			}),
 
 			prerender: {
-				handleHttpError: ({ path, referrer, message }) => {
+				handleHttpError: ({ path, message }) => {
 					// Ignore 404s for missing logos and images
 					if (path.startsWith('/logos/') || path.startsWith('/images/')) {
 						return;
@@ -51,7 +51,7 @@ export default defineConfig({
 			},
 			onwarn: (warning, handler) => {
 				// Suppress a11y warnings for missing alt attributes
-				if (warning.code === 'a11y-missing-attribute') return;
+				if (warning.code === 'a11y_missing_attribute') return;
 				handler(warning);
 			}
 		})

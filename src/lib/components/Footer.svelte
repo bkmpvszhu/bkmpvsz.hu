@@ -13,7 +13,7 @@
 				<Icon icon="lucide:map-pin"/>
 				<span> {contactInfo.address} </span>
 			</li>
-			{#each contactInfo.phones as phone}
+			{#each contactInfo.phones as phone (phone)}
 				<li>
 					<Icon icon="lucide:phone" />
 					<span>{phone}</span>
