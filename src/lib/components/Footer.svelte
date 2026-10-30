@@ -1,5 +1,5 @@
 <script>
-	import { siteName, contactInfo } from '#lib/config.js';
+	import { siteName, contactInfo, footerNav } from '#lib/config.js';
 	import Icon from '@iconify/svelte';
 </script>
 
@@ -24,7 +24,7 @@
 				</li>
 				<li>
 					<Icon icon="lucide:user" />
-					<a href="/admin/" rel="external">{contactInfo.president} elnök</a>
+					<a href="/admin/index.html" rel="external" class="quiet">{contactInfo.president} elnök</a>
 				</li>
 			</ul>
 		</section>
@@ -49,6 +49,12 @@
 					<Icon icon="lucide:folder-open" />
 					<a href="/szamviteli-beszamolok">Számviteli beszámolók</a>
 				</li>
+				{#each footerNav as page (page.route)}
+					<li>
+						<Icon icon={page.icon} />
+						<a href={page.route}>{page.title}</a>
+					</li>
+				{/each}
 			</ul>
 		</section>
 	</div>
@@ -89,6 +95,12 @@
 		gap: 0.5rem;
 		min-height: 1.75rem;
 		margin-bottom: 0.25rem;
+	}
+
+	/* The CMS entrance: reads as plain text */
+	.quiet,
+	.quiet:hover {
+		text-decoration: none;
 	}
 
 	.copyright {

@@ -1,7 +1,7 @@
 <script>
 	import PostsList from '#lib/components/PostsList.svelte';
 	import { siteName, siteDescription } from '#lib/config.js';
-	import { categories } from '#lib/utils/categories.js';
+	import SponsorCarousel from '#lib/components/SponsorCarousel.svelte';
 
 	let { data } = $props();
 </script>
@@ -13,90 +13,84 @@
 
 <h1 class="sr-only">{siteName}</h1>
 
-<section class="hero full-bleed">
+<section class="hero">
+	<div>
+		<p class="quote">
+			„Az emberi élet és a környezetünk védelme mindannyiunk közös ügye, és ezért tenni is muszáj!”
+		</p>
+		<p>
+			A Szövetség tevékenységével aktívan közreműködik a megye polgárainak polgári védelmi és
+			katasztrófavédelmi felkészítésében, védelmük szervezésében. Szervezetünk elhatárolódik minden
+			politikai tevékenységtől.
+		</p>
+		<p><a href="/magunkrol">Bemutatkozásunk</a></p>
+	</div>
 	<img
-		src="/images/2026-10-11-1.jpg"
-		alt="A Petőfi Mentőcsoport tagjai a Tisza partján, a 2026. októberi gyakorlaton"
+		src="/images/2026-10-11-5.jpg"
+		alt="A Petőfi Mentőcsoport tagjai homokzsákokkal dolgoznak a Tisza partján, a 2026. októberi gyakorlaton"
 		fetchpriority="high"
 	/>
-	<p class="quote">
-		„Az emberi élet és a környezetünk védelme mindannyiunk közös ügye, és ezért tenni is muszáj!”
-	</p>
 </section>
 
 <section class="news">
-	<div class="news-heading">
+	<div class="section-heading">
 		<h2>Legfrissebb hírek</h2>
 		<a href="/blog/category/hirek">Összes hír</a>
 	</div>
-	<PostsList posts={data.posts} lead heading="h3" />
+	<PostsList posts={data.posts} heading="h3" />
 </section>
 
-<section class="about full-bleed">
-	<div class="about-inner">
-		<div>
-			<h2>Magunkról</h2>
-			<p>
-				A Szövetség tevékenységével aktívan közreműködik a megye polgárainak polgári védelmi és
-				katasztrófavédelmi felkészítésében, védelmük szervezésében. Szervezetünk elhatárolódik
-				minden politikai tevékenységtől.
-			</p>
-			<p><a href="/magunkrol">Bemutatkozásunk</a></p>
+<section class="support full-bleed">
+	<div class="support-inner">
+		<div class="section-heading">
+			<h2>Támogatóink</h2>
+			<a href="/tamogatoink">Támogatóink listája</a>
 		</div>
-		<div>
-			<h2>Tevékenységeink</h2>
-			<ul class="link-list">
-				{#each Object.entries(categories) as [slug, title] (slug)}
-					<li><a href="/blog/category/{slug}">{title}</a></li>
-				{/each}
-			</ul>
-		</div>
+		<p>
+			Munkánk nem öncélú. Számos támogatónk (magánemberek, önkormányzatok, gazdálkodó szervezetek)
+			van, akik azonosulnak céljainkkal, és hozzásegítenek eredményes működésünkhöz.
+		</p>
 	</div>
-</section>
-
-<section class="support">
-	<h2>Támogatóink</h2>
-	<p>
-		Munkánk nem öncélú. Számos támogatónk (magánemberek, önkormányzatok, gazdálkodó szervezetek)
-		van, akik azonosulnak céljainkkal, és hozzásegítenek eredményes működésünkhöz.
-	</p>
-	<p><a href="/tamogatoink">Támogatóink listája</a></p>
+	<SponsorCarousel />
 </section>
 
 <style>
 	.hero {
-		margin-top: calc(var(--main-space) * -1);
+		display: grid;
+		gap: 2rem 3.5rem;
+		align-items: center;
+
+		@media (min-width: 900px) {
+			grid-template-columns: 1fr 1fr;
+		}
 
 		img {
-			height: clamp(14rem, min(48vh, 66vw), 36rem);
+			aspect-ratio: 3 / 2;
 			object-fit: cover;
-			object-position: center 62%;
 		}
 	}
 
 	.quote {
-		max-width: calc(var(--page) + 2 * var(--gutter));
-		margin: 1.5rem auto 0;
-		padding-inline: var(--gutter);
+		margin: 0 0 1.25rem;
 		font-family: var(--headingFont);
 		font-weight: 800;
-		font-size: clamp(2rem, 5vw, 4rem);
-		line-height: 1;
+		font-size: clamp(2rem, 3.6vw, 3rem);
+		line-height: 1.02;
 		letter-spacing: -0.01em;
 		text-wrap: balance;
 	}
 
 	.news {
-		margin-top: 4rem;
+		margin-top: 3.5rem;
 	}
 
-	.news-heading {
+	.section-heading {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-between;
 		align-items: baseline;
 		gap: 0 1rem;
-		margin-bottom: 1.5rem;
+		margin-bottom: 1rem;
 
 		h2 {
 			margin: 0;
@@ -109,32 +103,20 @@
 		}
 	}
 
-	.about {
-		margin-top: 4rem;
+	.support {
+		margin-top: 3.5rem;
+		margin-bottom: calc(-1 * var(--main-space));
+		padding-block: 2.5rem 3rem;
 		background: var(--stone);
 	}
 
-	.about-inner {
-		display: grid;
-		gap: 2.5rem 4rem;
+	.support-inner {
 		max-width: calc(var(--page) + 2 * var(--gutter));
 		margin-inline: auto;
-		padding: 3.5rem var(--gutter);
+		padding-inline: var(--gutter);
 
-		@media (min-width: 768px) {
-			grid-template-columns: 1fr 1fr;
-		}
-
-		h2 {
-			margin-top: 0;
-		}
-	}
-
-	.support {
-		margin-top: 4rem;
-
-		h2 {
-			margin-top: 0;
+		p {
+			margin-block: 0 2rem;
 		}
 	}
 </style>

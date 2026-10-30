@@ -18,26 +18,36 @@ export const contactInfo = {
 // Controls how many posts are shown per page on the main blog index pages
 export const postsPerPage = 6;
 
-// Edit this to alter the main nav menu. (Also used by the footer and mobile nav.)
-export const navItems = [
+const categoryNavItem = (slug) => ({
+	title: categories[slug],
+	route: `/blog/category/${slug}`
+});
+
+// Edit these to alter the navigation. Primary and secondary are in the header and mobile menu.
+export const primaryNav = ['hirek', 'ifjusag', 'kepzesek'].map(categoryNavItem);
+
+export const secondaryNav = [
+	categoryNavItem('prevencio'),
 	{
 		title: 'Magunkról',
 		route: '/magunkrol'
 	},
-	...Object.entries(categories).map(([slug, title]) => ({
-		title,
-		route: `/blog/category/${slug}`
-	})),
 	{
 		title: 'Támogatóink',
 		route: '/tamogatoink'
-	},
+	}
+];
+
+// Shown in the footer only
+export const footerNav = [
 	{
 		title: 'Benke László Emlékplakett',
-		route: '/emlekplakett'
+		route: '/emlekplakett',
+		icon: 'lucide:award'
 	},
 	{
 		title: 'Társoldalak',
-		route: '/tarsoldalak'
+		route: '/tarsoldalak',
+		icon: 'lucide:link'
 	}
 ];

@@ -33,7 +33,7 @@
 <p>
 	Az ifjúságra, mint kiemelt célcsoportra tekintünk. Szintén a katasztrófavédelmi igazgatósággal
 	közösen felkészítéseket és versenyeket rendezünk. Az eredmények önmagukért beszélnek (lásd az
-	Ifjúsági versenyek lapfület).
+	Események lapfület).
 </p>
 <p>
 	Az ifjúság felkészítését nyári táboroztatás keretében is végezzük. Széles körű nemzetközi
