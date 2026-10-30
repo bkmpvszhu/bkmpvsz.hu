@@ -31,8 +31,7 @@ export default defineConfig({
 				})
 			],
 
-			// src/routes/admin only exists on the dev server; static/admin serves the CMS in production
-			adapter: adapter({ strict: false })
+			adapter: adapter()
 		})
 	]
 });

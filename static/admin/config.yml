@@ -1,5 +1,3 @@
-# localhost:3000/admin/index.html
-
 backend:
   name: github
   repo: bkmpvszhu/bkmpvsz.hu
@@ -11,7 +9,8 @@ public_folder: /images
 locale: 'hu'
 
 collections:
-  - name: hirek
+  - &collection
+    name: hirek
     label: "Hírek"
     folder: "src/lib/posts"
     create: true
@@ -19,78 +18,58 @@ collections:
     filter: { field: "categories", value: "hirek" }
     sortable_fields: [ 'date', 'title' ]
     fields:
-      - { label: "Cím", name: "title", widget: "string" }
-      - { label: "Megjelent", name: "date", widget: "datetime" }
-      - { label: "Borító", name: "coverImage", widget: "image" }
-      - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
-      - label: "Kategóriák"
+      - &title { label: "Cím", name: "title", widget: "string" }
+      - &date { label: "Megjelent", name: "date", widget: "datetime" }
+      - &coverImage { label: "Borító", name: "coverImage", widget: "image" }
+      - &scaleDown { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
+      - &categories
+        label: "Kategóriák"
         name: "categories"
         widget: "select"
         multiple: true
         options: [ "hirek", "kepzesek", "prevencio", "ifjusag" ]
         default: [ "hirek" ]
-      - { label: "Összefoglaló", name: "excerpt", widget: "string" }
-      - { label: "Cikk", name: "body", widget: "markdown" }
+      - &excerpt { label: "Összefoglaló", name: "excerpt", widget: "string" }
+      - &body { label: "Cikk", name: "body", widget: "markdown" }
 
-  - name: kepzesek
+  - <<: *collection
+    name: kepzesek
     label: "Képzések"
-    folder: "src/lib/posts"
-    create: true
-    slug: "{{slug}}"
     filter: { field: "categories", value: "kepzesek" }
     sortable_fields: [ 'date' ]
     fields:
-      - { label: "Cím", name: "title", widget: "string" }
-      - { label: "Megjelent", name: "date", widget: "datetime" }
-      - { label: "Borító", name: "coverImage", widget: "image" }
-      - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
-      - label: "Kategóriák"
-        name: "categories"
-        widget: "select"
-        multiple: true
-        options: [ "hirek", "kepzesek", "prevencio", "ifjusag" ]
-        default: [ "kepzesek" ]
-      - { label: "Összefoglaló", name: "excerpt", widget: "string" }
-      - { label: "Cikk", name: "body", widget: "markdown" }
+      - *title
+      - *date
+      - *coverImage
+      - *scaleDown
+      - { <<: *categories, default: [ "kepzesek" ] }
+      - *excerpt
+      - *body
 
-  - name: prevencio
+  - <<: *collection
+    name: prevencio
     label: "Prevenció"
-    folder: "src/lib/posts"
-    create: true
-    slug: "{{slug}}"
     filter: { field: "categories", value: "prevencio" }
     sortable_fields: [ 'date' ]
     fields:
-      - { label: "Cím", name: "title", widget: "string" }
-      - { label: "Megjelent", name: "date", widget: "datetime" }
-      - { label: "Borító", name: "coverImage", widget: "image" }
-      - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
-      - label: "Kategóriák"
-        name: "categories"
-        widget: "select"
-        multiple: true
-        options: [ "hirek", "kepzesek", "prevencio", "ifjusag" ]
-        default: [ "prevencio" ]
-      - { label: "Összefoglaló", name: "excerpt", widget: "string" }
-      - { label: "Cikk", name: "body", widget: "markdown" }
+      - *title
+      - *date
+      - *coverImage
+      - *scaleDown
+      - { <<: *categories, default: [ "prevencio" ] }
+      - *excerpt
+      - *body
 
-  - name: ifjusag
+  - <<: *collection
+    name: ifjusag
     label: "Ifjúság"
-    folder: "src/lib/posts"
-    create: true
-    slug: "{{slug}}"
     filter: { field: "categories", value: "ifjusag" }
     sortable_fields: [ 'date' ]
     fields:
-      - { label: "Cím", name: "title", widget: "string" }
-      - { label: "Megjelent", name: "date", widget: "datetime" }
-      - { label: "Borító", name: "coverImage", widget: "image" }
-      - { label: "Álló kép?", name: "scaleDown", widget: "boolean", default: false }
-      - label: "Kategóriák"
-        name: "categories"
-        widget: "select"
-        multiple: true
-        options: [ "hirek", "kepzesek", "prevencio", "ifjusag" ]
-        default: [ "ifjusag" ]
-      - { label: "Összefoglaló", name: "excerpt", widget: "string" }
-      - { label: "Cikk", name: "body", widget: "markdown" }
+      - *title
+      - *date
+      - *coverImage
+      - *scaleDown
+      - { <<: *categories, default: [ "ifjusag" ] }
+      - *excerpt
+      - *body
