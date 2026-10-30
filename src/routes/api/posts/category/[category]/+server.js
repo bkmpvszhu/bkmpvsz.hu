@@ -1,4 +1,3 @@
-import { json } from '@sveltejs/kit'
 import fetchPosts from '#lib/assets/js/fetchPosts.js'
 
 export const GET = async ({ params }) => {
@@ -7,11 +6,11 @@ export const GET = async ({ params }) => {
 	try {
 		const { posts } = await fetchPosts({ category })
 
-		return json({ posts })
+		return Response.json({ posts })
 	}
 
 	catch {
-		return json(
+		return Response.json(
 			{ error: `Could not retrieve ${category} posts.` },
 			{ status: 500 }
 		)

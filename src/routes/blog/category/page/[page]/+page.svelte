@@ -8,8 +8,8 @@
   export let data
   const { page, totalPosts, posts = [] } = data
 
-  $: lowerBound = (page * postsPerPage) - (postsPerPage - 1) || 1
-  $: upperBound = Math.min(page * postsPerPage, totalPosts)
+  const lowerBound = (page * postsPerPage) - (postsPerPage - 1) || 1
+  const upperBound = Math.min(page * postsPerPage, totalPosts)
 </script>
 
 

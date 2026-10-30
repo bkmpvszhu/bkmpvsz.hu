@@ -1,4 +1,3 @@
-import { json } from '@sveltejs/kit'
 import { postsPerPage } from '#lib/config.js'
 import fetchPosts from '#lib/assets/js/fetchPosts.js'
 
@@ -22,11 +21,11 @@ export const GET = async ({ url }) => {
 		 */
 		const { posts } = await fetchPosts(options)
 
-		return json({ posts })
+		return Response.json({ posts })
 	}
 
 	catch(error) {
-		return json(
+		return Response.json(
 			{ error: 'Could not fetch posts. ' + error },
 			{ status: 500 }
 		)

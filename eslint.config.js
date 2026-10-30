@@ -11,6 +11,10 @@ export default [
 	{
 		languageOptions: {
 			globals: { ...globals.browser, ...globals.node }
+		},
+		rules: {
+			// The site has no base path, so resolve() would add nothing
+			'svelte/no-navigation-without-resolve': 'off'
 		}
 	},
 	{

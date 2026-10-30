@@ -40,8 +40,6 @@ Dr. Muhoray Árpád
 
 ![](/images/2026-10-11-9.jpg)
 
-![](/images/2026-10-11-10.jpg)
-
 ![](/images/2026-10-11-11.jpg)
 
 ![](/images/2026-10-11-12.jpg)

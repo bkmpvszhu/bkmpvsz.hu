@@ -49,7 +49,7 @@
 <h1> Támogatóink </h1>
 
 <div class="container">
-	{#each sponsors as sponsor}
+	{#each sponsors as sponsor (sponsor.name)}
 		<a class="card" href={sponsor.link} target="_blank">
 			{#if sponsor.imageSrc}
 				<img src={sponsor.imageSrc} alt="logo">

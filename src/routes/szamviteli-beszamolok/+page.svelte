@@ -9,7 +9,7 @@
 
 <h1>Számviteli beszámolók és közhasznúsági mellékletek</h1>
 
-{#each reports as report}
+{#each reports as report (report.year)}
 	<p><a href={report.url} rel="external">
 		<Icon icon="lucide:file-text" />
 		<span>{report.year}. évi számviteli beszámoló és közhasznúsági mellékletei</span>
