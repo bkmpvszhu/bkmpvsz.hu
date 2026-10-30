@@ -1,9 +1,9 @@
 <!-- Renders posts listed by category -->
 
 <script>
-  import PostsList from '$lib/components/PostsList.svelte'
-  import Pagination from '$lib/components/Pagination.svelte'
-  import { postsPerPage, siteDescription } from '$lib/config'
+  import PostsList from '#lib/components/PostsList.svelte'
+  import Pagination from '#lib/components/Pagination.svelte'
+  import { postsPerPage, siteDescription } from '#lib/config.js'
 
   export let data
   const { page, totalPosts, posts = [] } = data

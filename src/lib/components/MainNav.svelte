@@ -1,5 +1,5 @@
 <script>
-  import { navItems } from '$lib/config'
+  import { navItems } from '#lib/config.js'
   import { getContext } from 'svelte'
   import NavItem from './NavItem.svelte'
   import HamburgerMenuButton from './HamburgerMenuButton.svelte'

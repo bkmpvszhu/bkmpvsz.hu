@@ -2,7 +2,7 @@ import { json } from '@sveltejs/kit'
 
 export const GET = async () => {
 	try {
-		const posts = import.meta.glob(`$lib/posts/*.md`)
+		const posts = import.meta.glob(`/src/lib/posts/*.md`)
 
 		return json({
 			total: Object.keys(posts).length

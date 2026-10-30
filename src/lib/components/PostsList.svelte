@@ -1,5 +1,5 @@
 <script>
-	import { formatDate } from '$lib/utils/date'
+	import { formatDate } from '#lib/utils/date.js'
 
 	let { posts = [] } = $props()
 </script>

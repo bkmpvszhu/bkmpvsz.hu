@@ -1,8 +1,8 @@
 <!-- This dynamic page renders any page at /blog/category/* -->
 <script>
-	import PostsList from '$lib/components/PostsList.svelte'
-	import Pagination from '$lib/components/Pagination.svelte'
-	import { getCategoryTitle } from '$lib/utils/categories'
+	import PostsList from '#lib/components/PostsList.svelte'
+	import Pagination from '#lib/components/Pagination.svelte'
+	import { getCategoryTitle } from '#lib/utils/categories.js'
 
 	let { data } = $props()
 	let posts = $derived(data.posts)

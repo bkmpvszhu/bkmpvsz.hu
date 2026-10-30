@@ -1,5 +1,5 @@
 import { json } from '@sveltejs/kit'
-import fetchPosts from '$lib/assets/js/fetchPosts'
+import fetchPosts from '#lib/assets/js/fetchPosts.js'
 
 export const GET = async ({ params }) => {
 	const { category } = params
