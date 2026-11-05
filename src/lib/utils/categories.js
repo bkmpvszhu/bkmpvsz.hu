@@ -1,7 +1,7 @@
 // Category slug → display name mapping
 export const categories = {
 	hirek: 'Hírek',
-	ifjusag: 'Események',
+	ifjusag: 'Ifjúsági események',
 	kepzesek: 'Képzések',
 	prevencio: 'Drogprevenció'
 };
