@@ -10,8 +10,8 @@
 		<a href="/" class="site-title">
 			<div class="ribbon"></div>
 			<img src="/logo.webp" alt="" class="badge" />
-			<span>Bács-Kiskun Megyei</span>
-			<span>Polgári Védelmi Szövetség</span>
+			<span>Bács-Kiskun</span>
+			<span>Vármegyei Szövetség</span>
 		</a>
 
 		<HamburgerMenuButton />
