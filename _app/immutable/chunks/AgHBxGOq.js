@@ -1,0 +1,1 @@
+import{F as e,a as t,w as n,x as r,z as i}from"./Dz07wyY1.js";var a=n(`<svg width="1em" height="1em" aria-hidden="true"><use></use></svg>`);function o(n,o){var s=a(),c=i(s);e(()=>t(c,`href`,`/icons.svg#${o.name??``}`)),r(n,s)}export{o as t};

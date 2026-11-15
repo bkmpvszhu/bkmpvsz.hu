@@ -1,0 +1,1 @@
+function e(e){return new Date(e).toLocaleDateString(`hu`)}export{e as t};
