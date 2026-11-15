@@ -24,17 +24,16 @@ const categoryNavItem = (slug) => ({
 });
 
 // Edit these to alter the navigation. Primary and secondary are in the header and mobile menu.
-export const primaryNav = ['hirek', 'ifjusag', 'kepzesek'].map(categoryNavItem);
+export const primaryNav = [
+	{ title: 'Magunkról', route: '/magunkrol' },
+	...['hirek', 'ifjusag', 'kepzesek'].map(categoryNavItem)
+];
 
 export const secondaryNav = [
 	categoryNavItem('prevencio'),
 	{
 		title: 'Benke László Emlékplakett',
 		route: '/benke-laszlo-emlekplakett'
-	},
-	{
-		title: 'Magunkról',
-		route: '/magunkrol'
 	},
 	{
 		title: 'Támogatóink',
